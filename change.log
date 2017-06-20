@@ -95,7 +95,7 @@ U+22334		𢌴		(新增)		rvt		另有𢌴:rut [撤銷#34]
 3CFE		㳾		(新增)		etqu		另有㳾：etgu
 9313		錓		(新增)		ctqu		另有錓：ctgu
 2180E		𡠎		vtgi		vtui		羗：tui（分體字）
-2180E		𡠎		vtqi		(刪除)		𡠎：tui
+2180E		𡠎		vtqi		(刪除)		𡠎：vtui
 2360E		𣘎		dtgi		dtui		羗：tui（分體字）
 25536		𥔶		mrtgi		mrtui		-
 25C51		𥱑		htgi		htui		-
@@ -112,3 +112,152 @@ U+22334		𢌴		(新增)		rvt		另有𢌴:rut [撤銷#34]
 9C43		鱃		(新增)		nfthg		另有鱃：nftqg
 267E4		𦟤		btgg		btqg		另有𦟤：bthg
 2B161		𫅡		tgtgr		tgttr		
+==2017.06.20==
+5DEE		差		(新增)		thm			另有差:tqm
+7740		着		(新增)		thbu		另有着:tqbu
+7F9E		羞		(新增)		thng		另有羞:tqng
+2FAAA		着		(新增)		thbu		另有着:tqbu
+2B8CC		𫣌		otgi		otui		
+2BE15		𫸕		(新增)		nqthm		另有𫸕:nqtqm
+2BE55		𫹕		(新增)		hotqu		另有𫹕:hotgu
+2BE5C		𫹜		hotgm		hothm		
+2BE5D		𫹝		hotgi		hotui		
+2BEB3		𫺳		ptgm		pthm		
+2C04D		𬁍		atgi		atui		
+2C07F		𬁿		(新增)		btqu		另有𬁿:btgu
+2C343		𬍃		(新增)		khthu		另有𬍃:khtqu
+2C5B1		𬖱		(新增)		fdthg		另有𬖱:fdtqg
+2C637		𬘷		(新增)		vmthm		另有𬘷:vmtqm
+2C67B		𬙻		tqcct		tqcmt		
+2C746		𬝆		(新增)		ttqu		另有𬝆:ttgu
+2C9F9		𬧹		(新增)		jjthm		另有𬧹:jjtqm
+2CDA3		𬶣		(新增)		nmthm		另有𬶣:nmtqm
+2CE4E		𬹎		qetgr		(刪除)		𬹎:qettr
+2CE8E		𬺎		tqmyu		tmymu		
+3A55		㩕		(新增)		qmbl		另有㩕：qmbi
+3B21		㬡		(新增)		ambl		另有㬡：ambi
+3BEA		㯪		(新增)		dmbl		另有㯪：dmbi
+4125		䄥		(新增)		mfmbo		另有䄥：ifmbo
+4322		䌢		(新增)		vfmbl		另有䌢：vfmbi
+4665		䙥		(新增)		lmbl		另有䙥：lmbi
+4A0F		䨏		(新增)		mbmmo		另有䨏：mbimo
+4A27		䨧		(新增)		mbytl		另有䨧：mbyti
+4A29		䨩		(新增)		mbmfl		另有䨩：mbifl
+4A2B		䨫		(新增)		mbdon		另有䨫：mbjon
+4A2E		䨮		(新增)		mbqjm		另有䨮：mbqjs
+4A3A		䨺		(新增)		mbmmi		另有䨺：mimii
+4A3A		䨺		mimii		mbmii		
+4A3B		䨻		(新增)		mbmbw		另有䨻：mwmww
+4D07		䴇		(新增)		mlhaf		另有䴇：mihaf
+4D2B		䴫		(新增)		ipmbl		另有䴫：ipmbi
+5C5A		屚		(新增)		smeb		另有屚：smlb
+6FAA		澪		(新增)		embl		另有澪：embi
+71EF		燯		(新增)		fmbl		另有燯：fmbi
+8576		蕶		(新增)		tmbl		另有蕶：tmbi
+96E8		雨		(新增)		meb		另有雨：mlby
+96F6		零		(新增)		mboml		另有零：mboii
+970C		霌		(新增)		mbbqr		另有霌：mbbgr
+9717		霗		(新增)		mbeol		另有霗：mbeoi
+9735		霵		(新增)		mbrij		另有霵：mbrji
+9750		靐		(新增)		mbwmw		另有靐：mwmww
+9CD5		鳕		(新增)		nmmbm		另有鳕：nmmbs
+9FC5		鿅		(新增)		ifmbi		鿅：ifmbi/ifmbl/mfmbi/mfmbl
+9FC5		鿅		(新增)		mfmbi		鿅：ifmbi/ifmbl/mfmbi/mfmbl
+9FC5		鿅		(新增)		mfmbl		鿅：ifmbi/ifmbl/mfmbi/mfmbl
+20274		𠉴		(新增)		omeb		另有𠉴：omlb
+203E1		𠏡		(新增)		ombl		另有𠏡：ombi
+207E8		𠟨		(新增)		mlln		另有𠟨：miln
+2117A		𡅺		rmbj		(刪除)		𡅺：rmbi
+21405		𡐅		(新增)		gmbm		另有𡐅：gmbm
+21E39		𡸹		(新增)		umeb		另有𡸹：umlb
+22240		𢉀		(新增)		imeb		另有𢉀：imlb
+22BB3		𢮳		(新增)		qmeb		另有𢮳：qmlb
+22CEC		𢳬		(新增)		qmbs		另有𢳬：qmbm
+232D4		𣋔		ambv		ambu		
+2337E		𣍾		(新增)		bmlb		另有𣍾：bmeb
+2352F		𣔯		(新增)		dmeb		另有𣔯：dmlb
+23DCC		𣷌		(新增)		emeb		另有𣷌：emlb
+23F1B		𣼛		(新增)		eteb		另有𣼛：etlb
+23F99		𣾙		(新增)		eemeb		另有𣾙：eemib
+23F99		𣾙		eemib		eemlb		
+23FA1		𣾡		(新增)		eisb		另有𣾡：ehsb/emsb
+23FA1		𣾡		(新增)		emsb		另有𣾡：eisb/ehsb
+2416B		𤅫		(新增)		embl		另有𤅫：embi
+24407		𤐇		fmbv		fmbu		
+244E8		𤓨		(新增)		tlps		另有𤓨：tlpm
+2459C		𤖜		(新增)		vmmbl		另有𤖜：bmmbi
+2459C		𤖜		bmmbi		vmmbi		
+245A5		𤖥		vmmbm		vmmbc		
+24A38		𤨸		(新增)		mgteb		另有𤨸：mgtlb
+24FA8		𤾨		(新增)		hambl		另有𤾨：hambi
+252DE		𥋞		(新增)		bumbl		另有𥋞：bumbi
+2559F		𥖟		(新增)		mrmbl		另有𥖟：mrmbi
+25717		𥜗		(新增)		mfmbb		另有𥜗：ifmbb
+258B4		𥢴		(新增)		hdmnl		另有𥢴：hdmbi
+2591C		𥤜		hdtbr		hdtmr		
+25F38		𥼸		(新增)		fdmbl		另有𥼸：fdmbi
+2684F		𦡏		bmbv		bmbu		
+26AA9		𦪩		(新增)		hymbl		另有𦪩：hymbi
+26AC4		𦫄		(新增)		hymbc		另有𦫄：hymbm
+26CB8		𦲸		(新增)		tmeb		另有𦲸：tmlb
+2808E		𨂎		(新增)		rmmlb		另有𨂎：rmmlb
+28196		𨆖		(新增)		rmmbl		另有𨆖：rmmbi
+281A2		𨆢		rvmbw		(刪除)		𨆢：rmmbw
+283E8		𨏨		(新增)		jjmbc		另有𨏨：jjmbm
+285D2		𨗒		(新增)		mbtmg		另有𨗒：mbyhg
+285FA		𨗺		(新增)		ymbl		另有𨗺：ymbi
+28796		𨞖		(新增)		mlnl		另有𨞖：minl
+287D8		𨟘		(新增)		mcnl		另有𨟘：mmnl
+287EF		𨟯		mmnl		monl		
+288D6		𨣖		(新增)		mwmbl		另有𨣖：mwmbi
+28B6D		𨭭		cmbi		cmbl		
+28BCE		𨯎		(新增)		combm		另有𨯎：combs
+28C50		𨱐		csmb		opsmb		
+2904E		𩁎		(新增)		mlog		另有𩁎：miog
+2907C		𩁼		(新增)		nimeb		另有𩁼：nimlb
+2908C		𩂌		(新增)		mblll		另有𩂌：mblln
+29090		𩂐		(新增)		mbmg		另有𩂐：mbhg
+29091		𩂑		mnhnq		mnhnv		
+290C4		𩃄		(新增)		mbikh		另有𩃄：mbiuh
+290C7		𩃇		(新增)		mbgpm		另有𩃇：mbgpm
+290C9		𩃉		(新增)		mbrmk		另有𩃉：mbrvk
+290D7		𩃗		mbklv		(刪除)		𩃗：mbklu
+290DE		𩃞		(新增)		mbmss		另有𩃞：mbhss/mbiss
+29105		𩄅		(新增)		mbwot		另有𩄅：mbabt
+29108		𩄈		(新增)		mboli		另有𩄈：mboii
+2911A		𩄚		(新增)		mbjbc		另有𩄚：mbpbc
+29138		𩄸		(新增)		mbome		另有𩄸：mboge
+29138		𩄸		mboge		mbohe		
+29145		𩅅		(新增)		mbett		另有𩅅：mbeyj
+29167		𩅧		(新增)		mbwlo		另有𩅧：mbhto
+29167		𩅧		mbhto		mbhwo		
+29175		𩅵		mbsmg		mbesg		
+29176		𩅶		(新增)		mbmss		另有𩅶：mbiss
+29196		𩆖		(新增)		mbrrl		另有𩆖：mbrri
+29199		𩆙		mbtkn		mbmkn		
+291A4		𩆤		(新增)		mbejb		另有𩆤：mbedb
+291B9		𩆹		(新增)		mbibl		另有𩆹：mbibl
+291BC		𩆼		(新增)		mbrrl		另有𩆼：mbrri
+291C2		𩇂		(新增)		mbrbl		另有𩇂：mbrbn
+291D2		𩇒		(新增)		mbkkf		另有𩇒：mbkff
+291D4		𩇔		(新增)		mbmmi		另有𩇔：mimii
+295FF		𩗿		(新增)		hnmeb		另有𩗿：hnmlb
+297C3		𩟃		(新增)		oimbl		另有𩟃：oimbi
+29AA5		𩪥		(新增)		bbmbl		另有𩪥：bbmbi
+2A7AE		𪞮		(新增)		immbl		另有𪞮：immbi
+2A7B5		𪞵		(新增)		hnmbs		另有𪞵：hnmbm
+2AD10		𪴐		(新增)		dmbm		另有𪴐：dymm
+2B4A7		𫒧		(新增)		cmeb		另有𫒧：cmlb
+2B55E		𫕞		mbeg		mbg		
+2B561		𫕡		mblp		mblmp		
+2B562		𫕢		mbwy		mbwyi		
+2B563		𫕣		(新增)		kimbs		另有𫕣：knmbm
+2B563		𫕣		knmbm		kimbm		
+2B572		𫕲		(新增)		mbyov		另有𫕲：mbyon
+2B577		𫕷		mbejg		mbetg		
+2B7C0		𫟀		(新增)		fdmbm		另有𫟀：fdmbm
+2BC3A		𫰺		(新增)		vmeb		另有𫰺：vmlb
+2BD24		𫴤		(新增)		jmbm		另有𫴤：jmbs
+2C385		𬎅		(新增)		mgmbm		另有𬎅：mgmbs
+2C779		𬝹		(新增)		tmbm		另有𬝹：tmbm
+2CD57		𬵗		(新增)		nfmeb		另有𬵗：nfmlb
