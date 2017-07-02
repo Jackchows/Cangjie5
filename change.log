@@ -1,3 +1,5 @@
+部份爭
+
 ==2016.2==
 Unicode		漢字		原編碼		新編碼		備註
 U+6A77		橷		dlmu		(刪除)		橷:dlpn	
@@ -261,3 +263,31 @@ U+22334		𢌴		(新增)		rvt		另有𢌴:rut [撤銷#34]
 2C385		𬎅		(新增)		mgmbm		另有𬎅：mgmbs
 2C779		𬝹		(新增)		tmbm		另有𬝹：tmbm
 2CD57		𬵗		(新增)		nfmeb		另有𬵗：nfmlb
+36F3		㛳		(新增)		ybv			另有㛳：ybv
+==2017.06.28==
+22743		𢝃		yblbp		(刪除)		𢝃：ybp
+2C0E8		𬃨		yblbd		ybd
+36F3		㛳		yblbv		(刪除)		㛳：ybv
+258A8		𥢨		hsnd		hdsnd
+==2017.07.02==
+205BC		𠖼		kby		lky		
+20C75		𠱵		wikb		wilbk		
+21626		𡘦		kbbt		lkbt		
+22632		𢘲		kbp		lkp		
+22C36		𢰶		qtkb		qtlk		
+22D5F		𢵟		qkbc		qlkc		
+23257		𣉗		akbt		alkt		
+242CD		𤋍		ffkb		fflbk		
+24920		𤤠		mgkb		mglbk		
+24BA1		𤮡		tnkb		tnlbk		
+24BA4		𤮤		pnlbk		lnlbk		
+2545E		𥑞		mrkb		mrlbk		
+26C08		𦰈		tkby		tlky		
+26D0A		𦴊		tmnb		tmnk		
+26F87		𦾇		tkbd		tlkd		
+26FF4		𦿴		tkcf		tlcf		
+28817		𨠗		mwkb		mwlbk		
+28AF0		𨫰		crrb		crrk		
+29FF6		𩿶		kbhaf		lkhaf		
+2A6BB		𪚻		lkhxu		(刪除)		𪚻：lknxu
+2B66C		𫙬		nflbt		nflkt
