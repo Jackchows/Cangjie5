@@ -59913,7 +59913,7 @@
 𫠅	qstlj
 𢺟	qstq
 𢴚	qstr
-𦟻	qstr
+𦟻	bstr
 摒	qstt
 摒	qstt
 𫖕	qsttb
@@ -87228,7 +87228,6 @@
 𢜉	xqsp
 𢲚	xqsrr
 𦕴	xqssj
-𦟻	xqstr
 𢩽	xqsu
 𫼿	xqsuk
 摒	xqsyj
