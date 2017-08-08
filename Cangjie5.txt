@@ -59913,7 +59913,7 @@
 𫠅	qstlj
 𢺟	qstq
 𢴚	qstr
-𦟻	qstr
+𦟻	bstr
 摒	qstt
 摒	qstt
 𫖕	qsttb
