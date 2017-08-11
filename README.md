@@ -13,8 +13,6 @@ Cangjie5 with ext-F (beta)另進行如下修改：
 - 添加 Unicode 10.0版本中，中日韓越統一表意文字區新增的字符（U+9FD6 - U+9FEA）
 
 進行中的工作：
-- 添加 Unicode中日韓越統一表意文字擴展F區字符（已完成初稿，校對中）
-- 添加 Unicode中日韓越統一表意文字擴展F區字符（已完成初稿，校對中）
 - 參考《第五代倉頡輸入法手冊》、「漢文庫典」及沈紅蓮女士的回信（[一](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=789)、[二](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=793)），校對碼表
 - 完善字形兼容編碼
 
