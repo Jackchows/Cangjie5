@@ -2622,6 +2622,7 @@
 賋	bcyck
 䞋	bcydu
 𣀕	bcye
+𧵾	bcye
 𫎢	bcyfu
 䝬	bcyg
 𧸜	bcyhc
@@ -4422,6 +4423,7 @@
 凸	bss
 𩦜	bssqf
 䏱	bssr
+𦟻	bstr
 𦝷	bstt
 𦟌	bstv
 𦝾	bsub
@@ -6931,6 +6933,7 @@
 鋣	cmhl
 䥶	cmhm
 𦒥	cmhuk
+𨫌	cmia
 銍	cmig
 𨫎	cmii
 釬	cmj
@@ -6944,7 +6947,6 @@
 𫒧	cmlb
 𫒝	cmlk
 錏	cmlm
-𨥯	cmln
 𨭂	cmlo
 𨦰	cmls
 𫤫	cmls
@@ -7004,13 +7006,12 @@
 鐝	cmto
 鐕	cmua
 𬫿	cmui
-𨫌	cmva
 䥎	cmvb
 釾	cmvh
 鎒	cmvi
 鋞	cmvm
 𨥛	cmvm
-𨱀	cmvm
+𨥯	cmvn
 𬫷	cmvr
 兮	cmvs
 䥔	cmwd
@@ -7033,7 +7034,6 @@
 鋔	cnau
 𨩉	cnbk
 𨮂	cnbq
-𨱕	cnbq
 𥄘	cnbu
 𨪭	cncj
 釨	cnd
@@ -7084,6 +7084,7 @@
 𬬠	cnmb
 録	cnme
 𨩀	cnmk
+𨪤	cnmm
 𫓎	cnmn
 䤥	cnmu
 釕	cnn
@@ -7113,12 +7114,10 @@
 𨧍	cnue
 𨩯	cnus
 𨪿	cnuw
-𨰾	cnvm
 鑥	cnwa
 𨫗	cnwf
 𨫷	cnwf
 𨧻	cnyi
-𨪤	cnyy
 釞	co
 𨤿	co
 鍑	coae
@@ -7141,7 +7140,6 @@
 𠔟	coge
 𨰚	coge
 鐎	cogf
-𨱓	cogf
 𨦓	cogi
 鎨	cogj
 𨮀	cogr
@@ -7149,7 +7147,6 @@
 鎸	cogs
 銋	cohg
 鉁	cohh
-𨱅	cohh
 𬫊	cohj
 𨦪	cohl
 䤦	coi
@@ -7192,7 +7189,6 @@
 鈴	coml
 鍮	comn
 𨥊	comn
-𨱎	comn
 𣩭	comnp
 鐱	como
 𨮋	comp
@@ -7200,7 +7196,6 @@
 𨨝	comr
 𫒑	coms
 釳	con
-𨰿	con
 鎎	cond
 鍭	conk
 𫒬	conn
@@ -27289,7 +27284,6 @@
 䪿	hwmbc
 𩔲	hwmbc
 𩕏	hwmbc
-𫂛	hwmf
 𫂆	hwmi
 𥴂	hwmj
 𬏎	hwmj
@@ -27333,6 +27327,7 @@
 𥭒	hwpu
 鹠	hwpym
 𬸪	hwpym
+𫂛	hwrf
 翻	hwsmm
 𩥖	hwsqf
 𠂺	hwt
@@ -51713,6 +51708,7 @@
 𠆵	ocms
 俤	ocnh
 𣤉	ocno
+𣣽	ocno
 俗	ocor
 𠉚	ocou
 𠍖	ocpi
@@ -53724,7 +53720,6 @@
 欫	omno
 𡦈	omno
 𣢥	omno
-𣣽	omno
 𠍐	omno
 𢛪	omnp
 𪚕	omnp
@@ -54567,11 +54562,13 @@
 𫤓	opmv
 䥺	opmvh
 𬭦	opmvi
+𨱀	opmvm
 镖	opmwf
 镡	opmwj
 钲	opmym
 钙	opmys
 钇	opn
+𨱕	opnbq
 铯	opnau
 𡥖	opnd
 𫓦	opnd
@@ -54597,12 +54594,15 @@
 铮	opnsd
 钖	opnsh
 𫓮	opnsm
+𨰾	opnvm
 镥	opnwa
 𩶕	opnwf
 伥	opo
 钠	opob
 锥	opog
+𨱓	opogf
 镌	opogs
+𨱅	opohh
 铃	opoii
 钤	opoin
 𫓻	opoip
@@ -54611,7 +54611,9 @@
 𬭇	opomi
 铪	opomr
 𬭘	opomr
+𨰿	opon
 𬭤	oponk
+𨱎	opomn
 𫓷	opono
 锉	opoog
 𬬭	opop
@@ -59900,7 +59902,6 @@
 𫠅	qstlj
 𢺟	qstq
 𢴚	qstr
-𦟻	qstr
 摒	qstt
 摒	qstt
 𫖕	qsttb
@@ -67675,7 +67676,6 @@
 㰽	svno
 𪨠	svofq
 𩀀	svog
-改	svok
 𬸘	svpym
 𫵫	svqpp
 𠭵	svre
@@ -72937,6 +72937,7 @@
 𦸿	twyp
 兼	txc
 𠭶	txe
+𠔥	txf
 𥽿	txhnd
 𣫞	txhne
 𪕼	txhxv
@@ -77858,6 +77859,7 @@
 乆	vo
 亾	vo
 兦	vo
+𠙴	vo
 𡞪	voae
 妠	vob
 𣍢	vob
@@ -80340,6 +80342,7 @@
 𧸕	xbctc
 𧶥	xbctt
 𧴱	xbcv
+𧵾	xbcye
 𧸩	xbcym
 𣎻	xbd
 𦝃	xbdd
@@ -80869,7 +80872,6 @@
 𨥛	xcmvm
 𨫊	xcmwd
 鋔	xcnau
-𨱕	xcnbq
 𨥂	xcnd
 𠬬	xcnhe
 𨥺	xcni
@@ -80887,9 +80889,7 @@
 𨤿	xco
 𨦁	xcog
 𨰚	xcoge
-𨱓	xcogf
 鎸	xcogs
-𨱅	xcohh
 𠫥	xcoi
 𨥶	xcoip
 鋡	xcoir
@@ -80900,7 +80900,6 @@
 𬫦	xcoml
 𨥊	xcomn
 𨨝	xcomr
-𨰿	xcon
 𨥎	xcoo
 𨯘	xcooo
 鈋	xcop
@@ -86142,6 +86141,7 @@
 𠊄	xoc
 𠊍	xocim
 𠋈	xock
+𣣽	xocno
 𧨍	xocym
 𫌠	xodbu
 𠓭	xodd
@@ -87203,7 +87203,6 @@
 𢜉	xqsp
 𢲚	xqsrr
 𦕴	xqssj
-𦟻	xqstr
 𢩽	xqsu
 𫼿	xqsuk
 摒	xqsyj
@@ -90074,7 +90073,6 @@
 𨧴	xxcmf
 𫒧	xxcml
 𨨵	xxcmr
-𨱀	xxcmv
 鈟	xxcnl
 𨨻	xxcno
 𫮟	xxcog
@@ -92127,6 +92125,7 @@
 𠂈	xxxvl
 𬌂	xxxvm
 𤋴	xxxvn
+𠙴	xxxvo
 𡚿	xxxvp
 𤱄	xxxwe
 𤲨	xxxwf
@@ -92235,7 +92234,6 @@
 𫾨	xxyko
 𢞾	xxykp
 㪯	xxykq
-𨔥	xxylm
 氵	xxym
 𨒹	xxyma
 𬨤	xxymb
@@ -94788,7 +94786,6 @@
 𬴜	ylmf
 步	ylmh
 歩	ylmh
-𨔥	ylmh
 逃	ylmo
 遗	ylmo
 歨	ylmo
@@ -94809,6 +94806,7 @@
 𬆻	ylpp
 𧚹	ylpv
 䢖	ylq
+𨔥	ylqh
 𨟩	ylrau
 𫑍	ylrk
 𬩠	ylro
