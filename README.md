@@ -24,4 +24,12 @@ Cangjie5 ext-F (beta)包含以下編碼：
 
 ## 反饋錯誤
 
-若發現錯誤，可在此處[反饋](https://github.com/Jackchows/Cangjie5/issues/new)，多謝！
+若發現錯誤，可在此處[反饋](https://github.com/Jackchows/Cangjie5/issues/new)。
+另外，也會收集在下方「友情連接」中的地點反饋的錯誤。
+多謝！
+
+## 友情連接
+[「倉頡之友·馬來西亞」論壇](http://www.chinesecj.com/forum/forum.php)
+[「天蒼人頡」論壇](http://ejsoon.win/phpbb/)
+「倉頡輸入法」QQ群組：30476878
+IRC頻道[freenode ](https://webchat.freenode.net/)#CJDFH
