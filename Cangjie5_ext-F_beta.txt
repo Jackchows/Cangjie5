@@ -810,6 +810,7 @@
 𭣯	dbye
 𭬭	dcae
 𭩺	dcbm
+𭴑	dcc
 𭫴	dchd
 𭫼	ddbb
 𭵦	ddbf
@@ -1074,6 +1075,7 @@
 𭎦	edg
 𮭊	edhaf
 𭄅	edln
+𭰉	edm
 𭫌	edym
 𭾔	eebt
 𮢗	eec
@@ -1113,6 +1115,7 @@
 𭲱	ehdl
 𭳣	ehed
 𭰸	ehem
+𭰄	ehes
 𭯺	ehg
 𭯷	ehi
 𭲺	ehjd
@@ -1145,7 +1148,6 @@
 𭱙	eitb
 𭇜	eive
 𭳞	ejak
-𭲨	ejbu
 𭲶	ejcg
 𭲩	ejco
 𭰓	ejhp
@@ -1153,6 +1155,7 @@
 𭱆	ejjn
 𭱤	ejjn
 𭱸	ejjn
+𭲨	ejju
 𭰉	ejll
 𭲚	ejmp
 𭱹	ejpr
@@ -1161,6 +1164,7 @@
 𭳪	ejtd
 𭳉	ejtk
 𭳈	ejtu
+𭲚	ejvp
 𭲖	ejwp
 𭲼	ekbm
 𮢗	ekc
@@ -1176,6 +1180,8 @@
 𭱬	elce
 𭏰	elg
 𭱎	ellb
+𭱪	ellb
+𭱽	ellb
 𭱳	elok
 𭟌	elp
 𭰝	elsl
@@ -1200,8 +1206,8 @@
 𭱣	emue
 𭯽	emvn
 𭳱	emwe
-𭲔	emwm
 𭳒	emwm
+𭲔	emww
 𭱘	enbc
 𭰾	enkt
 𭫎	enkw
@@ -1271,8 +1277,6 @@
 𭳰	etbi
 𭳏	etbp
 𭱩	etcb
-𭱪	etcb
-𭱽	etcb
 𭲞	etcb
 𭳖	etce
 𭱄	etct
@@ -1489,7 +1493,6 @@
 𭴰	fif
 𮭜	fihaf
 𭶇	fikd
-𭴑	fimo
 𭵬	fing
 𭶒	fiod
 𭵟	firp
@@ -2052,12 +2055,10 @@
 𮜰	hhkm
 𭄠	hhks
 𭄨	hhks
-𮔇	hhlmi
 𮜸	hhlwp
 𮜷	hhlws
 𮜱	hhmiu
 𭼾	hhmk
-𭽁	hhmrt
 𮜯	hhmsu
 𮃱	hhmwg
 𭂫	hhni
@@ -2085,10 +2086,8 @@
 𬼧	hhu
 𮅙	hhxu
 𮜽	hhydu
-𭽂	hhysk
 𬼀	hi
 𮔭	hiew
-𮇓	hifd
 𮫣	hiff
 𮅍	hifu
 𭏢	hig
@@ -2098,6 +2097,7 @@
 𬻯	hihog
 𮆠	hiifg
 𮫪	hiiop
+𭑕	hik
 𭑕	hik
 𮔒	hiklg
 𮔃	hilbi
@@ -2532,6 +2532,7 @@
 𮆲	hybh
 𮎃	hybhn
 𮎐	hycor
+𮇓	hyfd
 𮮧	hygte
 𮆡	hygv
 𮎌	hyhbu
@@ -2544,8 +2545,10 @@
 𮆽	hyjr
 𮅨	hykj
 𮎅	hykui
+𮔇	hylmi
 𮎋	hyma
 𮎗	hymht
+𭽁	hymrt
 𭣨	hyok
 𮎈	hyom
 𮆌	hypc
@@ -2569,6 +2572,7 @@
 𮎔	hytqt
 𮆝	hyvn
 𮎄	hyyc
+𭽂	hyysk
 𭥎	ia
 𭚐	iabg
 𭙵	iabk
@@ -2606,7 +2610,6 @@
 𭆧	ie
 𭙎	ie
 𮇾	iefdq
-𭯼	ieg
 𮭔	iehaf
 𭐪	ieice
 𭐩	ieihq
@@ -2816,6 +2819,7 @@
 𭂔	imysy
 𭟵	inbg
 𭙒	ind
+𭯼	ineg
 𭙡	inib
 𭆝	inii
 𭙹	inlm
@@ -3013,7 +3017,6 @@
 𭔎	jhdp
 𭜰	jhep
 𮄐	jhhkr
-𭔀	jhiu
 𭓯	jhjr
 𭓧	jhke
 𭄖	jhln
@@ -3022,6 +3025,7 @@
 𭔜	jhqd
 𭔉	jhui
 𭩩	jhvh
+𭔀	jhyu
 𮚂	jibuc
 𮧇	jilmy
 𭕃	jimgg
@@ -4363,7 +4367,6 @@
 𭬺	mvdo
 𮗅	mvhbt
 𭒍	mvhk
-𭮨	mvhno
 𭦙	mvia
 𮠰	mwaa
 𮠟	mwau
@@ -4758,6 +4761,7 @@
 𭀰	nunau
 𭚱	nuyk
 𮎝	nuyru
+𮎝	nuyru
 𮩝	nvapv
 𮢳	nvc
 𭔼	nvdi
@@ -4994,6 +4998,7 @@
 𬿼	ombd
 𭀍	ombd
 𬿲	ombe
+𬿲	ombe
 𭵙	ombnf
 𮗟	ombq
 𭵙	ombvf
@@ -5081,7 +5086,6 @@
 𭆹	or
 𭉽	orci
 𬽹	ore
-𭴿	orf
 𮬼	orhaf
 𭯘	orhqu
 𮍸	orlk
@@ -5140,6 +5144,7 @@
 𮩀	osysk
 𮩇	osytd
 𮠚	otbm
+𭴿	otf
 𭀋	otgs
 𬾷	otho
 𬿜	othu
@@ -5457,6 +5462,7 @@
 𭢋	qhyt
 𭢮	qici
 𭢮	qidi
+𭢹	qidi
 𭢹	qidi
 𭡆	qifm
 𭡴	qikt
@@ -5977,6 +5983,7 @@
 𬻚	romn
 𭈖	romn
 𭌝	rooi
+𭌝	rook
 𭌝	rook
 𭋿	room
 𭇧	rop
@@ -7257,6 +7264,7 @@
 𭑸	vlbv
 𭔬	vlnii
 𬻲	vlshi
+𬻲	vlshi
 𬻲	vlsk
 𭑽	vlsp
 𭒫	vlvk
@@ -7734,6 +7742,7 @@
 𮞁	ymmm
 𭭢	ymmmr
 𭭼	ymnii
+𮓪	ymnin
 𮓪	ymnin
 𭭔	ymno
 𮞃	ymo
