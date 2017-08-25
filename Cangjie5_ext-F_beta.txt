@@ -1579,7 +1579,8 @@
 𭵭	fthm
 𭶄	ftkt
 𭵨	ftlq
-𭶂	ftoq
+𭵥	ftmb
+𭶂	ftmq
 𭵸	ftpb
 𭵭	ftqm
 𭶩	ftqr
@@ -3151,6 +3152,7 @@
 𭝠	jop
 𭔍	joyk
 𭠍	jp
+𭺫	jp
 𭾀	jpbt
 𭑿	jpcv
 𮋜	jpgr
@@ -3269,6 +3271,7 @@
 𭷻	khbhn
 𭸏	khbmb
 𭸜	khbso
+𭸧	khchd
 𭸓	khdd
 𭼜	khdt
 𭸥	khfhf
@@ -3306,7 +3309,6 @@
 𭸐	khsql
 𭸢	khstr
 𭸨	khtcl
-𭸧	khthd
 𭸳	khthf
 𭸙	khtih
 𭸘	khtmd
@@ -3314,6 +3316,7 @@
 𭸂	khuni
 𭸖	khvvw
 𮭞	khwif
+𭸭	khwla
 𭸱	khwlf
 𭸰	khwlp
 𭸈	khyhv
@@ -3399,7 +3402,6 @@
 𭄷	kstct
 𭼟	kstr
 𮈋	ksvif
-𭸭	kswla
 𭼊	ktc
 𭼸	ktci
 𭼞	ktgp
@@ -3907,7 +3909,6 @@
 𭺔	mgauu
 𭺄	mgaws
 𭺆	mgbbe
-𭹅	mgbbm
 𭹑	mgbdi
 𭹘	mgbfd
 𭹠	mgbmg
@@ -3937,10 +3938,10 @@
 𭺇	mghnp
 𭺉	mghok
 𭺎	mghon
+𭹁	mghpm
 𭸶	mghqu
 𭹩	mghrg
 𭹁	mghvi
-𭹁	mghvm
 𭸻	mghvp
 𭹻	mghwo
 𭹉	mghx
@@ -3949,10 +3950,10 @@
 𮍠	mgije
 𭺓	mgiop
 𭹽	mgjcf
-𭹾	mgjcg
 𭹸	mgjcm
 𭸷	mgje
 𭹋	mgjhp
+𭹅	mgjmd
 𭹂	mgjp
 𭺋	mgjpi
 𭹹	mgjwv
@@ -4001,6 +4002,7 @@
 𭹜	mgwln
 𭯈	mgwyi
 𭹃	mgwyi
+𭹾	mgycg
 𭹱	mgyhr
 𭺐	mgykc
 𭹡	mgykf
@@ -6610,6 +6612,7 @@
 𮐺	tiht
 𮑙	tiif
 𮑛	tiiu
+𭶧	tijf
 𮒘	tikr
 𮐻	timr
 𮐼	tims
@@ -6726,6 +6729,7 @@
 𭐢	tmhe
 𮏬	tmhw
 𮎾	tmik
+𭶧	tmjf
 𮒘	tmkr
 𭄳	tmks
 𭭡	tmmm
