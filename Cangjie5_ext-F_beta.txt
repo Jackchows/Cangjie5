@@ -126,6 +126,7 @@
 𭧰	amwg
 𭨅	amybb
 𭥋	an
+	anacc
 𮤔	anaio
 𮤊	anbbm
 𮤊	anbt
@@ -4816,7 +4817,7 @@
 𭌀	ocjrr
 𬿇	ockn
 𭌷	ocrrr
-𬾹	ocsc
+𬾹	ocso
 𭌛	octrr
 𭫄	odd
 𭫭	odike
@@ -5487,7 +5488,6 @@
 𭝢	qjp
 𭢼	qjpi
 𭢈	qjpm
-𭇈	qjr
 𭠳	qjru
 𭢀	qjvd
 𭢙	qjwp
@@ -5499,6 +5499,7 @@
 𭠮	qkke
 𭠑	qkm
 𭠦	qkmj
+𭇈	qkr
 𭠗	qkr
 𭡢	qkrt
 𮫠	qlhui
