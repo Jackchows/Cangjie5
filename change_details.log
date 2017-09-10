@@ -1,6 +1,6 @@
 *：另有兩個或以上編碼
 
-==2016.2==
+==2016.02==
 Unicode		漢字		原編碼		新編碼		備註
 U+6A77		橷		dlmu		(刪除)		橷:dlpn	
 U+2B826		𫠦		mlln		mlin
@@ -1021,3 +1021,294 @@ FAB8		視		(新增)		mfbuu		另有視：ifbuu
 2F8FE		汧		(新增)		emjj		另有汧：qmt
 ==2017.09.03==
 25E2B		𥸫		hhnd		hnfd
+==2017.09.09==
+43EE		䏮		bkso		bksc
+5841		塁		wiog		wccg
+6442		摂		qsjo		qsjc
+6E0B		渋		eymo		eymc
+8EE3		軣		jjimo		jjcc
+25056		𥁖		(新增)		llbt		「漢文庫典」編碼。另有𥁖：lwbt
+2699D		𦦝		(新增)		hxbb		另有𦦝：hxbkl
+3875		㡵		(新增)		ioml		另有㡵：ioii
+3C53		㱓		(新增)		ymoml		另有㱓：ymoii
+3C86		㲆		(新增)		geoml		另有㲆：geoii
+3E33		㸳		(新增)		hqoml		另有㸳：hqoii
+3F89		㾉		(新增)		koml		另有㾉：koii
+4241		䉁		(新增)		hsjl		另有䉁：hsji
+4256		䉖		(新增)		hjjl		另有䉖：hjji
+4345		䍅		(新增)		ouoml		另有䍅：ouoii
+4386		䎆		(新增)		smoml		另有䎆：smoii
+4558		䕘		(新增)		tolc		另有䕘：toic
+4832		䠲		(新增)		hhoml		另有䠲：hhoii
+4BCD		䯍		(新增)		bboml		另有䯍：bboii
+4CE5		䳥		(新增)		ulhaf		另有䳥：uihaf
+4F36		伶		(新增)		ooml		另有伶：ooii
+51B7		冷		(新增)		imoml		另有冷：imoii
+5222		刢		(新增)		olln		另有刢：oiln
+5464		呤		(新增)		roml		另有呤：roii
+5525		唥		(新增)		riml		另有唥：rimi
+56F9		囹		(新增)		woml		另有囹：woii
+577D		坽		(新增)		goml		另有坽：goii
+59C8		姈		(新增)		voml		另有姈：voii
+5CAD		岭		(新增)		uoml		另有岭：uoii
+5CBA		岺		(新增)		uoml		另有岺：uoii
+5DBA		嶺		(新增)		uolc		另有嶺：uoic
+601C		怜		(新增)		poml		另有怜：poii
+62CE		拎		(新增)		qoml		另有拎：qoii
+65CD		旍		(新增)		ysool		另有旍：ysooi
+6624		昤		(新增)		aoml		另有昤：aoii
+670E		朎		(新增)		boml		另有朎：boii
+67C3		柃		(新增)		doml		另有柃：doii
+6CE0		泠		(新增)		eoml		另有泠：eoii
+70A9		炩		(新增)		foml		另有炩：foii
+72D1		狑		(新增)		khoml		另有狑：khoii
+73B2		玲		(新增)		mgoml		另有玲：mgoii
+74F4		瓴		(新增)		olmvn		另有瓴：oimvn
+768A		皊		(新增)		haoml		另有皊：haoii
+77DD		矝		(新增)		nhoml		另有矝：nhoii
+7831		砱		(新增)		mroml		另有砱：mroii
+79E2		秢		(新增)		hdoml		另有秢：hdoii
+7ADB		竛		(新增)		ytoml		另有竛：ytoii
+7B2D		笭		(新增)		homl		另有笭：hoii
+7D37		紷		(新增)		vfoml		另有紷：vfoii
+7F9A		羚		(新增)		tqoml		另有羚：tqoii
+7FCE		翎		(新增)		olsmm		另有翎：oismm
+8046		聆		(新增)		sjoml		另有聆：sjoii
+8232		舲		(新增)		hyoml		另有舲：hyoii
+82D3		苓		(新增)		toml		另有苓：toii
+86C9		蛉		(新增)		lioml		另有蛉：lioii
+8851		衑		(新增)		hooln		另有衑：hooin
+888A		袊		(新增)		loml		另有袊：loii
+8A45		詅		(新增)		yroml		另有詅：yroii
+8DC9		跉		(新增)		rmoml		另有跉：rmoii
+8EE8		軨		(新增)		jjoml		另有軨：jjoii
+90BB		邻		(新增)		olnl		另有邻：oinl
+9234		鈴		(新增)		coml		另有鈴：coii
+94C3		铃		(新增)		opoml		另有铃：opoii
+959D		閝		(新增)		anoml		另有閝：anoii
+963E		阾		(新增)		nloml		另有阾：nloii
+9818		領		(新增)		olmbc		另有領：oimbc
+9886		领		(新增)		olmbo		另有领：oimbo
+99D6		駖		(新增)		sfoml		另有駖：sfoii
+9B7F		魿		(新增)		nfoml		另有魿：nfoii
+9D12		鴒		(新增)		olhaf		另有鴒：oihaf
+9E30		鸰		(新增)		olpym		另有鸰：oipym
+9E77		鹷		(新增)		ywoml		另有鹷：ywoii
+9F61		齡		(新增)		yuoml		另有齡：yuoii
+9F62		齢		(新增)		yuoml		另有齢：yuoii
+9F84		龄		(新增)		yuoml		另有龄：yuoii
+F92E		冷		(新增)		imoii		另有冷：imoml
+F9A9		囹		(新增)		woii		另有囹：woml
+F9AB		嶺		(新增)		uoic		另有嶺：uolc
+F9AC		怜		(新增)		poii		另有怜：poml
+F9AD		玲		(新增)		mgoii		另有玲：mgoml
+F9AF		羚		(新增)		tqoii		另有羚：tqoml
+F9B0		聆		(新增)		sjoii		另有聆：sjoml
+F9B1		鈴		(新增)		coii		另有鈴：coml
+F9B2		零		(新增)		mboii		另有零：mboml
+F9B4		領		(新增)		oimbc		另有領：olmbc
+20116		𠄖		(新增)		olmn		另有𠄖：oimn
+20350		𠍐		omno		omso		另有𠍐：oino
+203E7		𠏧		(新增)		oroml		另有𠏧：oroii
+2059D		𠖝		(新增)		buhhl		另有𠖝：buhhi
+20AC4		𠫄		(新增)		mtrl		另有𠫄：mtri
+20D12		𠴒		(新增)		rool		另有𠴒：rooi
+20D59		𠵙		(新增)		ruol		另有𠵙：ruoi
+20E16		𠸖		(新增)		rtol		另有𠸖：rtoi
+20EE0		𠻠		(新增)		rsjl		另有𠻠：rsji
+20FA5		𠾥		(新增)		mroml		另有𠾥：mroii
+21150		𡅐		(新增)		tlttr		另有𡅐：tittr
+217C0		𡟀		(新增)		vtol		另有𡟀：vtoi
+218CA		𡣊		(新增)		vomw		另有𡣊：voiw
+218E4		𡣤		(新增)		vljbj		另有𡣤：vijbj
+21988		𡦈		omno		omso		另有𡦈：oino
+21D12		𡴒		(新增)		umoi		另有𡴒：umol
+21F79		𡽹		(新增)		uolc		另有𡽹：uoic
+22082		𢂂		omnb		omsb		另有𢂂：oinb
+222DE		𢋞		(新增)		iolc		另有𢋞：ioic
+22705		𢜅		(新增)		elp		另有𢜅：eip
+230E0		𣃠		(新增)		ysoml		另有𣃠：ysoii
+231DD		𣇝		(新增)		aiml		另有𣇝：aimi
+2324F		𣉏		(新增)		arol		另有𣉏：atoi
+23575		𣕵		(新增)		dtol		另有𣕵：dtoi
+2389D		𣢝		(新增)		olno		另有𣢝：oino
+23B39		𣬹		(新增)		olhqu		另有𣬹：oihqu
+23B54		𣭔		(新增)		huoml		另有𣭔：huomi
+23ED2		𣻒		(新增)		eysl		另有𣻒：eysi
+23F22		𣼢		(新增)		esml		另有𣼢：esmi
+242F6		𤋶		(新增)		ftol		另有𤋶：ftoi
+24575		𤕵		vmomi		vmoml		另有𤕵：vmoii
+249C2		𤧂		(新增)		mgoml		另有𤧂：mgomi
+249CD		𤧍		(新增)		mgtol		另有𤧍：mgtoi
+24A8A		𤪊		(新增)		mgcol		另有𤪊：mgcoi
+24AF2		𤫲		(新增)		olhvo		另有𤫲：oihvo
+24B3B		𤬻		mnomn		mnoml		另有𤬻：mnoii
+2514D		𥅍		oibu		oinu		另有𥅍：omsu
+2514D		𥅍		(新增)		omsu		另有𥅍：oinu
+2594B		𥥋		jcomi		jcoml		另有𥥋：jcoii
+25D5D		𥵝		(新增)		holc		另有𥵝：hoic
+25E55		𥹕		fdomi		fdoml		另有𥹕：fdoii
+261BA		𦆺		(新增)		vfolc		另有𦆺：vfoic
+26293		𦊓		wlomi		wloml		另有𦊓：wloii
+26323		𦌣		(新增)		wlffl		另有𦌣：wlffi
+26725		𦜥		(新增)		buol		另有𦜥：buoi
+26C10		𦰐		(新增)		tool		另有𦰐：tooi
+26D3F		𦴿		(新增)		tmgl		另有𦴿：tmgi
+271BA		𧆺		(新增)		olypn		*
+271BA		𧆺		(新增)		olypu		*
+277FA		𧟺		(新增)		mbmgl		另有𧟺：mbmgi
+27AF9		𧫹		(新增)		nroml		另有𧫹：nroii
+27C3E		𧰾		mhomi		mhoii		另有𧰾：mhoml
+27C3E		𧰾		(新增)		mhoml		另有𧰾：mhoii
+27C62		𧱢		(新增)		mosol		另有𧱢：mosoi
+27ECB		𧻋		goomi		gooii		另有𧻋：gooml
+27ECB		𧻋		(新增)		gooml		另有𧻋：gooii
+285DC		𨗜		omnl		omsl		另有𨗜：oinl
+285DC		𨗜		(新增)		oinl		另有𨗜：omsl
+2880E		𨠎		mwomi		mwoml		另有𨠎：mwoii
+28977		𨥷		(新增)		olc		另有𨥷：oic
+289CC		𨧌		(新增)		chol		另有𨧌：choi
+28A56		𨩖		(新增)		ctol		另有𨩖：ctoi
+28FA0		𨾠		(新增)		olog		另有𨾠：oiog
+291D9		𩇙		(新增)		qboml		另有𩇙：qbomi
+29216		𩈖		mwomi		mwoml		另有𩈖：mwoii
+29282		𩊂		tjomi		tjoml		另有𩊂：tjoii
+294D2		𩓒		(新增)		mlmbc		另有𩓒：mimbc
+295B5		𩖵		hnpmi		hnoml		另有𩖵：hnoii
+29673		𩙳		(新增)		olnoo		另有𩙳：oinoo
+296B9		𩚹		oiomi		oioml		另有𩚹：oioii
+29841		𩡁		haomi		haoii		另有𩡁：haoml
+29841		𩡁		(新增)		haoml		另有𩡁：haoii
+29B14		𩬔		shomi		shoml		另有𩬔：shoii
+29CA9		𩲩		hiomi		hioml		另有𩲩：hioii
+29EC6		𩻆		(新增)		nfmbl		另有𩻆：nfmbi
+2A2DA		𪋚		(新增)		ipytl		另有𪋚：ipyti
+2A2EA		𪋪		(新增)		ipmbl		另有𪋪：ipmbi
+2A2ED		𪋭		mpomi		mpoii		另有𪋭：mpoml
+2A2ED		𪋭		(新增)		mpoml		另有𪋭：mpoii
+2A438		𪐸		wfomi		wfoii		另有𪐸：wfoml
+2A438		𪐸		(新增)		wfoml		另有𪐸：wfoii
+2A54C		𪕌		hvoin		hvoii		另有𪕌：hvoml
+2A54C		𪕌		hvomi		hvoml		另有𪕌：hvoii
+2A699		𪚙		omnp		omsp		另有𪚙：oinp
+2A74E		𪝎		odoii		odoi		另有𪝎：odol
+2A74E		𪝎		(新增)		odol		另有𪝎：odoi
+2A7A0		𪞠		iinn		imoin		另有𪞠：imoln
+2A7A0		𪞠		(新增)		imoln		另有𪞠：imoin
+2A7A7		𪞧		iimnk		imoin		另有𪞧：imoln
+2A7A7		𪞧		(新增)		imoln		另有𪞧：imoin
+2A7F9		𪟹		(新增)		jfoml		另有𪟹：jfoii
+2A84E		𪡎		(新增)		rsoml		另有𪡎：rsoii
+2AA3A		𪨺		(新增)		uiml		另有𪨺：uimi
+2AC95		𪲕		(新增)		dboml		另有𪲕：dboii
+2AC9C		𪲜		(新增)		ild		另有𪲜：iid
+2ACA5		𪲥		dwoii		dloii		另有𪲥：dloml
+2ACA5		𪲥		(新增)		dloml		另有𪲥：dloii
+2ADF6		𪷶		ekoii		ebki		另有𪷶：ebkl
+2ADF6		𪷶		(新增)		ebkl		另有𪷶：ebki
+2AF4F		𪽏		(新增)		woml		另有𪽏：woii
+2AFA7		𪾧		(新增)		buoml		另有𪾧：buoii
+2B15C		𫅜		(新增)		oittr		*
+2B15C		𫅜		(新增)		oltgr		*
+2B15C		𫅜		(新增)		olttr		*
+2B164		𫅤		(新增)		smoml		另有𫅤：smoii
+2B409		𫐉		(新增)		kqoml		另有𫐉：kqoii
+2B445		𫑅		(新增)		ydll		另有𫑅：ydli
+2B802		𫠂		(新增)		lsoml		另有𫠂：lsoii
+2B91A		𫤚		fuomi		fuoii		另有𫤚：fuoml
+2BEBD		𫺽		hpoil		hpoml		另有𫺽：hpoii
+2C366		𬍦		mgoni		mgoii		另有𬍦：mgoml
+2C366		𬍦		mgosl		mgoml		另有𬍦：mgoii
+2C56C		𬕬		(新增)		holo		另有𬕬：hoio
+2C67D		𬙽		trosl		troml		另有𬙽：troni
+2C84C		𬡌		(新增)		omsv		另有𬡌：oinv
+F9A3		念		omnp		oinp		
+F9A4		捻		qomp		qoip		
+201C0		𠇀		omne		(刪除)		𠇀：oino
+20250		𠉐		oonr		ooir		
+2025E		𠉞		omnp		(刪除)		𠉞：oinp
+20E78		𠹸		romv		(刪除)		𠹸：roiv
+2206E		𢁮		lbomn		(刪除)		𢁮：lboin
+229D2		𢧒		ihomr		(刪除)		𢧒：ihoir
+22A50		𢩐		hoiu		hsoiu		*
+22A50		𢩐		ioiu		isoiu		*
+22A50		𢩐		(新增)		msou		*
+22EF6		𢻶		omne		(刪除)		𢻶：oine
+2361E		𣘞		domw		(刪除)		𣘞：doiw
+23C8E		𣲎		omne		(刪除)		𣲎：oine
+23D97		𣶗		eome		(刪除)		𣶗：eoie
+23E0A		𣸊		eomi		(刪除)		𣸊：eoii
+23E0A		𣸊		eoni		eoii		
+23EE6		𣻦		eomw		(刪除)		𣻦：eoiw
+24621		𤘡		hqomn		(刪除)		𤘡：hqoin
+2468B		𤚋		hqomp		hqoip		
+246A5		𤚥		iqomr		(刪除)		𤚥：iqoir
+24730		𤜰		khomn		(刪除)		𤜰：khoin
+249AC		𤦬		mgomp		(刪除)		𤦬：mgoip
+24B2F		𤬯		mnimn		(刪除)		𤬯：mnoin
+24B2F		𤬯		mnomn		mnoin		
+24B59		𤭙		mnomr		(刪除)		𤭙：mnoir
+24D3D		𤴽		komn		(刪除)		𤴽：koin
+24DDC		𤷜		komi		(刪除)		𤷜：koii
+24F7F		𤽿		haomp		(刪除)		𤽿：haoip
+2504C		𥁌		onbt		oint		
+251A1		𥆡		buomr		(刪除)		𥆡：buoir
+25375		𥍵		nhomp		(刪除)		𥍵：nhoip
+254C2		𥓂		mromr		(刪除)		𥓂：mroir
+2557C		𥕼		mromw		(刪除)		𥕼：mroiw
+25B98		𥮘		homp		(刪除)		𥮘：hoip
+25C77		𥱷		homc		(刪除)		𥱷：hoic
+25EB4		𥺴		fdomp		(刪除)		𥺴：fdoip
+2604C		𦁌		vfomi		(刪除)		𦁌：vfoii
+26064		𦁤		vfomp		(刪除)		𦁤：vfoip
+26283		𦊃		wlomn		(刪除)		𦊃：wloin
+2638C		𦎌		tqomr		(刪除)		𦎌：tqoir
+266DC		𦛜		bomr		(刪除)		𦛜：boir
+26732		𦜲		bomi		(刪除)		𦜲：boii
+269C8		𦧈		hromn		(刪除)		𦧈：hroin
+269C8		𦧈		mromn		(刪除)		𦧈：mroin
+2762D		𧘭		yomv		(刪除)		𧘭：yoiv
+276CB		𧛋		lomp		loip		
+27AE7		𧫧		yromw		(刪除)		𧫧：yroiw
+27BB0		𧮰		cromn		(刪除)		𧮰：croin
+27D97		𧶗		bcomr		(刪除)		𧶗：bcoir
+27E63		𧹣		gcomr		(刪除)		𧹣：gcoir
+287F9		𨟹		mwomn		(刪除)		𨟹：mwoin
+2884E		𨡎		mwomp		(刪除)		𨡎：mwoip
+28863		𨡣		omnw		(刪除)		𨡣：oinw
+29087		𩂇		mbomn		(刪除)		𩂇：mboin
+29223		𩈣		mwomr		(刪除)		𩈣：mwoir
+292CF		𩋏		tjomp		(刪除)		𩋏：tjoip
+29396		𩎖		dqomn		(刪除)		𩎖：dqoin
+29427		𩐧		yaomr		(刪除)		𩐧：yaoir
+2942D		𩐭		yaomp		(刪除)		𩐭：yaoip
+295A6		𩖦		hnomn		(刪除)		𩖦：hnoin
+29695		𩚕		oiomn		(刪除)		𩚕：oioin
+2969C		𩚜		omnv		(刪除)		𩚜：oinv
+2983B		𩠻		haomn		(刪除)		𩠻：haoin
+29A4A		𩩊		bbomr		(刪除)		𩩊：bboir
+29B6E		𩭮		shomp		shoip		
+2A33F		𪌿		deomp		(刪除)		𪌿：deoip
+2A33F		𪌿		jeomp		(刪除)		𪌿：jeoip
+2A461		𪑡		wfomp		wfoip		
+2A55B		𪕛		hcoir		(刪除)		𪑡：wfoip
+2A55B		𪕛		hvpmr		hvoir		
+2A612		𪘒		yuomr		(刪除)		𪘒：yuoir
+2A695		𪚕		omnp		(刪除)		𪚕：oinp
+2A6AC		𪚬		huomn		(刪除)		𪚬：huoin
+2A6AC		𪚬		nuomn		(刪除)		𪚬：nuoin
+2A776		𪝶		onfep		oinp		
+2ACCB		𪳋		dsoip		dmsp		
+2B28D		𫊍		tdun		tduon		
+2C5B3		𬖳		odsbe		odsme		
+2D608		𭘈		ssomn		(刪除)		𭘈：ssoin
+2D65E		𭙞		iomr		(刪除)		𭙞：ioir
+2D74C		𭝌		qoomp		(刪除)		𭝌：qooip
+2DA1B		𭨛		twomn		(刪除)		𭨛：twoin
+2DAA5		𭪥		wdomn		(刪除)		𭪥：wdoin
+2DB95		𭮕		mnomr		(刪除)		𭮕：mnoir
+2DF12		𭼒		komr		(刪除)		𭼒：koir
+2E43D		𮐽		tromr		(刪除)		𮐽：troir
+2E739		𮜹		hhomr		(刪除)		𮜹：hhoir
+2E7A4		𮞤		yomp		(刪除)		𮞤：yoip
+2E95E		𮥞		nlomc		(刪除)		𮥞：nloic
