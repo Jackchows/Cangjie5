@@ -40,4 +40,4 @@ Cangjie5 ext-F (beta) 包含以下編碼：
 
 「倉頡輸入法」Freenode IRC 頻道 [#CJDFH](https://webchat.freenode.net/?channels=%23CJDFH)
 
-「倉頡輸入法」TG 群組 [@cangjei](https://t.me/cangjei)
+「倉頡輸入法」Telegram 群組 [@cangjei](https://t.me/cangjei)
