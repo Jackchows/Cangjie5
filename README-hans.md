@@ -16,7 +16,7 @@ Cangjie5 ext-F (beta) 包含以下编码：
 - Unicode 10.0 版本中，中日韩越统一表意文字区新增的字符（U+9FD6 - U+9FEA）
 
 进行中的工作：
-- 参考《第五代仓颉输入法手册》、「汉文库典」及沈红莲女士的回信（[一](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=789)、[二](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=793)），校对码表
+- 参考《第五代仓颉输入法手册》、[「汉文库典」](http://hanculture.com/dic/index.php)及沈红莲女士的回信（[一](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=789)、[二](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=793)），校对码表
 - 参考官方编码处理字形兼容
 
 已完成的字形兼容：
