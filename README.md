@@ -3,14 +3,14 @@
 原碼表為[「倉頡平台 2012」的「五倉世紀」碼表](http://www.chinesecj.com/forum/viewthread.php?tid=2596)
 在原碼表的基礎上進行了如下修改：
 - 刪除 原碼表中的 Unicode 私人使用區（PUA）字符
-- 添加 Unicode 中日韓越統一表意文字擴展E區字符
+- 添加 Unicode 中日韓越統一表意文字擴展 E 區字符
 - 添加 Unicode 7.0 版本中，中日韓越統一表意文字區新增的字符（U+9FCD - U+9FD5）
 - 修改 部份錯誤編碼
 - 修改 部份同碼字排序（「个仲」調整為「仲个」，「跖唔𠵠𠼘」調整為「唔跖𠵠𠼘」）
 
 Cangjie5 ext-F (beta)包含以下編碼：
 - Unicode 中日韓越統一表意文字擴展 F 區字符（編碼校對中）
-- Unicode 10.0 版本中，中日韓越統一表意文字區新增的字符（U+9FD6-U+9FEA）
+- Unicode 10.0 版本中，中日韓越統一表意文字區新增的字符（U+9FD6 - U+9FEA）
 
 進行中的工作：
 - 參考《第五代倉頡輸入法手冊》、「漢文庫典」及沈紅蓮女士的回信（[一](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=789)、[二](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=793)），校對碼表
