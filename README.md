@@ -1,7 +1,6 @@
 # Cangjie5
 
-原碼表為[「倉頡平台 2012」的「五倉世紀」碼表](http://www.chinesecj.com/forum/viewthread.php?tid=2596)
-
+原碼表為[「倉頡平台 2012」](http://www.chinesecj.com/forum/viewthread.php?tid=2596)的「五倉世紀」碼表
 在原碼表的基礎上進行了如下修改：
 - 刪除 原碼表中的 Unicode 私人使用區（PUA）字符
 - 添加 Unicode 中日韓越統一表意文字擴展 E 區字符
@@ -9,7 +8,7 @@
 - 修改 部份錯誤編碼
 - 修改 部份同碼字排序（「个仲」調整為「仲个」，「跖唔𠵠𠼘」調整為「唔跖𠵠𠼘」）
 
-Cangjie5 ext-F (beta)包含以下編碼：
+Cangjie5 ext-F (beta) 包含以下編碼：
 - Unicode 中日韓越統一表意文字擴展 F 區字符（編碼校對中）
 - Unicode 10.0 版本中，中日韓越統一表意文字區新增的字符（U+9FD6 - U+9FEA）
 
