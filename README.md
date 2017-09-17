@@ -1,5 +1,7 @@
 # Cangjie5
 
+[简化字版说明](https://github.com/Jackchows/Cangjie5/blob/master/README-hans.md)
+
 原碼表為[「倉頡平台 2012」](http://www.chinesecj.com/forum/viewthread.php?tid=2596)的「五倉世紀」碼表
 
 在原碼表的基礎上進行了如下修改：
@@ -14,7 +16,7 @@ Cangjie5 ext-F (beta) 包含以下編碼：
 - Unicode 10.0 版本中，中日韓越統一表意文字區新增的字符（U+9FD6 - U+9FEA）
 
 進行中的工作：
-- 參考《第五代倉頡輸入法手冊》、「漢文庫典」及沈紅蓮女士的回信（[一](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=789)、[二](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=793)），校對碼表
+- 參考《第五代倉頡輸入法手冊》、[「漢文庫典」](http://hanculture.com/dic/index.php)及沈紅蓮女士的回信（[一](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=789)、[二](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=793)），校對碼表
 - 參考官方編碼處理字形兼容
 
 已完成的字形兼容：
