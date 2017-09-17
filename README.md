@@ -1,6 +1,7 @@
 # Cangjie5
 
 原碼表為[「倉頡平台 2012」的「五倉世紀」碼表](http://www.chinesecj.com/forum/viewthread.php?tid=2596)
+
 在原碼表的基礎上進行了如下修改：
 - 刪除 原碼表中的 Unicode 私人使用區（PUA）字符
 - 添加 Unicode 中日韓越統一表意文字擴展 E 區字符
