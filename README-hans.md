@@ -8,8 +8,8 @@
 - 删除 原码表中的 Unicode 私人使用区（PUA）字符
 - 添加 Unicode 中日韩越统一表意文字扩展 E 区字符
 - 添加 Unicode 7.0 版本中，中日韩越统一表意文字区新增的字符（U+9FCD - U+9FD5）
-- 修改 部份错误编码
-- 修改 部份同码字排序（「个仲」调整为「仲个」，「跖唔𠵠𠼘」调整为「唔跖𠵠𠼘」）
+- 修改 部份错误编码（详见[变更历史](https://github.com/Jackchows/Cangjie5/blob/master/change_details.log)及[说明#主要改码说明](https://github.com/Jackchows/Cangjie5/blob/master/change_summaries.txt#L1)）
+- 修改 部份同码字排序（详见[说明#重码字排序调整](https://github.com/Jackchows/Cangjie5/blob/master/change_summaries.txt#L15)）
 
 Cangjie5 ext-F (beta) 包含以下编码：
 - Unicode 中日韩越统一表意文字扩展 F 区字符（编码校对中）
@@ -17,13 +17,7 @@ Cangjie5 ext-F (beta) 包含以下编码：
 
 进行中的工作：
 - 参考《第五代仓颉输入法手册》、[「汉文库典」](http://hanculture.com/dic/index.php)及沈红莲女士的回信（[一](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=789)、[二](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=793)），校对码表
-- 参考官方编码处理字形兼容
-
-已完成的字形兼容：
-- ⺶：廿手/廿土竹
-- 雨：一中月卜/一水月
-- 礻/⺬：戈弓火/一一火
-- 令：人戈弓戈/人一尸中
+- 参考官方编码处理字形兼容（详见[说明#字形兼容](https://github.com/Jackchows/Cangjie5/blob/master/change_summaries.txt#L8)）
 
 ## 反馈错误
 
@@ -32,12 +26,8 @@ Cangjie5 ext-F (beta) 包含以下编码：
 多谢！
 
 ## 友情连接
-[「仓颉之友·马来西亚」论坛](http://www.chinesecj.com/forum/forum.php)
-
-[「天苍人颉」论坛](http://ejsoon.win/phpbb/)
-
-「仓颉输入法」QQ 群组 [30476878](https://jq.qq.com/?_wv=1027&k=5W3qETZ)
-
-「仓颉输入法」Freenode IRC 频道 [#CJDFH](https://webchat.freenode.net/?channels=%23CJDFH)
-
-「仓颉输入法」Telegram 群组 [@cangjei](https://t.me/cangjei)
+- [「仓颉之友·马来西亚」论坛](http://www.chinesecj.com/forum/forum.php)
+- [「天苍人颉」论坛](http://ejsoon.win/phpbb/)
+- 「仓颉输入法」QQ 群组 [30476878](https://jq.qq.com/?_wv=1027&k=5W3qETZ)
+- 「仓颉输入法」Freenode IRC 频道 [#CJDFH](https://webchat.freenode.net/?channels=%23CJDFH)
+- 「仓颉输入法」Telegram 群组 [@cangjei](https://t.me/cangjei)
