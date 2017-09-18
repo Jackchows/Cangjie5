@@ -2,40 +2,40 @@
 
 ==2016.02==
 Unicode		漢字		原編碼		新編碼		備註
-U+6A77		橷		dlmu		(刪除)		橷:dlpn	
-U+2B826		𫠦		mlln		mlin
+6A77		橷		dlmu		(刪除)		橷:dlpn	
+2B826		𫠦		mlln		mlin
 ==2016.09.27==
-U+26CCA		𦳊		twki		twii		http://tieba.baidu.com/p/2761902365
+26CCA		𦳊		twki		twii		http://tieba.baidu.com/p/2761902365
 ==2017.04.04==
-U+20466		𠑦		othd		otjd
-U+21172		𡅲		rthd		rtjd
-U+26156		𦅖		vfomm		vform
-U+26760		𦝠		yvrbj		yn		整體字
-U+22E65		𢹥		qmag		qmkg
-U+203CE		𠏎		omrq		(刪除)		𠏎:orroq
-U+203F8		𠏸		omrd		(删除)		𠏸:orhdd
-U+208C5		𠣅		thjs		tjks
-U+2112C		𡄬		omri		ormii
-U+21FD2		𡿒		uthd		utjs
-U+21FD7		𡿗		uthd		utjd
-U+2230E		𢌎		ithd		itrd
-U+246C8		𤛈		omrq		orhqq
-U+263FB		𦏻		smmvs		smmms
-U+2754F		𧕏		thji		tjlmi
-U+2823F		𨈿		omrh		orhxh
-U+2A4C8		𪓈		wfthd		wftjd
-U+2AC51		𪱑		abikg		ambg
-U+2AC51		𪱑		(新增)		amkg		存疑
-U+2AEB6		𪺶		thjq		tjhq
-U+2B28E		𫊎		thjg		tjg
-U+5B7D		孽		thjd		(删除)		孽:tjnd
-U+5DD5		巕		uthv		utjd
+20466		𠑦		othd		otjd
+21172		𡅲		rthd		rtjd
+26156		𦅖		vfomm		vform
+26760		𦝠		yvrbj		yn		整體字
+22E65		𢹥		qmag		qmkg
+203CE		𠏎		omrq		(刪除)		𠏎:orroq
+203F8		𠏸		omrd		(删除)		𠏸:orhdd
+208C5		𠣅		thjs		tjks
+2112C		𡄬		omri		ormii
+21FD2		𡿒		uthd		utjs
+21FD7		𡿗		uthd		utjd
+2230E		𢌎		ithd		itrd
+246C8		𤛈		omrq		orhqq
+263FB		𦏻		smmvs		smmms
+2754F		𧕏		thji		tjlmi
+2823F		𨈿		omrh		orhxh
+2A4C8		𪓈		wfthd		wftjd
+2AC51		𪱑		abikg		ambg
+2AC51		𪱑		(新增)		amkg		存疑
+2AEB6		𪺶		thjq		tjhq
+2B28E		𫊎		thjg		tjg
+5B7D		孽		thjd		(删除)		孽:tjnd
+5DD5		巕		uthv		utjd
 ==2017.06.09==
-U+22334		𢌴		rvt		(删除)		𢌴:rut
+22334		𢌴		rvt		(删除)		𢌴:rut
 ==2017.06.13==
-U+6A77		橷		(新增)		dlmu		另有橷:dlpn [撤銷#3]
+6A77		橷		(新增)		dlmu		另有橷:dlpn [撤銷#5]
 ==2017.06.17==
-U+22334		𢌴		(新增)		rvt		另有𢌴:rut [撤銷#34]
+22334		𢌴		(新增)		rvt		另有𢌴:rut [撤銷#34]
 3789		㞉		kntqm		(刪除)		http://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=15476
 3DE2		㷢		tqmf		tmf		
 3F68		㽨		(新增)		wthm		另有㽨：wtqm
