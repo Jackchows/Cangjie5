@@ -1,5 +1,3 @@
-#校對至U+2E34B
-
 2CEB0	𬺰	jn
 2CEB1	𬺱	jh
 2CEB2	𬺲	hnm
@@ -5744,6 +5742,7 @@
 2E35F	𮍟	hubwi
 2E360	𮍠	mgije
 2E361	𮍡	mghe
+2E361	𮍡	mgme
 2E362	𮍢	fqmig
 2E363	𮍣	mgqkq
 2E364	𮍤	hbmig
@@ -5806,6 +5805,7 @@
 2E39A	𮎚	grav
 2E39B	𮎛	nru
 2E39C	𮎜	oau
+2E39D	𮎝	nuyrn
 2E39D	𮎝	nuyru
 2E39E	𮎞	kanau
 2E39F	𮎟	tb
@@ -5858,7 +5858,7 @@
 2E3CE	𮏎	tji
 2E3CF	𮏏	tcog
 2E3D0	𮏐	tptc
-2E3D1	𮏑	tjnu
+2E3D1	𮏑	tjnp
 2E3D2	𮏒	tlb
 2E3D3	𮏓	tmmm
 2E3D4	𮏔	tjtu
@@ -5893,6 +5893,7 @@
 2E3F1	𮏱	tjmy
 2E3F2	𮏲	trli
 2E3F3	𮏳	tjwo
+2E3F3	𮏳	tllo
 2E3F4	𮏴	tnbs
 2E3F5	𮏵	toyr
 2E3F6	𮏶	tkhk
@@ -5921,7 +5922,7 @@
 2E40C	𮐌	tjmdm
 2E40D	𮐍	tjmvh
 2E40E	𮐎	tlmu
-2E40F	𮐏	tohq
+2E40F	𮐏	tohqo
 2E410	𮐐	tbav
 2E411	𮐑	tkhb
 2E412	𮐒	thoe
@@ -5933,7 +5934,7 @@
 2E418	𮐘	tioj
 2E419	𮐙	tjcu
 2E41A	𮐚	tfmo
-2E41B	𮐛	tyvb
+2E41B	𮐛	tyrb
 2E41C	𮐜	tphh
 2E41D	𮐝	tibp
 2E41E	𮐞	tvvu
@@ -5949,7 +5950,7 @@
 2E427	𮐧	tbcp
 2E428	𮐨	tbov
 2E429	𮐩	twog
-2E42A	𮐪	trid
+2E42A	𮐪	trcd
 2E42B	𮐫	tkha
 2E42C	𮐬	theb
 2E42D	𮐭	tuie
@@ -6158,7 +6159,7 @@
 2E4E7	𮓧	yucor
 2E4E8	𮓨	ynrmu
 2E4E8	𮓨	yurmu
-2E4E9	𮓩	tccms
+2E4E9	𮓩	yccms
 2E4E9	𮓩	ymcms
 2E4EA	𮓪	ymnin
 2E4EB	𮓫	jjypn
@@ -6169,6 +6170,7 @@
 2E4EE	𮓮	yufhf
 2E4EF	𮓯	ynfdq
 2E4EF	𮓯	yufdq
+2E4F0	𮓰	lim
 2E4F0	𮓰	lmi
 2E4F1	𮓱	hlm
 2E4F2	𮓲	lipn
@@ -6184,7 +6186,7 @@
 2E4F9	𮓹	lisk
 2E4FA	𮓺	limms
 2E4FB	𮓻	lilbu
-2E4FC	𮓼	liimo
+2E4FC	𮓼	licc
 2E4FD	𮓽	lipt
 2E4FE	𮓾	mslmi
 2E4FF	𮓿	liw
@@ -6197,7 +6199,7 @@
 2E506	𮔆	lihbt
 2E507	𮔇	hylmi
 2E508	𮔈	liohu
-2E509	𮔉	leci
+2E509	𮔉	jeci
 2E50A	𮔊	limob
 2E50B	𮔋	liqll
 2E50B	𮔋	liqln
@@ -6264,7 +6266,7 @@
 2E546	𮕆	liyto
 2E547	𮕇	lisod
 2E548	𮕈	limue
-2E549	𮕉	selmi
+2E549	𮕉	selii
 2E54A	𮕊	rinoi
 2E54B	𮕋	liwlo
 2E54C	𮕌	liqoc
@@ -6321,6 +6323,7 @@
 2E57F	𮕿	lnir
 2E580	𮖀	lyvo
 2E581	𮖁	lmob
+2E582	𮖂	lhkr
 2E582	𮖂	lmkr
 2E583	𮖃	lleg
 2E584	𮖄	rauv
@@ -6390,6 +6393,7 @@
 2E5BF	𮖿	mwoml
 2E5C0	𮗀	mwhey
 2E5C1	𮗁	mwkii
+2E5C1	𮗁	mwkml
 2E5C2	𮗂	mwwvj
 2E5C3	𮗃	mwnii
 2E5C4	𮗄	mwysk
@@ -6509,6 +6513,7 @@
 2E634	𮘴	yrhhk
 2E635	𮘵	yrjmc
 2E636	𮘶	yrilb
+2E637	𮘷	yryhm
 2E637	𮘷	yrykm
 2E638	𮘸	yrssf
 2E639	𮘹	yrtso
@@ -6599,6 +6604,7 @@
 2E688	𮚈	bcoos
 2E689	𮚉	bcjmu
 2E68A	𮚊	itsc
+2E68A	𮚊	ixbuc
 2E68B	𮚋	qubuc
 2E68C	𮚌	mkbuc
 2E68D	𮚍	jrrbc
@@ -6669,7 +6675,7 @@
 2E6CB	𮛋	rmq
 2E6CC	𮛌	rmci
 2E6CD	𮛍	csho
-2E6CE	𮛎	roimo
+2E6CE	𮛎	rocc
 2E6CF	𮛏	rmkm
 2E6D0	𮛐	rmmym
 2E6D1	𮛑	rmymy
@@ -6859,7 +6865,7 @@
 2E780	𮞀	vhtwv
 2E781	𮞁	ymmm
 2E782	𮞂	yyn
-2E783	𮞃	ymo
+2E783	𮞃	yio
 2E784	𮞄	ymr
 2E785	𮞅	yhv
 2E786	𮞆	ymhl
@@ -6969,6 +6975,7 @@
 2E7EA	𮟪	ipnl
 2E7EB	𮟫	hhnl
 2E7EC	𮟬	henl
+2E7EC	𮟬	menl
 2E7ED	𮟭	cinl
 2E7EE	𮟮	ycnl
 2E7EF	𮟯	bqnl
@@ -7093,6 +7100,7 @@
 2E863	𮡣	mbdug
 2E864	𮡤	cysm
 2E865	𮡥	clb
+2E866	𮡦	cshh
 2E866	𮡦	csim
 2E867	𮡧	cik
 2E868	𮡨	cmdm
@@ -7104,7 +7112,7 @@
 2E86E	𮡮	cjd
 2E86F	𮡯	cnil
 2E870	𮡰	comj
-2E871	𮡱	cbt
+2E871	𮡱	cbtt
 2E872	𮡲	caj
 2E873	𮡳	chpl
 2E874	𮡴	coke
@@ -7205,6 +7213,7 @@
 2E8C7	𮣇	cqrj
 2E8C8	𮣈	cnbe
 2E8C9	𮣉	cjjc
+2E8C9	𮣉	cjpc
 2E8CA	𮣊	cytc
 2E8CB	𮣋	ehc
 2E8CC	𮣌	csfv
@@ -7434,7 +7443,7 @@
 2E99E	𮦞	mwau
 2E99F	𮦟	mbwf
 2E9A0	𮦠	mbajd
-2E9A1	𮦡	mbbou
+2E9A1	𮦡	mbbmu
 2E9A2	𮦢	mbytk
 2E9A3	𮦣	mbehr
 2E9A4	𮦤	mbmge
@@ -7462,7 +7471,7 @@
 2E9B9	𮦹	mbetc
 2E9BA	𮦺	mbedh
 2E9BB	𮦻	srmbg
-2E9BC	𮦼	mbetf
+2E9BC	𮦼	mbecf
 2E9BD	𮦽	mbetv
 2E9BE	𮦾	mbsjb
 2E9BF	𮦿	mbeyg
@@ -7474,6 +7483,7 @@
 2E9C5	𮧅	lyw
 2E9C6	𮧆	lylbk
 2E9C7	𮧇	jilmy
+2E9C7	𮧇	jily
 2E9C8	𮧈	hytlk
 2E9C9	𮧉	mwmy
 2E9CA	𮧊	mwbm
@@ -7643,9 +7653,9 @@
 2EA4F	𮩏	osjff
 2EA50	𮩐	oimwj
 2EA50	𮩐	osmwj
-2EA51	𮩑	groiv
+2EA51	𮩑	geoiv
 2EA52	𮩒	oigrt
-2EA52	𮩒	osgor
+2EA52	𮩒	osgrt
 2EA53	𮩓	oimwm
 2EA53	𮩓	osmwm
 2EA54	𮩔	oihak
@@ -7657,9 +7667,9 @@
 2EA57	𮩗	osfbc
 2EA58	𮩘	oitlf
 2EA58	𮩘	ostlf
-2EA59	𮩙	oimef
+2EA59	𮩙	oitmf
 2EA59	𮩙	oitnf
-2EA59	𮩙	osmef
+2EA59	𮩙	ostmf
 2EA59	𮩙	ostnf
 2EA5A	𮩚	nboiv
 2EA5B	𮩛	nvppj
@@ -7830,6 +7840,7 @@
 2EAFE	𮫾	nfdmf
 2EAFF	𮫿	nfhxo
 2EB00	𮬀	nfhda
+2EB01	𮬁	nfili
 2EB01	𮬁	nfiti
 2EB02	𮬂	nftw
 2EB03	𮬃	nfhei
@@ -7851,7 +7862,7 @@
 2EB12	𮬒	nfypf
 2EB13	𮬓	nfwek
 2EB14	𮬔	nfanb
-2EB15	𮬕	tyrf
+2EB15	𮬕	tybf
 2EB16	𮬖	nfqoc
 2EB17	𮬗	nfmht
 2EB18	𮬘	nftkt
@@ -7949,15 +7960,18 @@
 2EB6F	𮭯	ywrrs
 2EB70	𮭰	ywyhn
 2EB71	𮭱	itsf
+2EB71	𮭱	ixf
 2EB72	𮭲	ipr
 2EB73	𮭳	ipmgi
+2EB74	𮭴	iphv
 2EB74	𮭴	iypv
 2EB75	𮭵	ipnau
 2EB76	𮭶	mmbbi
 2EB77	𮭷	mmbbf
 2EB78	𮭸	iptgk
-2EB79	𮭹	mbmtc
+2EB79	𮭹	mbmlo
 2EB7A	𮭺	iphui
+2EB7B	𮭻	johe
 2EB7B	𮭻	joni
 2EB7C	𮭼	dejnu
 2EB7C	𮭼	jejnu
@@ -7978,7 +7992,7 @@
 2EB83	𮮃	qee
 2EB84	𮮄	qemls
 2EB85	𮮅	qeno
-2EB86	𮮆	qensu
+2EB86	𮮆	qepsu
 2EB87	𮮇	qeihq
 2EB88	𮮈	icd
 2EB88	𮮈	idd
@@ -8044,7 +8058,7 @@
 2EBBA	𮮺	ysvb
 2EBBB	𮮻	ysol
 2EBBC	𮮼	ysoa
-2EBBD	𮮽	ylvo
+2EBBD	𮮽	ylmo
 2EBBE	𮮾	yup
 2EBBF	𮮿	yudi
 2EBC0	𮯀	yuno
@@ -8079,6 +8093,7 @@
 2EBDD	𮯝	owli
 2EBDD	𮯝	owlk
 2EBDD	𮯝	owlo
-2EBDE	𮯞	nbusu
-2EBDF	𮯟	nauu
+2EBDE	𮯞	nbmu
+2EBDE	𮯞	nbsu
+2EBDF	𮯟	nabu
 2EBE0	𮯠	obta
