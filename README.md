@@ -6,15 +6,11 @@
 
 在原碼表的基礎上進行了如下修改：
 - 刪除 原碼表中的 Unicode 私人使用區（PUA）字符
-- 添加 Unicode 中日韓越統一表意文字擴展 E 區字符
-- 添加 Unicode 7.0 版本中，中日韓越統一表意文字區新增的字符（U+9FCD - U+9FD5）
+- 添加 Unicode 中日韓越統一表意文字擴展 E 區、擴展 F 區字符
+- 添加 Unicode 7.0、10.0 版本中，中日韓越統一表意文字區新增的字符（U+9FCD - U+9FEA）
 - 修改 部份錯誤編碼（詳見[變更歷史](https://github.com/Jackchows/Cangjie5/blob/master/change_details.log)及[說明#主要改碼說明及爭議取碼](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.txt#L1)）
 - 釐定 部份爭議編碼[說明#主要改碼說明及爭議取碼](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.txt#L1)）
 - 修改 部份同碼字排序（詳見[說明#重碼字排序調整](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.txt#L15)）
-
-Cangjie5 ext-F (beta) 包含以下編碼：
-- Unicode 中日韓越統一表意文字擴展 F 區字符（編碼校對中）
-- Unicode 10.0 版本中，中日韓越統一表意文字區新增的字符（U+9FD6 - U+9FEA）
 
 進行中的工作：
 - 參考《第五代倉頡輸入法手冊》、[「漢文庫典」](http://hanculture.com/dic/index.php)及沈紅蓮女士的回信（[一](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=789)、[二](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=793)），校對碼表
