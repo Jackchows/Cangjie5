@@ -9,7 +9,7 @@
 - 添加 Unicode 中日韓越統一表意文字擴展 E 區、擴展 F 區字符
 - 添加 Unicode 7.0、10.0 版本中，中日韓越統一表意文字區新增的字符（U+9FCD - U+9FEA）
 - 修改 部份錯誤編碼（詳見[變更歷史](https://github.com/Jackchows/Cangjie5/blob/master/change_details.log)及[說明#主要改碼說明及爭議取碼](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.txt#L1)）
-- 釐定 部份爭議編碼[說明#主要改碼說明及爭議取碼](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.txt#L1)）
+- 釐定 部份爭議編碼（詳見[說明#主要改碼說明及爭議取碼](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.txt#L1)）
 - 修改 部份同碼字排序（詳見[說明#重碼字排序調整](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.txt#L15)）
 
 進行中的工作：
