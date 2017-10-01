@@ -2986,7 +2986,7 @@
 𧸔	bcykm
 𧶆	bcykr
 𧸽	bcylc
-𡮧	bcymf
+𡮧	wcymf
 𧸗	bcymh
 譻	bcymr
 𧸥	bcymu
@@ -18349,7 +18349,7 @@
 熉	frbc
 𪹢	frbe
 𤈶	frbo
-𥂁	frbt
+𥂁	grbt
 炽	frc
 𪹐	frf
 𬊒	frhg
@@ -30081,6 +30081,7 @@
 𦦅	hxqkk
 𭇦	hxr
 𪓢	hxrxu
+𦑪	hxsmm
 𩣅	hxsqf
 舁	hxt
 𢍯	hxt
@@ -30360,6 +30361,7 @@
 𬜑	hyks
 𮎅	hykui
 舯	hyl
+𥫴	hylb
 𦪺	hylcx
 螽	hylii
 𦨡	hylln
@@ -30635,7 +30637,7 @@
 𥱱	hytr
 䑫	hytt
 𥵪	hytt
-䑫	hytt
+䑫	hyyjj
 𦩷	hyttb
 篭	hytu
 䈉	hytv
@@ -47603,7 +47605,7 @@
 𭜹	mhp
 𮓘	mhp
 𪠔	mhpe
-𠁅	mhpkk
+𠁅	mgpkk
 𭅍	mhpkk
 厎	mhpm
 鸦	mhpym
@@ -48840,7 +48842,7 @@
 𣨽	mntlk
 殣	mntlm
 𣨴	mntmd
-𣩫	mntmd
+𣩫	mntcd
 𣩷	mntnf
 𣨠	mntp
 𣩨	mntpd
@@ -66329,7 +66331,7 @@
 𠼋	ranr
 𡁡	ranr
 𡁤	ranr
-𪡛	ranr
+𪡛	rlsr
 𡂛	rant
 𡅭	rant
 𫫭	rant
@@ -73448,6 +73450,7 @@
 𦐦	smher
 𭛍	smhhl
 𦐣	smhjd
+𦑣	smhjx
 𦒓	smhkb
 𦐠	smhpm
 翐	smhqo
@@ -81396,7 +81399,7 @@
 𡺳	umss
 𭖆	umsu
 岍	umt
-岍	umt
+岍	umjj
 巁	umtb
 𡾣	umtc
 𪨷	umth
@@ -93919,7 +93922,6 @@
 𣧹	xmnsj
 𣩠	xmntc
 𪼼	xmnth
-𣩫	xmntm
 𭮎	xmntt
 𣧈	xmnu
 𩒆	xmnvv

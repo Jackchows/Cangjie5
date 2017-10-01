@@ -1457,3 +1457,14 @@ F9A4		捻		qomp		qoip
 [添加 Unicode 中日韓越統一表意文字擴展 F 區字符]
 ==2017.09.26==								@mrhso 修改
 2C1C8		𬇈		huufdi		huudi		修正 Typo。
+==2017.10.01==								@mrhso 修改，村瀨纱英@百度貼吧 在 http://tieba.baidu.com/p/5154372290 (13L) 提供意見
+2A85B		𪡛		ranr		rlsr		錯當繁體取碼，修正。
+2F87A		岍		umt		umjj
+23A6B		𣩫		mntmd		mntcd		我想大概是手滑了。
+20045		𠁅		mhpkk		mgpkk		官方編碼(http://hanculture.com/dic/v.php?id=70980)也是「一土心大大」。
+25081		𥂁		frbt		grbt		嗯，也是手滑了。
+25AF4		𥫴		(新增)		hylb		另有𥫴：hjb　一番考證後，得到搞 CNS 的那堆人看不懂舊字形，把「市」當成了「巿」的結論。大陸方字形是「市」，因此兼容。
+2646A		𦑪		(新增)		hxsmm		另有𦑪：mxsmm
+26463		𦑣		(新增)		smhjx		另有𦑣：smmjx
+2F98E		䑫		hytt		hyyjj
+21BA7		𡮧		bcymf		wcymf
