@@ -2,6 +2,8 @@
 
 [傳統漢字版說明](https://github.com/Jackchows/Cangjie5/blob/master/README.md)
 
+相关项目：[Arthurmcarthur/Cangjie3-Plus](https://github.com/Arthurmcarthur/Cangjie3-Plus)
+
 原码表为[「仓颉平台 2012」](http://www.chinesecj.com/forum/viewthread.php?tid=2596)的「五仓世纪」码表
 
 在原码表的基础上进行了如下修改：
@@ -19,7 +21,7 @@
 ## 反馈错误
 
 若发现错误，可在此处[反馈](https://github.com/Jackchows/Cangjie5/issues/new)。
-另外，也会收集在下方「友情连接」中的地点反馈的错误。
+另外，也会收集在下方「友情连接」各处反馈的错误。
 多谢！
 
 ## 友情连接

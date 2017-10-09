@@ -2,6 +2,8 @@
 
 [简化字版说明](https://github.com/Jackchows/Cangjie5/blob/master/README-hans.md)
 
+相關項目：[Arthurmcarthur/Cangjie3-Plus](https://github.com/Arthurmcarthur/Cangjie3-Plus)
+
 原碼表為[「倉頡平台 2012」](http://www.chinesecj.com/forum/viewthread.php?tid=2596)的「五倉世紀」碼表
 
 在原碼表的基礎上進行了如下修改：
@@ -19,7 +21,7 @@
 ## 反饋錯誤
 
 若發現錯誤，可在此處[反饋](https://github.com/Jackchows/Cangjie5/issues/new)。
-另外，也會收集在下方「友情連接」中的地點反饋的錯誤。
+另外，也會收集在下方「友情連接」各處反饋的錯誤。
 多謝！
 
 ## 友情連接
