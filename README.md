@@ -12,11 +12,11 @@
 - 添加 Unicode 7.0、10.0 版本中，中日韓越統一表意文字區新增的字符（U+9FCD - U+9FEA）
 - 修改 部份錯誤編碼（詳見[變更歷史](https://github.com/Jackchows/Cangjie5/blob/master/change_details.log)及[說明#主要改碼說明及爭議取碼](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.txt#L1)）
 - 釐定 部份爭議編碼（詳見[說明#主要改碼說明及爭議取碼](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.txt#L1)）
-- 修改 部份同碼字排序（詳見[說明#重碼字排序調整](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.txt#L15)）
+- 修改 部份同碼字排序（詳見[說明#重碼字排序調整](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.txt#L28)）
 
 進行中的工作：
 - 參考《第五代倉頡輸入法手冊》、[「漢文庫典」](http://hanculture.com/dic/index.php)及沈紅蓮女士的回信（[一](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=789)、[二](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=793)），校對碼表
-- 參考官方編碼處理字形兼容（詳見[說明#字形兼容](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.txt#L8)）
+- 參考官方編碼處理字形兼容（詳見[說明#字形兼容](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.txt#L21)）
 
 ## 反饋錯誤
 
