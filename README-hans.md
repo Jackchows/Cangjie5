@@ -10,13 +10,13 @@
 - 删除 原码表中的 Unicode 私人使用区（PUA）字符
 - 添加 Unicode 中日韩越统一表意文字扩展 E 区、扩展 F 区字符
 - 添加 Unicode 7.0、10.0 版本中，中日韩越统一表意文字区新增的字符（U+9FCD - U+9FEA）
-- 修改 部份错误编码（详见[变更历史](https://github.com/Jackchows/Cangjie5/blob/master/change_details.log)及[说明#主要改码说明及争议取码](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.txt#L1)）
-- 厘定 部份争议编码（详见[说明#主要改码说明及争议取码](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.txt#L1)）
-- 修改 部份同码字排序（详见[说明#重码字排序调整](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.txt#L28)）
+- 修改 部份错误编码（详见[变更历史](https://github.com/Jackchows/Cangjie5/blob/master/change_details.log)及[说明#主要改码说明及争议取码](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#主要改碼說明及爭議取碼)）
+- 厘定 部份争议编码（详见[说明#主要改码说明及争议取码](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#主要改碼說明及爭議取碼)）
+- 修改 部份同码字排序（详见[说明#重码字排序调整](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#重碼字排序調整)）
 
 进行中的工作：
 - 参考《第五代仓颉输入法手册》、[「汉文库典」](http://hanculture.com/dic/index.php)及沈红莲女士的回信（[一](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=789)、[二](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=793)），校对码表
-- 参考官方编码处理字形兼容（详见[说明#字形兼容](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.txt#L21)）
+- 参考官方编码处理字形兼容（详见[说明#字形兼容](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#字形兼容)）
 
 ## 反馈错误
 
