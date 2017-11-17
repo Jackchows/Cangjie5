@@ -29,4 +29,4 @@
 - [「天苍人颉」论坛](http://ejsoon.win/phpbb/)
 - 「仓颉输入法」QQ 群组 [30476878](https://jq.qq.com/?_wv=1027&k=5W3qETZ)
 - 「仓颉输入法」Freenode IRC 频道 [#CJDFH](https://webchat.freenode.net/?channels=%23CJDFH)
-- 「仓颉输入法」Telegram 群组 [@cangjei](https://t.me/cangjei)
+- 「仓颉输入法」Telegram 群组 [@changjei](https://t.me/changjei)
