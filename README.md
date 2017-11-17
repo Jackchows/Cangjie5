@@ -29,4 +29,4 @@
 - [「天蒼人頡」論壇](http://ejsoon.win/phpbb/)
 - 「倉頡輸入法」QQ 群組 [30476878](https://jq.qq.com/?_wv=1027&k=5W3qETZ)
 - 「倉頡輸入法」Freenode IRC 頻道 [#CJDFH](https://webchat.freenode.net/?channels=%23CJDFH)
-- 「倉頡輸入法」Telegram 群組 [@cangjei](https://t.me/cangjei)
+- 「倉頡輸入法」Telegram 群組 [@changjei](https://t.me/changjei)
