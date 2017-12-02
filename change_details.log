@@ -1645,7 +1645,7 @@ F907	龜	(新增)	hxu	另有龜：nxu
 2A73A	𪜺	ovfi	ovmi
 2A743	𪝃	odnk	odei
 2A744	𪝄	okos	okcs
-===2017.11.24=				@pttp 提供
+===2017.12.02=				@pttp 提供
 2A779	𪝹	obvfh	ohbh	𪝹：ohbh/oibh/ombh
 2A779	𪝹	(新增)	oibh	𪝹：ohbh/oibh/ombh
 2A779	𪝹	(新增)	ombh	𪝹：ohbh/oibh/ombh
@@ -1664,10 +1664,10 @@ F907	龜	(新增)	hxu	另有龜：nxu
 2A817	𪠗	(新增)	hdir	另有𪠗：mdir
 2A830	𪠰	eeen	eeeen	
 2A831	𪠱	segiy	segii	𪠱：segii/segik/segio
-2A831	𪠱	(新增)	segik	
-2A831	𪠱	(新增)	segio	
+2A831	𪠱	(新增)	segik	𪠱：segii/segik/segio
+2A831	𪠱	(新增)	segio	𪠱：segii/segik/segio
 2A83A	𪠺	rggi	rqki	
-2A83F	𪠿	ronn	rh	
+2A83F	𪠿	(新增)	rh	另有𪠿：ronn
 2A844	𪡄	rwlc	rswl	
 2B820	𫠠	jn	jv	
 2B823	𫠣	kvsd	kvnd	
@@ -1682,4 +1682,19 @@ F907	龜	(新增)	hxu	另有龜：nxu
 2BAD5	𫫕	rsnq	rdnq	
 2BAF9	𫫹	(新增)	hryhh	𫫹：hrykh/mrykh/hryhh/mryhh
 2BAF9	𫫹	(新增)	mryhh	𫫹：hrykh/mrykh/hryhh/mryhh
-2BBC6	𫯆	ecgah	icgah	
+820F	舏	(新增)	mrvl	另有舏：hrvl2A78C	𪞌	cwyw	cwywr	
+200D5	𠃕	lvhu	lvlu	
+20B1E	𠬞	vhe	vle	
+20B33	𠬳	vhvie	vlvie	
+20B3B	𠬻	qjvhe	qjvle	另有𠬻：qjve
+20B3B	𠬻	(新增)	qjve	另有𠬻：qjvle
+20B3F	𠬿	omvhe	omvle	
+20B61	𠭡	hovhe	hovle	
+20B8E	𠮎	mrvhe	mrvle	
+24F3C	𤼼	novhe	novle	
+26960	𦥠	hxvhe	hxvle	
+26992	𦦒	hxvhe	hxvle	
+26B25	𦬥	tvhl	tvll	
+26B25	𦬥	(新增)	tvlj	另有𦬥：tvll
+26C60	𦱠	(新增)	uuvjl	另有𦱠：uuvll
+27C0D	𧰍	uunie	lmnie	
