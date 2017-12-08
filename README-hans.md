@@ -4,19 +4,31 @@
 
 相关项目：[Arthurmcarthur/Cangjie3-Plus](https://github.com/Arthurmcarthur/Cangjie3-Plus)
 
-原码表为[「仓颉平台 2012」](http://www.chinesecj.com/forum/viewthread.php?tid=2596)的「五仓世纪」码表
+原码表为[「仓颉平台 2012」](http://www.chinesecj.com/forum/viewthread.php?tid=2596)的「五仓世纪」码表。
 
-在原码表的基础上进行了如下修改：
-- 删除 原码表中的 Unicode 私人使用区（PUA）字符
-- 添加 Unicode 中日韩越统一表意文字扩展 E 区、扩展 F 区字符
-- 添加 Unicode 7.0、10.0 版本中，中日韩越统一表意文字区新增的字符（U+9FCD - U+9FEA）
-- 修改 部份错误编码（详见[变更历史](https://github.com/Jackchows/Cangjie5/blob/master/change_details.log)及[说明#主要改码说明及争议取码](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#主要改碼說明及爭議取碼)）
-- 厘定 部份争议编码（详见[说明#主要改码说明及争议取码](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#主要改碼說明及爭議取碼)）
-- 修改 部份同码字排序（详见[说明#重码字排序调整](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#重碼字排序調整)）
+本项目参考官方数据对码表进行修改，但无意完善仓颉输入法理论，亦无意追求客观。<br />
+本项目以1999版仓颉五代为基础，采纳部份2003版仓颉五代的修改。
 
-进行中的工作：
-- 参考《第五代仓颉输入法手册》、[「汉文库典」](http://hanculture.com/dic/index.php)及沈红莲女士的回信（[一](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=789)、[二](http://ejsoon.win/phpbb/viewtopic.php?f=3&t=793)），校对码表
-- 参考官方编码处理字形兼容（详见[说明#字形兼容](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#字形兼容)）
+本项目主要参考以下数据：<br />
+1. 《第五代仓颉输入法手册》正文中对规则的描述（简称「手册」）<br />
+本项目认为「手册」阐述了仓颉输入法的基本理念和规则，但描述并不详尽。<br />
+《第五代仓颉输入法手册》有两个版本，分别由文化传信和博硕文化出版，两个版本仅在列举字例上有细微差异。<br />
+「手册」属于1999版仓颉五代。<br />
+2. 《第五代仓颉输入法手册》附录码表（简称「附表」）<br />
+本项目认为，与编写《手册》相比，官方在实际编写码表时对规则的考虑更为周全，因此「附表」较「手册」有更高可信度。<br />
+3. [「汉文库典」](http://hanculture.com/dic/index.php)网站（简称「汉文库典」）<br />
+本项目认为「汉文库典」对于大字库的考虑比「手册」和「附表」周全，但「汉文库典」存在受仓颉六代影响而出现错误的情况。<br />
+《汉文库典》属于2003版仓颉五代。<br />
+4. 《第二代仓颉输入法手册》、《第三代仓颉输入法手册》、朱邦复工作室《内码对照表》的六代编码<br />
+本项目认为这些数据虽不属于仓颉五代的范围，但可体现官方的设计理念。<br />
+
+修改编码时，将遵循以下原则：<br />
+1. 某字收录于「附表」，则依「附表」取码。<br />
+2. 「附表」和「手册」发生矛盾，依「附表」取码，适当设兼容码。<br />
+3. 采纳「汉文库典」针对「难字」取码的修改，采纳「汉文库典」针对大字库集的修改。<br />
+4. 「附表」和「汉文库典」发生矛盾，适当设兼容码，属于原则③的情况除外。<br />
+5. 「手册」和「汉文库典」发生矛盾，而该字未见于「附表」，适当设兼容码。但若该字属于常用字，则尽量避免设兼容码。<br />
+6. 取码发生争议，将参考各方观点，凭个人理解确定编码，并在[说明](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#主要改碼說明及爭議取碼)中列明理由。<br />
 
 ## 反馈错误
 
