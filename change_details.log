@@ -2,7 +2,7 @@
 
 ==2016.02==
 Unicode	漢字	原編碼	新編碼	備註
-6A77	橷	dlmu	(刪除)	橷:dlpn	
+6A77	橷	dlmu	(刪除)	橷:dlpn
 2B826	𫠦	mlln	mlin
 ==2016.09.27==
 26CCA	𦳊	twki	twii	http://tieba.baidu.com/p/2761902365
@@ -37,7 +37,7 @@ Unicode	漢字	原編碼	新編碼	備註
 ==2017.06.17==
 22334	𢌴	(新增)	rvt	另有𢌴:rut [撤銷#34]
 3789	㞉	kntqm	(刪除)	http://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=15476
-3DE2	㷢	tqmf	tmf	
+3DE2	㷢	tqmf	tmf
 3F68	㽨	(新增)	wthm	另有㽨：wtqm
 405F	䁟	(新增)	buthm	另有䁟：butqm
 4424	䐤	(新增)	bthm	另有䐤：btqm
@@ -80,7 +80,7 @@ Unicode	漢字	原編碼	新編碼	備註
 273DE	𧏞	(新增)	litqm	另有𧏞：lithm
 2976D	𩝭	(新增)	oitqm	另有𩝭：oithm
 29959	𩥙	(新增)	sftqm	另有𩥙：sfthm
-2A275	𪉵	tghw	tmywi	
+2A275	𪉵	tghw	tmywi
 2B7FF	𫟿	(新增)	opthm	另有𫟿：optqm
 64AF	撯	(新增)	qthu	另有撯：qtqu
 236B0	𣚰	dtgu	dthu	另有𣚰：dtqu
@@ -88,7 +88,7 @@ Unicode	漢字	原編碼	新編碼	備註
 2615D	𦅝	(新增)	vfthu	另有𦅝：vftqu
 28B23	𨬣	ctgu	cthu	另有𨬣：ctqu
 28B23	𨬣	(新增)	ctqu	另有𨬣：ctgu
-28BC6	𨯆	ctga	ctha	
+28BC6	𨯆	ctga	ctha
 28BC6	𨯆	(新增)	ctqa	另有𨯆：ctga
 2A882	𪢂	(新增)	rthu	另有𪢂：rtqu
 36E8	㛨	(新增)	vtqu	另有㛨：vtgu
@@ -111,29 +111,29 @@ Unicode	漢字	原編碼	新編碼	備註
 9990	馐	(新增)	nvthg	另有馐：nvtqg
 9C43	鱃	(新增)	nfthg	另有鱃：nftqg
 267E4	𦟤	btgg	btqg	另有𦟤：bthg
-2B161	𫅡	tgtgr	tgttr	
+2B161	𫅡	tgtgr	tgttr
 ==2017.06.20==
 5DEE	差	(新增)	thm	另有差:tqm
 7740	着	(新增)	thbu	另有着:tqbu
 7F9E	羞	(新增)	thng	另有羞:tqng
 2FAAA	着	(新增)	thbu	另有着:tqbu
-2B8CC	𫣌	otgi	otui	
+2B8CC	𫣌	otgi	otui
 2BE15	𫸕	(新增)	nqthm	另有𫸕:nqtqm
 2BE55	𫹕	(新增)	hotqu	另有𫹕:hotgu
-2BE5C	𫹜	hotgm	hothm	
-2BE5D	𫹝	hotgi	hotui	
-2BEB3	𫺳	ptgm	pthm	
-2C04D	𬁍	atgi	atui	
+2BE5C	𫹜	hotgm	hothm
+2BE5D	𫹝	hotgi	hotui
+2BEB3	𫺳	ptgm	pthm
+2C04D	𬁍	atgi	atui
 2C07F	𬁿	(新增)	btqu	另有𬁿:btgu
 2C343	𬍃	(新增)	khthu	另有𬍃:khtqu
 2C5B1	𬖱	(新增)	fdthg	另有𬖱:fdtqg
 2C637	𬘷	(新增)	vmthm	另有𬘷:vmtqm
-2C67B	𬙻	tqcct	tqcmt	
+2C67B	𬙻	tqcct	tqcmt
 2C746	𬝆	(新增)	ttqu	另有𬝆:ttgu
 2C9F9	𬧹	(新增)	jjthm	另有𬧹:jjtqm
 2CDA3	𬶣	(新增)	nmthm	另有𬶣:nmtqm
 2CE4E	𬹎	qetgr	(刪除)	𬹎:qettr
-2CE8E	𬺎	tqmyu	tmymu	
+2CE8E	𬺎	tqmyu	tmymu
 3A55	㩕	(新增)	qmbl	另有㩕：qmbi
 3B21	㬡	(新增)	ambl	另有㬡：ambi
 3BEA	㯪	(新增)	dmbl	另有㯪：dmbi
@@ -146,7 +146,7 @@ Unicode	漢字	原編碼	新編碼	備註
 4A2B	䨫	(新增)	mbdon	另有䨫：mbjon
 4A2E	䨮	(新增)	mbqjm	另有䨮：mbqjs
 4A3A	䨺	(新增)	mbmmi	另有䨺：mimii
-4A3A	䨺	mimii	mbmii	
+4A3A	䨺	mimii	mbmii
 4A3B	䨻	(新增)	mbmbw	另有䨻：mwmww
 4D07	䴇	(新增)	mlhaf	另有䴇：mihaf
 4D2B	䴫	(新增)	ipmbl	另有䴫：ipmbi
@@ -173,30 +173,30 @@ Unicode	漢字	原編碼	新編碼	備註
 22240	𢉀	(新增)	imeb	另有𢉀：imlb
 22BB3	𢮳	(新增)	qmeb	另有𢮳：qmlb
 22CEC	𢳬	(新增)	qmbs	另有𢳬：qmbm
-232D4	𣋔	ambv	ambu	
+232D4	𣋔	ambv	ambu
 2337E	𣍾	(新增)	bmlb	另有𣍾：bmeb
 2352F	𣔯	(新增)	dmeb	另有𣔯：dmlb
 23DCC	𣷌	(新增)	emeb	另有𣷌：emlb
 23F1B	𣼛	(新增)	eteb	另有𣼛：etlb
 23F99	𣾙	(新增)	eemeb	另有𣾙：eemib
-23F99	𣾙	eemib	eemlb	
+23F99	𣾙	eemib	eemlb
 23FA1	𣾡	(新增)	eisb	另有𣾡：ehsb/emsb
 23FA1	𣾡	(新增)	emsb	另有𣾡：eisb/ehsb
 2416B	𤅫	(新增)	embl	另有𤅫：embi
-24407	𤐇	fmbv	fmbu	
+24407	𤐇	fmbv	fmbu
 244E8	𤓨	(新增)	tlps	另有𤓨：tlpm
 2459C	𤖜	(新增)	vmmbl	另有𤖜：bmmbi
-2459C	𤖜	bmmbi	vmmbi	
-245A5	𤖥	vmmbm	vmmbc	
+2459C	𤖜	bmmbi	vmmbi
+245A5	𤖥	vmmbm	vmmbc
 24A38	𤨸	(新增)	mgteb	另有𤨸：mgtlb
 24FA8	𤾨	(新增)	hambl	另有𤾨：hambi
 252DE	𥋞	(新增)	bumbl	另有𥋞：bumbi
 2559F	𥖟	(新增)	mrmbl	另有𥖟：mrmbi
 25717	𥜗	(新增)	mfmbb	另有𥜗：ifmbb
 258B4	𥢴	(新增)	hdmnl	另有𥢴：hdmbi
-2591C	𥤜	hdtbr	hdtmr	
+2591C	𥤜	hdtbr	hdtmr
 25F38	𥼸	(新增)	fdmbl	另有𥼸：fdmbi
-2684F	𦡏	bmbv	bmbu	
+2684F	𦡏	bmbv	bmbu
 26AA9	𦪩	(新增)	hymbl	另有𦪩：hymbi
 26AC4	𦫄	(新增)	hymbc	另有𦫄：hymbm
 26CB8	𦲸	(新增)	tmeb	另有𦲸：tmlb
@@ -208,16 +208,16 @@ Unicode	漢字	原編碼	新編碼	備註
 285FA	𨗺	(新增)	ymbl	另有𨗺：ymbi
 28796	𨞖	(新增)	mlnl	另有𨞖：minl
 287D8	𨟘	(新增)	mcnl	另有𨟘：mmnl
-287EF	𨟯	mmnl	monl	
+287EF	𨟯	mmnl	monl
 288D6	𨣖	(新增)	mwmbl	另有𨣖：mwmbi
-28B6D	𨭭	cmbi	cmbl	
+28B6D	𨭭	cmbi	cmbl
 28BCE	𨯎	(新增)	combm	另有𨯎：combs
-28C50	𨱐	csmb	opsmb	
+28C50	𨱐	csmb	opsmb
 2904E	𩁎	(新增)	mlog	另有𩁎：miog
 2907C	𩁼	(新增)	nimeb	另有𩁼：nimlb
 2908C	𩂌	(新增)	mblll	另有𩂌：mblln
 29090	𩂐	(新增)	mbmg	另有𩂐：mbhg
-29091	𩂑	mnhnq	mnhnv	
+29091	𩂑	mnhnq	mnhnv
 290C4	𩃄	(新增)	mbikh	另有𩃄：mbiuh
 290C7	𩃇	(新增)	mbgpm	另有𩃇：mbgpm
 290C9	𩃉	(新增)	mbrmk	另有𩃉：mbrvk
@@ -227,14 +227,14 @@ Unicode	漢字	原編碼	新編碼	備註
 29108	𩄈	(新增)	mboli	另有𩄈：mboii
 2911A	𩄚	(新增)	mbjbc	另有𩄚：mbpbc
 29138	𩄸	(新增)	mbome	另有𩄸：mboge
-29138	𩄸	mboge	mbohe	
+29138	𩄸	mboge	mbohe
 29145	𩅅	(新增)	mbett	另有𩅅：mbeyj
 29167	𩅧	(新增)	mbwlo	另有𩅧：mbhto
-29167	𩅧	mbhto	mbhwo	
-29175	𩅵	mbsmg	mbesg	
+29167	𩅧	mbhto	mbhwo
+29175	𩅵	mbsmg	mbesg
 29176	𩅶	(新增)	mbmss	另有𩅶：mbiss
 29196	𩆖	(新增)	mbrrl	另有𩆖：mbrri
-29199	𩆙	mbtkn	mbmkn	
+29199	𩆙	mbtkn	mbmkn
 291A4	𩆤	(新增)	mbejb	另有𩆤：mbedb
 291B9	𩆹	(新增)	mbibl	另有𩆹：mbibl
 291BC	𩆼	(新增)	mbrrl	另有𩆼：mbrri
@@ -248,13 +248,13 @@ Unicode	漢字	原編碼	新編碼	備註
 2A7B5	𪞵	(新增)	hnmbs	另有𪞵：hnmbm
 2AD10	𪴐	(新增)	dmbm	另有𪴐：dymm
 2B4A7	𫒧	(新增)	cmeb	另有𫒧：cmlb
-2B55E	𫕞	mbeg	mbg	
-2B561	𫕡	mblp	mblmp	
-2B562	𫕢	mbwy	mbwyi	
+2B55E	𫕞	mbeg	mbg
+2B561	𫕡	mblp	mblmp
+2B562	𫕢	mbwy	mbwyi
 2B563	𫕣	(新增)	kimbs	另有𫕣：knmbm
-2B563	𫕣	knmbm	kimbm	
+2B563	𫕣	knmbm	kimbm
 2B572	𫕲	(新增)	mbyov	另有𫕲：mbyon
-2B577	𫕷	mbejg	mbetg	
+2B577	𫕷	mbejg	mbetg
 2B7C0	𫟀	(新增)	fdmbm	另有𫟀：fdmbm
 2BC3A	𫰺	(新增)	vmeb	另有𫰺：vmlb
 2BD24	𫴤	(新增)	jmbm	另有𫴤：jmbs
@@ -268,25 +268,25 @@ Unicode	漢字	原編碼	新編碼	備註
 36F3	㛳	yblbv	(刪除)	㛳：ybv
 258A8	𥢨	hsnd	hdsnd
 ==2017.07.02==
-205BC	𠖼	kby	lky	
-20C75	𠱵	wikb	wilbk	
-21626	𡘦	kbbt	lkbt	
-22632	𢘲	kbp	lkp	
-22C36	𢰶	qtkb	qtlk	
-22D5F	𢵟	qkbc	qlkc	
-23257	𣉗	akbt	alkt	
-242CD	𤋍	ffkb	fflbk	
-24920	𤤠	mgkb	mglbk	
-24BA1	𤮡	tnkb	tnlbk	
-24BA4	𤮤	pnlbk	lnlbk	
-2545E	𥑞	mrkb	mrlbk	
-26C08	𦰈	tkby	tlky	
-26D0A	𦴊	tmnb	tmnk	
-26F87	𦾇	tkbd	tlkd	
-26FF4	𦿴	tkcf	tlcf	
-28817	𨠗	mwkb	mwlbk	
-28AF0	𨫰	crrb	crrk	
-29FF6	𩿶	kbhaf	lkhaf	
+205BC	𠖼	kby	lky
+20C75	𠱵	wikb	wilbk
+21626	𡘦	kbbt	lkbt
+22632	𢘲	kbp	lkp
+22C36	𢰶	qtkb	qtlk
+22D5F	𢵟	qkbc	qlkc
+23257	𣉗	akbt	alkt
+242CD	𤋍	ffkb	fflbk
+24920	𤤠	mgkb	mglbk
+24BA1	𤮡	tnkb	tnlbk
+24BA4	𤮤	pnlbk	lnlbk
+2545E	𥑞	mrkb	mrlbk
+26C08	𦰈	tkby	tlky
+26D0A	𦴊	tmnb	tmnk
+26F87	𦾇	tkbd	tlkd
+26FF4	𦿴	tkcf	tlcf
+28817	𨠗	mwkb	mwlbk
+28AF0	𨫰	crrb	crrk
+29FF6	𩿶	kbhaf	lkhaf
 2A6BB	𪚻	lkhxu	(刪除)	𪚻：lknxu
 2B66C	𫙬	nflbt	nflkt
 ==2017.07.30==
@@ -884,14 +884,14 @@ FAB8	視	(新增)	mfbuu	另有視：ifbuu
 22287	𢊇	ixyv	ixv	-
 222F5	𢋵	ixtwd	ixw	-
 ==2017.08.06==
-2068F	𠚏	uhjo	hjuo	
+2068F	𠚏	uhjo	hjuo
 2749F	𧒟	isci	imlii
 2A700	𪜀	tvn	tn
 20562	𠕢	lbcb	lbfb
 ==2017.08.07==
 93AB	鎫	chbe	chce
-22A1C	𢨜	imlii	imli	
-518E	冎	bmlb	bb	
+22A1C	𢨜	imlii	imli
+518E	冎	bmlb	bb
 518E	冎	bnb	(刪除)	冎：bb
 20225	𠈥	obmb	obb	-
 20225	𠈥	obnb	(刪除)	𠈥：obb
@@ -911,111 +911,111 @@ FAB8	視	(新增)	mfbuu	另有視：ifbuu
 6539	改	svok	(刪除)	改：suok
 20525	𠔥	(新增)	txf	另有𠔥：cmxf
 20674	𠙴	(新增)	vo	另有𠙴：cm
-28525	𨔥	ylmh	ylqh	
-238FD	𣣽	omno	ocno	
+28525	𨔥	ylmh	ylqh
+238FD	𣣽	omno	ocno
 27D7E	𧵾	(新增)	bcye	另有𧵾：bcine
-2896F	𨥯	cmln	cmvn	
-28AA4	𨪤	cnyy	cnmm	
+2896F	𨥯	cmln	cmvn
+28AA4	𨪤	cnyy	cnmm
 28ACC	𨫌	cmva	cmia	另有𨫌：cmca
-28C3E	𨰾	cnvm	opnvm	
-28C3F	𨰿	con	opon	
-28C40	𨱀	cmvm	opmvm	
-28C45	𨱅	cohh	opohh	
-28C4E	𨱎	comn	opomn	
-28C53	𨱓	cogf	opogf	
-28C55	𨱕	cnbq	opnbq	
-2B09B	𫂛	hwmf	hwrf	
-2F1F	⼟	jm	g	
+28C3E	𨰾	cnvm	opnvm
+28C3F	𨰿	con	opon
+28C40	𨱀	cmvm	opmvm
+28C45	𨱅	cohh	opohh
+28C4E	𨱎	comn	opomn
+28C53	𨱓	cogf	opogf
+28C55	𨱕	cnbq	opnbq
+2B09B	𫂛	hwmf	hwrf
+2F1F	⼟	jm	g
 3403	㐃	(新增)	il	另有㐃：oml
-2074E	𠝎	nan	nlan	
-28978	𨥸	cpck	oppuk	
-28A73	𨩳	ctc	ctog	
-28AE7	𨫧	csya	csma	
-28C42	𨱂	cop	opop	
-28C4A	𨱊	csuu	opsuu	
-2B492	𫒒	cpg	com	
-2BF17	𫼗	qnsm	qnvm	
+2074E	𠝎	nan	nlan
+28978	𨥸	cpck	oppuk
+28A73	𨩳	ctc	ctog
+28AE7	𨫧	csya	csma
+28C42	𨱂	cop	opop
+28C4A	𨱊	csuu	opsuu
+2B492	𫒒	cpg	com
+2BF17	𫼗	qnsm	qnvm
 2C932	𬤲	crosl	croml	另有𬤲：croii
 ==2017.08.17==				小呉同學@QQ群 協助
-28C41	𨱁	chne	ophne	
-28C43	𨱃	chio	ophvo	
+28C41	𨱁	chne	ophne
+28C43	𨱃	chio	ophvo
 28C43	𨱃	ophlo	(刪除)	𨱃：ophvo
-28C44	𨱄	cuu	opuu	
-28C46	𨱆	cih	opih	
-28C48	𨱈	cdl	opdl	
-28C49	𨱉	cyrf	opyrf	
-28C4B	𨱋	cgce	opgce	
-28C4C	𨱌	cwjo	opwjo	
-28C4D	𨱍	ciil	opiil	
-28C4F	𨱏	ctor	optor	
-28C51	𨱑	ctwc	optlc	
-28C52	𨱒	cdlo	opdlo	
-28C54	𨱔	ctwi	optwi	
-28C56	𨱖	chok	ophok	
-2B4E9	𫓩	ophoo	opoo	
+28C44	𨱄	cuu	opuu
+28C46	𨱆	cih	opih
+28C48	𨱈	cdl	opdl
+28C49	𨱉	cyrf	opyrf
+28C4B	𨱋	cgce	opgce
+28C4C	𨱌	cwjo	opwjo
+28C4D	𨱍	ciil	opiil
+28C4F	𨱏	ctor	optor
+28C51	𨱑	ctwc	optlc
+28C52	𨱒	cdlo	opdlo
+28C54	𨱔	ctwi	optwi
+28C56	𨱖	chok	ophok
+2B4E9	𫓩	ophoo	opoo
 ==2017.08.19==				小呉同學@QQ群、@Arthurmcarthur 協助
 9425	鐥	(新增)	ctgr	另有鐥：cttr
 2004A	𠁊	(新增)	jok	另有𠁊：qooo/jook
 2004A	𠁊	(新增)	jook	另有𠁊：qooo/jok
-200FD	𠃽	cyu	cmu	
+200FD	𠃽	cyu	cmu
 201A6	𠆦	(新增)	po	另有𠆦：vom
 24CCA	𤳊	cwyjj	vwyjj	另有𤳊：vwtt
 24CCA	𤳊	(新增)	vwtt	另有𤳊：vwyjj
-250C5	𥃅	cubt	cvbt	
-28A4F	𨩏	cyiq	cyvq	
-28B72	𨭲	cyhm	cymm	
-28BB7	𨮷	cylm	cylo	
+250C5	𥃅	cubt	cvbt
+28A4F	𨩏	cyiq	cyvq
+28B72	𨭲	cyhm	cymm
+28BB7	𨮷	cylm	cylo
 28BE4	𨯤	cyrn	cynv	另有𨯤：cykv
 28BE4	𨯤	(新增)	cykv	另有𨯤：cynv
-2A5F2	𪗲	cwomi	cwoii	
+2A5F2	𪗲	cwomi	cwoii
 2A5F2	𪗲	(新增)	cwoml	另有𪗲：cwoii
 ==2017.08.24==
-2E98	⺘	dd	dm	
+2E98	⺘	dd	dm
 56F3	図	(新增)	wiik	另有図：wyk
 6A69	橩	dffj	(刪除)	橩：dffn
-201EC	𠇬	mlmo	mlho	
+201EC	𠇬	mlmo	mlho
 20686	𠚆	ssul	lssu	另有𠚆：uss
 20686	𠚆	(新增)	uss	另有𠚆：lssu
-221AC	𢆬	(新增)	dlmt	另有𢆬：dbmjj	
-23343	𣍃	dflwl	dwlwl	
-23542	𣕂	dfqd	dfqb	
+221AC	𢆬	(新增)	dlmt	另有𢆬：dbmjj
+23343	𣍃	dflwl	dwlwl
+23542	𣕂	dfqd	dfqb
 2356F	𣕯	ddomi	ddoii	另有𣕯：ddoml
 2356F	𣕯	(新增)	ddoml	另有𣕯：ddoii
 23592	𣖒	(新增)	dbck	另有𣖒：dbce
-23644	𣙄	ddomn	ddoin	
+23644	𣙄	ddomn	ddoin
 23662	𣙢	dfqu	(刪除)	𣙢：dwfu
-23662	𣙢	dwqu	dwfu	
-23713	𣜓	ddomn	ddoin	
-23727	𣜧	dffn	dffj	
-23760	𣝠	deqf	dimf	
+23662	𣙢	dwqu	dwfu
+23713	𣜓	ddomn	ddoin
+23727	𣜧	dffn	dffj
+23760	𣝠	deqf	dimf
 23765	𣝥	(新增)	ddlhn	另有𣝥：ddihn
 237B9	𣞹	(新增)	dbcj	另有𣞹：dbuj
-26F18	𦼘	tspt	tspm	
-2893E	𨤾	omyt	omyc		
-28978	𨥸	oppuk	cpvk	
+26F18	𦼘	tspt	tspm
+2893E	𨤾	omyt	omyc
+28978	𨥸	oppuk	cpvk
 2A321	𪌡	(新增)	dejhu	*
 2A321	𪌡	(新增)	jejhu	*
 2A337	𪌷	deymh	deylh	另有𪌷：jeylh
 2A337	𪌷	jeymh	jeylh	另有𪌷：deylh
 2A36D	𪍭	demso	deamo	另有𪍭：jeamo
 2A36D	𪍭	jemso	jeamo	另有𪍭：deamo
-2ACEF	𪳯	ddfg	ddfbg	
-2B537	𫔷	lssup	mtsup	
-2B734	𫜴	dforb	dfomb	
-2C0E0	𬃠	dcht	dcst	
+2ACEF	𪳯	ddfg	ddfbg
+2B537	𫔷	lssup	mtsup
+2B734	𫜴	dforb	dfomb
+2C0E0	𬃠	dcht	dcst
 ==2017.08.25==
 20C4F	𠱏	rmkq	rmku
 2331A	𣌚	amyrf	amyf
 ==2017.09.02==
-3902	㤂	nhep	nep	
-4E2F	丯	qj	qk	
+3902	㤂	nhep	nep
+4E2F	丯	qj	qk
 4E44	乄	kv	(刪除)	乄：kv
 5E77	幷	tt	(刪除)	幷：yjyj
 5E77	廾	(新增)	kj	另有廾：jj
-8D71	赱	gco	giho	
+8D71	赱	gco	giho
 2039C	𠎜	(新增)	luoml	另有𠎜：luoii
 2039C	𠎜	lsoii	luoii	另有𠎜：luoml
-21FD2	𡿒	utjs	utjd		
+21FD2	𡿒	utjs	utjd
 2326C	𣉬	aajns	aajnd
 2B88F	𫢏	(新增)	ossm	另有𫢏：onm
 2F8FE	汧	(新增)	emjj	另有汧：qmt
@@ -1222,10 +1222,10 @@ F9B4	領	(新增)	oimbc	另有領：olmbc
 2C56C	𬕬	(新增)	holo	另有𬕬：hoio
 2C67D	𬙽	trosl	troml	另有𬙽：troni
 2C84C	𬡌	(新增)	omsv	另有𬡌：oinv
-F9A3	念	omnp	oinp	
-F9A4	捻	qomp	qoip	
+F9A3	念	omnp	oinp
+F9A4	捻	qomp	qoip
 201C0	𠇀	omne	(刪除)	𠇀：oino
-20250	𠉐	oonr	ooir	
+20250	𠉐	oonr	ooir
 2025E	𠉞	omnp	(刪除)	𠉞：oinp
 20E78	𠹸	romv	(刪除)	𠹸：roiv
 2206E	𢁮	lbomn	(刪除)	𢁮：lboin
@@ -1238,20 +1238,20 @@ F9A4	捻	qomp	qoip
 23C8E	𣲎	omne	(刪除)	𣲎：oine
 23D97	𣶗	eome	(刪除)	𣶗：eoie
 23E0A	𣸊	eomi	(刪除)	𣸊：eoii
-23E0A	𣸊	eoni	eoii	
+23E0A	𣸊	eoni	eoii
 23EE6	𣻦	eomw	(刪除)	𣻦：eoiw
 24621	𤘡	hqomn	(刪除)	𤘡：hqoin
-2468B	𤚋	hqomp	hqoip	
+2468B	𤚋	hqomp	hqoip
 246A5	𤚥	iqomr	(刪除)	𤚥：iqoir
 24730	𤜰	khomn	(刪除)	𤜰：khoin
 249AC	𤦬	mgomp	(刪除)	𤦬：mgoip
 24B2F	𤬯	mnimn	(刪除)	𤬯：mnoin
-24B2F	𤬯	mnomn	mnoin	
+24B2F	𤬯	mnomn	mnoin
 24B59	𤭙	mnomr	(刪除)	𤭙：mnoir
 24D3D	𤴽	komn	(刪除)	𤴽：koin
 24DDC	𤷜	komi	(刪除)	𤷜：koii
 24F7F	𤽿	haomp	(刪除)	𤽿：haoip
-2504C	𥁌	onbt	oint	
+2504C	𥁌	onbt	oint
 251A1	𥆡	buomr	(刪除)	𥆡：buoir
 25375	𥍵	nhomp	(刪除)	𥍵：nhoip
 254C2	𥓂	mromr	(刪除)	𥓂：mroir
@@ -1268,7 +1268,7 @@ F9A4	捻	qomp	qoip
 269C8	𦧈	hromn	(刪除)	𦧈：hroin
 269C8	𦧈	mromn	(刪除)	𦧈：mroin
 2762D	𧘭	yomv	(刪除)	𧘭：yoiv
-276CB	𧛋	lomp	loip	
+276CB	𧛋	lomp	loip
 27AE7	𧫧	yromw	(刪除)	𧫧：yroiw
 27BB0	𧮰	cromn	(刪除)	𧮰：croin
 27D97	𧶗	bcomr	(刪除)	𧶗：bcoir
@@ -1287,20 +1287,20 @@ F9A4	捻	qomp	qoip
 2969C	𩚜	omnv	(刪除)	𩚜：oinv
 2983B	𩠻	haomn	(刪除)	𩠻：haoin
 29A4A	𩩊	bbomr	(刪除)	𩩊：bboir
-29B6E	𩭮	shomp	shoip	
+29B6E	𩭮	shomp	shoip
 2A33F	𪌿	deomp	(刪除)	𪌿：deoip
 2A33F	𪌿	jeomp	(刪除)	𪌿：jeoip
-2A461	𪑡	wfomp	wfoip	
+2A461	𪑡	wfomp	wfoip
 2A55B	𪕛	hcoir	(刪除)	𪑡：wfoip
-2A55B	𪕛	hvpmr	hvoir	
+2A55B	𪕛	hvpmr	hvoir
 2A612	𪘒	yuomr	(刪除)	𪘒：yuoir
 2A695	𪚕	omnp	(刪除)	𪚕：oinp
 2A6AC	𪚬	huomn	(刪除)	𪚬：huoin
 2A6AC	𪚬	nuomn	(刪除)	𪚬：nuoin
-2A776	𪝶	onfep	oinp	
-2ACCB	𪳋	dsoip	dmsp	
-2B28D	𫊍	tdun	tduon	
-2C5B3	𬖳	odsbe	odsme	
+2A776	𪝶	onfep	oinp
+2ACCB	𪳋	dsoip	dmsp
+2B28D	𫊍	tdun	tduon
+2C5B3	𬖳	odsbe	odsme
 2D608	𭘈	ssomn	(刪除)	𭘈：ssoin
 2D65E	𭙞	iomr	(刪除)	𭙞：ioir
 2D74C	𭝌	qoomp	(刪除)	𭝌：qooip
@@ -1363,11 +1363,11 @@ F9A4	捻	qomp	qoip
 20345	𠍅	(新增)	odoe	*
 20345	𠍅	(新增)	ojoe	*
 23F0A	𣼊	(新增)	edoe	另有𣼊：ejoe
-27D77	𧵷	bcqke	bcqme	
-28031	𨀱	rmqke	rmqme	
+27D77	𧵷	bcqke	bcqme
+28031	𨀱	rmqke	rmqme
 28123	𨄣	rvjoe	rmdoe	另有𨄣：rmjoe
 281DE	𨇞	rvjei	rmdei	另有𨇞：rmjei
-2898E	𨦎	cqke	cqme	
+2898E	𨦎	cqke	cqme
 28BBD	𨮽	(新增)	cdeh	另有𨮽：cjeh
 29354	𩍔	(新增)	tjpdn	*
 29354	𩍔	(新增)	tjpjn	*
@@ -1426,7 +1426,7 @@ F9A4	捻	qomp	qoip
 2CE42	𬹂	(新增)	jetc	另有𬹂：detc
 2CE43	𬹃	(新增)	demwr	另有𬹃：jemwr
 2CE44	𬹄	(新增)	detpd	另有𬹄：jetpd
-2CE45	𬹅	qedi	qedh	
+2CE45	𬹅	qedi	qedh
 2E4BB	𮒻	(新增)	tdeg	另有𮒻：tjeg
 2EA4D	𮩍	(新增)	oidoe	*
 2EA4D	𮩍	(新增)	oijoe	*
@@ -1442,17 +1442,17 @@ F9A4	捻	qomp	qoip
 2EB82	𮮂	dnthj	dethj	另有𮮂：jethj
 2EB82	𮮂	jnthj	jethj	另有𮮂：dethj
 ==2017.09.23==
-2232C	𢌬	tv	kp	
-27E85	𧺅	lgmwc	lamwc	
-2068D	𠚍	ukii	uiki	
-20DDD	𠷝	rwki	rwii	
-21C96	𡲖	swki	swii	
-2246F	𢑯	smwkd	smwid	
-22477	𢑷	vmwib	vmbwb	
-23642	𣙂	foird	fqird	
-2A261	𪉡	ywohm	ywohp	
+2232C	𢌬	tv	kp
+27E85	𧺅	lgmwc	lamwc
+2068D	𠚍	ukii	uiki
+20DDD	𠷝	rwki	rwii
+21C96	𡲖	swki	swii
+2246F	𢑯	smwkd	smwid
+22477	𢑷	vmwib	vmbwb
+23642	𣙂	foird	fqird
+2A261	𪉡	ywohm	ywohp
 2A277	𪉷	(新增)	ywaul	另有𪉷：ywual
-2C1C8	𬇈	huufi	huufdi	
+2C1C8	𬇈	huufi	huufdi
 ==2017.09.24==
 [添加 Unicode 中日韓越統一表意文字擴展 F 區字符]
 ==2017.09.26==				@mrhso 修改
@@ -1491,7 +1491,7 @@ F9A4	捻	qomp	qoip
 22725	𢜥	(新增)	phor	另有𢜥：phyr
 22743	𢝃	(新增)	yblbp	另有𢝃：ybp
 22955	𢥕	(新增)	phyi	另有𢥕：phei
-22DC5	𢷅	qrvr	qrmr	
+22DC5	𢷅	qrvr	qrmr
 22EA8	𢺨	(新增)	qqki	另有𢺨：qqai
 2356E	𣕮	(新增)	qkad	另有𣕮：qad
 2371A	𣜚	(新增)	dqkp	另有𣜚：dqap
@@ -1499,14 +1499,14 @@ F9A4	捻	qomp	qoip
 23862	𣡢	(新增)	dqki	另有𣡢：dqai
 24167	𤅧	(新增)	eqki	另有𤅧：eqki
 24717	𤜗	(新增)	hqqai	另有𤜗：hqqki
-24B97	𤮗	mnrvr	mnrmr	
+24B97	𤮗	mnrvr	mnrmr
 24D02	𤴂	(新增)	whei	另有𤴂：whri
 24F36	𤼶	(新增)	ntks	另有𤼶：nomrs
 24F37	𤼷	(新增)	ntt	另有𤼷：nomrt
 258A6	𥢦	(新增)	hdhwf	另有𥢦：hdhef
 25EC0	𥻀	fdnyr	fdhyr	另有𥻀：fdhor
 25EC0	𥻀	(新增)	fdhor	另有𥻀：fdhyr
-264C9	𦓉	jprvr	jprmr	
+264C9	𦓉	jprvr	jprmr
 26735	𦜵	(新增)	bhor	另有𦜵：bhyr
 2699C	𦦜	(新增)	qxhjm	另有𦦜：qkhxm
 269B1	𦦱	(新增)	qxhjx	另有𦦱：qkhxx
@@ -1517,7 +1517,7 @@ F9A4	捻	qomp	qoip
 26D5D	𦵝	(新增)	thet	另有𦵝：thyt
 272F4	𧋴	(新增)	hjlmi	另有𧋴：heqji
 2738C	𧎌	(新增)	qkali	另有𧎌：qalmi
-2748C	𧒌	lirvr	lirmr	
+2748C	𧒌	lirvr	lirmr
 27492	𧒒	(新增)	hjlii	另有𧒒：heqji
 27577	𧕷	(新增)	tqai	另有𧕷：tqki
 27579	𧕹	(新增)	iqai	另有𧕹：iqki
@@ -1535,10 +1535,10 @@ F9A4	捻	qomp	qoip
 293E6	𩏦	(新增)	dqhwf	另有𩏦：dqhef
 29BE5	𩯥	(新增)	shqaf	另有𩯥：shqkf
 29BF2	𩯲	(新增)	shqxp	另有𩯲：shqkp
-29CFC	𩳼	jrhi	jrhui	
-29CFD	𩳽	qahi	qahui	
+29CFC	𩳼	jrhi	jrhui
+29CFD	𩳽	qahi	qahui
 2A18A	𪆊	(新增)	qxhaf	另有𪆊：qkhxf
-2A558	𪕘	hehxv	hrhxp	
+2A558	𪕘	hehxv	hrhxp
 2AAB6	𪪶	(新增)	yblbt	另有𪪶：ybt
 2B01C	𫀜	(新增)	qdmmf	另有𫀜：qkhdf
 2B06F	𫁯	(新增)	yjhqw	另有𫁯：yjhew
@@ -1549,84 +1549,84 @@ F9A4	捻	qomp	qoip
 2E7E6	𮟦	(新增)	yheo	另有𮟦：yhwo
 2F910	𣽞	eanr	eahr	以下由 @Arthurmcarthur、小呉同學@QQ群 提供
 7742	睂	(新增)	ombu	另有睂：olmbu
-8388	莈	tehn	tehn	
-8388	莈	tene	tene	
-20074	𠁴	lkkk	lwkl	
-2028D	𠊍	ocim	ocic	
+8388	莈	tehn	tehn
+8388	莈	tene	tene
+20074	𠁴	lkkk	lwkl
+2028D	𠊍	ocim	ocic
 24C34	𤰴	(新增)	lwmmp	另有𤰴：lwmsm
-28940	𨥀	ocim	oiom	
-28C78	𨱸	sibtt	sitbt	
-2A72C	𪜬	oqc	ojd	
-2CEBF	𬺿	jli	jli	
+28940	𨥀	ocim	oiom
+28C78	𨱸	sibtt	sitbt
+2A72C	𪜬	oqc	ojd
+2CEBF	𬺿	jli	jli
 ==2017.10.20==
-2E84	⺄	mn	nv	
-2EAE	⺮	h	oioi	
-2EBB	⺻	lg	lm	
+2E84	⺄	mn	nv
+2EAE	⺮	h	oioi
+2EBB	⺻	lg	lm
 5DD5	巕	utjd	utjv	从「女」。从「子」的是U+21FD2「𡿒」：utjd。
 5E30	帰	llsmb	lhsmb	另有帰：llsb
 5E30	帰	(新增)	llsb	另有帰：lhsmb
 98AA	颪	(新增)	myhni	另有颪：myhn
 2556D	𥕭	hxmr	hxkr	「漢文庫典」編碼。另有𥕭：hhr
 2556D	𥕭	(新增)	hhr	另有𥕭：hxkr
-25AD7	𥫗	h	oioi	
+25AD7	𥫗	h	oioi
 ==2017.11.01==
 4E85	亅	li	(刪除)	亅：n
 F907	龜	(新增)	hxu	另有龜：nxu
-200DA	𠃚	svs	sss	
-2AECA	𪻊	kaav	khjav	
-4421	䐡	ysob	yxobo	
-8640	虀	tysm	tyxm	
-97F2	韲	ysom	yxlsm	
-20188	𠆈	ysob	yxbv	
-20197	𠆗	ysir	yxomr	
-2019C	𠆜	ysov	yxjlv	
-20397	𠎗	oyol	yxlel	
-20460	𠑠	oysm	oyxm	
-21141	𡅁	ryod	ryxd	
-2405C	𤁜	eyoq	eyxq	
-24148	𤅈	eyom	eyxm	
-26803	𦠃	ysol	yxlbl	
-26815	𦠕	ysob	yxrob	
-2698F	𦦏	ysox	yxhx	
-26E85	𦺅	tysl	tyxm	
-27160	𧅠	tysu	tyxu	
-27171	𧅱	tysl	tyxm	
-27174	𧅴	tyom	tyxm	
-2718C	𧆌	tysm	tyxm	
-27DD4	𧷔	ysoc	yxbuc	
-2889E	𨢞	ysow	yxmcw	
-28F3B	𨼻	nlysv	nlyxv	
-29410	𩐐	ysom	yxmmm	
-29413	𩐓	yoglm	yxglm	
-29766	𩝦	yspv	yxoiv	
-29E75	𩹵	ysol	yxlnl	
+200DA	𠃚	svs	sss
+2AECA	𪻊	kaav	khjav
+4421	䐡	ysob	yxobo
+8640	虀	tysm	tyxm
+97F2	韲	ysom	yxlsm
+20188	𠆈	ysob	yxbv
+20197	𠆗	ysir	yxomr
+2019C	𠆜	ysov	yxjlv
+20397	𠎗	oyol	yxlel
+20460	𠑠	oysm	oyxm
+21141	𡅁	ryod	ryxd
+2405C	𤁜	eyoq	eyxq
+24148	𤅈	eyom	eyxm
+26803	𦠃	ysol	yxlbl
+26815	𦠕	ysob	yxrob
+2698F	𦦏	ysox	yxhx
+26E85	𦺅	tysl	tyxm
+27160	𧅠	tysu	tyxu
+27171	𧅱	tysl	tyxm
+27174	𧅴	tyom	tyxm
+2718C	𧆌	tysm	tyxm
+27DD4	𧷔	ysoc	yxbuc
+2889E	𨢞	ysow	yxmcw
+28F3B	𨼻	nlysv	nlyxv
+29410	𩐐	ysom	yxmmm
+29413	𩐓	yoglm	yxglm
+29766	𩝦	yspv	yxoiv
+29E75	𩹵	ysol	yxlnl
 2A509	𪔉	ysol	yxbul	另有𪔉：yxbun
 2A509	𪔉	yson	yxbun	另有𪔉：yxbul
-2A5CE	𪗎	ysoc	ynhnc	
-2A5D0	𪗐	ysow	yxwca	
+2A5CE	𪗎	ysoc	ynhnc
+2A5D0	𪗐	ysow	yxwca
 2A5D1	𪗑	(新增)	yxjme	另有𪗑：yxpbe
 2A5D2	𪗒	(新增)	yfjme	另有𪗒：yfpbe
 2A5D3	𪗓	yfjbe	yfjce	另有𪗓：yfpbe
 2A5D3	𪗓	(新增)	yfpbe	另有𪗓：yfjce
-2A654	𪙔	ysou	yxymu	
-2A68E	𪚎	ysou	yxyuu	
-2CE72	𬹲	ysow	yxw	
-2DC8D	𭲍	eykf	eykl	
-2E2E1	𮋡	ysob	yxmbl	
-2E530	𮔰	ysoi	yxlmi	
-2E681	𮚁	ykll	yklbl	
+2A654	𪙔	ysou	yxymu
+2A68E	𪚎	ysou	yxyuu
+2CE72	𬹲	ysow	yxw
+2DC8D	𭲍	eykf	eykl
+2E2E1	𮋡	ysob	yxmbl
+2E530	𮔰	ysoi	yxlmi
+2E681	𮚁	ykll	yklbl
 ==2017.11.16==
 2F68	⽨	nho	niyo
 2D05F	𭁟	vml	bml
 2D47F	𭑿	jpcv	jpfv
 2E9E7	𮧧	tjtlm	tjtam
-22256	𢉖	ixi	ixii	
-2227A	𢉺	ixm	ixbm	
-2227B	𢉻	ixr	ixksr	
-22281	𢊁	ixf	ixpf	
-22287	𢊇	ixv	ixyhv	
-222EA	𢋪	ixk	ichxk	
-222F5	𢋵	ixw	ixtwd	
+22256	𢉖	ixi	ixii
+2227A	𢉺	ixm	ixbm
+2227B	𢉻	ixr	ixksr
+22281	𢊁	ixf	ixpf
+22287	𢊇	ixv	ixyhv
+222EA	𢋪	ixk	ichxk
+222F5	𢋵	ixw	ixtwd
 222FA	𢋺	ixe	ixupe
 2E68A	𮚊	itsc	(刪除)	𮚊：ixbuc
 2EB71	𮭱	itsf	(刪除)	𮭱：ixf
@@ -1649,56 +1649,56 @@ F907	龜	(新增)	hxu	另有龜：nxu
 2A779	𪝹	obvfh	ohbh	𪝹：ohbh/oibh/ombh
 2A779	𪝹	(新增)	oibh	𪝹：ohbh/oibh/ombh
 2A779	𪝹	(新增)	ombh	𪝹：ohbh/oibh/ombh
-2A783	𪞃	fuahg	fuahm	
-2A787	𪞇	ogosh	ogcsh	
-2A78C	𪞌	cwyw	cwywr	
-2A799	𪞙	ymok	imyk	
-2A79A	𪞚	omso	imso	
-2A79C	𪞜	omha	imha	
-2A7B3	𪞳	hphu	hphn	
-2A7C5	𪟅	ikln	imdkn	
-2A7CA	𪟊	mksh	mcsh	
-2A7D2	𪟒	ykln	ysokn	
-2A7D8	𪟘	ogks	omks	
+2A783	𪞃	fuahg	fuahm
+2A787	𪞇	ogosh	ogcsh
+2A78C	𪞌	cwyw	cwywr
+2A799	𪞙	ymok	imyk
+2A79A	𪞚	omso	imso
+2A79C	𪞜	omha	imha
+2A7B3	𪞳	hphu	hphn
+2A7C5	𪟅	ikln	imdkn
+2A7CA	𪟊	mksh	mcsh
+2A7D2	𪟒	ykln	ysokn
+2A7D8	𪟘	ogks	omks
 2A7E2	𪟢	(新增)	ttks	另有𪟢：ctks
-2A816	𪠖	mtck	mtco	
+2A816	𪠖	mtck	mtco
 2A817	𪠗	(新增)	hdir	另有𪠗：mdir
-2A830	𪠰	eeen	eeeen	
+2A830	𪠰	eeen	eeeen
 2A831	𪠱	segiy	segii	𪠱：segii/segik/segio
 2A831	𪠱	(新增)	segik	𪠱：segii/segik/segio
 2A831	𪠱	(新增)	segio	𪠱：segii/segik/segio
-2A83A	𪠺	rggi	rqki	
+2A83A	𪠺	rggi	rqki
 2A83F	𪠿	(新增)	rh	另有𪠿：ronn
-2A844	𪡄	rwlc	rswl	
-2B820	𫠠	jn	jv	
-2B823	𫠣	kvsd	kvnd	
-2B873	𫡳	rrnq	ttnq	
-2B8BD	𫢽	omwk	omak	
-2B8BF	𫢿	omne	omse	
-2B90C	𫤌	omtk	omhk	
+2A844	𪡄	rwlc	rswl
+2B820	𫠠	jn	jv
+2B823	𫠣	kvsd	kvnd
+2B873	𫡳	rrnq	ttnq
+2B8BD	𫢽	omwk	omak
+2B8BF	𫢿	omne	omse
+2B90C	𫤌	omtk	omhk
 2B932	𫤲	(新增)	cryw	另有𫤲：crjw
-2B96E	𫥮	yuebc	yuimc	
-2B997	𫦗	ninin	nnnnn	
+2B96E	𫥮	yuebc	yuimc
+2B997	𫦗	ninin	nnnnn
 2B998	𫦘	(新增)	nesh	另有𫦘：nnsh
-2BAD5	𫫕	rsnq	rdnq	
+2BAD5	𫫕	rsnq	rdnq
 2BAF9	𫫹	(新增)	hryhh	𫫹：hrykh/mrykh/hryhh/mryhh
 2BAF9	𫫹	(新增)	mryhh	𫫹：hrykh/mrykh/hryhh/mryhh
 820F	舏	(新增)	mrvl	另有舏：hrvl
-200D5	𠃕	lvhu	lvlu	
-20B1E	𠬞	vhe	vle	
-20B33	𠬳	vhvie	vlvie	
+200D5	𠃕	lvhu	lvlu
+20B1E	𠬞	vhe	vle
+20B33	𠬳	vhvie	vlvie
 20B3B	𠬻	qjvhe	qjvle	另有𠬻：qjve
 20B3B	𠬻	(新增)	qjve	另有𠬻：qjvle
-20B3F	𠬿	omvhe	omvle	
-20B61	𠭡	hovhe	hovle	
-20B8E	𠮎	mrvhe	mrvle	
-24F3C	𤼼	novhe	novle	
-26960	𦥠	hxvhe	hxvle	
-26992	𦦒	hxvhe	hxvle	
-26B25	𦬥	tvhl	tvll	
+20B3F	𠬿	omvhe	omvle
+20B61	𠭡	hovhe	hovle
+20B8E	𠮎	mrvhe	mrvle
+24F3C	𤼼	novhe	novle
+26960	𦥠	hxvhe	hxvle
+26992	𦦒	hxvhe	hxvle
+26B25	𦬥	tvhl	tvll
 26B25	𦬥	(新增)	tvlj	另有𦬥：tvll
 26C60	𦱠	(新增)	uuvjl	另有𦱠：uuvll
-27C0D	𧰍	uunie	lmnie	
+27C0D	𧰍	uunie	lmnie
 ==2017.12.09==
 2185A	𡡚	ohbuv	ombuv	另有𡡚：olmbv
 2185A	𡡚	(新增)	olmbv	另有𡡚：ombuv
@@ -1712,40 +1712,40 @@ F907	龜	(新增)	hxu	另有龜：nxu
 2D5D9	𭗙	(新增)	uolu	另有𭗙：uomu
 2B96E	𫥮	yuimc	yubic	另有𫥮：yubcc	以下由 @pttp 提供意見
 2B96E	𫥮	(新增)	yubcc	另有𫥮：yubic
-2BBC6	𫯆	ecgah	bcgah	
+2BBC6	𫯆	ecgah	bcgah
 2CC88	𬲈	hmimc	hvbic	另有𬲈：hvbcc
 2CC88	𬲈	(新增)	hvbcc	另有𬲈：hvbic
 62E3	拣	qkvd	(刪除)	拣：qkvc
 70BC	炼	fkvd	(刪除)	炼：fkvc
 7EC3	练	vmkvd	(刪除)	练：vmkvc
-2B823	𫠣	kvnd	kvsc	
-2C7FE	𬟾	likvd	likvc	
-3404	㐄	jv	ql	
-3412	㐒	srn	shrn	
-3413	㐓	mnrn	mrn	
-3426	㐦	hqn	hcqn	
-342C	㐬	yihu	yihlu	
+2B823	𫠣	kvnd	kvsc
+2C7FE	𬟾	likvd	likvc
+3404	㐄	jv	ql
+3412	㐒	srn	shrn
+3413	㐓	mnrn	mrn
+3426	㐦	hqn	hcqn
+342C	㐬	yihu	yihlu
 348A	㒊	(新增)	oshm	另有㒊：osim
 348F	㒏	(新增)	ojtm	另有㒏：ojty
 34B9	㒹	(新增)	jcjuc	另有㒹：jcjbc
-3553	㕓	mwfg	mwgg	
+3553	㕓	mwfg	mwgg
 3584	㖄	(新增)	rhll	另有㖄：rill
-3596	㖖	ytjr	yjr	
-3638	㘸	mnpg	mpg	
-364C	㙌	glx	glll	
-3673	㙳	gihp	girp	
-3676	㙶	yrfbg	yrfg	
-3705	㜅	vyiw	vyvw	
-200C9	𠃉	hn	vn	
+3596	㖖	ytjr	yjr
+3638	㘸	mnpg	mpg
+364C	㙌	glx	glll
+3673	㙳	gihp	girp
+3676	㙶	yrfbg	yrfg
+3705	㜅	vyiw	vyvw
+200C9	𠃉	hn	vn
 20112	𠄒	(新增)	hdh	另有𠄒：hjh
-20117	𠄗	hngnn	bgnn	
-20141	𠅁	is	ylm	
-20146	𠅆	yvho	yvoh	
+20117	𠄗	hngnn	bgnn
+20141	𠅁	is	ylm
+20146	𠅆	yvho	yvoh
 20189	𠆉	yimtj	yitql	*
 20189	𠆉	(新增)	yitqt	*
 20189	𠆉	(新增)	yimtt	*
 20189	𠆉	(新增)	yitj	*
-2018A	𠆊	yrbmm	yrbm	
+2018A	𠆊	yrbmm	yrbm
 20233	𠈳	(新增)	onmf	另有𠈳：ovmf
 20257	𠉗	ojru	ohru	另有𠉗：omru
 20257	𠉗	(新增)	omru	另有𠉗：ohru
@@ -1753,59 +1753,59 @@ F907	龜	(新增)	hxu	另有龜：nxu
 20269	𠉩	(新增)	oqmy	*
 202D3	𠋓	ofth	oftm	另有𠋓：ofuh
 202D3	𠋓	(新增)	ofuh	另有𠋓：oftm
-202F0	𠋰	ogic	ojic	
+202F0	𠋰	ogic	ojic
 20300	𠌀	(新增)	obnf	另有𠌀：obnd
-20369	𠍩	omol	omcl	
+20369	𠍩	omol	omcl
 203B1	𠎱	(新增)	omup	另有𠎱：okup
-203D5	𠏕	odmwv	odmv	
-20407	𠐇	dodo	dodoo	
-20413	𠐓	offg	offi	
-2045B	𠑛	otre	otpk	
-20470	𠑰	oromr	omrr	
+203D5	𠏕	odmwv	odmv
+20407	𠐇	dodo	dodoo
+20413	𠐓	offg	offi
+2045B	𠑛	otre	otpk
+20470	𠑰	oromr	omrr
 20476	𠑶	(新增)	mvhu	另有𠑶：shu
-204FF	𠓿	omys	olys	
-20502	𠔂	ilc	hlc	
+204FF	𠓿	omys	olys
+20502	𠔂	ilc	hlc
 20502	𠔂	(新增)	llc	另有𠔂：hlc
-20519	𠔙	hbmc	hbac	
-20530	𠔰	iittc	iitjc	
-20531	𠔱	wuuc	wulc	
+20519	𠔙	hbmc	hbac
+20530	𠔰	iittc	iitjc
+20531	𠔱	wuuc	wulc
 2054D	𠕍	(新增)	ibkp	另有𠕍：hbkp
-20624	𠘤	impoe	ioie	
-20643	𠙃	iimn	iimhn	
-20650	𠙐	stbhn	tsbhn	
+20624	𠘤	impoe	ioie
+20643	𠙃	iimn	iimhn
+20650	𠙐	stbhn	tsbhn
 2067F	𠙿	ummm	mmum	另有𠙿：mumu
 2067F	𠙿	(新增)	mumu	另有𠙿：mmum
-2068E	𠚎	urtt	rutt	
+2068E	𠚎	urtt	rutt
 206BB	𠚻	(新增)	omln	另有𠚻：ymln
-206EA	𠛪	hyuon	lmuon	
-20704	𠜄	hmln	htln	
+206EA	𠛪	hyuon	lmuon
+20704	𠜄	hmln	htln
 20740	𠝀	(新增)	upln	另有𠝀：usln
 20804	𠠄	(新增)	gofbn	另有𠠄：gbln
 20908	𠤈	(新增)	poll	另有𠤈：pool
-2091E	𠤞	pahl	pail	
+2091E	𠤞	pahl	pail
 20978	𠥸	(新增)	soshn	*
 20978	𠥸	(新增)	soshu	*
 2097D	𠥽	(新增)	dm	另有𠥽：qc
 20A13	𠨓	(新增)	nlnl	另有𠨓：nhnh
 2BABE	𫪾	(新增)	rtqi	另有𫪾：rtgi
-2CED4	𬻔	mpsi	mbmi	
-2CEDE	𬻞	bmmm	bssm	
-2CF4B	𬽋	yoog	yoou	
-2CF55	𬽕	ywlh	ywlv	
-2D003	𭀃	tolk	tolwk	
-2D01D	𭀝	mlyu	myu	
-2D052	𭁒	bno	bnc	
-2D0BE	𭂾	macv	macu	
-2D0CC	𭃌	ygsh	qmsh	
-20694	𠚔	nimur	nmuor	
-206BB	𠚻	(新增)	omln	
-20839	𠠹	huks	luks	
-20878	𠡸	hnks	jnks	
-20991	𠦑	itf	itii	
-20999	𠦙	jsmf	jsml	
-20A37	𠨷	mmlv	mmln	
-20AB0	𠪰	mhep	mep	
-20AE9	𠫩	ilf	ilo	
+2CED4	𬻔	mpsi	mbmi
+2CEDE	𬻞	bmmm	bssm
+2CF4B	𬽋	yoog	yoou
+2CF55	𬽕	ywlh	ywlv
+2D003	𭀃	tolk	tolwk
+2D01D	𭀝	mlyu	myu
+2D052	𭁒	bno	bnc
+2D0BE	𭂾	macv	macu
+2D0CC	𭃌	ygsh	qmsh
+20694	𠚔	nimur	nmuor
+206BB	𠚻	(新增)	omln
+20839	𠠹	huks	luks
+20878	𠡸	hnks	jnks
+20991	𠦑	itf	itii
+20999	𠦙	jsmf	jsml
+20A37	𠨷	mmlv	mmln
+20AB0	𠪰	mhep	mep
+20AE9	𠫩	ilf	ilo
 2D874	𭡴	qikt	qiqt		@日月遞炤（QQ群組）提出
 ==2017.12.14==
 53CD	反	(新增)	me	另有反：he
@@ -1878,7 +1878,7 @@ F907	龜	(新增)	hxu	另有龜：nxu
 7C30	簰	(新增)	hlnj	另有簰：hllj
 21D6B	𡵫	(新增)	ulll	另有𡵫：ulln
 23D59	𣵙	(新增)	eull	另有𣵙：euln
-23F42	𣽂	eklx	ekll	
+23F42	𣽂	eklx	ekll
 2458E	𤖎	(新增)	vmbul	另有𤖎：vmbun
 245A8	𤖨	(新增)	llu	另有𤖨：lnu
 245B6	𤖶	(新增)	llmob	另有𤖶：lnmob
@@ -1946,7 +1946,7 @@ F907	龜	(新增)	hxu	另有龜：nxu
 2DDCD	𭷍	(新增)	willn	另有𭷍：willl
 2DDCE	𭷎	(新增)	lnhii	另有𭷎：llhii
 2DF4C	𭽌	(新增)	halln	另有𭽌：halll
-2F922	牐	llhjw	llhjl	
+2F922	牐	llhjw	llhjl
 4A36	䨶	(新增)	mbibn	另有䨶：mbibl
 4D7A	䵺	(新增)	gbun	另有䵺：gbul
 4D7B	䵻	(新增)	bnqjs	另有䵻：blqjs
@@ -2064,12 +2064,12 @@ F907	龜	(新增)	hxu	另有龜：nxu
 2AFD0	𪿐	(新增)	okjjv	另有𪿐：ojomn
 2B5BE	𫖾	(新增)	ovhnv	另有𫖾：onhnv
 2B5BE	𫖾	onhnp	onhnv	另有𫖾：ovhnv
-2B5C3	𫗃	hponp	hvomp	
-2B5C4	𫗄	hponp	hvomp	
+2B5C3	𫗃	hponp	hvomp
+2B5C4	𫗄	hponp	hvomp
 2CC82	𬲂	hmomn	hvomn	另有𬲂：hvomv
 2CC82	𬲂	hmomv	hvomv	另有𬲂：hvomn
 2CC82	𬲂	hnomn	(刪除)	*
 2CC82	𬲂	hnomv	(刪除)	*
-2CC87	𬲇	ophnk	ophnv	
+2CC87	𬲇	ophnk	ophnv
 2CC87	𬲇	ophnm	(刪除)	𬲇：ophnv
 2CCA0	𬲠	(新增)	osomp	另有𬲠：oiomp
