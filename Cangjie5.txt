@@ -11240,7 +11240,6 @@
 𬛕	domsb
 𬃆	domu
 楡	domv
-榆	domv
 𪒁	domwf
 𨤸	domwg
 𠾂	domwr
@@ -59632,7 +59631,6 @@
 佮	oomr
 倽	oomr
 偸	oomv
-偷	oomv
 𠋡	oomv
 𬎧	oomvn
 𠊆	oomw
@@ -69596,7 +69594,6 @@
 啥	romr
 哬	romr
 喩	romv
-喻	romv
 𪢋	romwo
 吃	ron
 𩒻	ronc
@@ -70089,7 +70086,6 @@
 𡄀	rrtwn
 𡷇	rru
 噀	rruc
-𠚞	rruc
 𠻌	rrurr
 𠼨	rrurr
 𡼚	rrurr
@@ -70522,6 +70518,7 @@
 𠽭	ruao
 𠾩	ruav
 嘣	rubb
+𠚞	rubbc
 𤔼	rubbc
 𫤜	rucnh
 𣜍	rud
@@ -82087,7 +82084,6 @@
 辥	urytj
 𡴮	us
 𡹶	usav
-𠚞	usbbc
 𪌨	usdoe
 𪌨	usdon
 𡷷	use
@@ -85787,7 +85783,6 @@
 𡞆	vomr
 𡡾	vomu
 婾	vomv
-媮	vomv
 𡣊	vomw
 𠀳	vomy
 𪥥	von
@@ -88309,7 +88304,7 @@
 𪰕	xaok
 𬀿	xaomb
 𣅠	xaomn
-𠕦	xaomv
+𣈯	xaomv
 𬼲	xaoon
 𭦎	xaoos
 𢗭	xap
@@ -88618,7 +88613,7 @@
 𦋚	xbkya
 𦊶	xbkyh
 𦘶	xblll
-𠟭	xblln
+䏒	xblln
 𩕩	xblmb
 𧉏	xblmi
 脁	xblmo
@@ -89618,7 +89613,6 @@
 𣏙	xdomn
 検	xdomo
 𣒍	xdomr
-榆	xdomv
 枞	xdoo
 㭫	xdoog
 𣟺	xdook
@@ -96825,7 +96819,6 @@
 𭈚	xromm
 𠯏	xromn
 啥	xromr
-喻	xromv
 𪡇	xronf
 𫩛	xroo
 𭌝	xrooi
@@ -96894,7 +96887,6 @@
 𡂨	xrrsl
 𫘘	xrrsq
 𤕦	xrrsv
-𠚞	xrruc
 𠼨	xrrur
 鼍	xrrwm
 𠯕	xrsc
@@ -96958,6 +96950,7 @@
 𡂴	xrtyj
 𠻄	xrtyv
 𠮜	xru
+𤔼	xrubb
 𭩿	xrud
 𡬣	xrudi
 𭆯	xruhe
@@ -99184,7 +99177,6 @@
 𤬤	xvoli
 𠆦	xvom
 𡞆	xvomr
-媮	xvomv
 𩀅	xvoog
 𡛐	xvop
 𭒚	xvorb
@@ -99530,7 +99522,7 @@
 𮊌	xxbkk
 𠕴	xxbkn
 𩀎	xxbko
-䏒	xxbll
+𠟭	xxbll
 囗	xxbm
 𦚹	xxbmb
 𭁿	xxbmf
@@ -101903,7 +101895,7 @@
 𭋔	xxxrh
 𫬟	xxxrj
 𫪯	xxxrl
-𫫨	xxxrm
+𨀩	xxxrm
 𡋾	xxxrn
 𠰚	xxxro
 𢗀	xxxrp
@@ -102000,6 +101992,7 @@
 𤰖	xxxxw
 〇	xxxxx	符號和標點
 ㇣	xxxxx	筆畫
+𭪢	xxxxy
 𬃨	xxxyb
 𪆛	xxxyc
 𬷶	xxxyd
@@ -103074,6 +103067,7 @@
 𨖯	xyywo
 𨙃	xyywu
 卜	y
+⼘	y	康熙部首
 𣅀	ya
 𨑨	ya
 𨗏	yaaa
@@ -103304,6 +103298,7 @@
 𥹄	ybhfd
 望	ybhg
 𨓮	ybhg
+望	ybhg	兼容漢字
 𢒌	ybhhh
 𩫝	ybhhj
 𩫔	ybhjv
@@ -103381,6 +103376,7 @@
 𭘽	ybmfb
 𠨌	ybmff
 望	ybmg
+望	ybmg	兼容漢字補充
 𬨶	ybmm
 𬽈	ybmm
 𠧰	ybmmr
@@ -103414,6 +103410,7 @@
 𠧖	ybo
 𠆴	ybo
 離	ybog
+離	ybog	兼容漢字
 𬛠	yboiv
 敵	ybok
 㪣	ybok
@@ -103521,8 +103518,11 @@
 𨖈	ybyr
 龍	ybysp
 㡣	ybysp
+龍	ybysp	兼容漢字
+⿓	ybysp	康熙部首
 𥩿	ybyt
 六	yc
+六	yc	兼容漢字
 𬁢	yca
 𠆄	ycahc
 觑	ycbhu
@@ -103611,12 +103611,14 @@
 𨝳	ycnl
 𮟮	ycnl
 歔	ycno
+歔	ycno	兼容漢字補充
 𫧸	ycnot
 𠅾	ycnru
 脔	ycobo
 𣷖	ycoe
 𢼜	ycok
 𢿓	ycok
+𣀊	ycok	兼容漢字補充
 逧	ycor
 䘱	ycorv
 恋	ycp
@@ -103800,6 +103802,7 @@
 攴	ye
 𣱵	ye
 𨑾	ye
+⽁	ye	康熙部首
 𣈉	yea
 𨓬	yea
 𢻿	yeb
@@ -103905,6 +103908,7 @@
 𪀖	yfhaf
 𪃚	yfhaf
 𬷦	yfhaf
+變	yfhe	兼容漢字
 𡮗	yfhf
 𢒦	yfhhh
 𢒭	yfhhh
@@ -103980,6 +103984,7 @@
 𧇾	ygcms
 𫐫	ygcn
 𣠛	ygd
+﨎	yge	兼容漢字
 𤌞	ygf
 𮮜	ygf
 䜃	ygg
@@ -104021,6 +104026,7 @@
 𪱮	ygmbc
 𬱏	ygmbc
 𮨉	ygmbc
+虧	ygmks	兼容漢字補充
 虧	ygmms
 𥗱	ygmr
 㼿	ygmvn
@@ -104196,6 +104202,8 @@
 𩔤	yhmbc
 𩕘	yhmbc
 𩕨	yhmbc
+頻	yhmbc	兼容漢字
+頻	yhmbc	兼容漢字
 频	yhmbo
 颜	yhmbo
 𥈠	yhmcu
@@ -104250,6 +104258,7 @@
 𫑓	yhrr
 𬩱	yhru
 方	yhs
+⽅	yhs	康熙部首
 遍	yhsb
 𠗬	yhsb
 𨘋	yhsd
@@ -104274,6 +104283,7 @@
 𧝾	yhuv
 衣	yhv
 𮞅	yhv
+⾐	yhv	康熙部首
 䢑	yhvi
 䘚	yhvj
 迎	yhvl
@@ -104291,6 +104301,7 @@
 𨘕	yhxc
 遚	yhxe
 𮞴	yhxg
+𨗭	yhxg	兼容漢字補充
 𨓉	yhxh
 𠅲	yhxk
 𫐯	yhxo
@@ -104315,6 +104326,7 @@
 育	yib
 𫻴	yib
 𬂄	yib
+育	yib	兼容漢字補充
 𬫼	yibcn
 𪺮	yibhq
 𭁩	yibmm
@@ -104353,6 +104365,8 @@
 𠘺	yihn
 𨓍	yihq
 充	yihu
+充	yihu	兼容漢字
+𠘺	yihu	兼容漢字補充
 𭐤	yihue
 𮞩	yihv
 斔	yihxo
@@ -104395,6 +104409,8 @@
 玈	yiohv
 率	yioj
 𠦸	yioj
+率	yioj	兼容漢字
+率	yioj	兼容漢字
 逘	yiok
 𥏛	yiok
 𡖍	yion
@@ -104441,6 +104457,7 @@
 玆	yiyvi
 斗	yj
 辻	yj
+⽃	yj	康熙部首
 𥫊	yjabt
 𨗊	yjal
 𠧄	yjamj
@@ -104490,6 +104507,7 @@
 𬷄	yjhaf
 贛	yjhec
 𥫔	yjhec
+贛	yjhec	兼容漢字補充
 竷	yjhee
 𪈋	yjhef
 赣	yjheo
@@ -104664,6 +104682,7 @@
 𮞸	yjwa
 𫑈	yjwb
 連	yjwj
+連	yjwj	兼容漢字
 𣂌	yjwli
 𪟿	yjy
 㪕	yjye
@@ -104689,6 +104708,7 @@
 文	yk
 头	yk
 达	yk
+⽂	yk	康熙部首
 𪰎	yka
 𬀫	yka
 𣁚	ykail
@@ -104718,6 +104738,7 @@
 𪯧	ykc
 𮢸	ykc
 遼	ykcf
+遼	ykcf	兼容漢字
 𨔬	ykcq
 𣓰	ykd
 𬨥	ykd
@@ -104787,6 +104808,7 @@
 螡	yklii
 䘇	yklii
 齐	ykll
+⻬	ykll	部首補充
 齑	yklll
 𪯠	yklll
 蚉	yklmi
@@ -104874,6 +104896,7 @@
 𪯛	ykqmf
 吝	ykr
 𨒐	ykr
+吝	ykr	兼容漢字
 𧜯	ykrdv
 𫡽	ykrhr
 边	yks
@@ -104885,6 +104908,7 @@
 斊	yksj
 𬩇	yksk
 斉	yksl
+⻫	yksl	部首補充
 𦐑	yksmm
 𣁥	yksmt
 𭼃	yksno
@@ -104957,6 +104981,7 @@
 𨔂	yllw
 止	ylm
 𠅁	ylm
+⽌	ylm	康熙部首
 𬴠	ylmam
 𬴠	ylmbm
 遺	ylmc
@@ -105033,6 +105058,7 @@
 𨙤	ymbe
 𨘾	ymbg
 𫑄	ymbg
+𨗒	ymbg	兼容漢字補充
 𨗠	ymbi
 𨗺	ymbi
 𣥑	ymbil
@@ -105148,6 +105174,7 @@
 𫠹	ymibp
 𨒬	ymig
 歳	ymihf
+歲	ymihf	兼容漢字補充
 歲	ymihh
 𪴼	ymihs
 𣦭	ymihu
@@ -105180,6 +105207,7 @@
 𠚻	ymln
 𠜶	ymln
 𠟞	ymln
+剷	ymln	兼容漢字補充
 𨒿	ymlw
 𨖻	ymlw
 𬨜	ymm
@@ -105214,6 +105242,7 @@
 逜	ymmr
 訁	ymmr
 𧨟	ymmr
+⾔	ymmr	康熙部首
 迃	ymms
 𣥎	ymmt
 𫌲	ymmt
@@ -105334,9 +105363,12 @@
 𡵩	ymu
 𣥃	ymu
 歯	ymufd
+⻭	ymufd	部首補充
 𥜾	ymukb
 齿	ymuo
+⻮	ymuo	部首補充
 齒	ymuoo
+⿒	ymuoo	康熙部首
 𣥼	ymurr
 𪥤	ymv
 𨓷	ymvg
@@ -105389,6 +105421,8 @@
 𣊑	yna
 𦣖	ynaaa
 逸	ynai
+逸	ynai	兼容漢字
+逸	ynai	兼容漢字
 𨖶	ynao
 𨒶	ynau
 𨓜	ynau
@@ -105458,6 +105492,7 @@
 𧇯	ynhdd
 𧇸	ynhdf
 𧇮	ynhdr
+﨤	ynhe	兼容漢字
 𧆼	ynhey
 𮓗	ynhg
 彪	ynhhh
@@ -105481,6 +105516,7 @@
 歺	yni
 𨑚	yni
 𫻺	yni
+⺞	yni	部首補充
 通	ynib
 𠅣	ynice
 𬩍	ynid
@@ -105713,6 +105749,7 @@
 刻	yoln
 劇	yoln
 𠜇	yoln
+刻	yoln	兼容漢字補充
 𠘎	yoma
 𨗥	yoma
 𨙄	yomb
@@ -105749,6 +105786,7 @@
 𧚤	yonv
 𠅃	yoo
 𨑹	yoo
+衣	yoo	兼容漢字補充
 𨗀	yooa
 𩁋	yoog
 𪜤	yoog
@@ -105788,6 +105826,7 @@
 𫍐	yoymr
 𥪱	yoyt
 虍	yp
+⾌	yp	康熙部首
 迿	ypa
 㫮	ypa
 𣆟	ypam
@@ -105833,6 +105872,7 @@
 㘹	ypg
 𡎿	ypg
 𮓛	ypg
+壟	ypg	兼容漢字
 𨒜	yph
 𤽤	ypha
 𬨰	ypha
@@ -105852,6 +105892,7 @@
 𣂢	yphml
 虎	yphn
 𪊋	yphn
+⻁	yphn	部首補充
 𧇥	yphnd
 㲃	yphne
 𧆸	yphnf
@@ -105968,9 +106009,11 @@
 𨇘	ypryo
 𠸿	ypshr
 聾	ypsj
+聾	ypsj	兼容漢字
 𠨛	ypsl
 虐	ypsm
 𫊞	ypsm
+虐	ypsm	兼容漢字補充
 驡	ypsqf
 𪊤	ypss
 迣	ypt
@@ -106002,9 +106045,12 @@
 𧆨	ypw
 膚	ypwb
 盧	ypwbt
+盧	ypwbt	兼容漢字
 𬟱	ypwgf
 𥃈	ypwit
 虜	ypwks
+虜	ypwks	兼容漢字
+虜	ypwks	兼容漢字補充
 𧆥	ypwl
 歶	ypwlb
 𧈀	ypwlo
@@ -106097,7 +106143,9 @@
 讇	yranx
 𧩎	yraph
 䛰	yrapp
+謁	yrapp	兼容漢字
 謁	yrapv
+謁	yrapv	兼容漢字
 𦎫	yraq
 𧪦	yrasm
 𧭤	yrate
@@ -106140,6 +106188,7 @@
 𡎲	yrbg
 𩫊	yrbg
 調	yrbgr
+調	yrbgr	兼容漢字
 譌	yrbhf
 𣎆	yrbhn
 觇	yrbhu
@@ -106196,6 +106245,7 @@
 詗	yrbr
 𥗧	yrbr
 𨓺	yrbr
+⾼	yrbr	康熙部首
 𧭕	yrbsb
 諍	yrbsd
 𥁿	yrbt
@@ -106209,6 +106259,7 @@
 𥆕	yrbu
 𩫂	yrbu
 𬴔	yrbu
+亮	yrbu	兼容漢字
 𧧾	yrbuc
 𧮞	yrbue
 𧬮	yrbuk
@@ -106232,8 +106283,11 @@
 䛦	yrcor
 𭭲	yrcor
 䛇	yrcr
+䛇	yrcr	兼容漢字補充
 說	yrcru
 説	yrcru
+說	yrcru	兼容漢字
+說	yrcru	兼容漢字
 訜	yrcsh
 𪟑	yrcsh
 𬢶	yrcst
@@ -106327,6 +106381,7 @@
 䛭	yrgtj
 𧨙	yrgug
 讀	yrgwc
+讀	yrgwc	兼容漢字
 䛲	yrhab
 𧪒	yrhae
 䳝	yrhaf
@@ -106491,6 +106546,7 @@
 𧭶	yrihf
 𧫳	yrihf
 𧨱	yrihi
+誠	yrihl	兼容漢字補充
 𧧐	yrihm
 𧨱	yrihm
 𧧉	yrihp
@@ -106583,6 +106639,8 @@
 謿	yrjjb
 𧫂	yrjjd
 諸	yrjka
+諸	yrjka	兼容漢字
+諸	yrjka	兼容漢字
 誟	yrjkd
 𬢦	yrjks
 𧧅	yrjlk
@@ -106721,6 +106779,7 @@
 𫌶	yrmfm
 逞	yrmg
 𧥶	yrmg
+䚾	yrmg	兼容漢字補充
 𧩼	yrmge
 𧩼	yrmgk
 讍	yrmgr
@@ -106752,6 +106811,7 @@
 䜑	yrmmp
 語	yrmmr
 𧩂	yrmms
+𧥦	yrmms	兼容漢字補充
 䛃	yrmmu
 𧩗	yrmmu
 誫	yrmmv
@@ -106921,6 +106981,7 @@
 論	yromb
 讑	yromb
 𧭆	yromb
+論	yromb	兼容漢字
 𧧶	yromd
 詮	yromg
 𮘅	yromj
@@ -106930,12 +106991,14 @@
 𭭭	yroml
 諭	yromn
 𧥷	yromn
+諭	yromn	兼容漢字
 譣	yromo
 𫍆	yromp
 𮙄	yromp
 詥	yromr
 𧨂	yromr
 諭	yromv
+諭	yromv	兼容漢字補充
 訖	yron
 𧪢	yrond
 𧩨	yronk
@@ -107012,6 +107075,7 @@
 𧩻	yrqkk
 𮘗	yrqkq
 請	yrqmb
+請	yrqmb	兼容漢字
 謮	yrqmc
 䛾	yrqmf
 諘	yrqmv
@@ -107150,6 +107214,7 @@
 𧫮	yrsyj
 諎	yrta
 𬣒	yrtaa
+謹	yrtag	兼容漢字
 𬢼	yrtaj
 謨	yrtak
 𧫴	yrtam
@@ -107189,6 +107254,8 @@
 𧧤	yrtk
 𧩃	yrtkk
 諾	yrtkr
+諾	yrtkr	兼容漢字
+諾	yrtkr	兼容漢字
 𧪮	yrtks
 𧫩	yrtlb
 讌	yrtlf
@@ -107196,6 +107263,7 @@
 諽	yrtlj
 𮘡	yrtlk
 謹	yrtlm
+謹	yrtlm	兼容漢字
 詌	yrtm
 𧪸	yrtmb
 諆	yrtmc
@@ -107370,6 +107438,7 @@
 訪	yryhs
 𫌻	yryhv
 識	yryia
+識	yryia	兼容漢字
 𮘣	yryic
 𧨯	yryid
 𮘣	yryid
@@ -107429,6 +107498,7 @@
 𧪊	yryrf
 𫢁	yryrf
 𬋠	yryrf
+諒	yryrf	兼容漢字
 𧭫	yryrj
 𧭺	yryrj
 諪	yryrn
@@ -107500,6 +107570,7 @@
 𨓪	yse
 遲	yseq
 𨙈	yseq
+遲	yseq	兼容漢字
 𨖔	ysev
 𣃛	ysf
 𤆛	ysf
@@ -107577,6 +107648,8 @@
 䢧	ysmh
 𨒈	ysmm
 𨒎	ysmm
+𢌱	ysmt	兼容漢字補充
+𢌱	ysmt	兼容漢字補充
 𣄩	ysmuc
 𧞂	ysmv
 瓬	ysmvn
@@ -107639,6 +107712,7 @@
 𣃬	ysoht
 旄	ysohu
 旅	ysohv
+旅	ysohv	兼容漢字
 旛	ysohw
 𣃯	ysohy
 𣃼	ysohy
@@ -107805,9 +107879,13 @@
 立	yt
 𢌮	yt
 𨑬	yt
+立	yt	兼容漢字
+⽴	yt	康熙部首
 音	yta
 暜	yta
 逪	yta
+暜	yta	兼容漢字補充
+⾳	yta	康熙部首
 𥫈	ytaac
 𥫐	ytab
 𮄱	ytab
@@ -107942,7 +108020,9 @@
 辛	ytj
 竍	ytj
 𨐋	ytj
+⾟	ytj	康熙部首
 𥪧	ytjbc
+𥪧	ytjbc	兼容漢字補充
 𥩾	ytjbd
 竩	ytjbm
 𣐽	ytjd
@@ -108062,6 +108142,7 @@
 𥪶	ytooa
 𬔣	ytorl
 𮄮	ytpa
+𥪧	ytpbc	兼容漢字補充
 𨗸	ytpd
 𥩞	ytpi
 𥩘	ytpi
@@ -108081,6 +108162,8 @@
 𥪲	ytqhf
 𮄵	ytqka
 靖	ytqmb
+靖	ytqmb	兼容漢字
+靖	ytqmb	兼容漢字
 𫁟	ytqni
 𨗚	ytqr
 咅	ytr
@@ -108111,6 +108194,7 @@
 𨔴	ytsr
 𥩰	ytss
 竮	ytstt
+竮	ytstt	兼容漢字補充
 𥪊	ytsuu
 进	ytt
 迸	ytt
@@ -108162,6 +108246,7 @@
 𬩝	ytwn
 𨗕	ytwt
 竜	ytwu
+⻯	ytwu	部首補充
 𮄿	ytwuu
 𨙗	ytww
 𥩖	yty
@@ -108601,6 +108686,7 @@
 𥅶	yutt
 𪘀	yutt
 𪚏	yutt
+𪘀	yutt	兼容漢字補充
 𪙡	yutwa
 𪞽	yutwv
 𪙊	yutxc
@@ -108848,6 +108934,7 @@
 巡	yvvv
 邋	yvvv
 𧚱	yvvv
+巡	yvvv	兼容漢字補充
 𢂪	yvvvb
 𤰡	yvw
 𠅺	yvwd
@@ -108905,6 +108992,7 @@
 𫭬	ywg
 𭵜	ywgf
 裏	ywgv
+裏	ywgv	兼容漢字
 𭅰	ywh
 𥟫	ywhd
 𠧧	ywhe
@@ -108924,6 +109012,7 @@
 鹹	ywihr
 𢨟	ywihr
 鹵	ywii
+⿄	ywii	康熙部首
 𤱶	ywik
 𭕓	ywiku
 𪊄	ywirp
@@ -108939,6 +109028,7 @@
 𡙉	ywk
 𡙏	ywk
 𪉗	ywk
+⻧	ywk	部首補充
 禼	ywkb
 𥠤	ywkd
 卥	ywkk
@@ -108949,6 +109039,7 @@
 遝	ywlf
 邏	ywlg
 𨗴	ywlg
+邏	ywlg	兼容漢字
 逻	ywln
 𨖙	ywlo
 𨗫	ywlp
@@ -109060,6 +109151,7 @@
 𠨋	ywyww
 𪊆	ywyx
 齊	yx
+⿑	yx	康熙部首
 𪗇	yxb
 齍	yxbt
 齎	yxbuc

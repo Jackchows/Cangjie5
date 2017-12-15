@@ -1990,16 +1990,12 @@ F907	龜	(新增)	hxu	另有龜：nxu
 4D49	䵉	(新增)	icomn	*
 4D49	䵉	(新增)	icomv	*
 4D49	䵉	(新增)	idomv	*
-5077	偷	(新增)	oomv	另有偷：oomn
 532C	匬	(新增)	somv	另有匬：somn
-55BB	喻	(新增)	romv	另有喻：romn
 582C	堬	(新增)	gomv	另有堬：gomn
-5AAE	媮	(新增)	vomv	另有媮：vomn
 5D33	崳	(新增)	uomv	另有崳：uomn
 5D5B	嵛	(新增)	uomv	另有嵛：uomn
 6109	愉	(新增)	pomv	另有愉：pomn
 63C4	揄	(新增)	qomv	另有揄：qomn
-6986	榆	(新增)	domv	另有榆：domn
 6B48	歈	(新增)	ovno	另有歈：onno
 6BF9	毹	(新增)	ovhqu	另有毹：onhqu
 6E1D	渝	(新增)	eomv	另有渝：eomn
@@ -2073,3 +2069,6 @@ F907	龜	(新增)	hxu	另有龜：nxu
 2CC87	𬲇	ophnk	ophnv
 2CC87	𬲇	ophnm	(刪除)	𬲇：ophnv
 2CCA0	𬲠	(新增)	osomp	另有𬲠：oiomp
+==2017.12.15==	@Arthurmcarthur 提供
+2069E	𠚞	rruc	rubbc
+2069E	𠚞	usbbc	(刪除)	𠚞：rubbc
