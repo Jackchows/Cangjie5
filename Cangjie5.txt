@@ -2174,8 +2174,8 @@
 腡	bbbr
 𥂀	bbbt
 𬋶	bbbt
+𧠳	bbbu
 覶	bbbuu
-𧠳	bbbuu
 骽	bbbv
 𢃹	bbcb
 𦜊	bbcd
@@ -2277,7 +2277,6 @@
 䯋	bbikk
 骮	bbip
 𩩯	bbisb
-𪪹	bbit
 𩪬	bbitc
 𩩮	bbite
 𩪉	bbixp
@@ -2533,6 +2532,7 @@
 髑	bbwli
 𩩚	bbwml
 䯠	bbwot
+𪪹	bbwt
 𩪖	bbwtj
 𩩙	bbwvj
 𩨓	bby
@@ -67793,6 +67793,7 @@
 𡁃	rjwc
 唓	rjwj
 啚	rjwr
+𠶭	rjwv
 𠽨	rjya
 𠹼	rjyj
 𧈍	rjypn
@@ -88304,7 +88305,7 @@
 𪰕	xaok
 𬀿	xaomb
 𣅠	xaomn
-𣈯	xaomv
+𣈥	xaomv
 𬼲	xaoon
 𭦎	xaoos
 𢗭	xap
@@ -88398,7 +88399,6 @@
 𦜳	xbbb
 𦞽	xbbbb
 𬋶	xbbbt
-𧠳	xbbbu
 𭩖	xbbcv
 𣐷	xbbd
 𤊏	xbbf
@@ -89935,7 +89935,7 @@
 𭲌	xefqk
 坔	xeg
 𣵒	xegb
-瀔	xegde
+濲	xegde
 𤃀	xegfe
 塣	xegg
 𬷯	xegha
@@ -95352,7 +95352,7 @@
 𠐣	xomkp
 𪟘	xomks
 𠇭	xoml
-𠇆	xomlb
+𠎘	xomlb
 𠂜	xomlm
 𠛲	xomln
 𠀉	xomm
@@ -100908,7 +100908,7 @@
 𠋊	xxomf
 𡊣	xxomg
 𬷏	xxomh
-𠉴	xxoml
+𠇆	xxoml
 𠓞	xxomm
 𨝫	xxomn
 𠇮	xxomo
