@@ -6,10 +6,21 @@
 
 原碼表為[「倉頡平台 2012」](http://www.chinesecj.com/forum/viewthread.php?tid=2596)的「五倉世紀」碼表。
 
-**注意：本碼表除收錄中日韓統一表意文字（基本區至擴展F區）外，亦收錄[兼容漢字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%9B%B8%E5%AE%B9%E5%AD%97%E5%85%83)、部首、筆畫、符號和標點以及注音符號。兼容漢字等在碼表中有標註，使用時請注意。**
+**本項目參考官方資料對碼表進行修改，但無意完善倉頡輸入法理論，亦無意追求客觀。使用前務必閱讀[說明](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#%E4%B8%BB%E8%A6%81%E6%94%B9%E7%A2%BC%E8%AA%AA%E6%98%8E%E5%8F%8A%E7%88%AD%E8%AD%B0%E5%8F%96%E7%A2%BC)。**<br />
+本項目以 1999 版倉頡五代為基礎，採納部份 2003 版倉頡五代的修改。<br />
 
-**本項目參考官方資料對碼表進行修改，但無意完善倉頡輸入法理論，亦無意追求客觀。**<br />
-本項目以 1999 版倉頡五代為基礎，採納部份 2003 版倉頡五代的修改。
+- **[Cangjie5.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5.txt)**<br />
+碼表。收錄中日韓統一表意文字（基本區至擴展F區）字符、[中日韓兼容表意文字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%9B%B8%E5%AE%B9%E5%AD%97%E5%85%83)區中未見於統一漢字區的十二個字符，以及官方碼表中收錄的符號。<br />
+**※一般情況下，請使用此碼表。**
+- **[Cangjie5_supplement.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_supplement.txt)**<br />
+碼表。收錄以下 Unicode 區域的字符：中日韓兼容表意文字（Cangjie5.txt 已收錄的除外）、中日韓兼容表意文字補充、康熙部首、中日韓部首補充、中日韓筆畫、中日韓符號和標點（部分）、中日韓兼容標點（部分）。<br />
+※除非你理解這些字符的用途，否則**請勿**使用此碼表。
+- **[change_summary.md](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md)**    ※請首先閱讀此文檔。<br />
+爭議取碼、字形兼容、重碼字排序調整說明。
+- **[change_details.log](https://github.com/Jackchows/Cangjie5/blob/master/change_details.log)**<br />
+碼表的詳細編輯記錄。
+
+## 編輯原則
 
 本項目主要參考以下資料：<br />
 1. 《第五代倉頡輸入法手冊》正文中對規則的描述（簡稱「手冊」）<br />
@@ -30,7 +41,7 @@
 3. 採納「漢文庫典」針對「難字」取碼的修改，採納「漢文庫典」針對大字庫集的修改。<br />
 4. 「附表」和「漢文庫典」發生矛盾，適當設兼容碼，屬於原則③的情況除外。<br />
 5. 「手冊」和「漢文庫典」發生矛盾，而該字未見於「附表」，適當設兼容碼。但若該字屬於常用字，則盡量避免設兼容碼。<br />
-6. 取碼發生爭議，將參考各方觀點，憑個人理解確定編碼，並在[說明](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#主要改碼說明及爭議取碼)中列明理由。<br />
+6. 取碼發生爭議，將參考各方觀點，憑個人理解確定編碼，並在[說明](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#%E4%B8%BB%E8%A6%81%E6%94%B9%E7%A2%BC%E8%AA%AA%E6%98%8E%E5%8F%8A%E7%88%AD%E8%AD%B0%E5%8F%96%E7%A2%BC)中列明理由。<br />
 
 ## 反饋錯誤
 

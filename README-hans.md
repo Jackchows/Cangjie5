@@ -6,10 +6,21 @@
 
 原码表为[「仓颉平台 2012」](http://www.chinesecj.com/forum/viewthread.php?tid=2596)的「五仓世纪」码表。
 
-**注意：本码表除收录中日韩统一表意文字（基本区至扩展F区）外，亦收录[兼容汉字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%9B%B8%E5%AE%B9%E5%AD%97%E5%85%83)、部首、笔画、符号和标点以及注音符号。兼容汉字等在码表中有标注，使用时请注意。**
+**本项目参考官方资料对码表进行修改，但无意完善仓颉输入法理论，亦无意追求客观。使用前务必阅读[说明](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#%E4%B8%BB%E8%A6%81%E6%94%B9%E7%A2%BC%E8%AA%AA%E6%98%8E%E5%8F%8A%E7%88%AD%E8%AD%B0%E5%8F%96%E7%A2%BC)。**<br />
+本项目以 1999 版仓颉五代为基础，采纳部份 2003 版仓颉五代的修改。<br />
 
-**本项目参考官方资料对码表进行修改，但无意完善仓颉输入法理论，亦无意追求客观。**<br />
-本项目以 1999 版仓颉五代为基础，采纳部份 2003 版仓颉五代的修改。
+- **[Cangjie5.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5.txt)**<br />
+码表。收录中日韩统一表意文字（基本区至扩展F区）字符、[中日韩兼容表意文字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%9B%B8%E5%AE%B9%E5%AD%97%E5%85%83)区中未见于统一汉字区的十二个字符，以及官方码表中收录的符号。<br />
+**※一般情况下，请使用此码表。**
+- **[Cangjie5_supplement.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_supplement.txt)**<br />
+码表。收录以下 Unicode 区域的字符：中日韩兼容表意文字（Cangjie5.txt 已收录的除外）、中日韩兼容表意文字补充、康熙部首、中日韩部首补充、中日韩笔画、中日韩符号和标点（部分）、中日韩兼容标点（部分）。<br />
+※除非你理解这些字符的用途，否则**请勿**使用此码表。
+- **[change_summary.md](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md)**    ※请首先阅读此文档。<br />
+争议取码、字形兼容、重码字排序调整说明。
+- **[change_details.log](https://github.com/Jackchows/Cangjie5/blob/master/change_details.log)**<br />
+码表的详细编辑记录。
+
+## 编辑原则
 
 本项目主要参考以下资料：<br />
 1. 《第五代仓颉输入法手册》正文中对规则的描述（简称「手册」）<br />
@@ -30,7 +41,7 @@
 3. 采纳「汉文库典」针对「难字」取码的修改，采纳「汉文库典」针对大字库集的修改。<br />
 4. 「附表」和「汉文库典」发生矛盾，适当设兼容码，属于原则③的情况除外。<br />
 5. 「手册」和「汉文库典」发生矛盾，而该字未见于「附表」，适当设兼容码。但若该字属于常用字，则尽量避免设兼容码。<br />
-6. 取码发生争议，将参考各方观点，凭个人理解确定编码，并在[说明](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#主要改碼說明及爭議取碼)中列明理由。<br />
+6. 取码发生争议，将参考各方观点，凭个人理解确定编码，并在[说明](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#%E4%B8%BB%E8%A6%81%E6%94%B9%E7%A2%BC%E8%AA%AA%E6%98%8E%E5%8F%8A%E7%88%AD%E8%AD%B0%E5%8F%96%E7%A2%BC)中列明理由。<br />
 
 ## 反馈错误
 
