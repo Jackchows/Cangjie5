@@ -4676,6 +4676,7 @@
 肤	bqo
 𦠛	bqoa
 𦢤	bqoc
+周	bqr
 𠵁	bqrr
 𦢟	bqto
 甩	bqu
@@ -87157,7 +87158,7 @@
 𪰕	xaok
 𬀿	xaomb
 𣅠	xaomn
-𣈥	xaomv
+𣈯	xaomv
 𬼲	xaoon
 𭦎	xaoos
 𢗭	xap
@@ -87466,7 +87467,7 @@
 𦋚	xbkya
 𦊶	xbkyh
 𦘶	xblll
-𠟭	xblln
+䏒	xblln
 𩕩	xblmb
 𧉏	xblmi
 脁	xblmo
@@ -90756,7 +90757,7 @@
 䉶	xhoge
 𢖂	xhogo
 𢖡	xhogt
-鴔	xhoha
+鴩	xhoha
 𪁛	xhohe
 𫋯	xhohg
 𫹠	xhohh
@@ -92579,7 +92580,7 @@
 䘵	xlnme
 𧘈	xlnn
 䙆	xlnok
-𬌓	xlnp
+𬌔	xlnp
 𤖨	xlnu
 𪅵	xloha
 𬡧	xloir
@@ -95414,7 +95415,7 @@
 𠸤	xrhoi
 𡀏	xrhok
 㗸	xrhon
-㗰	xrhoo
+𠻀	xrhoo
 𠴰	xrhor
 𭆿	xrhp
 𠲃	xrhpl
@@ -98414,7 +98415,7 @@
 𮊌	xxbkk
 𠕴	xxbkn
 𩀎	xxbko
-䏒	xxbll
+𠟭	xxbll
 囗	xxbm
 𦚹	xxbmb
 𭁿	xxbmf
@@ -99081,7 +99082,7 @@
 𫟘	xxhod
 𤊑	xxhof
 𡑸	xxhog
-鴩	xxhoh
+䳷	xxhoh
 𬠾	xxhoi
 𡙾	xxhok
 𪫏	xxhol
@@ -99445,7 +99446,7 @@
 冖	xxln
 𡘉	xxlnk
 𬩵	xxlnl
-𬌔	xxlnp
+𬌓	xxlnp
 𭁈	xxlqm
 𮤭	xxlsf
 𬼕	xxlsl
