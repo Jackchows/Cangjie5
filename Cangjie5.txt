@@ -58887,7 +58887,6 @@
 𠇒	ooo
 𡿦	ooo
 𫡑	ooo
-㫺	oooa
 𠎥	oooa
 𤏀	ooof
 侳	ooog
@@ -58910,6 +58909,7 @@
 𠑁	oooo
 𫢴	oooo
 𬾀	oooo
+㫺	ooooa
 𣊦	ooooa
 𦠗	oooob
 𦠡	oooob
@@ -87514,7 +87514,7 @@
 𦋚	xbkya
 𦊶	xbkyh
 𦘶	xblll
-𠟭	xblln
+䏒	xblln
 𩕩	xblmb
 𧉏	xblmi
 脁	xblmo
@@ -92628,7 +92628,7 @@
 䘵	xlnme
 𧘈	xlnn
 䙆	xlnok
-𬌔	xlnp
+𬌓	xlnp
 𤖨	xlnu
 𪅵	xloha
 𬡧	xloir
@@ -94392,7 +94392,6 @@
 𠓟	xoon
 㰸	xoono
 㐺	xooo
-𠎥	xoooa
 𠍮	xooog
 㪘	xoook
 𠙠	xooon
@@ -98461,7 +98460,7 @@
 𮊌	xxbkk
 𠕴	xxbkn
 𩀎	xxbko
-䏒	xxbll
+𠟭	xxbll
 囗	xxbm
 𦚹	xxbmb
 𭁿	xxbmf
@@ -99493,7 +99492,7 @@
 冖	xxln
 𡘉	xxlnk
 𬩵	xxlnl
-𬌓	xxlnp
+𬌔	xxlnp
 𭁈	xxlqm
 𮤭	xxlsf
 𬼕	xxlsl
