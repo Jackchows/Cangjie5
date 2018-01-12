@@ -7603,6 +7603,7 @@
 釬	cmj
 銒	cmjj
 𨬒	cmjk
+鍤	cmjx
 𨦐	cmke
 勜	cmks
 𬫂	cmks
@@ -10756,6 +10757,7 @@
 桎	dmig
 杆	dmj
 橄	dmjk
+㮑	dmjx
 𣏿	dmk
 㮪	dmkd
 𣕊	dmke
@@ -14289,6 +14291,7 @@
 𣽥	emjc
 澉	emjk
 汚	emjs
+㴙	emjx
 𣸸	emke
 添	emkp
 𪶍	emkq
@@ -22864,7 +22867,6 @@
 𥠞	hdhju
 𮃙	hdhju
 䅤	hdhjx
-𦦈	hdhjx
 秗	hdhk
 穚	hdhkb
 𮂺	hdhke
@@ -23155,6 +23157,7 @@
 秷	hdmig
 秆	hdmj
 𥝝	hdmj
+䅤	hdmjx
 稉	hdmlk
 稏	hdmlm
 𥢋	hdmlw
@@ -25359,6 +25362,7 @@
 𥯾	hjhr
 𥰋	hjhr
 𨻑	hjhrf
+𦥫	hjhu
 𮆳	hjhw
 臿	hjhx
 𦥛	hjhx
@@ -29948,6 +29952,7 @@
 𦦶	hxccs
 𦦂	hxchx
 𣖄	hxd
+𥀈	hxdhe
 𦥘	hxdi
 𦥦	hxdj
 𪌲	hxdoe
@@ -29971,6 +29976,7 @@
 𮍰	hxhc
 𡕻	hxhe
 𦥻	hxhjm
+𦦈	hxhjx
 𠒍	hxhn
 䑕	hxhnq
 兒	hxhu
@@ -30092,6 +30098,7 @@
 舃	hxyf
 𧞜	hxyhv
 𮍧	hxyk
+𥪵	hxytv
 忄	hy
 𫁰	hy
 昝	hya
@@ -31574,7 +31581,6 @@
 𥚦	ifnmk
 𥛇	ifnmm
 祪	ifnmu
-爳	ifnn
 𬋱	ifnn
 𣤭	ifno
 𥚩	ifnob
@@ -32611,6 +32617,7 @@
 𫷫	imjk
 凄	imjlv
 𠗌	imjru
+㢎	imjx
 冻	imkd
 𭠋	imkd
 𧥑	imkib
@@ -33558,6 +33565,7 @@
 𢋫	ismc
 廖	ismh
 𢩈	ismig
+𢩖	ismjx
 𢩔	ismlm
 𢨑	ismm
 𢨧	ismm
@@ -40990,6 +40998,7 @@
 𡭔	lc
 𨵣	lcan
 𧟝	lcbe
+䀆	lcbt
 𫖦	lcfbr
 𠦺	lcfq
 衳	lci
@@ -42988,11 +42997,11 @@
 賮	lmfbc
 𧷇	lmfbc
 盡	lmfbt
+䀆	lmfbt
 𧗊	lmfbt
 𡎀	lmfg
 𪜉	lmfj
 𧝼	lmfn
-䀆	lmft
 壮	lmg
 𩰋	lmg
 𧛢	lmge
@@ -43007,6 +43016,7 @@
 衦	lmj
 𭣖	lmje
 𧙧	lmjj
+䙄	lmjx
 𧞁	lmkm
 𮖂	lmkr
 䙣	lmky
@@ -47675,6 +47685,7 @@
 𢆕	mjhe
 𩙀	mjhni
 𠑺	mjhu
+臿	mjhx
 𢧎	mji
 𭙃	mjiav
 麉	mjixp
@@ -48853,6 +48864,7 @@
 䝌	moeee
 燹	mof
 𤉄	mof
+𬋐	mof
 𭴺	mof
 贗	mofc
 𭆘	mofc
@@ -51640,6 +51652,8 @@
 𨣚	mwywm
 𩉊	mwywm
 𨣧	mwyx
+𬐬	mxbt
+𣖄	mxd
 𥀈	mxdhe
 𢻗	mxje
 𦦘	mxjlo
@@ -56158,45 +56172,6 @@
 𢏸	nyvf
 弦	nyvi
 𭛈	nywm
-𩰲	nz
-𬴼	nzagp
-𬴹	nzbd
-𩱪	nzbmb
-𩱭	nzcwa
-𩱖	nzdl
-𩱣	nzeln
-𩱮	nzesd
-鬻	nzfd
-𬴻	nzfdd
-𩱷	nzfdi
-𩱯	nzfdu
-𬴺	nzfdu
-𬴸	nzgmj
-𩱥	nziim
-𫙇	nzimg
-𩱚	nzjbd
-䰞	nzjka
-𩱞	nzjkd
-𩱰	nzjke
-𩱍	nzjr
-𩱎	nzlln
-𩱶	nzmbg
-𩱗	nzmcw
-𩱜	nzmmv
-𩱨	nzmvi
-𩱤	nznkq
-𫙆	nzodi
-𩱡	nzoru
-𩱟	nzowy
-𩱱	nzoyu
-𩱦	nzpuu
-𩱓	nzsj
-𩱲	nzsmg
-𩱧	nztgf
-𩱆	nzv
-𩱫	nzydl
-𩱌	nzyg
-𩱳	nzyx
 人	o
 㒲	oa
 𬽪	oa
@@ -58646,6 +58621,7 @@
 𠆬	omjs
 𠉔	omjt
 𨎯	omjwj
+偛	omjx
 𠇄	omk
 𫢋	omk
 𠌖	omkd
@@ -60158,6 +60134,7 @@
 𪂾	oshaf
 𮩔	oshak
 仞	oshi
+𩝟	oshjx
 㒊	oshm
 𬆢	oshne
 𩚑	oshni
@@ -60218,6 +60195,7 @@
 僇	osmh
 𮩎	osmhk
 𠎅	osmi
+𩝟	osmjx
 𪜹	osmm
 𪝟	osmm
 𩜴	osmor
@@ -63790,7 +63768,6 @@
 揰	qhjg
 𪮜	qhjg
 挿	qhjl
-揷	qhjl
 捶	qhjm
 𢷙	qhjm
 𢮿	qhjp
@@ -64649,6 +64626,7 @@
 擫	qmak
 𢬎	qmam
 青	qmb
+靑	qmb
 𢸲	qmba
 擩	qmbb
 𢺞	qmbb
@@ -64741,6 +64719,8 @@
 𪮂	qmjl
 𭯿	qmjn
 𢰔	qmju
+插	qmjx
+揷	qmjx
 𢹥	qmkg
 𢶍	qmkm
 掭	qmkp
@@ -68071,6 +68051,7 @@
 𨇥	rmjto
 𮛡	rmjtu
 𬦲	rmjwj
+喢	rmjx
 吴	rmk
 蹽	rmkcf
 𨅆	rmkcg
@@ -69413,6 +69394,7 @@
 𠳜	rqmo
 𠶓	rqmv
 𠺲	rqmv
+𠿂	rqmx
 𠷮	rqmy
 𠳖	rqne
 𫩿	rqno
@@ -69720,6 +69702,7 @@
 𠰉	rshr
 𠳿	rshu
 㗗	rshwj
+𠽣	rshx
 𭈩	rsie
 𭈶	rsijb
 𭈩	rsik
@@ -71161,6 +71144,7 @@
 駯	sfhjd
 𩤣	sfhje
 𫘐	sfhjg
+𩣙	sfhjl
 䮔	sfhjm
 𩤪	sfhju
 䮢	sfhjx
@@ -71353,6 +71337,7 @@
 𩤴	sfmih
 馯	sfmj
 𩣙	sfmjl
+䮢	sfmjx
 䭶	sfml
 𩡸	sfmlb
 𬳬	sfmlk
@@ -73301,6 +73286,7 @@
 𦑐	smjwi
 𨍒	smjwj
 𫅨	smjwj
+㞚	smjx
 㚑	smk
 𦐌	smki
 𨞟	smkkl
@@ -76086,7 +76072,6 @@
 𪉤	thywi
 𦼎	thyy
 𠀖	ti
-𢌭	ti
 𦬗	ti
 莨	tiav
 𦮌	tib
@@ -77056,6 +77041,7 @@
 芖	tk
 𠀠	tk
 𦍍	tk
+𢌭	tk
 𬮎	tkan
 𨷑	tkant
 𦮹	tkau
@@ -84711,6 +84697,7 @@
 𡚯	vmjs
 𤖘	vmjtc
 𡟢	vmju
+㛼	vmjx
 𬘠	vmkb
 缭	vmkcf
 纮	vmki
@@ -87708,7 +87695,7 @@
 𪰕	xaok
 𬀿	xaomb
 𣅠	xaomn
-𣈯	xaomv
+𠕦	xaomv
 𬼲	xaoon
 𭦎	xaoos
 𢗭	xap
@@ -88019,7 +88006,7 @@
 𦋚	xbkya
 𦊶	xbkyh
 𦘶	xblll
-𠟭	xblln
+䏒	xblln
 𩕩	xblmb
 𧉏	xblmi
 脁	xblmo
@@ -90450,16 +90437,16 @@
 𩕀	xgkmb
 𠅀	xgkmm
 𡉕	xgkni
-䲀	xgknw
+𩻉	xgknw
 㥿	xgkp
-摯	xgkq
+摰	xgkq
 𭊆	xgkr
 𪓴	xgkrx
 𨅚	xgkry
 𡍲	xgksj
-騺	xgksq
+驇	xgksq
 𭐒	xgksr
-𡠗	xgkv
+𡠦	xgkv
 𧜼	xgkyh
 謺	xgkym
 𪇄	xglha
@@ -91888,7 +91875,6 @@
 𧲊	xifms
 𥛑	xifmv
 鄬	xifnl
-𬋱	xifnn
 𥚁	xifns
 𫿡	xifok
 𥚗	xifom
@@ -94528,7 +94514,6 @@
 𩺰	xnwfn
 𭑏	xnwk
 𡐲	xnwkg
-𬴺	xnzfd
 𬽪	xoa
 𭀠	xoahu
 𠟏	xoaln
@@ -95526,7 +95511,6 @@
 𭡼	xqhhw
 𢯫	xqhje
 𪮜	xqhjg
-揷	xqhjl
 𢷙	xqhjm
 𢯀	xqhju
 揷	xqhjx
@@ -95676,6 +95660,7 @@
 𫼫	xqlsh
 𪮋	xqlx
 龶	xqm
+靑	xqmb
 𢺞	xqmbb
 𢯬	xqmbe
 𢺓	xqmbg
@@ -95697,6 +95682,7 @@
 𢴃	xqmgk
 𫾂	xqmgn
 𭠴	xqmgt
+揷	xqmjx
 𢮳	xqmlb
 𢵣	xqmmp
 𮀒	xqmmr
@@ -95974,7 +95960,7 @@
 𭊄	xrdlk
 劋	xrdln
 𪢐	xrdlo
-𡀐	xrdnd
+𭇶	xrdnd
 𠻟	xrdoe
 𣀉	xrdok
 𪡺	xrdoo
@@ -97290,7 +97276,7 @@
 𦷚	xthxp
 𦯵	xthxu
 𦻉	xthye
-𢌭	xti
+𦬗	xti
 𮎤	xtib
 𧃲	xtidd
 𧂷	xtidf
@@ -99056,7 +99042,7 @@
 𮊌	xxbkk
 𠕴	xxbkn
 𩀎	xxbko
-䏒	xxbll
+𠟭	xxbll
 囗	xxbm
 𦚹	xxbmb
 𭁿	xxbmf
@@ -99516,13 +99502,13 @@
 𭵴	xxgkf
 𪃤	xxgkh
 𫝑	xxgkk
-蟄	xxgkl
-𩻉	xxgkn
+𧐨	xxgkl
+䲀	xxgkn
 𢟻	xxgkp
-摰	xxgkq
+摯	xxgkq
 𨄧	xxgkr
 𦗙	xxgks
-𡠦	xxgkv
+𡠗	xxgkv
 𣫎	xxglh
 𫭡	xxgll
 𡑂	xxgmb
@@ -100096,6 +100082,7 @@
 𫶧	xxllu
 𤖩	xxllv
 𠃊	xxlm
+䀆	xxlmf
 冖	xxln
 𡘉	xxlnk
 𬩵	xxlnl
@@ -100937,7 +100924,6 @@
 𮐒	xxtho
 𦶃	xxthw
 𦱉	xxthx
-𦬗	xxti
 𮒓	xxtif
 䴊	xxtih
 𮐻	xxtim
@@ -101568,7 +101554,7 @@
 𧛿	xxxyh
 𨓩	xxxyi
 𪅄	xxxyj
-𣎆	xxxyk
+𦝠	xxxyk
 𮮽	xxxyl
 𭭞	xxxym
 𪂬	xxxyn
@@ -101601,7 +101587,7 @@
 𮟮	xxycn
 戅	xxycp
 𪆶	xxydh
-𭐓	xxydk
+𭓔	xxydk
 𬨻	xxydl
 𨜎	xxydn
 𮦀	xxydo
@@ -101631,7 +101617,7 @@
 𭏼	xxyig
 𮞲	xxyii
 𭜘	xxyip
-𦣔	xxyiw
+𫎣	xxyiw
 𪅂	xxyjh
 𩑯	xxyjm
 𬨖	xxyjn
@@ -101988,7 +101974,7 @@
 𠘛	xyitc
 𨖓	xyitf
 𬬘	xyiwk
-𫎣	xyiwn
+𬬘	xyiwn
 𭤞	xyiyj
 辻	xyj
 𨗉	xyjco
@@ -106389,6 +106375,7 @@
 譀	yrmjk
 𦧨	yrmjr
 𧥦	yrmjs
+䛽	yrmjx
 䚶	yrmk
 𧬩	yrmkm
 𧥭	yrmkn
