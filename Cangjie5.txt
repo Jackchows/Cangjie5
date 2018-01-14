@@ -7462,6 +7462,7 @@
 釻	ckni
 爹	cknin
 釻	cknk
+鄭	cknl
 𨚅	cknl
 𩻇	cknwf
 𨾝	ckog
@@ -88589,6 +88590,7 @@
 鈦	xcki
 𫷁	xcklb
 釚	xckn
+𨚅	xcknl
 𭶻	xckr
 𭄍	xcksh
 鈡	xcl
