@@ -7707,6 +7707,7 @@
 鏢	cmwf
 𬫭	cmwg
 鐔	cmwj
+奠	cmwk
 𭁗	cmwk
 䥮	cmwl
 𨮮	cmwm
@@ -88625,6 +88626,7 @@
 𨦹	xcmtl
 𨥛	xcmvm
 𨫊	xcmwd
+𭁗	xcmwk
 𬼸	xcn
 鋔	xcnau
 𨥂	xcnd
