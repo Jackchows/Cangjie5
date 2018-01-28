@@ -13669,8 +13669,8 @@
 𬇽	ehsb
 𭱘	ehsc
 淭	ehsd
-溵	ehse
 沒	ehse
+溵	ehse
 㴃	ehse
 𣸔	ehsf
 𬉤	ehsf
@@ -84848,6 +84848,7 @@
 㛏	vije
 𫷟	vijks
 奬	vik
+幾	vik
 𡗞	vik
 𫰀	vik
 𫰋	vik
@@ -90051,7 +90052,7 @@
 𣸦	xebmv
 𣹠	xebni
 懑	xebp
-㳑	xebt
+泴	xebt
 𭰲	xebtt
 𤁃	xebu
 𤃞	xebub
@@ -90196,10 +90197,10 @@
 𭳥	xehrc
 𠭬	xehrf
 𣾡	xehsb
-沒	xehse
+溵	xehse
 𬉤	xehsf
 淚	xehsk
-𪠂	xehsl
+𣹜	xehsl
 𣲣	xehsu
 𤂩	xehua
 瀩	xehuc
@@ -90961,7 +90962,7 @@
 𨞁	xfqra
 𦒪	xfqsm
 巻	xfqsu
-𤆚	xfqu
+𦧿	xfqu
 𤏞	xfqvv
 𪨃	xfqyj
 𢠒	xfrp
@@ -91240,7 +91241,7 @@
 𪓴	xgkrx
 𨅚	xgkry
 𡍲	xgksj
-驇	xgksq
+騺	xgksq
 𭐒	xgksr
 𡠗	xgkv
 𧜼	xgkyh
@@ -98114,7 +98115,7 @@
 蘅	xthon
 蓗	xthoo
 𭅐	xthp
-莭	xthpl
+蔇	xthpl
 𮍹	xthpp
 𮐬	xthrb
 𫈿	xthre
@@ -99431,7 +99432,7 @@
 𫲁	xvifd
 㛇	xvig
 𬷭	xviha
-𧗒	xvihb
+𧗓	xvihb
 𡠽	xvihf
 𡜐	xvihi
 𢆻	xvihn
@@ -100328,7 +100329,7 @@
 𬖩	xxfqn
 𭅑	xxfqp
 𫧟	xxfqs
-𦧿	xxfqu
+𤆚	xxfqu
 𪺍	xxfsm
 𤆽	xxft
 𤍞	xxftm
@@ -101810,7 +101811,7 @@
 𦴂	xxthj
 𮓀	xxthn
 𮐒	xxtho
-蔇	xxthp
+莭	xxthp
 𦶃	xxthw
 𦱉	xxthx
 𮒓	xxtif
@@ -102024,7 +102025,7 @@
 㚧	xxvi
 𭧡	xxvia
 𡤗	xxvif
-𧗓	xxvih
+𧗒	xxvih
 𭅩	xxvij
 𫰀	xxvik
 𠠞	xxvil
@@ -102508,7 +102509,7 @@
 𭏼	xxyig
 𮞲	xxyii
 𭜘	xxyip
-𦣔	xxyiw
+𫎣	xxyiw
 𪅂	xxyjh
 𩑯	xxyjm
 𬨖	xxyjn
@@ -102866,7 +102867,7 @@
 𠘛	xyitc
 𨖓	xyitf
 𬬘	xyiwk
-𫎣	xyiwn
+𦣔	xyiwn
 𭤞	xyiyj
 辻	xyj
 𨗉	xyjco
