@@ -1,4 +1,5 @@
 Unicode	漢字	原編碼	新編碼	備註
+（由於疏忽，本項目最初所用的碼表並非「五倉世紀」原版碼表，而是經網友修改的版本。此問題已在2018.01.29更新中糾正。請見諒。）
 ==2016.02==
 6A77	橷	dlmu	(刪除)	橷:dlpn
 2B826	𫠦	mlln	mlin
@@ -4420,5 +4421,25 @@ FA8A	慠	pqsk	pgsk
 28BCD	𨯍	jkc	(刪除)	𨯍：tkc
 28CE1	𨳡	anlmy	(刪除)	𨳡：ant
 2977C	𩝼	oimkj	(刪除)	𩝼：oimkt
-==2017.08.16==				@Arthurmcarthur 修改
+==2018.02.01==				@Arthurmcarthur 修改
 2002A	𠀪	tmi	tmmi	五代點附
+==2018.02.02==
+4EDE	仞	(新增)	oshh	另有仞：oshi
+4EFB	任	(新增)	omg	另有任：ohg
+20001	𠀁	(新增)	js	另有𠀁：ks
+20006	𠀆	jj	kj	
+2001B	𠀛	mob	mkb	
+2001F	𠀟	dxn	dnvs	
+2002D	𠀭	(新增)	hds	另有𠀭：mds
+2004A	𠁊	qooo	(刪除)	*
+2006D	𠁭	ololl	olol	
+20075	𠁵	llmc	lllc	
+2007A	𠁺	llygj	llygq	
+20080	𠂀	(新增)	tij	另有𠂀：til
+20081	𠂁	lmml	sli	
+2008F	𠂏	(新增)	nhms	*
+2008F	𠂏	(新增)	nsmn	*
+20097	𠂗	hniu	lniv	
+2009C	𠂜	omlm	(刪除)	𠂜：hlmm
+200A6	𠂦	lyjl	lyql	
+200AD	𠂭	kiii	ikii	
