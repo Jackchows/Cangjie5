@@ -10,13 +10,16 @@
 本項目以 1999 版倉頡五代為基礎，採納部份 2003 版倉頡五代的修改。<br />
 
 - **[Cangjie5.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5.txt)**<br />
-碼表。收錄中日韓統一表意文字（基本區至擴展F區）字符、[中日韓兼容表意文字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%9B%B8%E5%AE%B9%E5%AD%97%E5%85%83)區中未見於統一漢字區的十二個字符，以及官方碼表中收錄的符號。<br />
-**※一般情況下，請使用此碼表。**
+碼表。**一般排序**，綜合考慮字頻及繁簡。<br />
+收錄中日韓統一表意文字（基本區至擴展F區）字符、[中日韓兼容表意文字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%9B%B8%E5%AE%B9%E5%AD%97%E5%85%83)區中未見於統一漢字區的十二個字符，以及官方碼表中收錄的符號。<br />
+同時收錄以下 Unicode 區域的字符：中日韓兼容表意文字（除十二個不重複的字符）、中日韓兼容表意文字補充、康熙部首、中日韓部首補充、中日韓筆畫、中日韓符號和標點（部分）、中日韓兼容標點（部分）及表意文字描述字符。**此部分字符，編碼以「z」開頭**（兼容漢字「zc」，部首「zr」，筆畫「zs」，表意文字描述字符「zi」）。<br />
+- **[Cangjie5_SC.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_SC.txt)**<br />
+碼表。**簡化字優先**（限《通用規範漢字表》範圍）。<br />
+收字範圍與 Cangjie5.txt 相同。
 - **[Cangjie5_supplement.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_supplement.txt)**<br />
-碼表。收錄以下 Unicode 區域的字符：中日韓兼容表意文字（Cangjie5.txt 已收錄的除外）、中日韓兼容表意文字補充、康熙部首、中日韓部首補充、中日韓筆畫、中日韓符號和標點（部分）、中日韓兼容標點（部分）。<br />
-※除非你理解這些字符的用途，否則**請勿**使用此碼表。
-- **[change_summary.md](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md)**    ※請首先閱讀此文檔。<br />
-爭議取碼、字形兼容、重碼字排序調整說明。
+碼表。收錄以下 Unicode 區域的字符：中日韓兼容表意文字（除十二個不重複的字符）、中日韓兼容表意文字補充、康熙部首、中日韓部首補充、中日韓筆畫、中日韓符號和標點（部分）、中日韓兼容標點（部分）及表意文字描述字符。此表按原始編碼收錄，編碼不以「z」開頭。<br />
+- **[change_summary.md](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md)    ※請首先閱讀此文檔。**<br />
+爭議取碼、字形兼容、重碼字排序調整說明（僅記錄 Cangjie5.txt 的排序調整）。
 - **[change_details.log](https://github.com/Jackchows/Cangjie5/blob/master/change_details.log)**<br />
 碼表的詳細編輯記錄。
 
