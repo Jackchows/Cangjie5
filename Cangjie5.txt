@@ -10679,7 +10679,6 @@
 𣐤	dla
 𣙹	dlapp
 𣏑	dlb
-𬢍	dlbhu
 柍	dlbk
 𭬡	dlbk
 𪲯	dlbq
@@ -35834,6 +35833,7 @@
 𫴈	jhbe
 𡨿	jhbf
 𬢉	jhbhu
+𬢍	jhbhu
 𭺏	jhbi
 𡪿	jhbk
 𪧯	jhbt
@@ -88518,7 +88518,7 @@
 𪰕	xaok
 𬀿	xaomb
 𣅠	xaomn
-𣈯	xaomv
+𠕦	xaomv
 𬼲	xaoon
 𭦎	xaoos
 𢗭	xap
@@ -90214,7 +90214,7 @@
 盪	xehbt
 灚	xehbu
 𮣋	xehc
-𣽳	xehcn
+𤁦	xehcn
 𣓥	xehd
 𣽤	xehdb
 𤄪	xehde
@@ -91277,7 +91277,7 @@
 𣊁	xgka
 𮌳	xgkbl
 𥂢	xgkbt
-贄	xgkbu
+䞇	xgkbu
 𤕤	xgkc
 𣘢	xgkd
 𠭷	xgke
@@ -93182,6 +93182,7 @@
 𡬏	xjgjg
 𡫓	xjgkg
 𡨗	xjhap
+𬢍	xjhbh
 𫳴	xjhdk
 𡩸	xjhds
 𭜰	xjhep
@@ -98180,7 +98181,7 @@
 蘅	xthon
 蓗	xthoo
 𭅐	xthp
-莭	xthpl
+蔇	xthpl
 𮍹	xthpp
 𮐬	xthrb
 𫈿	xthre
@@ -100247,7 +100248,7 @@
 𭳜	xxegd
 𩾯	xxeha
 䀊	xxehb
-𤁦	xxehc
+𣽳	xxehc
 𣲲	xxehd
 𣲋	xxehe
 𡌂	xxehg
@@ -100453,7 +100454,7 @@
 𭵴	xxgkf
 𪃤	xxgkh
 𫝑	xxgkk
-𧐨	xxgkl
+蟄	xxgkl
 䲀	xxgkn
 𢟻	xxgkp
 摰	xxgkq
@@ -101880,7 +101881,7 @@
 𦴂	xxthj
 𮓀	xxthn
 𮐒	xxtho
-蔇	xxthp
+莭	xxthp
 𦶃	xxthw
 𦱉	xxthx
 𮒓	xxtif
@@ -102551,7 +102552,7 @@
 𮟮	xxycn
 戅	xxycp
 𪆶	xxydh
-𭓔	xxydk
+𭐓	xxydk
 𬨻	xxydl
 𨜎	xxydn
 𮦀	xxydo
@@ -111016,11 +111017,14 @@
 ⿰	ziwl
 ⿲	ziwll
 ⿸	ziwml
+〾	ziwmq
 ⿹	ziwn
+〾	ziwoq
 ⿴	ziwr
 ⿷	ziws
 ⿶	ziwu
 ⿺	ziwv
+⿻	ziww
 ⽇	zra
 ⽈	zra
 ⾨	zran
