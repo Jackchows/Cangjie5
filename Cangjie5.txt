@@ -88518,7 +88518,7 @@
 𪰕	xaok
 𬀿	xaomb
 𣅠	xaomn
-𠕦	xaomv
+𣈯	xaomv
 𬼲	xaoon
 𭦎	xaoos
 𢗭	xap
@@ -88833,7 +88833,7 @@
 𦋚	xbkya
 𦊶	xbkyh
 𦘶	xblll
-𠟭	xblln
+䏒	xblln
 𩕩	xblmb
 𧉏	xblmi
 脁	xblmo
@@ -90260,7 +90260,7 @@
 溵	xehse
 𬉤	xehsf
 淚	xehsk
-𣹜	xehsl
+𪠂	xehsl
 𣲣	xehsu
 𤂩	xehua
 瀩	xehuc
@@ -91295,14 +91295,14 @@
 𩕀	xgkmb
 𠅀	xgkmm
 𡉕	xgkni
-𩻉	xgknw
+䲀	xgknw
 㥿	xgkp
 摯	xgkq
 𭊆	xgkr
 𪓴	xgkrx
 𨅚	xgkry
 𡍲	xgksj
-騺	xgksq
+驇	xgksq
 𭐒	xgksr
 𡠗	xgkv
 𧜼	xgkyh
@@ -93628,7 +93628,7 @@
 痏	xkkb
 𧠔	xkkbu
 𤐳	xkkf
-鷞	xkkha
+鸑	xkkha
 𤺸	xkkhv
 𤵉	xkki
 𢂞	xkkkb
@@ -98181,7 +98181,7 @@
 蘅	xthon
 蓗	xthoo
 𭅐	xthp
-蔇	xthpl
+莭	xthpl
 𮍹	xthpp
 𮐬	xthrb
 𫈿	xthre
@@ -99053,7 +99053,7 @@
 𫵱	xuj
 𡻗	xujbc
 𡸽	xujbm
-𡸽	xujbv
+𡸜	xujbv
 𭗸	xujcc
 𡼄	xujcg
 𡹝	xujcm
@@ -99501,7 +99501,7 @@
 𫲁	xvifd
 㛇	xvig
 𬷭	xviha
-𧗒	xvihb
+𧗓	xvihb
 𡠽	xvihf
 𡜐	xvihi
 𢆻	xvihn
@@ -99991,7 +99991,7 @@
 𮊌	xxbkk
 𠕴	xxbkn
 𩀎	xxbko
-䏒	xxbll
+𠟭	xxbll
 囗	xxbm
 𦚹	xxbmb
 𭁿	xxbmf
@@ -100455,7 +100455,7 @@
 𪃤	xxgkh
 𫝑	xxgkk
 蟄	xxgkl
-䲀	xxgkn
+𩻉	xxgkn
 𢟻	xxgkp
 摰	xxgkq
 𨄧	xxgkr
@@ -100972,7 +100972,7 @@
 𪈌	xxkih
 𠀆	xxkj
 㚐	xxkk
-鸑	xxkkh
+𩾾	xxkkh
 𤵄	xxkki
 𤷤	xxkkk
 𤵗	xxkkl
@@ -101881,7 +101881,7 @@
 𦴂	xxthj
 𮓀	xxthn
 𮐒	xxtho
-莭	xxthp
+蔇	xxthp
 𦶃	xxthw
 𦱉	xxthx
 𮒓	xxtif
@@ -102096,7 +102096,7 @@
 㚧	xxvi
 𭧡	xxvia
 𡤗	xxvif
-𧗓	xxvih
+𧗒	xxvih
 𭅩	xxvij
 𫰀	xxvik
 𠠞	xxvil
@@ -102581,7 +102581,7 @@
 𤍨	xxyif
 𭏼	xxyig
 𭜘	xxyip
-𫎣	xxyiw
+𦣔	xxyiw
 𪅂	xxyjh
 𩑯	xxyjm
 𬨖	xxyjn
@@ -102927,7 +102927,7 @@
 𢧂	xyir
 𨖓	xyitf
 𬬘	xyiwk
-𬬘	xyiwn
+𫎣	xyiwn
 𭤞	xyiyj
 辻	xyj
 𨗉	xyjco
