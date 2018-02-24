@@ -9064,6 +9064,7 @@
 𣝗	dbbb
 𣜬	dbbe
 𪳗	dbbe
+𬢍	dbbhu
 𩏍	dbbla
 栅	dbbm
 橓	dbbq
@@ -35833,7 +35834,6 @@
 𫴈	jhbe
 𡨿	jhbf
 𬢉	jhbhu
-𬢍	jhbhu
 𭺏	jhbi
 𡪿	jhbk
 𪧯	jhbt
@@ -93182,7 +93182,6 @@
 𡬏	xjgjg
 𡫓	xjgkg
 𡨗	xjhap
-𬢍	xjhbh
 𫳴	xjhdk
 𡩸	xjhds
 𭜰	xjhep
