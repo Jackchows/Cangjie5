@@ -11,7 +11,7 @@
 
 - **[Cangjie5.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5.txt)**<br />
 碼表。**一般排序**，綜合考慮字頻及繁簡。<br />
-收錄中日韓統一表意文字（基本區至擴展F區）字符、[中日韓兼容表意文字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%9B%B8%E5%AE%B9%E5%AD%97%E5%85%83)區中未見於統一漢字區的十二個字符，以及官方碼表中收錄的符號。<br />
+收錄中日韓統一表意文字（基本區至擴展F區）字符、[中日韓兼容表意文字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%9B%B8%E5%AE%B9%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97)區中未見於統一漢字區的十二個字符，以及官方碼表中收錄的符號。<br />
 同時收錄以下 Unicode 區域的字符：中日韓兼容表意文字（除十二個不重複的字符）、中日韓兼容表意文字補充、康熙部首、中日韓部首補充、中日韓筆畫、中日韓符號和標點（部分）、中日韓兼容標點（部分）及表意文字描述字符。**此部分字符，編碼以「z」開頭**（兼容漢字「zc」，部首「zr」，筆畫「zs」，表意文字描述字符「zi」）。<br />
 - **[Cangjie5_TC.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_TC.txt)**<br />
 碼表。**傳統漢字優先**（限《常用國字標準字體表》、《次常用國字標準字體表》及《常用字字形表》範圍）。<br />
