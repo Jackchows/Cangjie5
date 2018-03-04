@@ -4969,8 +4969,8 @@
 𬥭	bsyia
 𢄂	bsylb
 𦟭	bsypp
-皿	bt
 冊	bt
+皿	bt
 䍏	bt
 𠕁	bt
 𢌳	bt
@@ -88871,7 +88871,7 @@
 𦋚	xbkya
 𦊶	xbkyh
 𦘶	xblll
-䏒	xblln
+𠟭	xblln
 𩕩	xblmb
 𧉏	xblmi
 脁	xblmo
@@ -89012,7 +89012,7 @@
 𦟐	xbsqf
 𦟾	xbsrr
 𤔿	xbsye
-冊	xbt
+皿	xbt
 𣆩	xbta
 𮌼	xbtak
 𮍆	xbtbi
@@ -90253,7 +90253,7 @@
 盪	xehbt
 灚	xehbu
 𮣋	xehc
-𤁦	xehcn
+𣽳	xehcn
 𣓥	xehd
 𣽤	xehdb
 𤄪	xehde
@@ -91338,14 +91338,14 @@
 𡉕	xgkni
 𩻉	xgknw
 㥿	xgkp
-摯	xgkq
+摰	xgkq
 𭊆	xgkr
 𪓴	xgkrx
 𨅚	xgkry
 𡍲	xgksj
-騺	xgksq
+驇	xgksq
 𭐒	xgksr
-𡠦	xgkv
+𡠗	xgkv
 𧜼	xgkyh
 謺	xgkym
 𪇄	xglha
@@ -100041,7 +100041,7 @@
 𮊌	xxbkk
 𠕴	xxbkn
 𩀎	xxbko
-𠟭	xxbll
+䏒	xxbll
 囗	xxbm
 𦚹	xxbmb
 𭁿	xxbmf
@@ -100298,7 +100298,7 @@
 𭳜	xxegd
 𩾯	xxeha
 䀊	xxehb
-𣽳	xxehc
+𤁦	xxehc
 𣲲	xxehd
 𣲋	xxehe
 𡌂	xxehg
@@ -100507,10 +100507,10 @@
 蟄	xxgkl
 䲀	xxgkn
 𢟻	xxgkp
-摰	xxgkq
+摯	xxgkq
 𨄧	xxgkr
 𦗙	xxgks
-𡠗	xxgkv
+𡠦	xxgkv
 𣫎	xxglh
 𫭡	xxgll
 𡑂	xxgmb
@@ -102569,7 +102569,7 @@
 𧛿	xxxyh
 𨓩	xxxyi
 𪅄	xxxyj
-𦝠	xxxyk
+𣎆	xxxyk
 𮮽	xxxyl
 𭭞	xxxym
 𪂬	xxxyn
@@ -102603,7 +102603,7 @@
 𮟮	xxycn
 戅	xxycp
 𪆶	xxydh
-𭓔	xxydk
+𭐓	xxydk
 𬨻	xxydl
 𨜎	xxydn
 𮦀	xxydo
@@ -102632,7 +102632,7 @@
 𤍨	xxyif
 𭏼	xxyig
 𭜘	xxyip
-𫎣	xxyiw
+𬬘	xxyiw
 𪅂	xxyjh
 𩑯	xxyjm
 𬨖	xxyjn
