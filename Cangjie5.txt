@@ -193,8 +193,8 @@
 𣇋	acru
 昐	acsh
 𣌥	acsh
+𭨏	actlc
 𩎍	actlj
-𭨏	actmc
 㬝	acwa
 杲	ad
 𠕖	ad
@@ -1398,6 +1398,7 @@
 𮤙	antjr
 関	antk
 𨵫	antkr
+𨶰	antlc
 䦫	antlk
 𨳼	antm
 𨶰	antmc
@@ -1771,6 +1772,7 @@
 𭧉	atmb
 𩔐	atmbc
 𫖥	atmbc
+曂	atmc
 𣇳	atmc
 𣈒	atmc
 𬁧	atmc
@@ -4840,9 +4842,9 @@
 䐕	brsj
 翢	brsmm
 𦛺	brsn
-𪎼	brtlc
-𪏎	brtlc
-𪎼	brtmc
+𪎼	brtlc	[o]
+𪏎	brtlc	[u]
+𪎼	brtmc	[ou]
 𪏎	brtmc
 囘	bru
 𠃭	bru
@@ -8480,6 +8482,7 @@
 𮢫	ctmb
 𩔱	ctmbc
 錤	ctmc
+鐄	ctmc
 𨪀	ctmd
 鏵	ctmj
 𮢞	ctmo
@@ -9745,6 +9748,7 @@
 𩠗	dethu
 𥀌	detir
 𪍙	detjp
+䵃	detlc
 𮮀	detmb
 䵃	detmc
 𪍀	detmc
@@ -12114,6 +12118,7 @@
 𬃝	dtw
 槽	dtwa
 𣜜	dtwb
+横	dtwc
 𣙊	dtwd
 𣛃	dtwd
 𪳰	dtwd
@@ -15544,6 +15549,7 @@
 頮	etmbc
 颒	etmbo
 淇	etmc
+潢	etmc
 湈	etmd
 𣶽	etmi
 澕	etmj
@@ -18654,6 +18660,7 @@
 𤋲	ftmb
 𭵥	ftmb
 𩓍	ftmbc
+熿	ftmc
 𤊄	ftmc
 煤	ftmd
 燁	ftmj
@@ -18803,6 +18810,7 @@
 𠓁	futge
 𠓅	futjd
 黋	futlc
+黋	futmc
 㒯	futmj
 炪	fuu
 𡷀	fuu
@@ -21119,6 +21127,7 @@
 𧼼	gotkr
 趪	gotlc
 𧾃	gotma
+趪	gotmc
 𧾯	gotnn
 㙸	goto
 𧾛	gotoe
@@ -22322,7 +22331,8 @@
 𤽒	hatj
 𤽝	hatj
 𩡙	hatlb
-𬹒	hatmc
+𬹒	hatlc
+𬹒	hatmc	[u]
 皣	hatmj
 𤾹	hatmq
 𤾴	hatoq
@@ -22668,6 +22678,7 @@
 黌	hbtlc
 𪏑	hbtlc
 𦦥	hbtm
+黌	hbtmc
 𪏑	hbtmc
 䈀	hbtn
 𥮚	hbtn
@@ -23767,6 +23778,7 @@
 𥞈	hdtm
 𬓶	hdtm
 稘	hdtmc
+穔	hdtmc
 𥟼	hdtmf
 䅿	hdtmj
 𥤜	hdtmr
@@ -25098,6 +25110,7 @@
 𨊙	hhtis
 𨈽	hhtk
 𨊇	hhtlc
+𨊇	hhtmc	[u]
 𮜺	hhtms
 𬧧	hhtop
 𬧰	hhtpd
@@ -25767,7 +25780,7 @@
 簺	hjtg
 𪏒	hjtlc
 垂	hjtm
-𪏒	hjtmc
+𪏒	hjtmc	[u]
 𨽪	hjttj
 𡸁	hjtu
 𦼌	hjtwb
@@ -27805,7 +27818,7 @@
 𭛼	hothu
 徔	hotio
 𭛣	hotk
-㣴	hotlc
+㣴	hotlc	[u]
 𫹡	hotlm
 㣴	hotmc
 𥵜	hoto
@@ -31077,8 +31090,8 @@
 𢉥	iapv
 良	iav
 㡾	iav
-禸	ib
 宀	ib
+禸	ib
 䏍	ib
 𭨼	ibau
 𢉁	ibb
@@ -31266,6 +31279,7 @@
 𩞁	icomv
 𫸋	icoos
 怷	icp
+懬	icp
 𪎬	icppc
 𪎪	icpuu
 摩	icq
@@ -34054,6 +34068,7 @@
 𢊋	itce
 𢋓	itcg
 廝	itcl
+懬	itcp
 𢉷	itcw
 度	ite
 庶	itf
@@ -34077,7 +34092,6 @@
 廣	itlc
 㢍	itlk
 廑	itlm
-懬	itlp
 𢇾	itm
 𢈀	itm
 䪻	itmbc
@@ -34760,6 +34774,7 @@
 𦣰	jbsly
 南	jbtj
 𫜘	jbtlc
+𫜘	jbtmc	[u]
 𡧟	jbu
 𡹹	jbu
 𥃭	jbu
@@ -39199,6 +39214,7 @@
 𤡉	khtlo
 𤢁	khtlw
 猉	khtmc
+獚	khtmc
 𭸘	khtmd
 𤞢	khtmj
 𤢑	khtnk
@@ -40577,6 +40593,7 @@
 疳	ktm
 頬	ktmbc
 颊	ktmbo
+癀	ktmc
 𤷍	ktmc
 𫯩	ktmk
 𡙨	ktmn
@@ -42789,6 +42806,7 @@
 螨	litmb
 𬠬	litmb
 蜞	litmc
+蟥	litmc
 䗋	litmd
 𧋪	litmd
 𧑍	litmj
@@ -44270,6 +44288,7 @@
 𧛭	ltkr
 𧜒	ltkt
 襔	ltlb
+𧝒	ltlc
 𪟎	ltln
 𪟖	ltln
 褀	ltmc
@@ -47619,6 +47638,7 @@
 𤩓	mgtma
 𫞩	mgtmb
 琪	mgtmc
+璜	mgtmc
 𤧀	mgtmd
 璍	mgtmj
 𬍷	mgtmj
@@ -50706,6 +50726,7 @@
 𥑠	mrtm
 𥕾	mrtmb
 𮁆	mrtmb
+磺	mrtmc
 䃆	mrtmc
 𬒢	mrtmj
 𥗪	mrtmm
@@ -51129,6 +51150,7 @@
 豇	mtm
 頭	mtmbc
 𩕙	mtmbc
+𪠓	mtmc	[u]
 𤈲	mtmf
 𫶮	mtmi
 𠪲	mtms
@@ -52556,6 +52578,7 @@
 𧤒	nbtlj
 𮗴	nbtlq
 𧣑	nbtm
+觵	nbtmc
 𧤻	nbtmj
 𤰏	nbtop
 𧥐	nbtov
@@ -52838,8 +52861,8 @@
 𠝌	neln
 𦘞	nelq
 𨸍	nelst
-亟	nem
 丞	nem
+亟	nem
 𢏠	nem
 𢀿	nemau
 脀	nemb
@@ -53767,6 +53790,7 @@
 𩹅	nftlk
 魽	nftm
 鯕	nftmc
+鱑	nftmc
 𩹮	nftmd
 𩸜	nftmi
 𩻮	nftmj
@@ -56362,6 +56386,7 @@
 𠞚	ntln
 𢑁	ntlx
 𭚩	ntm
+彉	ntmc
 𧯫	ntmn
 㽅	ntmvn
 鄧	ntnl
@@ -58356,13 +58381,13 @@
 𩜣	oitjd
 餀	oitk
 𩞘	oitlb
-𩞩	oitlc
+𩞩	oitlc	[o]
 𮩘	oitlf
 䭊	oitlk
 饉	oitlm
 𩝨	oitlp
 𩚵	oitm
-𩞩	oitmc
+𩞩	oitmc	[o]
 𩝇	oitmd
 𮩙	oitmf
 𩜱	oitmv
@@ -60869,7 +60894,9 @@
 侷	ossr
 𫗎	osss
 𮩊	ostgk
+𩞩	ostlc	[ou]
 𮩘	ostlf
+𩞩	ostmc	[ou]
 𮩙	ostmf
 𮩙	ostnf
 𮩈	ostnm
@@ -66275,6 +66302,7 @@
 𢸳	qtlx
 拑	qtm
 掑	qtmc
+撗	qtmc
 𢱖	qtmd
 𪮍	qtmd
 𢵎	qtme
@@ -70643,6 +70671,7 @@
 𫬺	rtkr
 𭊭	rtku
 𠵢	rtlc
+𠾛	rtlc
 嚥	rtlf
 㗆	rtlj
 𠸄	rtlk
@@ -71267,6 +71296,7 @@
 𠲔	rylc
 𠳤	rylh
 𠯽	rylm
+𧾷	rylm
 𠮵	rym
 𭆽	rym
 啃	rymb
@@ -71403,7 +71433,6 @@
 𫩷	ryuk
 𭌿	ryul
 𭍐	ryuo
-𧾷	ryv
 𫩔	ryv
 噰	ryvg
 𡄐	ryvg
@@ -74646,7 +74675,7 @@
 𠝭	stln
 𭕰	stmb
 𠥊	stmc
-𫧖	stmc
+𫧖	stmc	[u]
 𪨛	stmig
 𭅜	stmo
 𤭸	stmvn
@@ -75463,6 +75492,7 @@
 基	tcg
 𡋍	tcg
 𡏳	tcg
+𡐳	tcg	[u]
 黊	tcgg
 𤽽	tcha
 鶼	tchaf
@@ -75477,6 +75507,7 @@
 𠁟	tchhc
 𫥣	tchhn
 𪏘	tchjg
+𪎾	tchjr
 𪆁	tchlf
 𤮓	tchln
 𣤘	tchlo
@@ -75489,7 +75520,7 @@
 𣮧	tchqu
 𪎷	tchqu
 𪏝	tchrf
-𪏗	tchsb
+𪏗	tchsb	[ou]
 𮫡	tchui
 𤬓	tchvo
 𪕼	tchxv
@@ -75511,7 +75542,7 @@
 䓗	tcip
 𢚱	tcip
 𪏇	tcirm
-𪏗	tcisb
+𪏗	tcisb	[o]
 𧄭	tcit
 𦰠	tcit
 𪏪	tcitc
@@ -75634,6 +75665,7 @@
 巷	tcru
 莌	tcru
 𢁂	tcru
+𪏖	tcrub
 𥂅	tcrut
 𥈄	tcruu
 𨂝	tcryo
@@ -75689,13 +75721,13 @@
 斢	tcyj
 㪸	tcyj
 𫡀	tcykl
-𬹑	tcylg
+𬹑	tcymg
 諅	tcymr
 𠧆	tcyoj
 𪏏	tcypn
 𪏐	tcypn
 𧈁	tcypo
-𪏐	tcypu
+𪏐	tcypu	[u]
 黇	tcyr
 䵍	tcyrd
 𪏡	tcyrj
@@ -78503,6 +78535,7 @@
 𦬤	tmvo
 䒓	tmvs
 𦸳	tmvt
+黃	tmwc
 𦽿	tmwc
 䔁	tmwd
 𦾹	tmwe
@@ -78512,6 +78545,7 @@
 𫊌	tmwf
 䓰	tmwg
 𧁶	tmwg
+𡐳	tmwg
 𧃝	tmwi
 蕈	tmwj
 𫉹	tmwj
@@ -79942,6 +79976,7 @@
 𦴈	ttkr
 㔙	ttks
 𪟢	ttks
+𫉉	ttlc	[u]
 蓳	ttlm
 荆	ttln
 㓝	ttln
@@ -79953,6 +79988,7 @@
 𩔱	ttmbc
 𩕭	ttmbc
 萁	ttmc
+𫉉	ttmc	[u]
 𦳑	ttmd
 𧅻	ttmf
 𧆙	ttmf
@@ -85737,6 +85773,7 @@
 𤖐	vmthb
 𬘷	vmthm
 𬙅	vmtja
+𤖖	vmtlc
 缂	vmtlj
 绬	vmtlk
 绀	vmtm
@@ -86354,6 +86391,7 @@
 姏	vtm
 𡡝	vtma
 娸	vtmc
+嫹	vtmc
 媒	vtmd
 𡝿	vtmh
 𫰼	vtmi
@@ -88518,7 +88556,7 @@
 𪰕	xaok
 𬀿	xaomb
 𣅠	xaomn
-𣈯	xaomv
+𣈥	xaomv
 𬼲	xaoon
 𭦎	xaoos
 𢗭	xap
@@ -88549,7 +88587,7 @@
 𣌀	xatgs
 𣋞	xatgt
 𫖥	xatmb
-𣈒	xatmc
+𣇳	xatmc
 曅	xatmj
 𭭑	xatno
 𣌖	xatog
@@ -88952,7 +88990,7 @@
 𠧏	xbrrj
 㬽	xbrrs
 𦠍	xbrru
-𪏎	xbrtl
+𪏎	xbrtl	[u]
 𪏎	xbrtm
 𠃭	xbru
 𢽿	xbrye
@@ -89410,6 +89448,7 @@
 𫓔	xctgi
 𪂽	xctha
 𬫮	xctlb
+鐄	xctmc
 𨭯	xctms
 𮣢	xctob
 𨩳	xctog
@@ -90610,6 +90649,7 @@
 𭲑	xetlc
 𣶿	xetlj
 𤂣	xetll
+潢	xetmc
 𤂹	xetmj
 𣾑	xetmm
 𣼏	xetnu
@@ -91045,6 +91085,7 @@
 𭶅	xftco
 𤈝	xftk
 𭵥	xftmb
+𤊄	xftmc
 𤒬	xftmm
 𤓝	xftob
 𤓌	xftog
@@ -91295,16 +91336,16 @@
 𩕀	xgkmb
 𠅀	xgkmm
 𡉕	xgkni
-䲀	xgknw
+𩻉	xgknw
 㥿	xgkp
 摯	xgkq
 𭊆	xgkr
 𪓴	xgkrx
 𨅚	xgkry
 𡍲	xgksj
-驇	xgksq
+騺	xgksq
 𭐒	xgksr
-𡠗	xgkv
+𡠦	xgkv
 𧜼	xgkyh
 謺	xgkym
 𪇄	xglha
@@ -91607,6 +91648,7 @@
 䮸	xhbsq
 笧	xhbt
 𪏑	xhbtl
+𪏑	xhbtm
 𥮚	xhbtn
 嶨	xhbu
 𥴌	xhbud
@@ -92670,7 +92712,7 @@
 𫇛	xhyyp
 丶	xi
 㡾	xiav
-宀	xib
+禸	xib
 𭨿	xibb
 𧡤	xibbu
 鵏	xibha
@@ -92694,6 +92736,7 @@
 𨝤	xicnl
 𣤤	xicno
 𩞁	xicom
+懬	xicp
 𪎚	xicq
 𫸊	xicyi
 术	xid
@@ -93587,6 +93630,7 @@
 𤝿	xkhsm
 𬍃	xkhth
 𤡉	xkhtl
+獚	xkhtm
 𬍃	xkhtq
 𤠛	xkhtv
 𤞽	xkhty
@@ -93776,6 +93820,7 @@
 𤹂	xktgf
 𤻜	xktgt
 㓫	xktln
+𤷍	xktmc
 𨜨	xktnl
 𫗌	xktno
 𡚟	xktog
@@ -94057,7 +94102,7 @@
 䘵	xlnme
 𧘈	xlnn
 䙆	xlnok
-𬌓	xlnp
+𬌔	xlnp
 𤖨	xlnu
 𪅵	xloha
 𬡧	xloir
@@ -94426,7 +94471,7 @@
 𤩶	xmgtc
 𤧳	xmgtj
 𤨸	xmgtl
-𬍷	xmgtm
+璜	xmgtm
 𤨓	xmgto
 𩐔	xmgtw
 𭒁	xmgv
@@ -95051,7 +95096,7 @@
 𤇏	xnef
 𡍵	xneg
 㔇	xneln
-丞	xnem
+亟	xnem
 𩓪	xnemb
 𤊅	xnemf
 巹	xnems
@@ -95121,6 +95166,7 @@
 𩺎	xnfsm
 𩹦	xnftg
 𮬅	xnfth
+鱑	xnftm
 𩼺	xnfto
 𮬍	xnftq
 鱴	xnftw
@@ -96743,6 +96789,7 @@
 𢰢	xqthu
 掷	xqtkl
 𫼩	xqtlb
+撗	xqtmc
 𪮍	xqtmd
 𢸻	xqtme
 𢺊	xqtob
@@ -97351,6 +97398,7 @@
 𠺜	xrtjp
 咲	xrtk
 𠸏	xrtkr
+𠾛	xrtlc
 𭇐	xrtm
 𠴩	xrtmc
 𭇻	xrtmd
@@ -97440,6 +97488,7 @@
 𠲲	xrykh
 𭇯	xrykn
 𠷉	xrykr
+𧾷	xrylm
 𭆽	xrym
 𠴴	xrymb
 𭈮	xrymf
@@ -97477,7 +97526,6 @@
 𠺠	xrytu
 𠼁	xrytv
 𪢃	xryue
-𫩔	xryv
 𡄐	xryvg
 𡀀	xrywf
 𭉣	xrywg
@@ -97844,7 +97892,7 @@
 𣱄	xsthq
 𡲢	xstkr
 𠝭	xstln
-𫧖	xstmc
+𫧖	xstmc	[u]
 已	xsu
 𠚡	xsubh
 𫵡	xsubt
@@ -98483,6 +98531,7 @@
 𫶯	xtmv
 𦬜	xtmvi
 𦬚	xtmvm
+𦽿	xtmwc
 𧄏	xtmwe
 蘸	xtmwf
 𧁶	xtmwg
@@ -98730,6 +98779,7 @@
 𪟢	xttks
 㓝	xttln
 𩔱	xttmb
+𫉉	xttmc	[u]
 𧆙	xttmf
 𮏣	xttmv
 艵	xttna
@@ -99673,6 +99723,7 @@
 𫲛	xvthk
 𫲇	xvtjr
 𡢪	xvtlm
+嫹	xvtmc
 𡞴	xvtmj
 𭒔	xvtmr
 𡡄	xvtmu
@@ -99933,7 +99984,7 @@
 𣅵	xxap
 𣈶	xxapm
 𤋗	xxarf
-𬁧	xxatm
+𣈒	xxatm
 𢀳	xxau
 𪄵	xxauh
 𣅽	xxauu
@@ -100454,12 +100505,12 @@
 𪃤	xxgkh
 𫝑	xxgkk
 蟄	xxgkl
-𩻉	xxgkn
+䲀	xxgkn
 𢟻	xxgkp
 摰	xxgkq
 𨄧	xxgkr
 𦗙	xxgks
-𡠦	xxgkv
+𡠗	xxgkv
 𣫎	xxglh
 𫭡	xxgll
 𡑂	xxgmb
@@ -101043,7 +101094,7 @@
 冖	xxln
 𡘉	xxlnk
 𬩵	xxlnl
-𬌔	xxlnp
+𬌓	xxlnp
 𭁈	xxlqm
 𮤭	xxlsf
 𬼕	xxlsl
@@ -102174,6 +102225,7 @@
 𭥋	xxxan
 𭨣	xxxao
 𤋜	xxxar
+𬁧	xxxat
 𣯦	xxxau
 䳛	xxxav
 𣌪	xxxay
@@ -102517,7 +102569,7 @@
 𧛿	xxxyh
 𨓩	xxxyi
 𪅄	xxxyj
-𣎆	xxxyk
+𦝠	xxxyk
 𮮽	xxxyl
 𭭞	xxxym
 𪂬	xxxyn
@@ -102551,7 +102603,7 @@
 𮟮	xxycn
 戅	xxycp
 𪆶	xxydh
-𭐓	xxydk
+𭓔	xxydk
 𬨻	xxydl
 𨜎	xxydn
 𮦀	xxydo
@@ -102580,7 +102632,7 @@
 𤍨	xxyif
 𭏼	xxyig
 𭜘	xxyip
-𦣔	xxyiw
+𫎣	xxyiw
 𪅂	xxyjh
 𩑯	xxyjm
 𬨖	xxyjn
@@ -102926,7 +102978,7 @@
 𢧂	xyir
 𨖓	xyitf
 𬬘	xyiwk
-𫎣	xyiwn
+𦣔	xyiwn
 𭤞	xyiyj
 辻	xyj
 𨗉	xyjco
@@ -103724,6 +103776,7 @@
 𬰺	yatc
 𩑃	yatcd
 𩑀	yatco
+𮧾	yatlc	[u]
 韺	yatlk
 𮧾	yatmc
 𩑄	yatmd
@@ -104571,7 +104624,7 @@
 𮟊	ygth
 逹	ygtj
 𮮏	ygtlc
-𮮏	ygtmc
+𮮏	ygtmc	[u]
 達	ygtq
 𮟧	ygvl
 逺	ygvo
@@ -107775,6 +107828,7 @@
 諾	yrtkr
 𧪮	yrtks
 𧫩	yrtlb
+𮘺	yrtlc	[u]
 讌	yrtlf
 𧮃	yrtlf
 諽	yrtlj
@@ -108698,6 +108752,7 @@
 竎	ytt
 䇎	ytta
 遘	yttb
+𥫍	yttcg	[u]
 𮄷	yttct
 𤍍	yttf
 𨘦	yttg
