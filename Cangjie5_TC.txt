@@ -31114,7 +31114,6 @@
 塱	ibg
 䏻	ibgi
 𮌛	ibgu
-𪪣	ibgw
 鵏	ibhaf
 鷛	ibhaf
 鶣	ibhaf
@@ -32643,6 +32642,7 @@
 刬	ijln
 𢈻	ijlo
 𦧐	ijmr
+𪪣	ijmw
 𢉹	ijnd
 𦠬	ijobo
 𤐮	ijof
@@ -36118,6 +36118,7 @@
 𣙈	jjdl
 𨌛	jjdl
 韓	jjdmq
+𪧵	jjdv
 𨌿	jjdw
 𨋈	jje
 𭓢	jje
@@ -37419,11 +37420,15 @@
 𫲸	jqj
 𧒡	jqji
 𫳿	jqjm
+憲	jqjp
 𢞩	jqjp
 害	jqjr
 𫳯	jqjs
+𡩐	jqjw	[u]
+𡩜	jqjw	[u]
 実	jqk
 寈	jqmb
+𧒡	jqmi	[u]
 憲	jqmp
 𢞩	jqmp
 害	jqmr
@@ -37888,7 +37893,6 @@
 𤰔	jw
 𪧈	jw
 曺	jwa
-𪧵	jwana
 𨐄	jwbbw
 𫐃	jwbew
 𡪾	jwbp
@@ -42232,7 +42236,9 @@
 螧	lijpa
 𧑗	lijpb
 𧑶	lijpb
+𬠶	lijph	[u]
 𬠵	lijpi
+𬠶	lijpj	[u]
 䗿	lijpn
 蛲	lijpu
 𬠶	lijpy
@@ -60809,7 +60815,9 @@
 𮩍	osjoe
 𮩍	osjon
 𮨻	osjp
+𩝛	osjqr
 倨	osjr
+𫗛	osjrn
 𮨾	osjte
 㑙	osju
 伊	osk
@@ -93408,6 +93416,8 @@
 𢘯	xjpp
 䎛	xjpr
 𮋍	xjpsm
+𢞩	xjqjp
+𡩜	xjqjw	[u]
 𢞩	xjqmp
 𡩜	xjqmw
 𮌔	xjrbb
