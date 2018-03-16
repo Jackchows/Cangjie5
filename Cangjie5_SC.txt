@@ -4887,6 +4887,7 @@
 豸	bshh
 𦚰	bshh
 肕	bshi
+冤	bshi
 𣂭	bshmy
 𮙥	bsho
 𦚔	bshr
@@ -24063,6 +24064,7 @@
 簿	heii
 𥰱	heii
 𪐎	heijc
+冬	heim
 箈	heir
 𥳒	heir
 𥮓	heit
@@ -25102,7 +25104,7 @@
 𭚘	hht
 𬧦	hhtbc
 𬧤	hhtbs
-兼	hhtc
+兼	hhtc	[u]
 𮜲	hhtc
 𬧬	hhtct
 躾	hhtgk
@@ -39475,6 +39477,7 @@
 疣	kiku
 𡯤	kiku
 𠛗	kiln
+冭	kim
 𩑐	kimbc
 𩑖	kimbc
 䎠	kimbl
@@ -57089,7 +57092,7 @@
 𠌢	ocrk
 𠊬	ocrl
 𠌋	ocrnj
-𠌋	ocrnk
+𠌋	ocrnk	[u]
 𠍠	ocrq
 𭌷	ocrrr
 侻	ocru
@@ -57326,7 +57329,6 @@
 𬪤	ofnl
 𣤚	ofno
 𠓺	ofo
-𠌍	ofok
 您	ofp
 𢞣	ofp
 𭝶	ofp
@@ -57338,6 +57340,7 @@
 伴	ofq
 𠈫	ofq
 儯	ofqf
+𠌍	ofqk
 𠐕	ofql
 𠈖	ofqo
 𠉮	ofqs
@@ -59000,6 +59003,7 @@
 𫣰	olle
 敒	ollk
 𠆯	olll
+𠌕	olll
 佛	olln
 刢	olln
 㖋	ollp
@@ -59049,12 +59053,12 @@
 𠉿	olok
 𫾽	olok
 𠁭	olol
-𠌕	ololl
 𠓪	ololl
 翛	olom
 𪬪	olonp
 𨁀	oloo
 𠎕	oloq
+𠌪	olou
 𥫧	olovn
 偹	olow	[ou]
 𠆪	olp
@@ -59255,6 +59259,7 @@
 𠈯	omje
 㒈	omjk
 𬽰	omjn
+𠌤	omjp
 舍	omjr
 𠆬	omjs
 𠉔	omjt
@@ -59262,7 +59267,7 @@
 偛	omjx
 𠇄	omk
 𫢋	omk
-𠌖	omkd
+𠌖	omkd	[u]
 𬿒	omkk
 𠎷	omkm
 𠍴	omkp
@@ -59428,6 +59433,7 @@
 侀	omtn
 𠎮	omto
 𠐚	omtp
+𠌤	omtp
 岳	omu
 㐳	omu
 僭	omua
@@ -59828,7 +59834,6 @@
 伶	ooml
 𠊈	ooml
 俭	oomm
-𠌶	oomms
 偷	oomn
 㐹	oomn
 𠉳	oomn
@@ -59840,6 +59845,7 @@
 倽	oomr
 偸	oomv
 𬎧	oomvn
+𠌶	oomvs
 𠊆	oomw
 仡	oon
 𠓟	oon
@@ -59912,6 +59918,7 @@
 劔	oosk
 剱	oosk
 𠈨	oosm
+𠍃	oosn	[u]
 伧	oosu
 𢍒	oot
 㒇	ootf
@@ -61186,7 +61193,7 @@
 𠈶	oune
 𠚗	oune
 㑕	ouni
-𠌝	ounk
+𠌝	ounk	[ou]
 𨚐	ounl
 𨞅	ounl
 𬙐	ounme
@@ -61237,6 +61244,7 @@
 罇	outwi
 㑁	ouu
 㒴	ouu
+𠌝	ouuk	[ou]
 𦉎	ouuog
 𠋔	ouvi
 𬙐	ouvne
@@ -74399,7 +74407,6 @@
 屟	sptd
 𠤲	spu
 鸤	spym
-𫼓	sq
 𭃂	sq
 𦏓	sqdm
 𡑺	sqg
@@ -89005,6 +89012,7 @@
 𢽿	xbrye
 𤆙	xbsf
 𦚰	xbshh
+冤	xbshi
 𦛵	xbshr
 𦝒	xbsje
 𬁵	xbsk
@@ -95740,6 +95748,7 @@
 𢒃	xolhh
 𬾱	xolhu
 𫢇	xoll
+𠌕	xolll
 刢	xolln
 𠌼	xollp
 𬾂	xolmy
@@ -95749,7 +95758,6 @@
 𬿧	xolog
 𠌚	xoloj
 攸	xolok
-𠓪	xolol
 𠊞	xolp
 𭁕	xolyc
 𠓽	xolyj
@@ -95824,6 +95832,7 @@
 𥅍	xomsu
 𠇋	xomt
 𭀆	xomtc
+𠌤	xomtp
 㐳	xomu
 𪜨	xomv
 𠋗	xomvi
@@ -97868,7 +97877,6 @@
 䲿	xspha
 𢟛	xspnl
 𢘒	xspp
-𭃂	xsq
 𠠮	xsqln
 𨞗	xsqnl
 𮩴	xsqst
