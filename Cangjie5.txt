@@ -7517,7 +7517,8 @@
 𤕗	ckhxe
 鈜	cki
 鈦	cki
-𨦾	ckid
+𨦾	ckic	[ou]
+𨦾	ckid	[ou]
 𨮯	ckig
 𤡽	ckik
 𡰙	ckiku
@@ -38181,6 +38182,7 @@
 𭪎	kckr
 𠡊	kcks
 剎	kcln
+刹	kcln
 𠟒	kcln
 𡘤	kclwv
 㾾	kcmc
@@ -38260,8 +38262,8 @@
 癩	kdlc
 𡚚	kdlc
 瘷	kdlk
-剎	kdln
 刹	kdln
+剎	kdln
 瘌	kdln
 𠜽	kdln
 𠝱	kdln
@@ -80325,8 +80327,8 @@
 䒺	tvif
 𭵝	tvif
 䓼	tvih
-兹	tvii
 茲	tvii
+兹	tvii
 𦺬	tvii
 𡙛	tvik
 𡙠	tvik
@@ -80536,7 +80538,6 @@
 莮	twks
 𦼤	twkv
 𦭖	twl
-𦭝	twl
 薯	twla
 𣊔	twla
 𦷹	twla
@@ -80573,6 +80574,7 @@
 𧔭	twlii
 䕉	twlj
 𭁗	twlk
+𦭝	twll
 𦒃	twlm
 𮓏	twlm
 夢	twln
@@ -93549,7 +93551,7 @@
 𡦭	xkdix
 𤶬	xkdl
 𡚚	xkdlc
-刹	xkdln
+剎	xkdln
 癞	xkdlo
 𬩻	xkdnl
 𢾣	xkdok
@@ -98853,7 +98855,7 @@
 𦍯	xtvi
 孳	xtvid
 䒺	xtvif
-茲	xtvii
+兹	xtvii
 𡙠	xtvik
 𬹪	xtvil
 𬹪	xtvin
@@ -98890,7 +98892,6 @@
 𧆕	xtwhd
 茵	xtwk
 𦳩	xtwkb
-𦭝	xtwl
 𣊔	xtwla
 𢅓	xtwlb
 𭁔	xtwlc
@@ -101019,6 +101020,7 @@
 𥆗	xxkbu
 𤴭	xxkc
 𤋯	xxkca
+刹	xxkcl
 𤟳	xxkcs
 㚓	xxkd
 瘌	xxkdl
