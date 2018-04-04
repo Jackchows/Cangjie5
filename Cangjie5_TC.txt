@@ -2438,7 +2438,6 @@
 愛	bbpe
 𭐫	bbpe
 𩨲	bbph
-𩪽	bbpil
 鹏	bbpm
 𤕅	bbpou
 𩨨	bbpp
@@ -2527,6 +2526,7 @@
 𠭟	bbve
 𤔐	bbve
 䯚	bbvib
+𩪽	bbvil
 膎	bbvk
 𩪇	bbvvc
 𩪑	bbvvd
@@ -3556,7 +3556,7 @@
 𧲨	bhmt
 𧴋	bhmwf
 肌	bhn
-冗	bhn
+冗	bhn	[o]
 𬥌	bhnao
 𧳊	bhnbg
 𧴀	bhnbp
@@ -3660,6 +3660,7 @@
 𧳉	bhtt
 貓	bhtw
 𧴟	bhtyj
+冗	bhu	[ou]
 见	bhu
 𧲠	bhu
 𣎯	bhua
@@ -10944,11 +10945,11 @@
 𮔼	dmlmi
 𩇶	dmlmy
 𭪚	dmlo
-𫞉	dmlr
 桺	dmls
 𣏜	dmls
 𣒘	dmlu
 橊	dmlw
+𫞉	dmlw
 𩒅	dmmbc
 𬄝	dmmc
 𣗂	dmmd
@@ -19134,7 +19135,7 @@
 𣫅	gbhne
 𣪚	gbhne
 悫	gbhp
-坈	gbhu
+坈	gbhu	[u]
 売	gbhu
 塪	gbhx
 䶲	gbhxu
@@ -19166,6 +19167,7 @@
 𡉱	gbmm
 𡔾	gbmm
 𭏕	gbmm
+壳	gbmn
 𫯂	gbmnd
 塚	gbmo
 塜	gbmo
@@ -25895,7 +25897,6 @@
 𠜺	hkln
 肇	hklq
 𦘦	hklq
-𩐈	hklsm
 𥬢	hkm
 𧶓	hkmbc
 𫂪	hkmbs
@@ -26157,12 +26158,12 @@
 𪖱	hlshu
 𫂃	hlsk
 𬕦	hlsk
-𨈏	hlsm
 𪖧	hlsme
 𪖷	hlsmh
 𬕊	hlsp
 䉱	hlsr
 𮆏	hlsw
+𨈏	hlsy
 𠦛	hlt
 𫧼	hlt
 𬹯	hltk
@@ -29143,7 +29144,6 @@
 𢩇	hssj
 卽	hssl
 䳭	hsslf
-𨈑	hssm
 扇	hssmm
 𥲅	hssp
 𩢉	hssqf
@@ -30285,6 +30285,7 @@
 𥬦	hwyi
 𤉱	hwysf
 臼	hx
+𨈑	hx
 𣆫	hxa
 𣇀	hxa
 䑗	hxamh
@@ -30932,6 +30933,7 @@
 𦨕	hysle
 𥰁	hysm
 𥫣	hysm
+𨈏	hysm
 䒁	hysma
 䎇	hysmm
 𧭔	hysmr
@@ -32554,6 +32556,7 @@
 肈	iilq
 𠒊	iilu
 疒	iim
+氵	iim
 㦯	iim
 𠙃	iimhn
 𬽂	iimmi
@@ -32570,6 +32573,7 @@
 𫑯	iinlj
 𫵉	iinlk
 欴	iino
+辶	iino
 𣢵	iino
 𨿽	iiog
 𢈟	iiok
@@ -35907,6 +35911,7 @@
 𥩉	jhmbw
 𥨋	jhmgt
 𠦉	jhml
+䪣	jhmom	[u]
 𡧻	jhmr
 宂	jhn
 𭅠	jhn
@@ -43181,6 +43186,7 @@
 𫪊	lklk
 𫊭	lklmi
 𫥹	lkln
+𩐈	lklsm
 裺	lklu
 袏	lkm
 襫	lkma
@@ -48485,11 +48491,11 @@
 𠜝	mlln
 𠟨	mlln
 𤓯	mllo
-𫝁	mllr
 丣	mlls
 𪚦	mllu
 覀	mllw
 畱	mllw
+𫝁	mllw
 𬻇	mllw
 工	mlm
 䪲	mlmbc
@@ -70445,10 +70451,10 @@
 𭍇	rsff
 㘐	rsfk
 𫬇	rsfk
-𡂣	rsfl
 𠵗	rsfmu
 𫬷	rsfr
 𫫵	rsfv
+𡂣	rsfw
 𪢧	rsgp
 叨	rsh
 叧	rsh
@@ -88830,7 +88836,7 @@
 𭉅	xbhlk
 𭃤	xbhln
 𧲹	xbhlw
-冗	xbhn
+冗	xbhn	[o]
 𧳊	xbhnb
 𠕵	xbhni
 𦠱	xbhoi
@@ -88842,7 +88848,7 @@
 𮌸	xbhsb
 𧴙	xbhsi
 𣎣	xbhsk
-𧲠	xbhu
+见	xbhu
 𦢶	xbhuc
 膬	xbhuu
 𣎗	xbhwp
@@ -89857,6 +89863,7 @@
 𣔯	xdmlb
 𬂲	xdmlm
 𣏜	xdmls
+𫞉	xdmlw
 𭫾	xdmmd
 标	xdmmf
 橱	xdmmi
@@ -92636,6 +92643,7 @@
 𣬉	xhwpp
 𬸪	xhwpy
 𢍄	xhwt
+𨈑	xhx
 𣇀	xhxa
 𦥷	xhxbc
 𥂞	xhxbt
@@ -94614,7 +94622,7 @@
 𠁘	xmlhn
 亜	xmllm
 𠜝	xmlln
-畱	xmllw
+𫝁	xmllw
 𩓒	xmlmb
 𧈬	xmlmi
 𮀰	xmlmr
@@ -95121,7 +95129,7 @@
 𭒶	xndmn
 𡥦	xndnd
 𡥥	xndni
-𨜙	xndnl
+𨛰	xndnl
 𣫮	xndwy
 氹	xne
 𨧦	xnec
@@ -100065,6 +100073,7 @@
 𪬊	xxbhp
 𬋭	xxbhq
 𦜏	xxbhs
+𧲠	xxbhu
 𦢒	xxbjb
 𡗮	xxbk
 𬚰	xxbkb
@@ -100841,7 +100850,7 @@
 𥳟	xxhyo
 𮆌	xxhyp
 𥸔	xxhyr
-𮆅	xxhys
+𨈏	xxhys
 𥯽	xxhyt
 𥸟	xxhyu
 䏍	xxib
@@ -100888,6 +100897,7 @@
 𭩮	xxiid
 𢈽	xxiii
 𭃳	xxiil
+氵	xxiim
 𨝧	xxiin
 𠫘	xxij
 𪪌	xxijb
@@ -102688,7 +102698,7 @@
 㪯	xxykq
 𨔶	xxykt
 歨	xxylm
-氵	xxym
+辷	xxym
 𨒹	xxyma
 𬨤	xxymb
 𬂞	xxymd
@@ -102712,7 +102722,7 @@
 𫻺	xxyni
 𧆻	xxynj
 𨑐	xxynn
-𭭄	xxyno
+𣦸	xxyno
 𮊯	xxynt
 𮞋	xxyog
 𣫖	xxyoh
@@ -103108,7 +103118,7 @@
 𮞌	xyln
 𡣎	xylv
 𧜏	xylyv
-辷	xym
+氵	xym
 𣥜	xyma
 𮌈	xymb
 𨙤	xymbe
@@ -103201,7 +103211,7 @@
 𨛵	xynnl
 𣣍	xynno
 𩼊	xynnw
-𣦸	xyno
+䖋	xyno
 𢾛	xynok
 𧇎	xynom
 𭭾	xynp
@@ -105663,8 +105673,8 @@
 裵	ylyv
 𧜏	ylyv
 上	ym
-辷	ym
 氵	ym
+辷	ym
 㫖	yma
 𣥜	yma
 𨒹	yma
@@ -106209,6 +106219,7 @@
 𩼊	ynnwf
 𬆙	ynnwm
 𪛀	ynnxu
+辶	yno
 䖋	yno
 𣦸	yno
 𭭄	yno
@@ -111205,6 +111216,8 @@
 ⺀	zrii
 ⺍	zriih
 ⽧	zriim
+⺡	zriim
+⻍	zriin
 ⿇	zrijc
 ⽝	zrik
 ⻰	zrikp
@@ -111219,8 +111232,6 @@
 ⽞	zrivi
 ⿅	zrixp
 ⺖	zriy
-⺡	zriy
-⻍	zriy
 ⼗	zrj
 ⽳	zrjc
 ⽀	zrje
@@ -111417,11 +111428,13 @@
 ⻬	zrykl
 ⻫	zryks
 ⽌	zrylm
+⺡	zrym
 ⾔	zrymm
 ⿒	zrymu
 ⻭	zrymu
 ⻮	zrymu
 ⺞	zryni
+⻍	zryno
 ⾌	zryp
 ⻁	zryph
 ⾼	zryrb
