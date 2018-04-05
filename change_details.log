@@ -4737,7 +4737,7 @@ FA8A	慠	pqsk	pgsk
 31DD	㇝	no	mo
 31DF	㇟	lu	vl
 31E2	㇢	hn	hv
-==2018.04.04==
+==2018.04.04==				@SyaoranHinata 提供
 2EA1	⺡	(新增)	iim	另有⺡：ym
 2EA1	⺡	iy	ym	另有⺡：iim
 2ECD	⻍	(新增)	iino	另有⻍：yno
@@ -4756,7 +4756,27 @@ FA8A	慠	pqsk	pgsk
 210A3	𡂣	rsfl	rsfw
 2B741	𫝁	mllr	mllw
 2B789	𫞉	dmlr	dmlw
-==2018.04.05==				@mrhso 修改
-446E	䑮	hyhnd	(刪除)	GB 18030 參考字形出錯。
-44B3	䒳	thnd	(刪除)	GB 18030 參考字形出錯。
-454E	䕎	tbuw	(刪除)	GB 18030 參考字形出錯。
+==2018.04.05==			
+446E	䑮	hyhnd	(刪除)	䑮：hynsd。GB 18030 參考字形出錯
+44B3	䒳	thnd	(刪除)	䒳：tnsd。GB 18030 參考字形出錯
+454E	䕎	tbuw	(刪除)	䕎：tamw。GB 18030 參考字形出錯
+（以上由 @mrhso 修改）
+229C7	𢧇	(新增)	jicni	另有𢧇：jiche
+229DC	𢧜	(新增)	jirhg	另有𢧜：jirmg
+22A06	𢨆	jilyv	jivly
+22DAA	𢶪	qgij	qjij
+2323B	𣈻	agir	ajir
+2436C	𤍬	fgim	fjic
+24EDB	𤻛	kgig	kjig
+26002	𦀂	givif	jivif
+26F3A	𦼺	tgig	tjig
+274E4	𧓤	gilmi	jilmi
+27512	𧔒	lijiv	lijiy
+28B71	𨭱	cgig	cjig
+28BD2	𨯒	cgim	cjim
+28C15	𨰕	cgim	cjim
+297D9	𩟙	(新增)	osjig	另有𩟙：oijig
+2AB52	𪭒	jibd	jibnd
+2B0B0	𫂰	(新增)	hjir	另有𫂰：hjmr
+2CC8F	𬲏	(新增)	jiomv	另有𬲏：jioiv
+2CC8F	𬲏	jioav	jioiv	另有𬲏：jiomv
