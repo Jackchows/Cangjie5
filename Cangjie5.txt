@@ -7448,7 +7448,7 @@
 鋎	cjmu
 𨬬	cjmw
 𫒛	cjnd
-䥉	cjni
+䥉	cjni	[!]
 𫒮	cjni
 郸	cjnl
 鋺	cjnu
@@ -9843,7 +9843,7 @@
 𭬿	dfff
 𣜧	dffj
 𣜧	dffk
-橩	dffn
+橩	dffn	[!]
 櫿	dffr
 檆	dffr
 橯	dffs
@@ -30601,7 +30601,6 @@
 艞	hyhlo
 簅	hyhm
 笐	hyhn
-䑮	hyhnd
 般	hyhne
 舤	hyhni
 䑺	hyhni
@@ -30792,7 +30791,7 @@
 𦪑	hynoe
 艠	hynot
 艬	hynri
-䑮	hynsd
+䑮	hynsd	[!]
 𥱃	hynu
 籝	hynv
 艪	hynwa
@@ -75103,7 +75102,7 @@
 𫊔	tamnf
 𦳚	tamo
 𬞀	tamv
-䕎	tamw
+䕎	tamw	[!]
 菛	tan
 蕳	tana
 𮒼	tana
@@ -75451,7 +75450,6 @@
 莧	tbuu
 𦺊	tbuu
 𮑥	tbuv
-䕎	tbuw
 𦽖	tbuw
 荽	tbv
 萦	tbvf
@@ -76730,7 +76728,6 @@
 芁	thn
 蘈	thnc
 䔧	thnd
-䒳	thnd
 芟	thne
 𦿾	thne
 羞	thng
@@ -78825,7 +78822,7 @@
 𣛳	tnrd
 蔃	tnri
 𦶁	tnru
-䒳	tnsd
+䒳	tnsd	[!]
 𦱊	tnsd
 葞	tnsj
 𦗿	tnsj
@@ -98260,7 +98257,6 @@
 𦱦	xthjg
 𦲽	xthlo
 𦸙	xthml
-䒳	xthnd
 𦿾	xthne
 葻	xthni
 𧸋	xthoc
