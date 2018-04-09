@@ -18349,6 +18349,7 @@
 𬋚	fpup
 煼	fpuu
 𫵀	fpuu
+𤆡	fpvm
 半	fq
 龹	fq
 𬀴	fqa
@@ -85363,6 +85364,7 @@
 𫱭	vmbk
 𬙇	vmbkf
 𮉦	vmbkk
+𦈉	vmbkq
 䎟	vmbl
 𡜚	vmbl
 𧌜	vmbli
@@ -95130,7 +95132,7 @@
 𭒸	xndi
 𭓍	xndjb
 𡥁	xndln
-孺	xndmb
+𡦘	xndmb
 𭒶	xndmn
 𡥦	xndnd
 𡥥	xndni

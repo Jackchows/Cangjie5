@@ -32,9 +32,9 @@ Unicode	漢字	原編碼	新編碼	備註
 ==2017.06.09==
 22334	𢌴	rvt	(删除)	𢌴:rut
 ==2017.06.13==
-6A77	橷	(新增)	dlmu	另有橷:dlpn [撤銷#5]
+6A77	橷	(新增)	dlmu	另有橷:dlpn [撤銷#4]
 ==2017.06.17==
-22334	𢌴	(新增)	rvt	另有𢌴:rut [撤銷#34]
+22334	𢌴	(新增)	rvt	另有𢌴:rut [撤銷#33]
 3789	㞉	kntqm	(刪除)	http://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=15476
 3DE2	㷢	tqmf	tmf
 3F68	㽨	(新增)	wthm	另有㽨：wtqm
@@ -4399,12 +4399,12 @@ FA8A	慠	pqsk	pgsk
 22989	𢦉	lup	(刪除)	𢦉：tup
 231F7	𣇷	ajjs	(刪除)	𣇷：atys
 2412A	𤄪	ehfe	(刪除)	𤄪：ehde
-241A1	𤆡	fpvm	(刪除)	*
+241A1	𤆡	fpvm	(刪除)
 24397	𤎗	tmrf	(刪除)	𤎗：tmpf
 244D8	𤓘	jsf	(刪除)	𤓘：tsf
 25B12	𥬒	jikk	(刪除)	*
 25F5A	𥽚	jefd	(刪除)	𥽚：tefd
-26209	𦈉	vmbkq	(刪除)	*
+26209	𦈉	vmbkq	(刪除)
 2620A	𦈊	vfmoo	(刪除)	𦈊：vmmoo
 264C3	𦓃	jnmr	(刪除)	𦓃：jknmr
 264C6	𦓆	jnmr	(刪除)	𦓆：jknmr
@@ -4780,3 +4780,6 @@ FA8A	慠	pqsk	pgsk
 2B0B0	𫂰	(新增)	hjir	另有𫂰：hjmr
 2CC8F	𬲏	(新增)	jiomv	另有𬲏：jioiv
 2CC8F	𬲏	jioav	jioiv	另有𬲏：jiomv
+==2018.04.09==
+241A1	𤆡	(新增)	fpvm	[撤銷#4402]
+26209	𦈉	(新增)	vmbkq	[撤銷#4407]
