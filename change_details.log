@@ -4756,7 +4756,7 @@ FA8A	慠	pqsk	pgsk
 210A3	𡂣	rsfl	rsfw
 2B741	𫝁	mllr	mllw
 2B789	𫞉	dmlr	dmlw
-==2018.04.05==			
+==2018.04.05==		
 446E	䑮	hyhnd	(刪除)	䑮：hynsd。GB 18030 參考字形出錯
 44B3	䒳	thnd	(刪除)	䒳：tnsd。GB 18030 參考字形出錯
 454E	䕎	tbuw	(刪除)	䕎：tamw。GB 18030 參考字形出錯
@@ -4783,3 +4783,46 @@ FA8A	慠	pqsk	pgsk
 ==2018.04.09==
 241A1	𤆡	(新增)	fpvm	[撤銷#4402]
 26209	𦈉	(新增)	vmbkq	[撤銷#4407]
+==2018.04.10==
+2E82	⺂	mn	mh
+2E83	⺃	lu	vl
+2E86	⺆	(新增)	ls	另有⺆：hs
+2E86	⺆	hn	hs	另有⺆：ls
+2E8A	⺊	ly	lm
+2E8F	⺏	clu	chu
+2E96	⺖	iy	hy
+2E9B	⺛	mvu	mvku
+2EA2	⺢	en	ff
+2EA3	⺣	if	hf
+2EAD	⺭	if	inf
+2EB4	⺴	blu	bhu
+2EB8	⺸	tq	tmj
+2EBC	⺼	(新增)	bim	另有⺼：b
+2EC2	⻂	(新增)	inol	另有⻂：inlo
+2EC3	⻃	mtw	mllw
+2ED7	⻗	mlbi	mlby
+2EE1	⻡	vvmhu	vvmbu
+2EE8	⻨	qmhe	qme
+2EEA	⻪	rpw	rlwu
+2EF2	⻲	nwpw	nwlu
+2F03	⼃	l	h
+2F0A	⼊	ho	oh
+2F0D	⼍	(新增)	ln	另有⼍：in
+2F22	⼢	ok	he
+2F2C	⼬	(新增)	uh	另有⼬：ul
+2F34	⼴	ih	yh
+2F35	⼵	nvk	nnk
+2F36	⼶	(新增)	kj	另有⼶：jj
+2F4F	⽏	wk	wj
+2F5A	⽚	(新增)	llmn	另有⽚：llml
+2F61	⽡	mni	mvni
+2F91	⾑	mtb	mub
+2F97	⾗	mnho	msho
+2F98	⾘	bnhh	bshh
+2FA9	⾩	hrlj	hrj
+2FB2	⾲	slmm	lsmm
+2FBF	⾿	uiip	uip
+2FC6	⿆	(新增)	doni	另有⿆：joni
+337B	㍻	mfih	(刪除)	㍻：mjihs
+337C	㍼	arhdr	asrr
+337E	㍾	abeir	aber
