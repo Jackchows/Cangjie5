@@ -21438,6 +21438,7 @@
 𫭺	gsgi
 𡓹	gsgj
 𪁍	gshaf
+刼	gshh
 𣪒	gshne
 𪣓	gshp
 𡊱	gshr
@@ -25895,6 +25896,7 @@
 𥁢	hkllt
 蚕	hklmi
 𧉕	hklmi
+刋	hkln
 𠜺	hkln
 肇	hklq
 𦘦	hklq
@@ -29271,6 +29273,7 @@
 䈽	htlm
 𧗏	htlmc
 剰	htln
+劓	htln
 㔍	htln
 𠜄	htln
 䇞	htm
@@ -34316,6 +34319,7 @@
 𫍥	ivlmo
 𬤉	ivlmo
 诽	ivlmy
+剆	ivln
 𠛏	ivln
 谰	ivlsw
 𬤛	ivlsx
@@ -40726,7 +40730,7 @@
 𡰌	kullv
 尵	kulmc
 𡯥	kulmi
-剦	kuln
+剦	kuln	[o]
 𠟰	kuln
 𡯇	kuln
 𡯺	kumbc
@@ -40812,6 +40816,7 @@
 𡙘	kvit
 𡙥	kvke
 㽱	kvl
+剦	kvln	[ou]
 𠞒	kvln
 𤷲	kvmd
 𤶜	kvmg
@@ -57202,7 +57207,6 @@
 𢼏	odok
 𪝅	odok
 𪝎	odol
-𠎳	odomd
 𠍅	odon
 倈	odoo
 怹	odp
@@ -57370,6 +57374,7 @@
 𠋓	ofuh
 𠈤	ofv
 𫣫	ofvk
+𠐹	ofwt
 𦈀	ofyan
 𦈁	ofyij
 仕	og
@@ -57444,7 +57449,6 @@
 𩀗	oghyu
 佉	ogi
 𭀼	ogi
-𠑀	ogic
 𠉨	ogih
 𠉨	ogii	[u]
 𠉨	ogik
@@ -57736,11 +57740,12 @@
 儹	ohuc
 𬿊	ohud
 傀	ohui
-𠏿	ohul
+𠏿	ohul	[o]
 𠊏	ohun
 𠐀	ohuo
 𠐷	ohup
 𠐈	ohus
+𠏿	ohut	[ou]
 𠇊	ohv
 係	ohvf
 低	ohvi
@@ -58146,6 +58151,7 @@
 𩜴	oimor
 𥑧	oimr
 𥑼	oimr
+𠐲	oimr
 𮩂	oimrc
 𩟬	oimrr
 餖	oimrt
@@ -58597,6 +58603,7 @@
 侘	ojhp
 𠈭	ojhq
 𬾼	ojhr
+𠑀	ojic
 𠋰	ojic
 傳	ojii
 儎	ojij
@@ -59169,7 +59176,7 @@
 偄	ombk
 𠎋	ombk
 侕	ombl
-𠏡	ombl
+𠏡	ombl	[u]
 𤮬	ombmn
 俞	ombn
 𭵙	ombnf
@@ -59200,6 +59207,7 @@
 余	omd
 㐵	omd
 𦛝	omdb
+𠎳	omdd
 𫣮	omde
 𭴯	omdf
 伍	omdm
@@ -59930,9 +59938,10 @@
 𨇓	ooryo
 作	oos
 劎	oosh
+剱	oosh
 𠝏	oosh
 劒	ooshi
-剱	ooshi
+剱	ooshi	[u]
 耸	oosj
 𦗼	oosj
 劔	oosk
@@ -60688,7 +60697,7 @@
 㪉	orok
 𫾵	orok
 𫿄	orok
-𠏧	oroml
+𠏧	oroml	[u]
 𠉼	orop
 𢙅	orp
 𢚨	orp
@@ -60809,6 +60818,7 @@
 𪂾	oshaf
 𮩔	oshak
 仞	oshh
+劒	oshh
 䭑	oshhc
 仞	oshi
 𩝟	oshjx
@@ -60989,6 +60999,7 @@
 僕	otco
 僛	otco
 𪝞	otct
+𠐒	otcv
 偤	otcw
 橆	otdd
 𫣤	otdq
@@ -61014,7 +61025,6 @@
 𠏌	otgu
 𠊡	otgu
 𠋄	otgv
-𠐒	otgv
 𪂻	othaf
 備	othb
 𡦸	othbd
@@ -61067,6 +61077,7 @@
 𠉾	oton
 𫢮	otop
 𬿀	otor
+𠐒	otov
 𠎲	otpa
 僃	otpb
 𠏆	otpb
@@ -61530,6 +61541,7 @@
 𠍡	oylv
 仩	oym
 𠆳	oym
+𠑂	oymb
 𧵰	oymc
 𬾜	oyme
 㑐	oymf
@@ -61619,7 +61631,6 @@
 𠌯	oyub
 𢄕	oyub
 𫣍	oyub
-𠑖	oyuhi
 𠐵	oyui
 𧖦	oyvfi
 㒕	oyvg
@@ -80073,6 +80084,8 @@
 善	ttr
 𦹒	ttrg
 剙	ttshc
+刱	ttshc
+剏	ttshh
 刱	ttshi
 剏	ttshi
 剙	ttshi
@@ -92091,6 +92104,7 @@
 𥲩	xhkjo
 㔟	xhkks
 𧉕	xhklm
+𠜺	xhkln
 𦘦	xhklq
 𨞓	xhknl
 忝	xhkp
@@ -93123,6 +93137,7 @@
 𣭺	xivhq
 𢦙	xivi
 𬤉	xivlm
+𠛏	xivln
 鿥	xivnl
 讹	xivop
 诣	xivpa
@@ -93891,6 +93906,7 @@
 𤻲	xkvid
 𤹏	xkvip
 𭼧	xkvis
+𠞒	xkvln
 𫠣	xkvnd
 𡘛	xkvv
 𤷻	xkvvw
@@ -95724,6 +95740,7 @@
 𠓯	xojcm
 僒	xojcr
 俕	xojd
+𠋰	xojic
 𫢹	xojip
 𠐟	xojkf
 𬾭	xojkr
@@ -95799,7 +95816,7 @@
 𠊳	xombe
 𠏡	xombi
 𠎋	xombk
-𠏡	xombl
+𠏡	xombl	[u]
 𫢟	xombo
 𠑓	xombp
 𪝷	xombu
@@ -96033,6 +96050,7 @@
 𠐊	xoset
 𬋒	xosf
 𪂾	xosha
+劒	xoshh
 𦔴	xosj
 伛	xosk
 鿘	xoskr
@@ -96058,7 +96076,6 @@
 𠏜	xotgr
 𭀋	xotgs
 𠊡	xotgu
-𠐒	xotgv
 𠑦	xotjd
 𬻝	xotm
 僙	xotmc
@@ -98835,7 +98852,7 @@
 𬐭	xttnq
 𦼉	xttog
 𫛨	xttpy
-剏	xttsh
+刱	xttsh
 𬜣	xttt
 𧃠	xttvb
 𧔈	xttwl
@@ -101487,6 +101504,7 @@
 𩝰	xxoib
 𬽷	xxoii
 𩚡	xxoij
+𠐲	xxoim
 𢻶	xxoin
 𩝞	xxoio
 𪫫	xxoip
@@ -101546,6 +101564,7 @@
 𠇒	xxooo
 𠇃	xxoop
 𠈠	xxooq
+剱	xxoos
 伈	xxop
 钡	xxopb
 㐌	xxopd
@@ -102380,7 +102399,7 @@
 𥬄	xxxhq
 鴭	xxxhr
 𥬁	xxxhs
-𮠁	xxxht
+劓	xxxht
 𧡎	xxxhu
 𤓞	xxxhw
 𫓓	xxxhx
@@ -103553,7 +103572,7 @@
 𬺕	xyuji
 𫜯	xyujq
 𡙴	xyuk
-𦚾	xyukb
+𧮼	xyukb
 𬺈	xyukm
 𧆟	xyukn
 𠡜	xyuks
@@ -109937,6 +109956,7 @@
 ↘	yyyaw
 ↖	yyyax
 ↙	yyyay
+↑	yyyaz
 △	yyyba
 ▲	yyybb
 ▽	yyybc
@@ -111254,7 +111274,7 @@
 ⾞	zrjwj
 ⼤	zrk
 ⺨	zrkh
-⼶	zrkj	[o]
+⼶	zrkj
 ⽘	zrkk
 ⻋	zrkq
 ⼒	zrks
@@ -111273,7 +111293,7 @@
 ⾍	zrlmi
 ⾮	zrlms
 ⻀	zrlmy
-⼍	zrln	[o]
+⼍	zrln
 ⾾	zrln
 ⺉	zrln
 ⾀	zrlq
