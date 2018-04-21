@@ -2473,7 +2473,7 @@
 𦙱	bbt
 𩪤	bbtcd
 𩪛	bbtco
-𩪴	bbtcv
+𩪴	bbtcv	[u]
 𩩥	bbtd
 髊	bbthm
 𩪎	bbtit
@@ -5003,6 +5003,7 @@
 𦡧	btcd
 𦠭	btcl
 膉	btct
+䑆	btcv
 𦝱	btcw
 𦜪	btd
 𡬬	btdi
@@ -12068,7 +12069,6 @@
 𭬝	dtor
 𬃵	dtou
 𣝡	dtov
-𣞼	dtov
 欍	dtox
 𢣡	dtp
 𣔀	dtp
@@ -15446,6 +15446,7 @@
 𭱄	etct
 港	etcu
 𣿑	etcu
+瀁	etcv
 湭	etcw
 𫞙	etcy
 𣷞	etd
@@ -21625,11 +21626,11 @@
 𡍝	gtob
 𡔃	gtog
 𮮦	gtok
-𡏆	gtol
+𡏆	gtol	[u]
 埖	gtop
 塔	gtor
 𡒝	gtor
-𡒶	gtov
+𡒶	gtov	[u]
 𧰊	gtpbc
 𡑢	gtpd
 𡐺	gtpu
@@ -28882,6 +28883,7 @@
 䇷	hrsn
 𭚖	hrt
 𨽩	hrtbr
+𮊶	hrtcv
 𦧤	hrtd
 𨽴	hrtlr
 甜	hrtm
@@ -28890,7 +28892,7 @@
 𮍺	hrtmv
 𦧹	hrtoq
 𨽡	hrtor
-𮊶	hrtov
+𮊶	hrtov	[u]
 𨺵	hrtpo
 𨸥	hrtt
 𦧏	hrtt
@@ -40590,7 +40592,9 @@
 𭼊	ktc
 𭼸	ktci
 𤺊	ktcl
+𤸜	ktcl	[u]
 𤸸	ktct
+癢	ktcv
 𤸈	ktcw
 𤹲	ktcw
 𣞤	ktdd
@@ -50728,6 +50732,7 @@
 𥗢	mrtco
 𮁅	mrtco
 𥔸	mrtcp
+礢	mrtcv
 𦧤	mrtd
 𥗔	mrteh
 礴	mrtei
@@ -52602,6 +52607,7 @@
 𮗨	nbsuj
 𢍅	nbt
 𧤣	nbtaj
+𧥐	nbtcv
 𧤕	nbtcw
 𧤈	nbtd
 觲	nbtgq
@@ -52613,7 +52619,7 @@
 觵	nbtmc
 𧤻	nbtmj
 𤰏	nbtop
-𧥐	nbtov
+𧥐	nbtov	[u]
 觧	nbtq
 䚭	nbtrg
 𧤱	nbtyj
@@ -53784,6 +53790,7 @@
 䲕	nftca
 𩼋	nftcd
 䲉	nftcl
+鱶	nftcv
 鰌	nftcw
 𩸏	nftd
 𩺳	nfteh
@@ -56275,6 +56282,7 @@
 𫕖	nrron
 𬼬	nrrr
 𮪘	nrsqf
+𡅖	nrtcv	[u]
 𬯜	nrtob
 𡅖	nrtov
 𡖚	nrtt
@@ -58392,6 +58400,7 @@
 𩛘	oitc
 𬲛	oitcl
 𩝱	oitct
+䭥	oitcv
 𩟢	oiteb
 䭦	oitei
 𠌮	oitf
@@ -60790,6 +60799,7 @@
 偃	osav
 𠍾	osav
 𮩁	osbla
+𩟼	osbvv	[u]
 𠈀	osch
 𮨸	oscl
 䭑	oscmc
@@ -60940,6 +60950,7 @@
 𠑳	osso
 侷	ossr
 𫗎	osss
+䭥	ostcv
 𮩊	ostgk
 𩞩	ostlc	[ou]
 𮩘	ostlf
@@ -60947,6 +60958,7 @@
 𮩙	ostmf
 𮩙	ostnf
 𮩈	ostnm
+䭥	ostov	[u]
 偋	ostt
 𮨿	osttm
 𠌄	ostv
@@ -61077,7 +61089,7 @@
 𠉾	oton
 𫢮	otop
 𬿀	otor
-𠐒	otov
+𠐒	otov	[u]
 𠎲	otpa
 僃	otpb
 𠏆	otpb
@@ -63229,9 +63241,11 @@
 㤨	ptc
 𢢜	ptcd
 𢠹	ptcl
+𫺪	ptcl	[u]
 𭞴	ptco
 𢞺	ptcp
 𪬘	ptct
+懩	ptcv
 㥢	ptcw
 枼	ptd
 𢥉	pteh
@@ -66293,6 +66307,7 @@
 撕	qtcl
 撲	qtco
 搤	qtct
+攁	qtcv
 揂	qtcw
 𢵭	qtdo
 𭢥	qter
@@ -70663,6 +70678,7 @@
 𠹅	rtcp
 嗌	rtct
 𪡝	rtcu
+𡂺	rtcv
 𪡧	rtcw
 𭌖	rtdd
 𡀩	rter
@@ -70681,7 +70697,6 @@
 𡀽	rtgt
 唴	rtgu
 𠷩	rtgv
-𡂺	rtgv
 𠻋	rthb
 𭌧	rthf
 𡀇	rthg
@@ -70776,6 +70791,7 @@
 𫫚	rtor
 𭉙	rtor
 𠷆	rtos
+𡂺	rtov	[u]
 嚿	rtox
 𠿚	rtpd
 㖴	rtph
@@ -75170,6 +75186,7 @@
 𦒂	tasmm
 𦱤	tat
 𣊣	tata
+𣌞	tatcv	[u]
 𦸩	tatj
 𣌞	tatov
 芭	tau
@@ -75577,6 +75594,7 @@
 𢧥	tci
 𦬘	tci
 𪭍	tci
+養	tciav
 𮨽	tciav
 𪏛	tcibp
 𮏉	tcie
@@ -75614,6 +75632,7 @@
 𢃛	tclb
 黆	tclbu
 𧌶	tcli
+养	tcll
 𠄫	tcll
 蛬	tclmi
 蜝	tclmi
@@ -75623,6 +75642,7 @@
 𭁚	tclpb
 𠁔	tclws
 𤲅	tclwv
+養	tcmav
 䫏	tcmbc
 䫡	tcmbc
 𩒓	tcmbc
@@ -79026,6 +79046,7 @@
 茊	tom
 𮎥	tom
 薈	toma
+養	tomav	[u]
 菕	tomb
 蘥	tomb
 𦿈	tomb
@@ -79961,6 +79982,7 @@
 𧃂	ttcu
 𮏮	ttcu
 𦹕	ttcv
+𧁙	ttcv
 𦳷	ttcw
 𥃙	ttcwa
 𭙇	ttcwa
@@ -79987,7 +80009,6 @@
 𦻵	ttgs
 𬝆	ttgu
 葁	ttgv
-𧁙	ttgv
 鷁	tthaf
 鵧	tthaf
 𩾺	tthaf
@@ -80072,6 +80093,7 @@
 𦿮	ttom
 𬾺	ttoml
 𧂴	ttot
+𧁙	ttov	[u]
 㤣	ttp
 𬼩	ttpd
 鹢	ttpym
@@ -80342,7 +80364,6 @@
 䔨	tvhg
 𨿄	tvhg
 𦶥	tvhi
-𩴽	tvhi
 𦭚	tvhj
 薌	tvhl
 𦼅	tvhl
@@ -80352,6 +80373,7 @@
 𣰊	tvhqu
 𣰌	tvhqu
 𭅧	tvht
+𩴽	tvhui
 戡	tvi
 𦍯	tvi
 藥	tvid
@@ -90055,7 +90077,6 @@
 﨓	xdtoi
 𣠇	xdtoo
 𬄋	xdtor
-𣞼	xdtov
 𣔀	xdtp
 𣜿	xdtpd
 𣓋	xdtpp
@@ -91225,7 +91246,7 @@
 𧹸	xgcmb
 壿	xgcmi
 𨟛	xgcnl
-赥	xgcno
+𣤯	xgcno
 𭜙	xgcp
 𠠔	xgcsh
 𫎯	xgcta
@@ -93878,6 +93899,7 @@
 𤹪	xksrr
 㽶	xksu
 㚏	xkt
+𤸜	xktcl	[u]
 𤹲	xktcw
 𤹂	xktgf
 𤻜	xktgt
@@ -96374,6 +96396,7 @@
 𠀍	xpt
 贳	xptbo
 𫺘	xptbs
+𫺪	xptcl	[u]
 𢤻	xptgi
 𪭇	xptgr
 𠤅	xptgt
@@ -97458,7 +97481,6 @@
 𠿁	xrtco
 嚉	xrtgi
 𭌟	xrtgs
-𡂺	xrtgv
 𪢂	xrthu
 𭊋	xrtjm
 𠺜	xrtjp
@@ -98097,12 +98119,14 @@
 𩙁	xtchn
 𪎷	xtchq
 𦬘	xtci
+𮨽	xtcia
 𠔺	xtcih
 𪏊	xtcii
 𢚱	xtcip
 𦰠	xtcit
 𫟕	xtcjl
 𭄭	xtcks
+𠄫	xtcll
 蜝	xtclm
 𫥺	xtcln
 䫡	xtcmb
@@ -98828,12 +98852,12 @@
 蘳	xttcg
 𮑁	xttco
 𮏮	xttcu
+𧁙	xttcv
 𭙇	xttcw
 𫟒	xttd
 𣲜	xtte
 䖄	xttgf
 䕏	xttgi
-𧁙	xttgv
 鵧	xttha
 𢒈	xtthh
 𣰛	xtthq
@@ -98891,7 +98915,6 @@
 𦹀	xtvfw
 𪆰	xtvha
 𨿄	xtvhg
-𩴽	xtvhi
 𦼅	xtvhl
 𣰌	xtvhq
 𦍯	xtvi
@@ -103572,7 +103595,7 @@
 𬺕	xyuji
 𫜯	xyujq
 𡙴	xyuk
-𧮼	xyukb
+𦚾	xyukb
 𬺈	xyukm
 𧆟	xyukn
 𠡜	xyuks
@@ -108463,7 +108486,7 @@
 𭤾	yssuu
 𭥀	yssyj
 𭥅	ystav
-𭥉	ystcv
+𭥉	ystcv	[u]
 𫞁	ystgk
 𣄄	ysthl
 𮟨	ystj
