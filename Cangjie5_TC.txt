@@ -13775,8 +13775,8 @@
 𣴝	ehyo
 𣽰	ehyr
 㴲	ehyu
-戏	ei
 叉	ei
+戏	ei
 㲿	ei
 㳀	ei
 𠬟	ei
@@ -90392,7 +90392,7 @@
 澙	xehxf
 𤄻	xehxu
 𤅛	xehxv
-叉	xei
+戏	xei
 𥁼	xeibt
 沭	xeid
 𭇛	xeie
