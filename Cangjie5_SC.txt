@@ -21736,6 +21736,7 @@
 𩀸	guog
 𢿲	guok
 埁	guon
+𠚓	gure
 翹	gusmm
 垲	gusu
 𡔥	gut
@@ -24943,7 +24944,6 @@
 𮜸	hhlwp
 𫷘	hhlws
 𮜷	hhlws
-𠙊	hhma
 𨉿	hhmbb
 須	hhmbc
 须	hhmbo
@@ -28068,6 +28068,7 @@
 𠞹	hpln
 氐	hpm
 𥫩	hpm
+𠙊	hpma
 頿	hpmbc
 顖	hpmbc
 𩑒	hpmbc
@@ -32060,7 +32061,7 @@
 𥙽	ifqoo
 祎	ifqs
 𢊭	ifqv
-噕	ifr
+噕	ifr	[u]
 㗤	ifr
 𪠹	ifr
 𫬅	ifr
@@ -48497,6 +48498,7 @@
 𮦆	mlbo
 雨	mlby
 𨱘	mlc
+𥘅	mlc
 𪲑	mld
 𡌯	mlg
 𠩍	mlge
@@ -48524,6 +48526,7 @@
 𤓯	mllo
 丣	mlls
 𪚦	mllu
+𥘅	mllv
 覀	mllw
 畱	mllw
 𫝁	mllw
@@ -49659,6 +49662,7 @@
 𧲒	motml
 䝔	motrg
 𧲍	motwn
+𠚇	moub
 𧱭	mouce
 䝎	moumb
 𧲚	mouob
@@ -51288,6 +51292,7 @@
 𫠵	mubmm
 𥂘	mubt
 𨣓	mubt
+𠚑	mubu
 𧹁	mubuc
 𣐃	mud
 𣓢	mud
@@ -54330,6 +54335,7 @@
 𩁼	nimlb
 𣩴	nimnp
 𡵪	nimu
+𠚔	nimur
 𤮭	nimvn
 矛	ninh
 多	nini
@@ -55756,7 +55762,6 @@
 𮬝	nmuni
 𫘱	nmuob
 𬶒	nmuon
-𠚔	nmuor
 𩧱	nmusu
 𢏁	nmvi
 弳	nmvm
@@ -57883,7 +57888,7 @@
 𩟴	oidbe
 𠍨	oidd
 𠉷	oide
-𠍋	oidi	[c]
+𠍋	oidi
 䬴	oidj
 𩚟	oidk
 餗	oidl
@@ -66960,6 +66965,7 @@
 𢾞	raok
 𣊽	raoku
 𠴭	raph
+喝	rapp
 𪡓	rapp
 喝	rapv
 嘬	rase
@@ -67156,7 +67162,7 @@
 𭈗	rcln
 𪡯	rcls
 䫟	rcmbc
-嗛	rcmc
+嗛	rcmc	[u]
 噂	rcmi
 𧶊	rcmmi
 𠼫	rcmn
@@ -67204,6 +67210,7 @@
 㕲	rd
 喳	rdam
 𠲋	rdb
+喳	rdbm
 𠷹	rdbu
 啉	rdd
 𠾣	rddd
@@ -67765,7 +67772,7 @@
 喞	rhsl
 𭉮	rhsm
 呝	rhsn
-嘅	rhsu
+嘅	rhsu	[u]
 𠲪	rhsu
 𠹓	rhsu
 啗	rhsx
@@ -67783,6 +67790,7 @@
 𡃢	rhum
 𠺒	rhup
 𭊴	rhup
+嚊	rhut
 𡄊	rhut
 𪾍	rhut
 𠽶	rhuu
@@ -67831,6 +67839,8 @@
 𠿳	ricc
 唆	rice
 嚒	rici
+嚤	ricq	[u]
+嚰	ricr
 𠰲	rid
 𠳹	rid
 𭍓	ridai
@@ -68243,6 +68253,7 @@
 𠺂	rktv
 㟩	rku
 𫝘	rku
+噆	rkua
 𪡦	rkyn
 𠹂	rkyp
 𠮝	rl
@@ -70460,6 +70471,7 @@
 𡼚	rrurr
 𠒅	rruu
 𡜓	rrv
+噀	rrvc
 𠱐	rrvk
 𭊲	rrvll
 嘂	rrvlr
@@ -70912,6 +70924,7 @@
 𫶶	rujru
 㕳	ruk
 𨚼	rukb
+𠚙	rukb
 𠵶	ruke
 𫦲	ruks
 𫪻	ruli
@@ -74201,7 +74214,7 @@
 𡱓	smmn
 𣕡	smmnd
 𡬶	smmni
-𠙛	smmnn
+𠙛	smmnn	[u]
 𡱕	smmp
 𮋎	smmrb
 𣕠	smmrd
@@ -77063,6 +77076,7 @@
 𦳅	tilk
 𦭴	till
 𠟃	tiln
+𠛜	tiln
 菮	tilo
 蓎	tilr
 𦶌	timb
@@ -80081,7 +80095,6 @@
 蓳	ttlm
 荆	ttln
 㓝	ttln
-𠛜	ttln
 𠛼	ttln
 𫷘	ttlws
 苷	ttm
@@ -80139,6 +80152,7 @@
 剙	ttshc
 刱	ttshc
 剏	ttshh
+𠛝	ttshh
 刱	ttshi
 剏	ttshi
 剙	ttshi
@@ -81233,6 +81247,7 @@
 𡶣	uche
 㟗	uchh
 𡾾	uchi
+𠘽	uchn
 𠚅	uci
 𡵴	uci
 𪩞	ucii
@@ -94690,6 +94705,7 @@
 丅	xml
 𢁓	xmlb
 𮦆	xmlbo
+𥘅	xmlc
 𬷫	xmlha
 𫀳	xmlhd
 𠁘	xmlhn
@@ -97008,6 +97024,7 @@
 𠽫	xranh
 𠼋	xranr
 𡅭	xrant
+𪡓	xrapp
 邑	xrau
 𠯲	xrb
 𭈙	xrbau
@@ -97119,7 +97136,7 @@
 唳	xrhsk
 𠲪	xrhsu
 𭊴	xrhup
-𪾍	xrhut
+𡄊	xrhut
 𪢀	xrhwk
 𡃳	xrhxc
 𠹠	xrhxd
@@ -97543,6 +97560,7 @@
 𡬣	xrudi
 𭆯	xruhe
 𨞸	xruhp
+𠚙	xrukb
 𪡩	xrumf
 𫪇	xrumg
 𠲺	xrune
@@ -98392,6 +98410,7 @@
 𦬫	xtik
 䔸	xtikk
 𦬓	xtiku
+𠛜	xtiln
 𬜷	xtimr
 𮐼	xtims
 𤮐	xtimv
@@ -101813,6 +101832,7 @@
 㘅	xxrho
 𠸦	xxrhq
 𠼍	xxrhs
+𪾍	xxrhu
 𡁝	xxrhx
 𭉸	xxrif
 𤡴	xxrii
@@ -102146,7 +102166,7 @@
 𩾺	xxtth
 𬻋	xxtti
 𦬢	xxttj
-𠛜	xxttl
+𠛼	xxttl
 𩕭	xxttm
 䒎	xxttn
 𩁑	xxtto
@@ -104051,7 +104071,6 @@
 𠜐	ybln
 𠜔	ybln
 𠞶	ybln
-𠚷	ybln
 𠞟	ybln
 𪟍	ybln
 䢐	ybm
@@ -109812,6 +109831,7 @@
 鹻	ywtxc
 𪉷	ywual
 𪊃	ywuhi
+𠚝	ywuwh
 𠧤	ywvs
 𠧷	ywvs
 𫜉	ywwlb
