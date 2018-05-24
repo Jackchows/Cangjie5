@@ -19756,6 +19756,7 @@
 鼃	ggrxu
 䵷	ggrxu
 𨄟	ggryo
+𠜤	ggshh
 𠜤	ggshi
 𡏼	ggsk
 𭅶	ggsl
@@ -20029,6 +20030,7 @@
 坺	gike
 𡐮	gikf
 𫮅	gikh
+坺	gikk
 垅	gikp
 劫	giks
 勢	giks
@@ -24041,6 +24043,7 @@
 𪢶	heg
 𪤈	heg
 箔	heha
+𤆁	hehae
 𪄀	hehaf
 𪆜	hehaf
 𩿔	hehaf
@@ -48399,6 +48402,7 @@
 𥼅	mkmfd
 𤤶	mkmgi
 𣯛	mkmhu
+𠛬	mkmjn
 𭑈	mkmk
 𡙎	mkmkk
 𡚌	mkmkk
@@ -68260,7 +68264,6 @@
 𫩘	rl
 𫩥	rla
 吊	rlb
-𠲢	rlb
 𫩒	rlb
 𫪯	rlb
 𡃐	rlbj
@@ -73335,7 +73338,6 @@
 𡰽	siku
 𡲗	siku
 𨽸	sile
-蠿	silii
 𧓨	silii
 𧕈	silii
 𨱰	silln
@@ -97215,7 +97217,7 @@
 叻	xrks
 𫝘	xrku
 𫩘	xrl
-𠲢	xrlb
+𫩒	xrlb
 𠶵	xrllc
 嘨	xrlll
 𠯯	xrlln
@@ -97837,7 +97839,7 @@
 𨱜	xsije
 𮣹	xsike
 𡲗	xsiku
-𧓨	xsili
+𧕈	xsili
 𮓵	xsilm
 𠟢	xsiln
 𨲙	xsimb
@@ -101843,7 +101845,7 @@
 𬪒	xxrjn
 𡄓	xxrjt
 𭆸	xxrkn
-𫩒	xxrlb
+𫪯	xxrlb
 𠯀	xxrll
 𫫅	xxrln
 𤕪	xxrlr
@@ -101952,7 +101954,7 @@
 𭃃	xxshp
 𩫺	xxshu
 𩬍	xxshw
-𧕈	xxsil
+𭃅	xxsil
 𤧬	xxsim
 𬩽	xxsin
 𨱝	xxsio
@@ -102606,7 +102608,7 @@
 𫬨	xxxrf
 𭋔	xxxrh
 𫬟	xxxrj
-𫪯	xxxrl
+𠯯	xxxrl
 𨀩	xxxrm
 𡋾	xxxrn
 𠰚	xxxro
@@ -106538,7 +106540,9 @@
 𨔃	yorv
 迮	yos
 𠛳	yosh
+𠜨	yoshh
 𠜨	yoshi
+𠜨	yosk
 𦐤	yosmm
 𨖴	yotf
 𧈎	yotjh
