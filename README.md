@@ -58,6 +58,8 @@
 ## 友情連接
 - [「倉頡之友·馬來西亞」論壇](http://www.chinesecj.com/forum/forum.php)
 - [「天蒼人頡」論壇](http://ejsoon.win/phpbb/)
+- [「倉頡輸入法」Facebook 群組](https://www.facebook.com/groups/cjinput/)
+- [「倉頡」百度貼吧](http://tieba.baidu.com/f?kw=%E4%BB%93%E9%A2%89)
 - 「倉頡輸入法」QQ 群組 [30476878](https://jq.qq.com/?_wv=1027&k=5W3qETZ)
 - 「倉頡輸入法」Freenode IRC 頻道 [#CJDFH](https://webchat.freenode.net/?channels=%23CJDFH)
 - 「倉頡輸入法」Telegram 群組 [@changjei](https://t.me/changjei)
