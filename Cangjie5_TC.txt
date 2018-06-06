@@ -25012,6 +25012,7 @@
 𢤂	hhoep
 𥟖	hhof
 𥡁	hhof
+鿯	hhofd
 𮇵	hhofd
 𥯂	hhog
 𥴓	hhog
@@ -34136,11 +34137,13 @@
 𠙥	ithn
 𢈐	ithn
 𠦑	itii
+鿮	itjb	[ou]
 𢧯	itjp
 𭙫	itjv
 𢈒	itk
 𢉳	itkr
 席	itlb
+鿮	itlb
 廣	itlc
 㢍	itlk
 廑	itlm
@@ -50923,6 +50926,7 @@
 𥓲	mrvvw
 𥔥	mrvvw
 畐	mrw
+鿬	mrw
 𫪸	mrwc
 𮁓	mrwcm
 硱	mrwd
@@ -59640,6 +59644,7 @@
 𪃎	onhaf
 𪅰	onhaf
 僪	onhb
+鿫	onhbk
 㑱	onhd
 伋	onhe
 氡	onhey
@@ -60353,6 +60358,7 @@
 𡥖	opnd
 𫓦	opnd
 锰	opndt
+鿭	opnf
 钮	opng
 𫔎	opnhb
 𫔄	opnhd
@@ -93238,6 +93244,7 @@
 𢌍	xitcc
 𢉙	xitf
 𢈐	xithn
+鿮	xitlb
 𢈀	xitm
 𨞐	xitnl
 𢉱	xitw
@@ -95032,6 +95039,7 @@
 𥐕	xmru
 𥑯	xmrub
 𥓲	xmrvv
+鿬	xmrw
 䂺	xmrwd
 𦧲	xmrwv
 𥖤	xmryb
@@ -99098,7 +99106,7 @@
 𮑒	xtyid
 𮏌	xtyik
 𦯧	xtyiu
-𮓋	xtyjj
+𮓋	xudog
 荙	xtyk
 𧆍	xtykc
 萕	xtykl
