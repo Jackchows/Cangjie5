@@ -41648,6 +41648,7 @@
 𧟎	lgcc
 裬	lgce
 㶳	lgf
+𧗊	lgfht
 袿	lgg
 褹	lggi
 褹	lggk
@@ -41749,7 +41750,6 @@
 凣	lhn
 䘛	lhn
 𧙱	lhnb
-𧙤	lhnd
 𬡖	lhnd
 𧘣	lhne
 𧘺	lhne
@@ -43564,7 +43564,6 @@
 𧷇	lmfbc
 盡	lmfbt
 䀆	lmfbt
-𧗊	lmfbt
 𡎀	lmfg
 𪜉	lmfj
 𧝼	lmfn
@@ -43905,6 +43904,7 @@
 𪺤	lnrsn
 𭷋	lnrvp
 𤗁	lnryo
+𧙤	lnsd
 𤖰	lnse
 牊	lnshr
 𬡎	lnsm
@@ -44488,6 +44488,7 @@
 𩀮	lvog
 數	lvok
 𢿙	lvok
+𠄓	lvok	[o]
 𫾺	lvok
 𩖅	lvokc
 𣰟	lvoku
@@ -45092,12 +45093,13 @@
 𩅶	mbhss
 𠧍	mbht
 𧟨	mbht
+𩅧	mbhto
 䰭	mbhui
 䰰	mbhui
 𩳧	mbhui
 𩳮	mbhui
 𩂡	mbhvo
-𩅧	mbhwo
+𩅧	mbhwv
 𩅒	mbhxk
 𩃡	mbhxl
 霓	mbhxu
@@ -45631,7 +45633,6 @@
 𩄅	mbwot
 䨓	mbwr
 霬	mbwtc
-𩅧	mbwto
 電	mbwu
 𩄣	mbww
 𩆗	mbwwa
@@ -59429,6 +59430,7 @@
 㐾	ommu
 佞	ommv
 侲	ommv
+𠆭	ommv
 㽂	ommvn
 𤭬	ommvn
 𬎩	ommvn
@@ -82511,6 +82513,7 @@
 𡷿	uryo
 辥	urytj
 𡴮	us
+𡰮	us
 𡹶	usav
 𪌨	usdoe
 𪌨	usdon
@@ -94104,7 +94107,6 @@
 𧛒	xlhk
 𧙆	xlhlo
 䘛	xlhn
-𬡖	xlhnd
 𧘺	xlhne
 䙕	xlhoo
 𧘐	xlhp
@@ -99452,6 +99454,7 @@
 巗	xurrk
 㟧	xurrs
 𡺁	xurye
+𡰮	xus
 𮬵	xusha
 屻	xushi
 岹	xushr
@@ -101291,7 +101294,6 @@
 𫶧	xxllu
 𤖩	xxllv
 𠃊	xxlm
-𧗊	xxlmf
 冖	xxln
 𡘉	xxlnk
 𬩵	xxlnl
@@ -101302,7 +101304,7 @@
 𬡵	xxltg
 𮕤	xxlu
 𤇐	xxluf
-𫾺	xxlvo
+𠄓	xxlvo	[o]
 𬡠	xxlwl
 𮖼	xxlyb
 𮕪	xxlyh
@@ -102586,6 +102588,7 @@
 𠃎	xxxlm
 𠁡	xxxln
 𤋅	xxxlu
+𫾺	xxxlv
 𨟕	xxxma
 𧢝	xxxmb
 𭦚	xxxmc
@@ -102830,7 +102833,7 @@
 𮭘	xxyhh
 顪	xxyhm
 𨞣	xxyhn
-𨖙	xxyhw
+𮟦	xxyhw
 𬂄	xxyib
 𤍨	xxyif
 𭏼	xxyig
@@ -105065,7 +105068,6 @@
 𮞱	yhwj
 𨖼	yhwo
 𨙅	yhwo
-𨖙	yhwo
 𮟦	yhwo
 褏	yhwv
 𧜪	yhwv
