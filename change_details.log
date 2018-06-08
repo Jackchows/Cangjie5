@@ -5171,6 +5171,7 @@ FAD9	龎	mybp	mybl
 24C84	𤲄	(新增)	hwhho	另有𤲄：hwoho
 24C84	𤲄	hwoo	hwoho	另有𤲄：hwhho
 25F1F	𥼟	(新增)	fdhto	*
+25F1F	𥼟	(新增)	fdhto	*
 25F1F	𥼟	(新增)	fdhwo	*
 27478	𧑸	(新增)	hthoi	另有𧑸：htooi
 27560	𧕠	(新增)	hthoi	*
@@ -5191,3 +5192,35 @@ FAD9	龎	mybp	mybl
 9FEE	鿮	(新增)	itjb	另有鿮：itlb。Unicode 11.0.0
 9FEE	鿮	(新增)	itlb	另有鿮：itjb。Unicode 11.0.0
 9FEF	鿯	(新增)	hhofd	Unicode 11.0.0
+==2018.06.08==
+9FBF	龿	tog	togg	
+9FC4	鿄	(新增)	ekd	另有鿄：eid
+9FE5	鿥	(新增)	iinlb	另有鿥：ivnlb
+9FE5	鿥	ivnl	ivnlb	另有鿥：iinlb
+9FEA	鿪	ycmo	(刪除)	鿪：yof
+9FEA	鿪	ytpo	yof	
+5AD3	嫓	vhbp	(刪除)	嫓：vnbp
+20011	𠀑	(新增)	mbc	另有𠀑：mbv
+20885	𠢅	(新增)	yeks	另有𠢅：ykks
+20AA0	𠪠	mdb	mddb	
+20ABE	𠪾	mdp	mhdp	
+21430	𡐰	mdg	mhdg	
+214F8	𡓸	mdiig	mhdg	
+2167D	𡙽	mdk	mhdk	
+2190C	𡤌	vmdm	vmhm	
+21AEF	𡫯	jmdm	jmhm	
+22599	𢖙	homdm	homhm	
+227CD	𢟍	(新增)	mddp	另有𢟍：mdp
+22929	𢤩	pmdm	pmhm	
+22E60	𢹠	qmdm	qmhc	
+2312C	𣄬	ysmdm	ysmhm	
+240DD	𤃝	emda	emha	
+24BCD	𤯍	mdtm	mhdt	
+25DC5	𥷅	hmdf	hmhf	
+261D4	𦇔	vfmdm	vfmhm	
+277BF	𧞿	lmdm	lmhm	
+281D7	𨇗	rmmdm	rmmhm	
+28638	𨘸	ymdm	ymhm	
+29D23	𩴣	mhci	(刪除)	𩴣：mhdi
+2A17C	𪅼	mdhaf	mhdf	
+2A5C1	𪗁	(新增)	htmhm	另有𪗁：hlmhm
