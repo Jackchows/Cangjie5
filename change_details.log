@@ -5193,34 +5193,72 @@ FAD9	龎	mybp	mybl
 9FEE	鿮	(新增)	itlb	另有鿮：itjb。Unicode 11.0.0
 9FEF	鿯	(新增)	hhofd	Unicode 11.0.0
 ==2018.06.08==
-9FBF	龿	tog	togg	
+9FBF	龿	tog	togg
 9FC4	鿄	(新增)	ekd	另有鿄：eid
 9FE5	鿥	(新增)	iinlb	另有鿥：ivnlb
 9FE5	鿥	ivnl	ivnlb	另有鿥：iinlb
 9FEA	鿪	ycmo	(刪除)	鿪：yof
-9FEA	鿪	ytpo	yof	
+9FEA	鿪	ytpo	yof
 5AD3	嫓	vhbp	(刪除)	嫓：vnbp
 20011	𠀑	(新增)	mbc	另有𠀑：mbv
 20885	𠢅	(新增)	yeks	另有𠢅：ykks
-20AA0	𠪠	mdb	mddb	
-20ABE	𠪾	mdp	mhdp	
-21430	𡐰	mdg	mhdg	
-214F8	𡓸	mdiig	mhdg	
-2167D	𡙽	mdk	mhdk	
-2190C	𡤌	vmdm	vmhm	
-21AEF	𡫯	jmdm	jmhm	
-22599	𢖙	homdm	homhm	
+20AA0	𠪠	mdb	mddb
+20ABE	𠪾	mdp	mhdp
+21430	𡐰	mdg	mhdg
+214F8	𡓸	mdiig	mhdg
+2167D	𡙽	mdk	mhdk
+2190C	𡤌	vmdm	vmhm
+21AEF	𡫯	jmdm	jmhm
+22599	𢖙	homdm	homhm
 227CD	𢟍	(新增)	mddp	另有𢟍：mdp
-22929	𢤩	pmdm	pmhm	
-22E60	𢹠	qmdm	qmhc	
-2312C	𣄬	ysmdm	ysmhm	
-240DD	𤃝	emda	emha	
-24BCD	𤯍	mdtm	mhdt	
-25DC5	𥷅	hmdf	hmhf	
-261D4	𦇔	vfmdm	vfmhm	
-277BF	𧞿	lmdm	lmhm	
-281D7	𨇗	rmmdm	rmmhm	
-28638	𨘸	ymdm	ymhm	
+22929	𢤩	pmdm	pmhm
+22E60	𢹠	qmdm	qmhc
+2312C	𣄬	ysmdm	ysmhm
+240DD	𤃝	emda	emha
+24BCD	𤯍	mdtm	mhdt
+25DC5	𥷅	hmdf	hmhf
+261D4	𦇔	vfmdm	vfmhm
+277BF	𧞿	lmdm	lmhm
+281D7	𨇗	rmmdm	rmmhm
+28638	𨘸	ymdm	ymhm
 29D23	𩴣	mhci	(刪除)	𩴣：mhdi
-2A17C	𪅼	mdhaf	mhdf	
+2A17C	𪅼	mdhaf	mhdf
 2A5C1	𪗁	(新增)	htmhm	另有𪗁：hlmhm
+==2018.06.19==
+5B3D	嬽	(新增)	vwlk	另有嬽：vwsk
+5B76	孶	yind	tvid
+20336	𠌶	oomvs	ommvs
+208CC	𠣌	(新增)	pk	另有𠣌：pj
+208CF	𠣏	(新增)	pyv	另有𠣏：pylm
+20AB3	𠪳	(新增)	mwhxk	另有𠪳：mlwk
+20AB3	𠪳	mlwo	mlwk	另有𠪳：mwhxk
+20ADF	𠫟	olmi	hmi
+20B37	𠬷	(新增)	mmke	另有𠬷：mdke
+20B37	𠬷	mdme	mdke	另有𠬷：mmke
+20C66	𠱦	(新增)	ooor	另有𠱦：oor
+20CDC	𠳜	(新增)	rqjo	另有𠳜：rqmo
+21155	𡅕	grgrr	ggrrr
+21517	𡔗	(新增)	oommg	另有𡔗：oog
+22747	𢝇	(新增)	pqgr	另有𢝇：pqjr
+227DE	𢟞	pedw	pimw
+22BCC	𢯌	qchq	qcsq
+25089	𥂉	(新增)	pumot	另有𥂉：puiot
+25B88	𥮈	sjff	hkjt
+2697A	𦥺	(新增)	hssx	另有𦥺：hbmx
+2697A	𦥺	hkhx	hbmx	另有𦥺：hssx
+273E8	𧏨	onlmi	odlmi
+2771A	𧜚	onyhv	odyhv
+283AF	𨎯	(新增)	oomjj	另有𨎯：omjwj
+2B86E	𫡮	yfdn	ynfd
+2B86F	𫡯	jjbn	jjnb
+2B936	𫤶	yibtc	yabtc
+2BA66	𫩦	ssb	rssb
+2BB05	𫬅	(新增)	ixyfr	另有𫬅：ifr
+2C2E0	𬋠	yryrf	ymmf
+2C606	𬘆	vfuqq	vfuqb
+2CAB2	𬪲	(新增)	mwkut	另有𬪲：mwyut
+2CAB2	𬪲	mwyit	mwyut	另有𬪲：mwkut
+2CD17	𬴗	ybrjs	ybjks	另有𬴗：yrbs
+2CD17	𬴗	yrbjs	yrbs	另有𬴗：ybjks
+2D67D	𭙽	(新增)	icgi	另有𭙽：idgi
+2D67D	𭙽	iddi	idgi	另有𭙽：icgi
