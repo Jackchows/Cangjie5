@@ -318,7 +318,6 @@
 𣈹	aggg
 曉	aggu
 𬁕	aggu
-𮭇	aghaf
 𥣷	aghd
 㫢	agi
 𢧄	agi
@@ -790,7 +789,6 @@
 𭦄	amgt
 鴠	amhaf
 𪄚	amhaf
-𮭇	amhaf
 𪰬	amhdn
 𤋁	amhf
 𣌌	amhhc
@@ -1043,6 +1041,7 @@
 閣	anher
 𫔠	anhey
 𨳝	anhg
+𨷕	anhge	[oU]
 𨷔	anhgf
 𨴬	anhgr
 𨴐	anhgu
@@ -9504,7 +9503,6 @@
 𪱹	de
 㭼	dea
 𪍝	deabt
-𬄅	deag
 𣙵	deai
 𬄅	deam
 𪍭	deamo
@@ -10245,6 +10243,7 @@
 𣚔	dhxf
 𣠙	dhxf
 𣔈	dhxj
+𣕕	dhxm
 楰	dhxo
 𬄵	dhxs
 棿	dhxu
@@ -16315,7 +16314,6 @@
 𭵑	fami
 焊	famj
 㷸	famj
-𭶔	famk
 𪹈	famm
 煶	famo
 𤍴	famv
@@ -16764,6 +16762,7 @@
 𮇭	fdhje
 𥻝	fdhjg
 𥼱	fdhkb
+𥼹	fdhme
 䉼	fdhml
 𬖙	fdhmr
 籶	fdhn
@@ -17672,7 +17671,6 @@
 𡭺	fhmb
 𩔫	fhmbc
 燬	fhme
-𭶔	fhmk
 炘	fhml
 𤇚	fhmy
 㝹	fhnai
@@ -19848,6 +19846,7 @@
 㙖	ghlb
 𡒻	ghlc
 蟚	ghlmi
+𡒂	ghme
 圻	ghml
 𭎋	ghml
 𥛱	ghmmf
@@ -22058,7 +22057,6 @@
 𫗼	hagg
 皢	haggu
 𥱯	hagi
-𭶔	hagk
 㿧	hagni
 𤾐	hagqp
 𫘀	hagsk
@@ -22523,7 +22521,6 @@
 㙑	hbg
 𡑘	hbg
 𫡒	hbg
-𫮩	hbg
 𢆇	hbgbd
 𮆁	hbgl
 𥮐	hbgr
@@ -24010,7 +24007,6 @@
 𣈊	hea
 篞	heag
 簜	heah
-篞	heam
 䵘	heamh
 𡕙	heb
 𦜹	heb
@@ -24964,6 +24960,7 @@
 𨉿	hhmbb
 須	hhmbc
 须	hhmbo
+𥵓	hhme
 𨤅	hhmfl
 𨊛	hhmhm
 𮜱	hhmiu
@@ -26320,7 +26317,6 @@
 䲼	hmhaf
 䳠	hmhaf
 䳉	hmhaf
-𮭇	hmhaf
 𤯸	hmhbs
 𤯣	hmhbu
 𥠟	hmhd
@@ -30364,7 +30360,8 @@
 䊆	hxfd
 𤬟	hxfho
 𦥰	hxfmu
-𬛸	hxg
+𫮩	hxg
+𬛸	hxg	[u]
 𦦰	hxgni
 身	hxh
 鵮	hxhaf
@@ -30457,6 +30454,7 @@
 臾	hxo
 𨾹	hxog
 𨿀	hxog
+𡓓	hxohg
 𦥬	hxos
 𢤒	hxp
 𦥙	hxp
@@ -31616,7 +31614,6 @@
 𥚵	ifahu
 𮁲	ifaj
 𥘵	ifam
-𮂈	ifam
 禓	ifamh
 𥚜	ifamn
 禔	ifamo
@@ -31732,7 +31729,6 @@
 𩿷	ifhaf
 𫛔	ifhaf
 䄓	ifhag
-𮂈	ifhag
 𥜌	ifhbk
 𥚟	ifhbr
 𫀉	ifhbt
@@ -31788,7 +31784,6 @@
 𬓔	ifhwp
 𥚽	ifhwr
 𥜊	ifhws
-𮂈	ifhxg
 𥚞	ifhxl
 𮂈	ifhxm
 𫀕	ifhxs
@@ -45913,13 +45908,11 @@
 𥜏	mfabf
 𮂘	mfabk
 𫀚	mfabt
-𮂈	mfag
 𬓁	mfahl
 𮂇	mfahm
 𥚵	mfahu
 𮁲	mfaj
 𥘵	mfam
-𮂈	mfam
 禓	mfamh
 𥚜	mfamn
 禔	mfamo
@@ -46124,7 +46117,6 @@
 𬓔	mfhwp
 𥚽	mfhwr
 𥜊	mfhws
-𮂈	mfhxg
 𥚞	mfhxl
 𮂈	mfhxm
 𫀕	mfhxs
@@ -49948,7 +49940,7 @@
 礎	mrddo
 𥗈	mrddo
 𥗘	mrddq
-𬒧	mrdeg
+𬒧	mrdeg	[u]
 𥖺	mrdek
 𬒧	mrdem
 𥖓	mrder
@@ -64650,6 +64642,7 @@
 𢹾	qhmb
 𭣊	qhmd
 𢮽	qhme
+𢶙	qhme
 𢸂	qhmf
 折	qhml
 𢭡	qhml
@@ -64814,10 +64807,8 @@
 搜	qhxe
 𫽍	qhxe
 𢹰	qhxf
-捏	qhxg
 㧶	qhxh
 揑	qhxm
-𣕕	qhxm
 𢰻	qhxs
 𢱲	qhxt
 掜	qhxu
@@ -67372,7 +67363,6 @@
 𭯶	re
 𠴲	rea
 𠾾	reac
-𭉴	reag
 𭉴	ream
 𠽞	reap
 𡀦	reat
@@ -67398,10 +67388,8 @@
 𠵽	regi
 𠿶	regj
 𮒒	rehf
-𭉴	rehg
 𠴎	rehk
 𠽇	rehm
-𭉴	rehm
 𭈠	reho
 𠻹	rehp
 𣮫	rehqu
@@ -70219,7 +70207,6 @@
 𡅬	rpyv
 𠰅	rq
 𪢚	rqae
-𭉛	rqag
 𡆂	rqai
 𠵆	rqam
 𭉛	rqam
@@ -70254,8 +70241,6 @@
 𡃓	rqhw
 𫫶	rqhw
 𠿂	rqhx
-𭉛	rqhxg
-𭉛	rqhxm
 𫫃	rqik
 㕩	rqj
 𠴜	rqje
@@ -76860,6 +76845,7 @@
 差	thm
 蘬	thmb
 𩒋	thmbc
+𦽐	thme
 𥮌	thmj
 芹	thml
 𦸙	thml
@@ -82541,7 +82527,6 @@
 𡽨	useo
 𡼧	useq
 𡽈	useu
-𤌮	usf
 𡾓	usfa
 嶎	usfi
 屶	ush
@@ -83535,7 +83520,7 @@
 𦄥	vfeep
 𦀛	vfefh
 経	vfeg
-𬘀	vfehg
+𬘀	vfehg	[u]
 𬘀	vfehm
 𫃶	vfehr
 紁	vfei
@@ -84953,6 +84938,7 @@
 㜱	vhlc
 蚃	vhlmi
 𢀟	vhm
+𡢶	vhme	[oU]
 妡	vhml
 姤	vhmr
 𡢒	vhmt
@@ -85479,7 +85465,6 @@
 𭒦	vmak
 姮	vmam
 𫰟	vmam
-𬌂	vmam
 𬘜	vmam
 缇	vmamo
 绲	vmapp
@@ -86441,6 +86426,7 @@
 𡤖	vsem
 𡣞	vseo
 㜨	vseq
+𤌮	vsf
 𡟩	vsfb
 𭎍	vsg
 𠚣	vsh
@@ -92814,6 +92800,7 @@
 𦥷	xhxbc
 𥂞	xhxbt
 𪠨	xhxe
+𬛸	xhxg	[u]
 䳎	xhxha
 𮍰	xhxhc
 𥃔	xhxhx
@@ -92976,7 +92963,6 @@
 𫛻	xiepy
 𠶳	xier
 𤆃	xif
-𮂈	xifam
 𬓃	xifbb
 𥘝	xifbk
 𮁧	xifbt
@@ -94299,7 +94285,7 @@
 𣭘	xlnhq
 牑	xlnhs
 鬮	xlnhx
-𢦤	xlni
+𩰎	xlni
 牋	xlnii
 牑	xlnis
 𡗻	xlnk
@@ -94520,7 +94506,6 @@
 𭇪	xmer
 灭	xmf
 𥘗	xmfa
-𮂈	xmfam
 𮁧	xmfbb
 𫌬	xmfbh
 厰	xmfbk
@@ -96689,6 +96674,7 @@
 𪮽	xqhlc
 掀	xqhlo
 𢹾	xqhmb
+𢶙	xqhme
 𢭡	xqhml
 䂮	xqhmr
 𫽱	xqhnd
@@ -96729,7 +96715,6 @@
 𢱰	xqhwt
 𢸾	xqhxc
 𫽍	xqhxe
-𣕕	xqhxm
 𪘂	xqhym
 𭡗	xqhyr
 𢹈	xqhyu
@@ -97146,7 +97131,6 @@
 𠽉	xrebd
 𡂜	xreew
 𡊙	xreg
-𭉴	xrehm
 𭉉	xrehr
 𠽈	xreii
 𠽦	xreir
@@ -100182,7 +100166,6 @@
 𭥐	xxam
 㬡	xxamb
 𭨁	xxamf
-𮭇	xxamh
 𭥔	xxamk
 𫦡	xxaml
 𭦷	xxamo
@@ -102380,7 +102363,7 @@
 𭾎	xxvkb
 丩	xxvl
 𠬞	xxvle
-𬌂	xxvma
+𬘜	xxvma
 㛤	xxvmb
 𡉟	xxvmg
 𣂾	xxvmh
@@ -102749,7 +102732,7 @@
 𮣩	xxxvf
 𡛏	xxxvi
 𠂈	xxxvl
-𬘜	xxxvm
+𡢉	xxxvm
 𫰆	xxxvn
 𠙴	xxxvo
 𡚿	xxxvp
@@ -103165,6 +103148,7 @@
 𨗹	xyhmo
 𪜠	xyhni
 𨛒	xyhnl
+𨗭	xyhog
 𧝢	xyhov
 𮞲	xyhpl
 𥪈	xyhpm
@@ -103490,7 +103474,7 @@
 𦕺	xyrbj
 𧨞	xyrbk
 𠱗	xyrbm
-亭	xyrbn
+亮	xyrbn
 𩙷	xyrbo
 𠅸	xyrbp
 𮘄	xyrbq
@@ -105020,6 +105004,7 @@
 𭛛	yhoa
 𨘤	yhoc
 𨖽	yhog
+𨗭	yhog
 𨘖	yhoh
 𫫈	yhomr
 䢨	yhoo
@@ -107029,8 +107014,8 @@
 𮘙	yrbmm
 詷	yrbmr
 𮘑	yrbms
-亮	yrbn
 亭	yrbn
+亮	yrbn
 亴	yrbn
 豪	yrbo
 𩙷	yrbo
@@ -107327,6 +107312,7 @@
 𧧖	yrhx
 𧮏	yrhxb
 謏	yrhxe
+䛼	yrhxg
 𬢭	yrhxh
 䛼	yrhxm
 諛	yrhxo
