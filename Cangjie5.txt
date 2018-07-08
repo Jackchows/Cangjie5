@@ -20086,7 +20086,7 @@
 𪚸	ginxu
 𤴢	ginyo
 𡎻	giog
-𪧷	giog
+𪧸	giog
 埃	giok
 𣀘	giok
 𫨮	giomr
@@ -24797,6 +24797,7 @@
 𥵾	hhdg
 𨈵	hhdhe
 射	hhdi
+𪧻	hhdiq
 䈖	hhdj
 𥳼	hhdj
 𮆛	hhdj
@@ -25298,7 +25299,6 @@
 𩲎	hifh
 𩲿	hifhh
 𩲯	hifq
-𪧻	hifq
 𮅍	hifu
 𧋗	hig
 𭏢	hig
@@ -30330,6 +30330,7 @@
 𥬦	hwyi
 𤉱	hwysf
 臼	hx
+𦥑	hx
 𨈑	hx
 𣆫	hxa
 𣇀	hxa
@@ -33874,7 +33875,7 @@
 𣙤	ird
 𣚩	ird
 𣓫	ird
-𪧸	irdi
+𪧹	irdi
 𩎞	irdmq
 𭱡	ire
 𫝷	ireg
@@ -35519,6 +35520,7 @@
 𣣙	jdno
 𣤂	jdno
 𠇠	jdo
+𪧳	jdog
 𪱼	jdoin
 教	jdok
 㪍	jdok
@@ -35531,6 +35533,7 @@
 𠃱	jdu
 𪧲	jdve
 𫳒	jdw
+𪧶	jdwa
 𫴨	jdwb
 𪟾	jdy
 𫿰	jdyk
@@ -37342,7 +37345,6 @@
 𧡧	jomu
 𡩗	jomv
 㝛	jomw
-𪧳	jomwg
 𦫪	jonau
 麥	joni
 𮭻	joni
@@ -37671,6 +37673,7 @@
 宧	jsll
 𡨦	jsmb
 𮨗	jsmbc
+𪧴	jsmc
 𡨞	jsme
 𡩠	jsme
 𠦙	jsmf
@@ -37678,7 +37681,6 @@
 𠦙	jsml
 𡪹	jsmp
 㼥	jsmvn
-𪧴	jsmwc
 𠎶	jso
 𪧆	jso
 膥	jsobo	[!]
@@ -54347,7 +54349,7 @@
 𣎼	nid
 𭪖	nid
 𢑀	nidd
-𪧶	nidi
+𪧷	nidi
 𡙖	nidk
 㢱	nif
 𡖋	nif
@@ -61788,7 +61790,7 @@
 𭦰	paijb
 𠤞	pail
 慨	paiu
-𠣹	paiu
+𠣹	paiu	[o]
 㔬	paj
 𭜬	paj
 𫺥	pajn
@@ -62284,7 +62286,7 @@
 怟	phpm
 𢝤	phpm
 慨	phpu
-𠣹	phpu
+𠣹	phpu	[ou]
 𮭤	phpym
 𫺨	phqj
 𫺎	phql
@@ -65828,7 +65830,6 @@
 挅	qnsd
 𢫡	qnsd
 扬	qnsh
-㤘	qnsm
 𫼝	qnsm
 㨕	qnst
 𢳫	qnsv
@@ -69364,7 +69365,6 @@
 𮛠	rmqrs
 𨄨	rmqsk
 𠰴	rmr
-𨛜	rmrau
 𨁲	rmrau
 嗝	rmrb
 𠿎	rmrb
@@ -71238,6 +71238,7 @@
 𨃌	rvqgi
 𨃑	rvqlo
 𨁲	rvrau
+𨛜	rvrau
 𠵭	rvrb
 𨀌	rvrks
 𨀽	rvrlb
@@ -72744,7 +72745,6 @@
 髤	shd
 𩭰	shda
 𩮎	shdam
-鬎	shdbn
 𩮌	shdbu
 𡳮	shdc
 鬆	shdci
@@ -74167,7 +74167,6 @@
 𦒒	smggu
 匤	smgi
 𪥎	smgk
-𪧹	smgni
 𡱯	smgt
 習	smha
 翵	smhaf
@@ -91500,7 +91499,7 @@
 𨚫	xginl
 𣤫	xgino
 𩻉	xginw
-𪧷	xgiog
+𪧸	xgiog
 𣀘	xgiok
 𢟯	xgip
 摰	xgiq
@@ -92180,7 +92179,6 @@
 𩲙	xhid
 𤇡	xhif
 𮫣	xhiff
-𪧻	xhifq
 𭏢	xhig
 鵞	xhiha
 𬳢	xhihd
@@ -96335,7 +96333,7 @@
 𢜠	xpab
 𭞛	xpabs
 鴲	xpaha
-𠣹	xpaiu
+𠣹	xpaiu	[o]
 𭜬	xpaj
 𪬨	xpamg
 㔭	xpamo
@@ -96391,7 +96389,7 @@
 𢠰	xphoo
 𢖲	xphp
 𢝤	xphpm
-𠣹	xphpu
+𠣹	xphpu	[ou]
 𠰣	xphr
 悷	xphsk
 𠣹	xphsu	[u]
@@ -96914,7 +96912,6 @@
 𢲕	xqnok
 摾	xqnri
 挅	xqnsd
-𫼝	xqnsm
 撸	xqnwa
 扖	xqo
 𫌡	xqobu
@@ -97421,7 +97418,6 @@
 𬦿	xrmoy
 𨈃	xrmpc
 𫪗	xrmpm
-𨁲	xrmra
 𠿎	xrmrb
 𫪴	xrmre
 𡀬	xrmrj
@@ -97680,6 +97676,7 @@
 𠷍	xrvne
 𣢱	xrvno
 𭝫	xrvp
+𨛜	xrvra
 𭈊	xrvvu
 𡂏	xrvvv
 𨃊	xrvyr
@@ -101032,6 +101029,7 @@
 𩕏	xxhwm
 𢙥	xxhwp
 𢍉	xxhwt
+𦥑	xxhx
 𦦪	xxhxb
 䳔	xxhxh
 𡘑	xxhxk
@@ -102816,7 +102814,7 @@
 𧛿	xxxyh
 𨓩	xxxyi
 𪅄	xxxyj
-𣎆	xxxyk
+𦝠	xxxyk
 𮮽	xxxyl
 𭭞	xxxym
 𪂬	xxxyn
@@ -105528,8 +105526,8 @@
 文	yk
 头	yk
 达	yk
-𣎆	yk
 𦝠	yk
+𣎆	yk
 𪰎	yka
 𬀫	yka
 𦣖	ykaaa
