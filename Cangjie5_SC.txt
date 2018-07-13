@@ -115,6 +115,7 @@
 𢒠	abhhh
 𬀪	abhu
 𭧏	abhx
+𢧠	abi
 猒	abik
 𡒦	abikg
 曌	abjcm
@@ -191,6 +192,7 @@
 𬀲	acmk
 晜	acnh
 𬀹	acnh
+𣤞	acno	[u]
 𬅮	acno
 㫟	acr
 𫞃	acr
@@ -422,7 +424,6 @@
 𣉷	ahmfu
 𣈨	ahmj
 昕	ahml
-𣅬	ahmp
 𭧜	ahnd
 𭧞	ahnh
 𣈼	ahni
@@ -557,6 +558,7 @@
 𭥿	aiq
 𣅿	air
 㬃	airf
+𠘀	airm	[u]
 𠘀	airy
 昈	ais
 𠮊	aisje
@@ -723,6 +725,7 @@
 晁	almo
 晀	almo
 𣌫	almp
+𣅬	almp
 暃	almy
 㫵	almy
 曊	alnc
@@ -732,6 +735,7 @@
 𪰶	alno
 𬻴	aloii
 𬻴	aloml
+𠘀	alrm	[u]
 𠘀	alry
 𨂢	alryo
 𬁘	alsw
@@ -1675,6 +1679,7 @@
 𣅷	arhu
 𣆉	arj
 𠘀	arkim
+𠘀	arky	[u]
 𣈣	arlu
 𬱌	armbc
 冔	armd
@@ -2643,6 +2648,7 @@
 贈	bccwa
 𦌛	bccwa
 罙	bcd
+㮂	bcd
 財	bcdh
 貱	bcdhe
 𧴫	bcdi
@@ -2785,6 +2791,7 @@
 𧵑	bcjr
 𧵨	bcjv
 𭒱	bcjv
+䡞	bcjwj
 賄	bckb
 𬥨	bckbe
 𤣘	bckha
@@ -2986,6 +2993,7 @@
 嬰	bcv
 𧴱	bcv
 𧶬	bcvam
+䋰	bcvif
 𮚄	bcvif
 𭂄	bcvio
 𮚓	bcvne
@@ -3667,7 +3675,7 @@
 貓	bhtw
 𧴟	bhtyj
 见	bhu
-冗	bhu	[Ou]
+冗	bhu	[OuV]
 𧲠	bhu
 𣎯	bhua
 臢	bhuc
@@ -14260,6 +14268,7 @@
 𣷟	ektj
 㵮	ektq
 𭳟	ekuf
+𣹳	ekve
 𬇜	eky
 𤂾	ekyh
 𧚚	ekyhv
@@ -16233,6 +16242,9 @@
 淁	eytv
 𬉙	eytw
 漓	eyub
+𣻤	eyud	[!]
+𣹭	eyue
+𣹳	eyue
 滮	eyuh
 𭰔	eyuk
 𤁘	eyul
@@ -16242,9 +16254,9 @@
 㵝	eyvb
 𤅘	eyvb
 𣼅	eyvd
+𣻤	eyvd	[!]
 𣹭	eyve
-𣹳	eyve
-𣻤	eyve
+𣹳	eyve	[u]
 澭	eyvg
 𤃟	eyvg
 泫	eyvi
@@ -41863,6 +41875,7 @@
 䗑	liayt
 蚏	lib
 𧉎	lib
+𢧠	lib
 螟	libac
 𧌳	libau
 𧌇	libb
@@ -45892,7 +45905,7 @@
 𠠻	meks
 𠡀	meks
 𢃻	melb
-𧋔	melmi
+𧋔	meli
 亟	mem
 𩒴	membc
 𬱐	membc
@@ -71057,6 +71070,7 @@
 𪓞	rupr
 𭌴	ruqii
 䣈	rurau
+𨛜	rurau
 𪓪	rurhg
 㒭	rurhu
 𡆑	rurk
@@ -71260,7 +71274,6 @@
 𨃌	rvqgi
 𨃑	rvqlo
 𨁲	rvrau
-𨛜	rvrau
 𠵭	rvrb
 𨀌	rvrks
 𨀽	rvrlb
@@ -75121,6 +75134,7 @@
 擥	swq
 㔴	swtc
 譼	swymr
+𦥼	sxk
 𦑕	syc
 𦐔	syd
 𦏽	sydi
@@ -81484,6 +81498,7 @@
 𢧾	ufi
 㞊	ufiku
 𥜱	ufjce
+㞊	ufku
 𨾀	ufle
 㓽	ufln
 𩓈	ufmbc
@@ -88609,6 +88624,7 @@
 㒻	xabuu
 𩔰	xacmb
 𬀹	xacnh
+𬅮	xacno
 𫞃	xacr
 𣌥	xacsh
 𠕖	xad
@@ -88693,6 +88709,7 @@
 𪰔	xalbk
 𮭅	xalha
 晀	xalmo
+𣅬	xalmp
 㫵	xalmy
 𣣝	xalno
 𪰆	xam
@@ -88931,6 +88948,7 @@
 𧷉	xbcbc
 𧴩	xbcc
 𦌛	xbccw
+㮂	xbcd
 𮙮	xbcdi
 𬋑	xbcf
 䞆	xbcfb
@@ -88964,6 +88982,7 @@
 𧸕	xbctc
 𧶥	xbctt
 𧴱	xbcv
+𮚄	xbcvi
 𮊗	xbcvv
 𮚖	xbcwa
 𧵾	xbcye
@@ -89049,7 +89068,7 @@
 𮌸	xbhsb
 𧴙	xbhsi
 𣎣	xbhsk
-冗	xbhu	[Ou]
+冗	xbhu	[OuV]
 𦢶	xbhuc
 膬	xbhuu
 𣎗	xbhwp
@@ -91016,8 +91035,10 @@
 㳯	xeytj
 𣽢	xeytr
 滰	xeytu
+𣹳	xeyue
 𤅘	xeyvb
-𣹳	xeyve
+𣻤	xeyvd	[!]
+𣹳	xeyve	[u]
 𤃟	xeyvg
 𭳹	xeyvi
 𬉑	xeyvn
@@ -97683,6 +97704,7 @@
 𡄴	xruob
 𩞂	xruoi
 𢼙	xruok
+𨛜	xrura
 𢌴	xrut
 𨞠	xrutc
 𡵒	xruu
@@ -97704,7 +97726,6 @@
 𠷍	xrvne
 𣢱	xrvno
 𭝫	xrvp
-𨛜	xrvra
 𭈊	xrvvu
 𡂏	xrvvv
 𨃊	xrvyr
@@ -100650,7 +100671,6 @@
 𣿉	xxeyr
 𬉘	xxeys
 𣽾	xxeyt
-𣻤	xxeyv
 𣿚	xxeyw
 𤉊	xxfam
 𡮮	xxfan
@@ -101341,6 +101361,7 @@
 𮕧	xxle
 𩿀	xxlha
 𭝘	xxlhp
+𢧠	xxlib
 𫋆	xxlic
 𧏀	xxlih
 𧈴	xxlii
