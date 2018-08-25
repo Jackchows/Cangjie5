@@ -7166,7 +7166,6 @@
 鉎	chqm
 鉄	chqo
 𨩢	chqu
-𠯨	chr
 𨚇	chrau
 𮌬	chrb
 𪫃	chrbc
@@ -8346,6 +8345,7 @@
 𤘝	cshq
 𢪘	cshq
 鉊	cshr
+𠯨	cshr
 𮀎	cshr
 盆	csht
 弅	csht
@@ -13183,8 +13183,8 @@
 𠭞	eeel
 叠	eeem
 𣿫	eeem
+𠭌	eeep
 𠭀	eeer
-𠭌	eeeu
 𠭚	eeeu
 𭵺	eef
 𭶉	eef
@@ -20061,6 +20061,7 @@
 𡐮	gikf
 𫮅	gikh
 坺	gikk
+𫮓	gikm
 垅	gikp
 勢	giks
 劫	giks
@@ -20120,7 +20121,6 @@
 摰	giq
 㨍	giq
 𢫀	giq
-𫮓	giqm
 𩇘	giqmb
 𡒅	giqr
 坮	gir
@@ -26505,7 +26505,6 @@
 笻	hmsl
 歸	hmsmb
 𨓼	hmsmb
-𠭊	hmsme
 𬎶	hmsmf
 𬼓	hmsmv
 𫁾	hmso
@@ -27234,6 +27233,7 @@
 𢕚	hoeai
 𥸌	hoee
 𭛶	hoeee
+径	hoeg
 𢔳	hoeii
 𤔢	hoeii
 衍	hoemn
@@ -27757,6 +27757,7 @@
 㣳	hootf
 䘖	hooun
 𢔫	hooun
+御	hoovl
 𭛿	hooyk
 慫	hop
 怣	hop
@@ -27804,6 +27805,7 @@
 𭛠	hore
 𥰈	horg
 𫹟	horgl
+徎	horhg
 𤔑	horhr
 𪺎	horhu
 𬎢	horhu
@@ -31010,6 +31012,7 @@
 𥫣	hysm
 𨈏	hysm
 䒁	hysma
+𠭊	hysme
 䎇	hysmm
 𧭔	hysmr
 艦	hysmt
@@ -38290,6 +38293,7 @@
 剎	kcln
 刹	kcln
 𠟒	kcln
+𠮁	kclne
 𡘤	kclwv
 㾾	kcmc
 𮠡	kcmcw
@@ -39640,7 +39644,7 @@
 𡘒	kiw
 𭁘	kiyc
 夲	kj
-廾	kj
+廾	kj	[O]
 𠀆	kj
 𤴹	kjb
 瘨	kjbc
@@ -42855,6 +42859,7 @@
 𧏽	liskp
 𬠍	liskp
 𧊺	lisll
+归	lism
 𧐔	lisma
 𧌈	lismb
 蠗	lismg
@@ -46979,6 +46984,8 @@
 琍	mghdn
 琇	mghds
 璠	mghdw
+致	mghe
+𦤶	mghe
 𭸸	mghe
 𮍡	mghe
 𤦰	mghef
@@ -48360,6 +48367,7 @@
 幵	mjmj
 𩒖	mjmjc
 鳽	mjmjf
+形	mjmjh	[Ou]
 郉	mjmjl
 𨚾	mjmjl
 𠛬	mjmjn
@@ -48488,6 +48496,7 @@
 𤤶	mkmgi
 𣯛	mkmhu
 幵	mkmj
+形	mkmjh	[Ou]
 𠛬	mkmjn
 𭑈	mkmk
 𡙎	mkmkk
@@ -51268,7 +51277,7 @@
 䜶	mtheq
 𠪵	mthg
 豏	mthhc
-形	mthhh
+形	mthhh	[O]
 䝀	mthhw
 𠪉	mthm
 𣂖	mthml
@@ -56165,6 +56174,7 @@
 弣	nodi
 𤼦	noe
 灸	nof
+弥	nof
 𢏏	nof
 𣣛	nof
 𤆐	nof
@@ -68842,6 +68852,7 @@
 𨃩	rmhsm
 𧿘	rmht
 𨁠	rmhtg
+𠯚	rmhu	[O]
 躦	rmhuc
 𨃔	rmhud
 䠗	rmhuk
@@ -70212,7 +70223,7 @@
 𠸧	rphr
 𡂁	rphs
 𡁙	rphu
-𠮭	rpi
+𠮭	rpi	[O]
 𠯜	rpi
 呁	rpim
 𡄏	rpip
@@ -70230,7 +70241,7 @@
 蟁	rplii
 𧊈	rplmi
 刡	rpln
-𠮭	rpm
+𠮭	rpm	[Ou]
 䪸	rpmbc
 𩒁	rpmbc
 𠼴	rpmc
@@ -70419,7 +70430,7 @@
 鷺	rrhaf
 𪁳	rrhaf
 𡂇	rrhce
-𠭤	rrhe
+𠭤	rrhe	[O]
 咒	rrhn
 𪡰	rrhpl
 𠴊	rrhr
@@ -70465,7 +70476,7 @@
 嚻	rrmcr
 𡆔	rrmcr
 𮨘	rrmcr
-𠭤	rrme
+𠭤	rrme	[Ou]
 𭊱	rrme
 𠴔	rrmg
 𡅴	rrmhe
@@ -70653,6 +70664,7 @@
 嘱	rshb
 𭌆	rshe
 𫪕	rshgu
+𠯄	rshh
 𠯄	rshi
 𠰾	rshn
 𣪆	rshne
@@ -73176,6 +73188,7 @@
 𡲾	shov
 𡲟	shoy
 𩯵	shoyp
+忍	shp
 𢖫	shp
 𩫷	shp
 𭃃	shp
@@ -73232,7 +73245,6 @@
 𫘿	shskr
 𮫌	shsmb
 䯹	shsme
-𠭙	shsme
 𩬹	shsmg
 𩭅	shsmm
 𩭨	shsmv
@@ -74034,6 +74046,7 @@
 𢽇	skok
 匧	skoo
 悘	skp
+忍	skp
 𢚢	skp
 𫺮	skp
 𠥖	skpb
@@ -74417,6 +74430,7 @@
 𢑑	smsm
 𢑚	smsm
 𬚈	smsmc
+𠭙	smsme
 𤈗	smsmf
 𩢳	smsmf
 𭃊	smsmm
@@ -74872,12 +74886,14 @@
 𫇅	ssphh
 𢀥	ssqjl
 局	ssr
+𠭵	ssre
 𡳟	ssru
 𪓥	ssrxu
 𠃚	sss
 𡰺	sssh
 𦐱	sssmm
 𢑰	sssms
+𠯶	sssr
 𠃬	ssss
 𢎙	sssvs
 𢍴	sst
@@ -75113,7 +75129,6 @@
 𩀀	svog
 𬸘	svpym
 𫵫	svqpp
-𠭵	svre
 𨃨	svryo
 𢎘	svs
 𨲅	svsip
@@ -78467,7 +78482,6 @@
 𦴖	tmcw
 某	tmd
 芋	tmd
-𠯊	tmd
 𧂾	tmdd
 㿷	tmdhe
 𫇩	tmdm
@@ -78908,6 +78922,7 @@
 𮒵	tnjv
 䒖	tnk
 𪥗	tnk
+𠭶	tnke
 莛	tnkg
 𧒚	tnki
 莚	tnkm
@@ -80345,8 +80360,8 @@
 𭐱	tuhe
 𫗶	tuhfd
 𢒘	tuhhh
+𠭳	tuhm
 𩠔	tuhqu
-𠭳	tuhs
 𩠸	tuhsf
 𣯠	tuhuu
 𦥭	tuhx
@@ -80900,10 +80915,10 @@
 𨢅	twyoj
 𦸿	twyp
 兼	txc
-𠭶	txe
 𠔥	txf
 𥽿	txhnd
 𣫞	txhne
+𠭶	txnke
 𦒟	txsmm
 𫇥	ty
 䓬	tyaj
@@ -82156,6 +82171,7 @@
 𫵷	umks
 𡴶	uml
 𡸹	umlb
+𠭏	umle
 蚩	umli
 峺	umlk
 𫵼	umlk
@@ -83615,7 +83631,8 @@
 𦃐	vfeii
 𦄽	vfesd
 𫃤	vfev
-𠮖	vfevu
+𠮖	vfevp
+𠮖	vfevu	[O]
 婒	vff
 𤓖	vff
 𥾗	vff
@@ -89703,7 +89720,7 @@
 𮛍	xcsho
 麄	xcshp
 𢪘	xcshq
-𮀎	xcshr
+𠯨	xcshr
 弅	xcsht
 𠒁	xcshu
 𮕮	xcshv
@@ -90473,7 +90490,6 @@
 𣛁	xeeed
 涰	xeeee
 𣿫	xeeem
-𠭚	xeeeu
 𭶉	xeef
 𪣭	xeeg
 𬷒	xeeha
@@ -92896,7 +92912,7 @@
 𣬉	xhwpp
 𬸪	xhwpy
 𢍄	xhwt
-𦥑	xhx
+𨈑	xhx
 𣇀	xhxa
 𦥷	xhxbc
 𥂞	xhxbt
@@ -93956,7 +93972,7 @@
 𠮫	xkir
 𤷇	xkirm
 𫯢	xkiv
-廾	xkj
+廾	xkj	[O]
 痲	xkjcc
 𪽬	xkjd
 瘏	xkjka
@@ -94693,7 +94709,7 @@
 鳿	xmgha
 𤥱	xmghb
 𤧦	xmghd
-𮍡	xmghe
+𦤶	xmghe
 𭹳	xmghn
 𤪱	xmgho
 𭸶	xmghq
@@ -95668,7 +95684,7 @@
 𭼿	xnoa
 𬂏	xnob
 𤼨	xnod
-𢏏	xnof
+弥	xnof
 𭽀	xnofd
 坠	xnog
 𪂲	xnoha
@@ -97981,9 +97997,8 @@
 㞞	xshoo
 𡲏	xshou
 屦	xshov
-𩫷	xshp
+𢖫	xshp
 𦏲	xshsh
-𠭙	xshsm
 𡳅	xshsu
 𡴻	xshu
 𩯣	xshuc
@@ -98069,7 +98084,7 @@
 𩖈	xskmb
 𡱐	xskn
 𫑝	xsknl
-𢚢	xskp
+忍	xskp
 𩯢	xskth
 𡰯	xslb
 𠬝	xsle
@@ -101102,7 +101117,7 @@
 𩕏	xxhwm
 𢙥	xxhwp
 𢍉	xxhwt
-𨈑	xxhx
+𦥑	xxhx
 𦦪	xxhxb
 䳔	xxhxh
 𡘑	xxhxk
@@ -101674,7 +101689,7 @@
 𡤼	xxnnm
 𠈽	xxnno
 飞	xxno
-𣣛	xxnof
+𢏏	xxnof
 墬	xxnog
 𫛊	xxnoh
 𪥡	xxnok
@@ -102120,7 +102135,7 @@
 𠚦	xxshi
 𬰿	xxshm
 𫵩	xxsho
-𭃃	xxshp
+𩫷	xxshp
 𩫺	xxshu
 𩬍	xxshw
 𭃅	xxsil
@@ -102139,7 +102154,7 @@
 𦔺	xxsju
 𦕱	xxsjv
 刄	xxsk
-𫺮	xxskp
+𢚢	xxskp
 𠬨	xxsle
 𪹃	xxslf
 𠂁	xxsli
@@ -102283,7 +102298,6 @@
 㐀	xxtm
 𩑪	xxtmb
 𦻍	xxtmc
-𠯊	xxtmd
 𧆆	xxtmf
 𦿰	xxtmg
 𪅀	xxtmh
@@ -102801,6 +102815,7 @@
 𤃄	xxxsh
 𢿼	xxxsi
 𡰸	xxxsj
+𫺮	xxxsk
 𠭃	xxxsl
 𡰱	xxxsm
 𬐱	xxxsr
@@ -105211,6 +105226,7 @@
 𠨂	yhyph
 遞	yhyu
 𨕳	yhyu
+𠭩	yiabe
 𤎷	yiaf
 𢨀	yiag
 𤣨	yiapv
