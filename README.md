@@ -9,6 +9,10 @@
 **本項目參考官方資料對碼表進行修改，但無意完善倉頡輸入法理論，亦無意追求客觀。使用前務必閱讀[說明](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#%E4%B8%BB%E8%A6%81%E6%94%B9%E7%A2%BC%E8%AA%AA%E6%98%8E%E5%8F%8A%E7%88%AD%E8%AD%B0%E5%8F%96%E7%A2%BC)。**<br />
 本項目以 1999 版倉頡五代為基礎，採納部份 2003 版倉頡五代的修改。<br />
 
+**※注意，本項目的目標不包括以下各項：**
+1. 修改官方碼表中被認為不符合倉頡輸入法規則的部份（明顯的筆誤除外）。
+2. 添加官方碼表未支持的字形兼容（但並非不能添加）。
+
 - **[Cangjie5.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5.txt)**<br />
 碼表。**一般排序**，綜合考慮字頻及繁簡。<br />
 收錄中日韓統一表意文字（基本區至擴展F區）字符、[中日韓兼容表意文字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%9B%B8%E5%AE%B9%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97)區中未見於統一漢字區的十二個字符，以及官方碼表中收錄的符號。<br />

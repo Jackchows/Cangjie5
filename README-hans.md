@@ -9,6 +9,10 @@
 **本项目参考官方资料对码表进行修改，但无意完善仓颉输入法理论，亦无意追求客观。使用前务必阅读[说明](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#%E4%B8%BB%E8%A6%81%E6%94%B9%E7%A2%BC%E8%AA%AA%E6%98%8E%E5%8F%8A%E7%88%AD%E8%AD%B0%E5%8F%96%E7%A2%BC)。**<br />
 本项目以 1999 版仓颉五代为基础，采纳部份 2003 版仓颉五代的修改。<br />
 
+**※注意，本项目的目标不包括以下各项：**
+1. 修改官方码表中被认为不符合仓颉输入法规则的部份（明显的笔误除外）。
+2. 添加官方码表未支持的字形兼容（但并非不能添加）。
+
 - **[Cangjie5.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5.txt)**<br />
 码表。**一般排序**，综合考虑字频及繁简。<br />
 收录中日韩统一表意文字（基本区至扩展F区）字符、[中日韩兼容表意文字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%9B%B8%E5%AE%B9%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97)区中未见于统一汉字区的十二个字符，以及官方码表中收录的符号。<br />
