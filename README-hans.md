@@ -1,5 +1,8 @@
 # Cangjie5
 
+**[2018-09-25] 有朋友正计划去信官方提问规则和编码问题，有兴趣的朋友可在[此处](https://zh.wikibooks.org/wiki/Talk:%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E6%B3%95/%E4%BF%A1%E5%87%BD)参与讨论。（[邀请函](https://github.com/Jackchows/Cangjie5/issues/128)）**
+
+##
 [傳統漢字版說明](https://github.com/Jackchows/Cangjie5/blob/master/README.md)
 
 相关项目：[Arthurmcarthur/Cangjie3-Plus](https://github.com/Arthurmcarthur/Cangjie3-Plus)
