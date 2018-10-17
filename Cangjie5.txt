@@ -14298,7 +14298,6 @@
 𣻱	elgm
 鼝	elgte
 魙	elhui
-𧈡	eli
 𣸚	elid
 𬠤	elii
 渱	elim
@@ -35943,6 +35942,7 @@
 𨆧	jgryo
 𪧜	jgsk
 𫳐	jgtj
+𠂇	jh
 𬺱	jh
 𪧖	jhaf
 𠦠	jham
@@ -48663,6 +48663,7 @@
 𩢗	mlsqf
 𢍐	mlt
 𭗻	mlum
+画	mluw
 𡜹	mlv
 𬺶	mlvn
 丏	mlvs
@@ -57295,7 +57296,6 @@
 𤈢	odf
 𬊞	odf
 堡	odg
-𡌆	odg
 𠐸	odgog
 𠆫	odh
 𫢾	odha
@@ -57944,6 +57944,7 @@
 餲	oiapv
 倉	oiar
 𩝣	oiasm
+𩚇	oiat
 𩚥	oiau
 食	oiav
 俍	oiav
@@ -59358,6 +59359,7 @@
 𠎳	omdd
 𫣮	omde
 𭴯	omdf
+𡌆	omdg
 伍	omdm
 𣥳	omdm
 悆	omdp
@@ -61471,10 +61473,11 @@
 𠌦	ovfb
 𠎨	ovfr
 𪃎	ovhaf
+㠩	ovhlu
+㠩	ovhlv
 𣂮	ovhml
 𫖾	ovhnv
 毹	ovhqu
-㠩	ovhu
 𭀙	ovhu
 𫣵	ovic
 𭀅	ovid
@@ -61513,7 +61516,6 @@
 卸	ovsl
 𦑔	ovsmm
 𫗝	ovsmt
-𩚇	ovt
 㑿	ovvd
 𠐄	ovve
 𠊦	ovvm
@@ -61598,6 +61600,7 @@
 儽	owwf
 㒦	owwg
 儡	owww
+𨧊	owyc
 𣒫	owyd
 𣴴	owye
 𫯋	owye
@@ -61624,7 +61627,6 @@
 𠏻	oybu
 𠋃	oybu
 𠆾	oyc
-𨧊	oyc
 㒀	oycb
 𬿞	oycb
 𪝽	oycc
@@ -68420,6 +68422,7 @@
 𠶭	rllv
 嘳	rlmc
 虽	rlmi
+𧈡	rlmi
 𫩮	rlmi
 咷	rlmo
 𪡞	rlmo
@@ -82439,7 +82442,6 @@
 𪩚	uoma
 崙	uomb
 崘	uomb
-𪨧	uomb
 𡥏	uomd
 𡷣	uomd
 𡸂	uomd
@@ -82482,6 +82484,7 @@
 𡾴	uooo
 𡼀	uooq
 𡼙	uoos
+𪨧	uop
 𡶊	uopd
 㟆	uopj
 嵚	uopo
@@ -92912,7 +92915,7 @@
 𣬉	xhwpp
 𬸪	xhwpy
 𢍄	xhwt
-𨈑	xhx
+𦥑	xhx
 𣇀	xhxa
 𦥷	xhxbc
 𥂞	xhxbt
@@ -93532,6 +93535,7 @@
 𡫓	xjgig
 𡬏	xjgjg
 𡫓	xjgkg
+𬺱	xjh
 𡨗	xjhap
 𫳴	xjhdk
 𡩸	xjhds
@@ -95811,7 +95815,6 @@
 𠓭	xodd
 𫩇	xode
 烋	xodf
-𡌆	xodg
 𩿽	xodha
 𢧅	xodi
 𠇾	xodm
@@ -96358,7 +96361,6 @@
 㒴	xouu
 𦉄	xouyp
 𠌦	xovfb
-𭀙	xovhu
 𠓱	xovik
 㑰	xovno
 㥋	xovp
@@ -96381,7 +96383,6 @@
 𪝂	xoyam
 𠏀	xoybb
 𠋃	xoybu
-𨧊	xoyc
 𬿞	xoycb
 𠋈	xoyck
 𠓠	xoye
@@ -97398,7 +97399,7 @@
 嘨	xrlll
 𠯯	xrlln
 𠶭	xrllv
-𫩮	xrlmi
+𧈡	xrlmi
 𪡞	xrlmo
 𠰀	xrln
 𬪋	xrlnl
@@ -101117,7 +101118,7 @@
 𩕏	xxhwm
 𢙥	xxhwp
 𢍉	xxhwt
-𦥑	xxhx
+𨈑	xxhx
 𦦪	xxhxb
 䳔	xxhxh
 𡘑	xxhxk
@@ -102031,6 +102032,7 @@
 𭆸	xxrkn
 𫪯	xxrlb
 𠯀	xxrll
+𫩮	xxrlm
 𫫅	xxrln
 𤕪	xxrlr
 𨇲	xxrma
