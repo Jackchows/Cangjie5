@@ -5470,13 +5470,13 @@ FAD9	龎	mybp	mybl
 5FA1	御	(新增)	hoovl	另有御：hooml
 5FCD	忍	(新增)	shp	*
 5FCD	忍	(新增)	skp	*
-20B4A	𠭊	hmsme	hysme	
-20B4C	𠭌	eeeu	eeep	
+20B4A	𠭊	hmsme	hysme
+20B4C	𠭌	eeeu	eeep
 20B4F	𠭏	(新增)	umle	另有𠭏：ujle
-20B59	𠭙	shsme	smsme	
+20B59	𠭙	shsme	smsme
 20B69	𠭩	(新增)	yiabe	另有𠭩：kiabe
-20B73	𠭳	tuhs	tuhm	
-20B75	𠭵	svre	ssre	
+20B73	𠭳	tuhs	tuhm
+20B75	𠭵	svre	ssre
 20B76	𠭶	(新增)	tnke	另有𠭶：txnke
 20B76	𠭶	txe	txnke	另有𠭶：tnke
 20B81	𠮁	(新增)	kclne	另有𠮁：kdlne
@@ -5484,18 +5484,43 @@ FAD9	龎	mybp	mybl
 20BC4	𠯄	(新增)	rshh	另有𠯄：rshi
 20BCA	𠯊	tmd	(刪除)	𠯊：rmd
 20BDA	𠯚	(新增)	rmhu	另有𠯚：rmlu
-20BE8		chr	cshr	
+20BE8		chr	cshr
 20BF6	𠯶	(新增)	sssr	另有𠯶：nmr
-2BB93	𫮓	giqm	gikm	
+2BB93	𫮓	giqm	gikm
 ==2018.10.17==
 3829	㠩	(新增)	ovhlv	另有㠩：ovhlu
 3829	㠩	ovhu	ovhlu	另有㠩：ovhlv
 753B	画	(新增)	mluw	另有画：muw
 20087	𠂇	(新增)	jh	另有𠂇：hm
-21306	𡌆	odg	omdg	
-27221	𧈡	eli	rlmi	
-289CA	𨧊	oyc	owyc	
-29687	𩚇	ovt	oiat	
+21306	𡌆	odg	omdg
+27221	𧈡	eli	rlmi
+289CA	𨧊	oyc	owyc
+29687	𩚇	ovt	oiat
 （以上由 @SyaoranHinata 提供）
-2AA27	𪨧	uomb	uop	
+2AA27	𪨧	uomb	uop
 （以上由 @LiliCharlie 提供）
+==2018.11.30==
+25454	𥑔	mrhlo	mrhvo
+（以上由 @extc 提供） 
+20CF3	𠳳	rrsd	rrd
+（以上由 @jerryyou517 提供）
+2F5E	⽞	ivi	yvi
+（以上由 @SyaoranHinata 提供）
+2EA8	⺨	kh	knh
+F96A	索	jbvf	jbvif
+F9B8	隸	dfle	gfle
+F9D0	類	fdmbc	fkmbc
+F9DC	隆	nlheg	nlhem
+FA32	免	shau	shahu
+FA5B	者	jka	jkia
+FA81	嬨	vtvp	vyyp
+FAA2	甆	tvin	yyvin
+FAAF	絛	olhef	olhf
+FAC0	變	yvfw	yvfe
+2F842	唐	(新增)	ilr	另有唐：ijsr
+2F85C	夆	hqqj	heqj
+2F8FB	𣲼	ekbn	elbn
+2F953	祖	mcbm	mfbm
+2F997	𦬼	tof	tnf
+2F9C8	䘵	lnme	lsme
+（以上由 @danny0838 提供）

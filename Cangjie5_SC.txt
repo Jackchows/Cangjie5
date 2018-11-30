@@ -50155,7 +50155,6 @@
 𮀙	mrhkr
 厛	mrhl
 礩	mrhlc
-𥑔	mrhlo
 𦧔	mrhlo
 斫	mrhml
 㪼	mrhml
@@ -50208,6 +50207,7 @@
 砾	mrhvd
 𥒶	mrhvf
 砥	mrhvi
+𥑔	mrhvo
 𬒀	mrhvp
 𥔠	mrhvr
 𥓁	mrhwe
@@ -70421,6 +70421,7 @@
 𮗔	rrbuu
 斝	rrbyj
 呮	rrc
+𠳳	rrd
 𭩸	rrd
 𠷽	rrdb
 𥀴	rrdhe
@@ -70568,7 +70569,6 @@
 𠼧	rrru
 𩜻	rrrv
 𫜝	rrrxu
-𠳳	rrsd
 㗇	rrse
 𠶻	rrsj
 𭋾	rrsjr
@@ -95084,7 +95084,6 @@
 𠶱	xmrhe
 𫇗	xmrhh
 𦧙	xmrhj
-𦧔	xmrhl
 㪼	xmrhm
 碸	xmrhn
 𥕣	xmrho
@@ -97643,6 +97642,7 @@
 吅	xrr
 𫶷	xrrau
 𮗔	xrrbu
+𭩸	xrrd
 𤉵	xrrf
 𡋑	xrrg
 𪁳	xrrha
@@ -110460,7 +110460,6 @@
 林	zcdd
 楂	zcddb
 㓟	zcdel
-隸	zcdfl
 梎	zcdha
 櫛	zcdha
 柳	zcdhh
@@ -110508,11 +110507,11 @@
 潮	zcejj
 渚	zcejk
 濆	zcejt
-𣲼	zcekb
 𣻑	zcekc
 淹	zcekh
 灊	zceku
 沈	zcelb
+𣲼	zcelb
 𣾎	zceme
 汧	zcemj
 湮	zcemw
@@ -110550,7 +110549,6 @@
 糖	zcfdi
 类	zcfdi
 糣	zcfdk
-類	zcfdm
 糨	zcfdn
 精	zcfdq
 糒	zcfdt
@@ -110567,6 +110565,7 @@
 劣	zcfhk
 熜	zcfhw
 燎	zcfkc
+類	zcfkm
 煅	zcfrs
 当	zcfsm
 灷	zcft
@@ -110579,6 +110578,7 @@
 壷	zcgbt
 穀	zcgdh
 穀	zcgdh
+隸	zcgfl
 𡓤	zcgho
 城	zcgih
 報	zcgjr
@@ -110611,6 +110611,7 @@
 利	zchdl
 䄯	zchdm
 冬	zchei
+夆	zcheq
 爫	zchf
 珞	zchgh
 卿	zchha
@@ -110643,7 +110644,6 @@
 𠨬	zchp
 旣	zchpm
 卽	zchps
-夆	zchqq
 犕	zchqt
 既	zchsm
 篆	zchsm
@@ -110687,6 +110687,7 @@
 廊	zciiv
 唐	zcijs
 啓	zcikr
+唐	zcilr
 㡼	zcilw
 凌	zcimg
 次	zcimn
@@ -110737,9 +110738,9 @@
 輸	zcjjo
 軔	zcjjs
 轢	zcjjv
-者	zcjka
 者	zcjka
 寮	zcjkc
+者	zcjki
 者	zcjki
 老	zcjkp
 吏	zcjlk
@@ -110819,9 +110820,9 @@
 𧙧	zclmt
 艹	zclmy
 襁	zclni
-䘵	zclnm
 冀	zclpw
 襤	zclsm
+䘵	zclsm
 㠯	zclss
 數	zclvo
 裸	zclwd
@@ -110840,12 +110841,12 @@
 靈	zcmbr
 𠄢	zcmbv
 雷	zcmbw
-祖	zcmcb
 不	zcmf
 灰	zcmf
 祖	zcmfb
 禍	zcmfb
 視	zcmfb
+祖	zcmfb
 社	zcmfg
 祈	zcmfh
 祐	zcmfk
@@ -111179,9 +111180,9 @@
 勤	zctmk
 華	zctmt
 芽	zctmv
+𦬼	zctnf
 䔫	zctnm
 茶	zctod
-𦬼	zctof
 蕤	zctoh
 難	zctoo
 難	zctoo
@@ -111202,7 +111203,6 @@
 並	zcttm
 善	zcttr
 𧃒	zctvf
-甆	zctvi
 慈	zctvi
 菉	zctvn
 荒	zctvo
@@ -111278,10 +111278,10 @@
 娛	zcvrv
 姬	zcvsl
 婦	zcvsm
-嬨	zcvtv
 巢	zcvvh
 婢	zcvwh
 姘	zcvyj
+嬨	zcvyy
 㱎	zcwfn
 里	zcwg
 墨	zcwgf
@@ -111377,6 +111377,7 @@
 巡	zcyvv
 裏	zcywg
 邏	zcywl
+甆	zcyyv
 ㍾	zfabe
 ㍼	zfasr
 ㍿	zfdmo
@@ -111516,7 +111517,6 @@
 ⻌	zrino
 ⻈	zrinv
 ⼷	zrip
-⽞	zrivi
 ⿅	zrixp
 ⼗	zrj
 ⽳	zrjc
@@ -111531,9 +111531,9 @@
 ⺺	zrjs
 ⾞	zrjwj
 ⼤	zrk
-⺨	zrkh
 ⼶	zrkj
 ⽘	zrkk
+⺨	zrknh
 ⻋	zrkq
 ⼒	zrks
 ⼪	zrku
@@ -111732,6 +111732,7 @@
 ⾳	zryta
 ⾟	zrytj
 ⻯	zrytw
+⽞	zryvi
 ⿄	zrywi
 ⻧	zrywk
 ⿑	zryx
