@@ -11384,6 +11384,7 @@
 桽	doog
 㭫	doog
 𩞌	dooiv
+𭫘	dooj	O
 𢽟	dook
 𣟺	dook
 𣛌	doomb
@@ -92752,7 +92753,7 @@
 𦙪	xhsb
 𥂷	xhsbt
 𣓯	xhsd
-𥷽	xhseb
+𥷝	xhseb
 𥮱	xhsgi
 𩿇	xhsha
 𣪔	xhshn
@@ -111544,6 +111545,7 @@
 ⺨	zrknh
 ⻋	zrkq
 ⼒	zrks
+⺨	zrksh
 ⼪	zrku
 ⺐	zrku
 ⼁	zrl

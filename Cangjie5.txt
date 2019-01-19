@@ -11384,6 +11384,7 @@
 桽	doog
 㭫	doog
 𩞌	dooiv
+𭫘	dooj	O
 𢽟	dook
 𣟺	dook
 𣛌	doomb
@@ -111544,6 +111545,7 @@
 ⺨	zrknh
 ⻋	zrkq
 ⼒	zrks
+⺨	zrksh
 ⼪	zrku
 ⺐	zrku
 ⼁	zrl
