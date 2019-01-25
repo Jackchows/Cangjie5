@@ -11384,7 +11384,7 @@
 桽	doog
 㭫	doog
 𩞌	dooiv
-𭫘	dooj	O
+𭫘	dooj	[O]
 𢽟	dook
 𣟺	dook
 𣛌	doomb
@@ -26265,7 +26265,7 @@
 𪗃	hlyvn
 𫱤	hlyvv
 笁	hm
-𠂇	hm
+𠂇	hm	[O]
 𠂉	hm
 𠂋	hm
 𠃋	hm
@@ -48066,7 +48066,6 @@
 𦠓	mhdb
 𦠩	mhdb
 𩱔	mhdb
-𠪱	mhdc
 𨬑	mhdc
 厤	mhdd
 㷴	mhdf
@@ -48078,6 +48077,7 @@
 𠪺	mhdh
 㻺	mhdi
 𩴣	mhdi
+𠪱	mhdi
 𡙽	mhdk
 𪺧	mhdk
 歷	mhdm
@@ -69185,6 +69185,7 @@
 𨁋	rmmrt
 踾	rmmrw
 𠮱	rmms
+𠮲	rmms
 𫩟	rmms
 𨁿	rmmso
 𮛊	rmmsu
@@ -92397,7 +92398,7 @@
 𡡋	xhlv
 𢞭	xhlwp
 𨙌	xhlym
-𠂇	xhm
+𠂇	xhm	[O]
 𤯝	xhmb
 籱	xhmbg
 𥸀	xhmbi
@@ -92753,7 +92754,7 @@
 𦙪	xhsb
 𥂷	xhsbt
 𣓯	xhsd
-𥷝	xhseb
+𥷽	xhseb
 𥮱	xhsgi
 𩿇	xhsha
 𣪔	xhshn
@@ -94810,7 +94811,6 @@
 𮗍	xmhbu
 𮢝	xmhc
 𦠩	xmhdb
-𨬑	xmhdc
 𪅼	xmhdf
 𡓸	xmhdg
 𠪺	xmhdh
@@ -97488,7 +97488,7 @@
 𠯸	xrmmn
 囇	xrmmp
 跖	xrmmr
-𫩟	xrmms
+𠮲	xrmms
 𫏁	xrmmt
 𧿁	xrmmu
 𨃽	xrmmv
