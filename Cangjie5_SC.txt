@@ -24033,7 +24033,6 @@
 䈋	hea
 䵒	hea
 𣅈	hea
-𣈊	hea
 篞	heag
 簜	heah
 䵘	heamh
@@ -25868,6 +25867,7 @@
 昋	hka
 晵	hka
 𣇻	hka
+𣈊	hka
 𭨠	hka
 𦤨	hkabt
 𦤦	hkapv
@@ -44568,6 +44568,7 @@
 由	lw
 胄	lwb
 冑	lwb
+冑	lwbmm
 𥁖	lwbt
 𭾊	lwbt
 𤳃	lwbvk
@@ -78309,7 +78310,6 @@
 𦹚	tlbk
 帯	tlblb
 㒼	tlbo
-䓣	tlbo
 𦳟	tlbq
 萜	tlbr
 䒞	tlbu
@@ -78626,6 +78626,7 @@
 芜	tmku
 蒆	tmkv
 𦻅	tmky
+䓣	tmlb
 𦲸	tmlb
 𦻋	tmlb
 黃	tmlc
@@ -98761,7 +98762,6 @@
 𦫳	xtl
 䒥	xtlb
 𦹚	xtlbk
-䓣	xtlbo
 𧏊	xtlii
 𦵈	xtlim
 𪃳	xtlkf
@@ -98824,7 +98824,7 @@
 𦲆	xtmjr
 𦶐	xtmkp
 苈	xtmks
-𦻋	xtmlb
+𦲸	xtmlb
 𦭢	xtmlm
 𠞱	xtmln
 𦯄	xtmls
@@ -102325,7 +102325,7 @@
 𦿰	xxtmg
 𪅀	xxtmh
 𠢀	xxtmk
-𦲕	xxtml
+𦻋	xxtml
 𠀪	xxtmm
 𦭭	xxtmn
 𬜯	xxtmo
