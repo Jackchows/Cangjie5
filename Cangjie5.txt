@@ -14788,6 +14788,7 @@
 𣻬	enod
 潑	enoe
 𣸍	enoe
+㳽	enof
 𠭫	enof
 𣼈	enoi
 湀	enok
@@ -41621,6 +41622,7 @@
 𠛸	lcsh
 䙢	lcwa
 𧞌	lcwf
+褝	lcwj
 𮘤	lcymr
 𬱍	lcysy
 𮖕	ldam
@@ -59464,6 +59466,7 @@
 𠎷	omkm
 𠍴	omkp
 𠐣	omkp
+𢞋	omkp
 𠆮	omks
 𪟘	omks
 𠎛	omku
@@ -62856,7 +62859,6 @@
 𪟩	pmk
 𢡄	pmka
 𪬔	pmkd
-𢞋	pmkp
 𢡊	pmkp
 𢟈	pmkp
 𢚺	pmkr
@@ -77995,7 +77997,7 @@
 𦺦	tjty
 𩋯	tjuce
 𦼷	tjue
-䩶	tjumi
+䩶	tjuli
 䪎	tjuob
 𩌩	tjuog
 𩍺	tjuos
@@ -81495,6 +81497,7 @@
 𡺻	ueg
 𮮩	uegte
 𪃊	uehaf
+𡵌	uei
 𡻔	ueiv
 𡽻	uejl
 𭆫	ueke
@@ -89309,7 +89312,7 @@
 𪏎	xbrtm
 𠃭	xbru
 𢽿	xbrye
-𤆙	xhdtp
+𤆙	xbsf
 𦚰	xbshh
 冤	xbshi
 𦛵	xbshr
@@ -90828,6 +90831,7 @@
 㴍	xenno
 汣	xeno
 𣸍	xenoe
+𠭫	xenof
 𣺍	xenok
 漒	xenri
 澛	xenwa
@@ -92769,7 +92773,7 @@
 勹	xhs
 𦙪	xhsb
 𥂷	xhsbt
-㦿	xhsd
+𣓯	xhsd
 𥷽	xhseb
 𥮱	xhsgi
 𩿇	xhsha
@@ -96578,7 +96582,7 @@
 𢤩	xpmhm
 𠣍	xpmj
 𠣽	xpmjk
-𢡊	xpmkp
+𢟈	xpmkp
 𠛆	xpmln
 𭞒	xpmmb
 𠣓	xpmmi
@@ -101098,7 +101102,7 @@
 𢀴	xxhru
 𣀖	xxhry
 𦚌	xxhsb
-𣓯	xxhsd
+𣕼	xxhsd
 𪁮	xxhsh
 𥲊	xxhsj
 𪥝	xxhsk
@@ -101815,6 +101819,7 @@
 𠋊	xxomf
 仼	xxomg
 𩿨	xxomh
+𢞋	xxomk
 𠉴	xxoml	[u]
 𠓞	xxomm
 𨝫	xxomn
@@ -101914,7 +101919,6 @@
 𧍀	xxpli
 𢥻	xxpmb
 𭏃	xxpmg
-𢟈	xxpmk
 𢣒	xxpmm
 𢖸	xxpn
 𢘌	xxpni
