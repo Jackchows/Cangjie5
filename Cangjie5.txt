@@ -7719,6 +7719,7 @@
 錱	cmgg
 𨫄	cmgg
 鈺	cmgi
+銩	cmgi
 𨬀	cmgk
 𨬩	cmgn
 𨦊	cmgp
@@ -18499,6 +18500,8 @@
 卷	fqsu
 巻	fqsu
 𫧟	fqsu
+𢆤	fqsuq
+𤙻	fqsuq
 𥁸	fqsut
 𢍕	fqsut
 𢍊	fqt
@@ -18776,7 +18779,6 @@
 𠒽	fubdw
 輝	fubjj
 辉	fubkq
-𥁸	fubt
 䚇	fubuu
 𠓓	fucab
 𨮠	fucab
@@ -18793,7 +18795,6 @@
 𩴖	fuhi
 𤐜	fuhi
 㷨	fuhj
-𤙻	fuhq
 𧹍	fuhuc
 𩳁	fuhui
 𪕗	fuhxv
@@ -18836,7 +18837,6 @@
 𢼴	fuok
 𪛑	fuomb
 𫤚	fuoml	[u]
-𢆤	fuoq
 𫤤	fuorn
 𠒡	fuoyj
 𠓒	fuqoc
@@ -18848,7 +18848,6 @@
 𠓂	fusmh
 𫵆	fusmr
 𫿛	fusrk
-𢍕	fut
 𠓚	futaw
 𠓁	futge
 𠓅	futjd
@@ -37756,8 +37755,8 @@
 𡪨	jtbi
 贲	jtbo
 𭔗	jtbp
-寛	jtbu
 宽	jtbu
+寛	jtbu
 𢄏	jtcb
 𦞫	jtcb
 賽	jtcc
@@ -81248,9 +81247,9 @@
 蓑	tywv
 𦵵	tywv
 薺	tyx
+𧅱	tyxl
 虀	tyxm
 𦺅	tyxm
-𧅱	tyxm
 𧅴	tyxm
 𧆌	tyxm
 𧅠	tyxu
@@ -89657,6 +89656,7 @@
 𨥾	xcmfj
 鎺	xcmfm
 𨫄	xcmgg
+銩	xcmgi
 𬫂	xcmks
 𨨄	xcmlb
 𫤫	xcmls
@@ -92636,7 +92636,7 @@
 𮕣	xhoor
 𠃀	xhoos
 𢔫	xhoou
-怣	xhop
+𮅌	xhop
 𮅅	xhopd
 瓝	xhopi
 瓝	xhopm
@@ -93779,7 +93779,7 @@
 卋	xjt
 㫩	xjta
 𡪨	xjtbi
-宽	xjtbu
+寛	xjtbu
 𦞫	xjtcb
 𧶼	xjtcc
 𪧦	xjtce
@@ -101074,7 +101074,7 @@
 𥷄	xxhom
 𧗾	xxhon
 𩀑	xxhoo
-惥	xxhop
+怣	xxhop
 𫆎	xxhos
 鰴	xxhou
 𧗿	xxhoy
@@ -102403,7 +102403,7 @@
 𭣺	xxtys
 𦾼	xxtyt
 𮏞	xxtyv
-𧅱	xxtyx
+𧅴	xxtyx
 㔒	xxubl
 𩓼	xxubm
 𫶜	xxubn
