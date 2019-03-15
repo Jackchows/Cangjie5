@@ -7738,6 +7738,7 @@
 𨬒	cmjk
 鍤	cmjx
 𨦐	cmke
+𨧐	cmkr
 勜	cmks
 𬫂	cmks
 𨥚	cmlb
@@ -10094,6 +10095,7 @@
 𣐪	dhke
 𣕊	dhke
 桥	dhkl
+𭪇	dhkr	[u]
 𠠸	dhks
 𣐧	dhks
 楀	dhlb
@@ -26006,9 +26008,9 @@
 䀉	hkrbt
 𮆓	hkrc
 𮅭	hkrd
+𩇺	hkrly
 𥰮	hkrr
 𦄊	hkrvf
-𩇺	hkry
 竻	hks
 𠠲	hks
 𦤱	hksef
@@ -46129,7 +46131,7 @@
 祩	mfhjd
 䄆	mfhjr
 祅	mfhk
-𬓚	mfhkb
+𬓚	mfhkb	[u]
 𬒲	mfhke
 䄔	mfhlb
 𭶶	mfhlo
@@ -48556,6 +48558,7 @@
 啓	mkr
 𨟮	mkrau
 𩐄	mkrlm
+𩇺	mkrly
 跫	mkryo
 功	mks
 历	mks
@@ -51096,6 +51099,7 @@
 䃷	mrynv
 𧾸	mryo
 碎	mryoj
+𠾹	mryoj	[u]
 𥗌	mryon
 𥓽	mrypd
 𥕕	mrypd
@@ -95201,6 +95205,7 @@
 𥒝	xmryi
 𥐿	xmryj
 鿎	xmryk
+𠾹	xmryo	[u]
 𥕕	xmryp
 𥓴	xmrys
 𪿢	xmryt
