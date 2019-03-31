@@ -4065,6 +4065,7 @@
 𬙡	bktmc
 𦝯	bktq
 𪥣	bktyu
+䐶	bkua	[u]
 𦌴	bkvfg
 𦍃	bkvfv
 𦋮	bkwp
@@ -5668,6 +5669,7 @@
 𥇝	buktj
 𥈖	buktq
 𦎝	buktq
+䁮	bukua	[Ou]
 𥆦	bukug
 䋰	bukvf
 𥄡	bul
@@ -7601,6 +7603,7 @@
 𨦇	ckt
 𬋼	cktge
 𤕏	cku
+鐕	ckua	[Ou]
 𤕘	ckuue
 𤱇	ckw
 𮮕	ckwgf
@@ -10696,6 +10699,7 @@
 栛	dkss
 𬂩	dkt
 𣖂	dktq
+橬	dkua
 𡠼	dkv
 𧜌	dkyhv
 𧫣	dkymr
@@ -14275,6 +14279,8 @@
 㵮	ektj
 𣷟	ektj
 㵮	ektq
+潛	ekua
+灊	ekub
 𭳟	ekuf
 𣹳	ekve
 𬇜	eky
@@ -16921,6 +16927,7 @@
 粋	fdknj
 𫦨	fdks
 𮇒	fdksr
+糣	fdkua	[Ou]
 𠔗	fdl
 𫂻	fdla
 𮇌	fdlbk
@@ -18043,6 +18050,7 @@
 弊	fkt
 㢢	fkt
 𠔷	fktc
+熸	fkua	[Ou]
 𤇉	fkus
 嫳	fkv
 炼	fkvc
@@ -23412,6 +23420,7 @@
 𥝿	hdksr
 䅄	hdkss
 𠨟	hdksu
+䅾	hdkua	[Ou]
 𨤙	hdkvf
 𪙖	hdkyu
 种	hdl
@@ -26033,6 +26042,7 @@
 㠞	hku
 𡼐	hku
 𡹘	hku
+簪	hkua	[Ou]
 綮	hkvif
 𦅾	hkvif
 𮈛	hkvif
@@ -38121,8 +38131,10 @@
 𤺁	kais
 𤻃	kaja
 𭼶	kakg
+㔆	kaln	[Ou]
 𠠘	kaln
 疸	kam
+䫬	kambc
 𩖃	kambc
 瘍	kamh
 𫯭	kamh
@@ -38135,6 +38147,7 @@
 𤶿	kand
 𭑥	kanin
 𤺖	kank
+䣟	kanl
 𨟉	kanl
 𣣩	kano
 𤺯	kanp
@@ -39814,6 +39827,7 @@
 𪽷	kktp
 𡽺	kku
 𡵎	kku
+㿊	kkua	[Ou]
 𤷀	kkug
 奿	kkv
 𤕢	kkv
@@ -40785,7 +40799,9 @@
 㞭	ku
 𡗡	ku
 𡴷	ku
+朁	kua
 𡯙	kua
+蠶	kuali	[ou]
 𡯻	kuamo
 㞁	kuap
 𡯣	kuav
@@ -40857,6 +40873,7 @@
 𡯋	kumj
 𡯞	kumob
 𤷳	kumr
+鬵	kumrb	[Ou]
 𤸳	kumt
 𡯍	kumvj
 𡯿	kunbc
@@ -47278,6 +47295,7 @@
 𠡕	mgks
 珈	mgksr
 珕	mgkss
+㻸	mgkua	[Ou]
 𤨀	mgkwn
 𩰊	mgl
 𤤠	mglbk
@@ -50422,6 +50440,7 @@
 劯	mrks
 𥑆	mrksr
 硖	mrkt
+䃡	mrkua	[Ou]
 𬒃	mrkvd
 𥑞	mrlbk
 𥑀	mrlbu
@@ -51954,6 +51973,7 @@
 䣦	mwks
 𠡳	mwks
 䙴	mwksu
+䤐	mwkua	[u]
 𬪲	mwkut
 㕅	mwl
 𫶳	mwla
@@ -54697,6 +54717,7 @@
 𡺧	nku
 𢌚	nku
 𫶔	nku
+㣅	nkua	[Ou]
 婺	nkv
 䋷	nkvif
 廵	nkvvv
@@ -58260,6 +58281,7 @@
 𫢒	oikp
 伪	oiks
 优	oiku
+䭙	oikua	[u]
 𩛌	oikv
 𩛙	oikys
 傭	oilb
@@ -61046,6 +61068,7 @@
 鿘	oskr
 鿚	oskr
 鿙	osku
+䭙	oskua	[u]
 𠇽	oslb
 𠏺	oslc
 𡬴	osli
@@ -61078,6 +61101,7 @@
 𮩂	osmrc
 儖	osmt
 𮩖	osmtb
+䭙	osmua	[u]
 倀	osmv
 𮩐	osmwj
 𫗖	osmwl
@@ -62728,6 +62752,7 @@
 恊	pkss
 𫺂	pkt
 𠣮	pktq
+憯	pkua	[Ou]
 𫺀	pkud
 𭝹	pkui
 忡	pl
@@ -65460,6 +65485,7 @@
 挟	qkt
 𢺌	qktd
 嶅	qku
+撍	qkua	[Ou]
 拋	qkus
 嫯	qkv
 拣	qkvc
@@ -79658,6 +79684,7 @@
 菶	tqkq
 劷	tqks
 𦰖	tqks
+䍼	tqkua	[u]
 𫅐	tqlbk
 𧒃	tqlii
 䍺	tqllp
@@ -82080,6 +82107,7 @@
 峡	ukt
 𡷓	ukt
 𡵈	uku
+嶜	ukua	[Ou]
 𥾜	ukvif
 𠂳	ukvil
 𨤪	ukwg
@@ -93832,8 +93860,11 @@
 𩕤	xjwmb
 乂	xk
 𬏾	xkabt
+𠠘	xkaln
+𩖃	xkamb
 𫯭	xkamh
 𤶿	xkand
+𨟉	xkanl
 夿	xkau
 冇	xkb
 奟	xkbb
@@ -94174,6 +94205,7 @@
 𤼐	xktrg
 𤼚	xktwi
 尢	xku
+𡯙	xkua
 𡯉	xkue
 𡰎	xkuha
 𠟰	xkuln
@@ -107672,6 +107704,7 @@
 𧦤	yrksr
 𧨫	yrktj
 𧥩	yrku
+譖	yrkua
 𮘊	yrkym
 𧪉	yrkyv
 訲	yrl
