@@ -448,7 +448,6 @@
 晷	ahor
 𭧮	ahos
 𭦶	ahov
-惖	ahp
 𣅒	ahp
 𭝓	ahp
 𣇲	ahpa
@@ -1617,6 +1616,7 @@
 昒	aphh
 𭨝	aphl
 𭯐	aphl
+惖	aphp
 𣇤	aphp
 𪰨	aphs
 旳	api
@@ -62202,6 +62202,7 @@
 慻	pfqu
 𥛤	pfshc
 悩	pfuk
+惮	pfwj
 𪫞	pg
 𫧀	pg
 𢤋	pgbc
@@ -62410,6 +62411,7 @@
 慨	phsu
 𠣹	phsu	[u]
 𭟊	phsu
+惂	phsx
 𢗢	pht
 𢤣	phtn
 𡵶	phu
@@ -62889,6 +62891,7 @@
 𪟩	pmk
 𢡄	pmka
 𪬔	pmkd
+悿	pmkp
 𢡊	pmkp
 𢟈	pmkp
 𢚺	pmkr
@@ -88773,7 +88776,7 @@
 𬁊	xahod
 𣇭	xahog
 𥏬	xahok
-𣅒	xahp
+𭝓	xahp
 𤘵	xahq
 甠	xahqm
 𣌸	xahsl
@@ -88921,6 +88924,7 @@
 𬊛	xaphf
 昒	xaphh
 𭯐	xaphl
+𣇤	xaphp
 暅	xapmm
 𣅪	xapp
 𣇄	xaqhl
@@ -96628,7 +96632,7 @@
 𢛢	xpmhm
 𠣍	xpmj
 𠣽	xpmjk
-𢟈	xpmkp
+𢡊	xpmkp
 𠛆	xpmln
 𭞒	xpmmb
 𠣓	xpmmi
@@ -100349,7 +100353,6 @@
 𪱔	xxahb
 𭦢	xxahh
 𣈧	xxaho
-𭝓	xxahp
 𠕠	xxaih
 𬁛	xxait
 𬁁	xxajb
@@ -101406,7 +101409,7 @@
 𬷝	xxkfh
 𩤄	xxkfp
 𡉄	xxkg
-𢙮	xxkgp
+𢟆	xxkgp
 𩾘	xxkha
 𤻧	xxkhe
 𤵠	xxkhh
@@ -101967,6 +101970,7 @@
 𧍀	xxpli
 𢥻	xxpmb
 𭏃	xxpmg
+𢟈	xxpmk
 𢣒	xxpmm
 𢖸	xxpn
 𢘌	xxpni
@@ -111461,6 +111465,8 @@
 ㍿	zfdmo
 ㍽	zfkmy
 ㍻	zfmji
+㋿	zfoih
+㋿	zfolh
 ⿱	zia
 ⿳	zibu
 ⿻	zinvw
