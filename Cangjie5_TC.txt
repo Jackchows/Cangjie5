@@ -87016,7 +87016,6 @@
 𡟏	vwli
 𪦨	vwli
 嬕	vwlj
-嬽	vwlk	[O]
 𡢊	vwlk
 𡣬	vwlk
 㓯	vwln
@@ -88016,7 +88015,6 @@
 𤰽	wlll
 𦌁	wlllv
 𬙕	wllm
-𤐁	wllmf
 𫅄	wllmo
 罪	wllmy
 𠝹	wlln
@@ -88288,6 +88286,7 @@
 𤰵	wmvo
 𡈜	wmwf
 𡇽	wmwg
+𤐁	wmwlf
 𥆞	wmwll
 疅	wmwm
 囸	wmym
@@ -100158,7 +100157,7 @@
 𫌵	xvvym
 𫰯	xvwd
 𪦨	xvwli
-𡢊	xvwlk
+𡣬	xvwlk
 𡣱	xvwlv
 𡢤	xvybb
 𡢧	xvybu
@@ -101068,7 +101067,7 @@
 𥬌	xxhjp
 翶	xxhjs
 𥫜	xxhk
-𭨠	xxhka
+𣇻	xxhka
 𦙖	xxhkb
 𭼽	xxhkc
 𣜥	xxhkd
@@ -102593,7 +102592,6 @@
 𪦤	xxvvf
 𢆸	xxvvi
 𫰊	xxvvv
-𡣬	xxvwl
 𫱍	xxvyb
 𡡸	xxvym
 𡡍	xxvys
