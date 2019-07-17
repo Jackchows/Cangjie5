@@ -27967,7 +27967,7 @@
 㣨	hovjr
 𢒾	hovl
 𠭡	hovle
-㼖	hovni
+㼖	hovoi
 衟	hovun
 𨖁	hovvu
 𤔉	how
@@ -35088,6 +35088,7 @@
 𣯻	jchqu
 𣰨	jchqu
 𬔆	jchqu
+𥨫	jchru
 竅	jchsk
 𩴱	jchui
 𫁖	jchui
@@ -35107,7 +35108,6 @@
 𥨥	jchxn
 𥨗	jchxt
 𥦣	jchxu
-𥨫	jchxu
 竄	jchxv
 𥦧	jchyn
 戭	jci
@@ -35130,6 +35130,7 @@
 𡩥	jcim
 窓	jcip
 窢	jcirm
+𥨫	jciru
 窴	jcjbc
 㒹	jcjbc
 𥧑	jcjbc
@@ -45942,7 +45943,6 @@
 𡔀	meheg
 𢥙	meheq
 𤯳	mehqm
-𥒜	meime
 𠠻	meks
 𠡀	meks
 𢃻	melb
@@ -50306,6 +50306,7 @@
 𥒁	mrill
 𥓷	mrilo
 磄	mrilr
+𥒜	mrime
 𥑈	mrimn
 䃯	mriod
 𥒲	mriok
@@ -82030,7 +82031,6 @@
 𠰛	ujr
 𨛝	ujrau
 𡿃	ujrc
-𡴩	ujrr
 𭖡	ujru
 㔎	ujsh
 𡼝	ujtc
@@ -82485,6 +82485,7 @@
 㟔	uoir
 𡻡	uoiw
 㞰	uoj
+𡴩	uojrr
 𪨲	uoju
 㞺	uok
 𡵲	uok
@@ -93514,7 +93515,6 @@
 𥨘	xjchq
 𫁖	xjchu
 𮄒	xjchw
-𥨫	xjchx
 㝐	xjci
 𡩥	xjcim
 㒹	xjcjb
