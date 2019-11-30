@@ -11,7 +11,7 @@
 **本項目參考官方資料對碼表進行修改，可能與其他常見倉頡輸入法軟件存在差異，使用前務必閱讀[說明](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#%E4%B8%BB%E8%A6%81%E6%94%B9%E7%A2%BC%E8%AA%AA%E6%98%8E%E5%8F%8A%E7%88%AD%E8%AD%B0%E5%8F%96%E7%A2%BC)。**<br />
 1. 所稱「官方資料」，包括：
 	1. 《第五代倉頡輸入法手冊》（文化傳信，1999、博碩，2006）
-	2. [「漢文庫典」](http://hanculture.com/dic/index.php)網站（連接已失效）
+	2. [「漢文庫典」](http://chidic.eduhk.hk/)網站
 	3. 朱邦復工作室《內碼對照表》（含2003版五代、六代編碼）
 	4. 《倉頡第三代中文字母輸入法》（全華，1984）、《倉頡第三代中文輸入法》（全華，1994）
 	5. 《標準倉頡第二代中文輸入法》（全華，1983）
@@ -47,12 +47,3 @@
 
 若發現錯誤，可在此處[反饋](https://github.com/Jackchows/Cangjie5/issues/new)。
 多謝！
-
-## 連接
-- [「倉頡之友·馬來西亞」論壇](http://www.chinesecj.com/forum/forum.php)
-- [「天蒼人頡」論壇](http://ejsoon.win/phpbb/)
-- [「倉頡輸入法」Facebook 群組](https://www.facebook.com/groups/cjinput/)
-- [「倉頡」百度貼吧](http://tieba.baidu.com/f?kw=%E4%BB%93%E9%A2%89)
-- 「倉頡輸入法」QQ 群組 [30476878](https://jq.qq.com/?_wv=1027&k=5W3qETZ)
-- 「倉頡輸入法」Freenode IRC 頻道 [#CJDFH](https://webchat.freenode.net/?channels=%23CJDFH)
-- 「倉頡輸入法」Telegram 群組 [@changjei](https://t.me/changjei)

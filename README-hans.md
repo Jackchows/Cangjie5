@@ -11,7 +11,7 @@
 **本项目参考官方资料对码表进行修改，可能与其他常见仓颉输入法软件存在差异，使用前务必阅读[说明](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#%E4%B8%BB%E8%A6%81%E6%94%B9%E7%A2%BC%E8%AA%AA%E6%98%8E%E5%8F%8A%E7%88%AD%E8%AD%B0%E5%8F%96%E7%A2%BC)。**<br />
 1. 所称「官方资料」，包括：
 	1. 《第五代仓颉输入法手册》（文化传信，1999、博硕，2006）
-	2. [「汉文库典」](http://hanculture.com/dic/index.php)网站（连接已失效）
+	2. [「汉文库典」](http://chidic.eduhk.hk/)网站（连接已失效）
 	3. 朱邦复工作室《内码对照表》（含2003版五代、六代编码）
 	4. 《仓颉第三代中文字母输入法》（全华，1984）、《仓颉第三代中文输入法》（全华，1994）
 	5. 《标准仓颉第二代中文输入法》（全华，1983）
@@ -47,12 +47,3 @@
 
 若发现错误，可在此处[反馈](https://github.com/Jackchows/Cangjie5/issues/new)。
 多谢！
-
-## 连接
-- [「仓颉之友·马来西亚」论坛](http://www.chinesecj.com/forum/forum.php)
-- [「天苍人颉」论坛](http://ejsoon.win/phpbb/)
-- [「仓颉输入法」Facebook 群组](https://www.facebook.com/groups/cjinput/)
-- [「仓颉」百度贴吧](http://tieba.baidu.com/f?kw=%E4%BB%93%E9%A2%89)
-- 「仓颉输入法」QQ 群组 [30476878](https://jq.qq.com/?_wv=1027&k=5W3qETZ)
-- 「仓颉输入法」Freenode IRC 频道 [#CJDFH](https://webchat.freenode.net/?channels=%23CJDFH)
-- 「仓颉输入法」Telegram 群组 [@changjei](https://t.me/changjei)
