@@ -6,6 +6,9 @@
 
 原碼表為[「倉頡平台 2012」](http://www.chinesecj.com/forum/viewthread.php?tid=2596)的「五倉世紀」碼表。
 
+## 下載
+[按此](https://github.com/Jackchows/Cangjie5/releases/download/v1.3/RimeData_20200301_Cangjie5.7z)下載適用於RIME的輸入法方案文檔。
+
 ## 目標
 
 **本項目參考官方資料對碼表進行修改，可能與其他常見倉頡輸入法軟件存在差異，使用前務必閱讀[說明](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#%E4%B8%BB%E8%A6%81%E6%94%B9%E7%A2%BC%E8%AA%AA%E6%98%8E%E5%8F%8A%E7%88%AD%E8%AD%B0%E5%8F%96%E7%A2%BC)。**<br />
