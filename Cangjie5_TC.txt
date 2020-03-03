@@ -34846,7 +34846,6 @@
 发	ivke
 诙	ivkf
 诳	ivkhg
-𫍝	ivkkd
 𫍫	ivklu
 勆	ivks
 𫍝	ivkvc
@@ -40330,7 +40329,6 @@
 𤴦	kkn
 𡥈	kknd
 𡥉	kknd
-𫠣	kknd
 𤴯	kkni
 疩	kknj
 𤴯	kknk
@@ -42987,7 +42985,6 @@
 𧎔	likjt
 袚	likk
 䖷	likkb
-𬟾	likkd
 䗮	likkk
 𧉩	liklb
 𧋃	likld
@@ -57728,42 +57725,6 @@
 𢏸	nyvf
 弦	nyvi
 𭛈	nywm
-𩰲	nz
-𬴼	nzagp
-𬴹	nzbd
-𩱪	nzbmb
-𩱭	nzcwa
-𩱖	nzdl
-𩱣	nzeln
-𩱮	nzesd
-𬴻	nzfdd
-𩱷	nzfdi
-𩱯	nzfdu
-𬴺	nzfdu
-𬴸	nzgmj
-𩱥	nziim
-𫙇	nzimg
-𩱚	nzjbd
-𩱞	nzjkd
-𩱰	nzjke
-𩱍	nzjr
-𩱎	nzlln
-𩱶	nzmbg
-𩱗	nzmcw
-𩱜	nzmmv
-𩱨	nzmvi
-𩱤	nznkq
-𫙆	nzodi
-𩱡	nzoru
-𩱟	nzowy
-𩱱	nzoyu
-𩱦	nzpuu
-𩱓	nzsj
-𩱲	nzsmg
-𩱧	nztgf
-𩱆	nzv
-𩱫	nzydl
-𩱌	nzyg
 人	o
 㒲	oa
 𬽪	oa
@@ -90578,7 +90539,7 @@
 肼	xbtt
 𣍮	xbtu
 䐠	xbtyu
-㬻	xbtyv
+䐠	xbtyv
 冚	xbu
 𥌖	xbuam
 𧢑	xbuan
@@ -90976,7 +90937,7 @@
 𢪘	xcshq
 𠯨	xcshr
 弅	xcsht
-鋔	xcshu
+銫	xcshu
 𮕮	xcshv
 𦔯	xcsj
 𮢄	xcsjl
@@ -97118,7 +97079,6 @@
 𩺰	xnwfn
 𭑏	xnwk
 𡐲	xnwkg
-𬴺	xnzfd
 𬽪	xoa
 𭀠	xoahu
 𠟏	xoaln
@@ -100462,7 +100422,7 @@
 𤐂	xtsf
 𬟦	xtshe
 𦬄	xtshi
-莬	xtshu
+苉	xtshu
 藯	xtsip
 𦲅	xtsjb
 𧄀	xtsjd
@@ -101825,7 +101785,7 @@
 𩓚	xxbtm
 𮟰	xxbtn
 𠕋	xxbtt
-䐠	xxbty
+㬻	xxbty
 𦘹	xxbu
 瞐	xxbub
 𥇶	xxbuc
@@ -102790,7 +102750,6 @@
 𤷤	xxkkk
 𤵗	xxkkl
 𩑖	xxkkm
-𫠣	xxkkn
 𩁓	xxkko
 𧈠	xxklm
 𡗓	xxkm
@@ -103792,7 +103751,7 @@
 𨟪	xxtrn
 𧃱	xxtrr
 𤓘	xxtsf
-苉	xxtsh
+莬	xxtsh
 𮒶	xxtsj
 𮎼	xxtsl
 𦵲	xxtsm
@@ -112934,11 +112893,6 @@
 ⿶	ziwu
 ⿺	ziwv
 ⿻	ziww
-𝍲	znm
-𝍳	znml
-𝍴	znmy
-𝍵	znmyl
-𝍶	znmyl
 ⽇	zra
 ⽈	zra
 ⾨	zran
