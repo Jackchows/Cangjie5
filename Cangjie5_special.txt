@@ -7179,8 +7179,8 @@
 熮	fsmh
 燖	fsmi
 𬊈	fsmi
-熤	fsmt
 爁	fsmt
+熤	fsmt
 㷃	fsmv
 烬	fsoy
 熰	fsrr
@@ -13780,7 +13780,6 @@
 痏	kkb
 爼	kkbm
 療	kkcf
-痲	kkdd
 鷞	kkhaf
 鸑	kkhaf
 㾠	kkhg
@@ -18970,6 +18969,7 @@
 勥	niks
 強	nili
 劖	niln
+㣇	nimnb
 矛	ninh
 多	nini
 𠓗	ninii
@@ -21451,8 +21451,8 @@
 仭	osk
 䭜	oskcf
 餴	oskjt
-餙	oskkb
 餚	oskkb
+餙	oskkb
 餣	osklu
 餣	osklv
 䭉	oskmb
@@ -31950,7 +31950,7 @@
 㔂	xfqln
 巻	xfqsu
 𬊈	xfsmi
-爁	xfsmt
+熤	xfsmt
 烡	xftc
 𤊄	xftmc
 爡	xftwi
@@ -32979,7 +32979,7 @@
 翖	xorsm
 䬶	xosav
 伛	xosk
-餚	xoskk
+餙	xoskk
 飯	xosme
 飪	xosmg
 飤	xoso
@@ -34277,7 +34277,7 @@
 㕢	xyce
 鶐	xycha
 奕	xyck
-遂	xycmo
+亪	xycmo
 戇	xycp
 鶐	xydha
 㣓	xydhh
@@ -34560,8 +34560,8 @@
 蛮	yclmi
 遵	ycmi
 送	ycmk
-亪	ycmo
 遂	ycmo
+亪	ycmo
 遒	ycmw
 弯	ycn
 孪	ycnd

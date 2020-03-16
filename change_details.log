@@ -7421,3 +7421,27 @@ FAC0	變	yvfw	yvfe
 （以上由 @SyaoranHinata 提供）
 ==2020.03.16==
 [添加 Unicode 中日韓越統一表意文字擴展 G 區字符]
+2EB2	⺲	wll	wc	
+2F86	⾆	hjr	mjr	
+38C7	㣇	(新增)	nimnb	*
+20219	𠈙	(新增)	oij	另有𠈙：oiq
+2327B	𣉻	(新增)	oda	另有𣉻：oja
+2363B	𣘻	(新增)	dtof	另有𣘻：dtod
+2548E	𥒎	(新增)	mrij	另有𥒎：mriq
+26C9E	𦲞	(新增)	tikh	另有𦲞：tikm
+2A38C	𪎌	(新增)	qndt	另有𪎌：qedt
+2B09F	𫂟	(新增)	hidd	另有𫂟：hijc
+2B8D9	𫣙	dojlk	dtjlk	
+2B8DA	𫣚	jkdoo	jkdt	
+2BBD7	𫯗	nnerb	ninib	
+2BE4A	𫹊	qqbh	hqmjh	
+2C0B8	𬂸	dhef	(刪除)	𬂸：dokf
+2C3FB	𬏻	knwp	knbh	
+2C402	𬐂	ntg	nng	
+2C9A1	𬦡	rmnl	rmol	
+2C9A1	𬦡	rmnn	(刪除)	𬦡：rmol
+2CC88	𬲈	bubcc	huhxc	另有𬲈：hvhxc
+2CC88	𬲈	hubic	(刪除)	*
+2CC88	𬲈	hvbcc	hvhxc	另有𬲈：huhxc
+2CC88	𬲈	hvbic	(刪除)	*
+2DE4A	𭹊	(新增)	homgn	另有𭹊：homin
