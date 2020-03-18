@@ -7421,8 +7421,8 @@ FAC0	變	yvfw	yvfe
 （以上由 @SyaoranHinata 提供）
 ==2020.03.16==
 [添加 Unicode 中日韓越統一表意文字擴展 G 區字符]
-2EB2	⺲	wll	wc	
-2F86	⾆	hjr	mjr	
+2EB2	⺲	wll	wc
+2F86	⾆	hjr	mjr
 38C7	㣇	(新增)	nimnb	*
 20219	𠈙	(新增)	oij	另有𠈙：oiq
 2327B	𣉻	(新增)	oda	另有𣉻：oja
@@ -7431,17 +7431,50 @@ FAC0	變	yvfw	yvfe
 26C9E	𦲞	(新增)	tikh	另有𦲞：tikm
 2A38C	𪎌	(新增)	qndt	另有𪎌：qedt
 2B09F	𫂟	(新增)	hidd	另有𫂟：hijc
-2B8D9	𫣙	dojlk	dtjlk	
-2B8DA	𫣚	jkdoo	jkdt	
-2BBD7	𫯗	nnerb	ninib	
-2BE4A	𫹊	qqbh	hqmjh	
+2B8D9	𫣙	dojlk	dtjlk
+2B8DA	𫣚	jkdoo	jkdt
+2BBD7	𫯗	nnerb	ninib
+2BE4A	𫹊	qqbh	hqmjh
 2C0B8	𬂸	dhef	(刪除)	𬂸：dokf
-2C3FB	𬏻	knwp	knbh	
-2C402	𬐂	ntg	nng	
-2C9A1	𬦡	rmnl	rmol	
+2C3FB	𬏻	knwp	knbh
+2C402	𬐂	ntg	nng
+2C9A1	𬦡	rmnl	rmol
 2C9A1	𬦡	rmnn	(刪除)	𬦡：rmol
 2CC88	𬲈	bubcc	huhxc	另有𬲈：hvhxc
 2CC88	𬲈	hubic	(刪除)	*
 2CC88	𬲈	hvbcc	hvhxc	另有𬲈：huhxc
 2CC88	𬲈	hvbic	(刪除)	*
 2DE4A	𭹊	(新增)	homgn	另有𭹊：homin
+==2020.03.18==
+4DB6	䶶	(新增)	ymqao
+4DB7	䶷	(新增)	rlu
+4DB8	䶸	(新增)	rhi
+4DB9	䶹	(新增)	uh
+4DBA	䶺	(新增)	bob
+4DBB	䶻	(新增)	blbu
+4DBC	䶼	(新增)	bcip
+4DBD	䶽	(新增)	buce
+4DBE	䶾	(新增)	hono
+4DBF	䶿	(新增)	oilu	另有䶿：oshu
+4DBF	䶿	(新增)	oshu	另有䶿：oilu
+9FF0	鿰	(新增)	ejjs
+9FF1	鿱	(新增)	mgau
+9FF2	鿲	(新增)	mttbs
+9FF3	鿳	(新增)	nfhyp
+9FF4	鿴	(新增)	nmhey
+9FF5	鿵	(新增)	nmgp
+9FF6	鿶	(新增)	nmiav
+9FF7	鿷	(新增)	nmyta
+9FF8	鿸	(新增)	nmhyp
+9FF9	鿹	(新增)	nmjpu
+9FFA	鿺	(新增)	qepym
+9FFB	鿻	(新增)	hvklb
+9FFC	鿼	(新增)	hvksr
+2A6D7	𪛗	(新增)	omrn
+2A6D8	𪛘	(新增)	wcn
+2A6D9	𪛙	(新增)	mh
+2A6DA	𪛚	(新增)	yn
+2A6DB	𪛛	(新增)	soh	另有𪛛：son
+2A6DB	𪛛	(新增)	son	另有𪛛：soh
+2A6DC	𪛜	(新增)	mln
+2A6DD	𪛝	(新增)	hni
