@@ -6101,7 +6101,6 @@
 𠜍	buln
 𠝴	buln
 𠝾	buln
-𮗙	bulnh
 𰥽	bulnu
 𬑜	bulpb
 𭿮	bulpc
@@ -30695,6 +30694,7 @@
 𤡿	hrik
 𬍊	hrik
 𰩾	hrik
+𨺅	hrirr	[u]
 𨸷	hrisn
 𦧷	hritc
 阜	hrj
@@ -34760,7 +34760,6 @@
 𠁼	iii
 𢈽	iii
 𫼁	iii
-𰒥	iii
 𰐁	iiib	[u]
 𧵱	iiic
 𰼫	iiic
@@ -35125,8 +35124,6 @@
 归	ilsm
 帰	ilsmb
 𰄇	ilsp	[u]
-𠄏	ilv
-𠄔	ilvv
 庙	ilw
 𢈔	ilwk
 𰏳	ilwl
@@ -35280,7 +35277,6 @@
 𪞞	imihs
 𠗿	imiih
 𠗷	imiil
-𢨋	imiir
 𠗒	imijb
 𠗈	imije
 冹	imike
@@ -35290,9 +35286,6 @@
 𤒜	imimf
 𫥆	imine
 冶	imir
-𧥑	imirb
-𤒉	imirf
-𤒓	imirf
 𰒲	imirm
 𭂢	imirp
 𢨋	imirz
@@ -36249,7 +36242,6 @@
 𫷩	irut
 𡞣	irv
 𣀪	irye
-𣀨	irye
 𫿎	irye
 䶠	irymu
 𫷭	iryo
@@ -52214,7 +52206,6 @@
 𰤁	mmmlw
 亖	mmmm
 㠭	mmmm
-𰨇	mmmmf
 𢛤	mmmmp
 𠵥	mmmmr
 𧝣	mmmmv
@@ -60566,7 +60557,6 @@
 𨄝	nsryo
 弡	nss
 𩥦	nssqf
-𫸪	nssv
 𩜒	nstcv
 𩜒	nstov
 𦏃	nstq
@@ -62513,7 +62503,6 @@
 𩜴	oimor
 𥑧	oimr
 𥑼	oimr
-𠐲	oimr
 𮩂	oimrc
 𩟬	oimrr
 𱃬	oimrr
@@ -72265,7 +72254,6 @@
 𡄗	ratr
 吧	rau
 邑	rau
-𨙨	rau
 𨚋	rauf
 𡃢	raum
 𡅜	raur
@@ -76414,7 +76402,6 @@
 𠿯	ruhi
 𢁅	ruhjj
 㱼	ruhne
-𨞰	ruhpu
 𨞸	ruhpu
 𠸉	ruhr
 𠼾	rujf
@@ -76471,7 +76458,6 @@
 𪓞	rupr
 𭌴	ruqii
 䣈	rurau
-𨛜	rurau
 𪓪	rurhg
 㒭	rurhu
 𡆑	rurk
@@ -76482,7 +76468,6 @@
 𭚝	rut
 巽	rutc
 𨞔	rutcu
-𨞠	rutcu
 𠾨	ruto
 𠚎	rutt
 咄	ruu
@@ -76964,7 +76949,7 @@
 𠯴	ryy
 𡂓	ryyb
 𠻜	ryyj
-𨞰	rzhpz
+𨞰	rzhpu
 𨛜	rzrau
 𨞠	rztcu
 尸	s
@@ -91192,7 +91177,6 @@
 𡠐	viij
 獎	viik
 嫏	viil
-𢆴	viilv
 娀	vij
 𫧠	vij
 𭅩	vij
@@ -91328,6 +91312,7 @@
 𢇒	viyn
 𪦃	viyr
 𢇖	viyuu
+𢇖	viyuz
 𡣕	vjac
 𡡮	vjau
 姉	vjb
@@ -96315,7 +96300,7 @@
 𭪊	xdheh
 𭬾	xdhei
 𪲋	xdheq
-𰟣	xdhf
+𰝸	xdhf
 𣕅	xdhgu
 槏	xdhhc
 𣠘	xdhhj
@@ -97238,7 +97223,7 @@
 𪶠	xeoik
 浛	xeoir
 𤃠	xeoiv
-𰛳	xeojk
+𰜇	xeojk
 𪵳	xeok
 𣶱	xeokr
 𭰄	xeoks
@@ -99255,7 +99240,7 @@
 𰠸	xhqyt
 𥭞	xhrb
 𬂫	xhrd
-𰤥	xhrdh
+𰯿	xhrdh
 𮡐	xhrf
 𬐊	xhrha
 𠭔	xhrhe
@@ -99478,7 +99463,7 @@
 𣬉	xhwpp
 𬸪	xhwpy
 𢍄	xhwt
-𨈑	xhx
+𦥑	xhx
 𣇀	xhxa
 𦥷	xhxbc
 𥂞	xhxbt
@@ -99809,7 +99794,6 @@
 𭂖	ximhn
 㦶	ximig
 𠗼	ximih
-𤒓	ximir
 𤒓	ximiz
 𰃵	ximj
 𭠋	ximkd
@@ -99946,7 +99930,7 @@
 𩀛	xirog
 𢼉	xirok
 怠	xirp
-𣀨	xirye
+𫿎	xirye
 𨐙	xiryt
 扁	xisbt
 𣓯	xisd
@@ -100985,7 +100969,7 @@
 𬟽	xlikd
 𧉑	xliki
 𰲩	xlikn
-𰹾	xlikq
+𰲬	xlikq
 𧈼	xlill
 䖵	xlilm
 𧑛	xlilx
@@ -103155,7 +103139,7 @@
 𠋧	xopmm
 𬬷	xopmr
 𫓦	xopnd
-𰽣	xopnl
+𰻥	xopnl
 𣢉	xopno
 镵	xopnr
 𰾹	xopog
@@ -103507,7 +103491,7 @@
 匉	xpmfj
 𡉲	xpmg
 𢤩	xpmhm
-𱉌	xpmik
+𱉣	xpmik	[u]
 𠣍	xpmj
 𠣽	xpmjk
 𰑞	xpmjp
@@ -103867,7 +103851,7 @@
 𢷟	xqjbo
 㨁	xqjbv
 𢲘	xqjcc
-𰔏	xqjce
+𰔨	xqjce
 𢰃	xqjck
 摉	xqjcn
 攨	xqjco
@@ -104815,7 +104799,6 @@
 𡬣	xrudi
 𰊽	xrug	[u]
 𭆯	xruhe
-𨞸	xruhp
 𠚙	xrukb
 𪡩	xrumf
 𫪇	xrumg
@@ -104825,9 +104808,7 @@
 𡄴	xruob
 𩞂	xruoi
 𢼙	xruok
-𨛜	xrura
 𢌴	xrut
-𨞠	xrutc
 𡵒	xruu
 𡁰	xrvfb
 𡂎	xrvfe
@@ -106226,7 +106207,7 @@
 𤐂	xtsf
 𬟦	xtshe
 𦬄	xtshi
-苉	xtshu
+莬	xtshu
 藯	xtsip
 𦲅	xtsjb
 𧄀	xtsjd
@@ -107795,7 +107776,7 @@
 𬅴	xxdfn
 𭝦	xxdgp
 𣡿	xxdhb
-𰝸	xxdhf
+𰟣	xxdhf
 𣛪	xxdhh
 𭫗	xxdhj
 𬂢	xxdhn
@@ -107962,7 +107943,7 @@
 𣱸	xxeo
 𬐮	xxeob
 𣸊	xxeoi
-𰜇	xxeoj
+𰛳	xxeoj
 㵸	xxeom
 𬈼	xxeoo
 𰆳	xxeop
@@ -108105,7 +108086,7 @@
 𥖗	xxgem
 𧤂	xxgen
 𢠱	xxgep
-𰉣	xxgeq
+𰔕	xxgeq
 𪡹	xxger
 𮋻	xxges
 𪔨	xxget
@@ -108396,7 +108377,7 @@
 𬔮	xxhqo
 𤘘	xxhqr
 𥫬	xxhqu
-𰯿	xxhrd
+𰤥	xxhrd
 鵅	xxhrh
 𰩾	xxhri
 㔚	xxhrk
@@ -108449,7 +108430,7 @@
 𩕏	xxhwm
 𢙥	xxhwp
 𢍉	xxhwt
-𦥑	xxhx
+𨈑	xxhx
 𦦪	xxhxb
 𪠨	xxhxe
 䳔	xxhxh
@@ -108569,7 +108550,7 @@
 𨟖	xxirn
 𫝶	xxiro
 𢠔	xxirp
-𫿎	xxiry
+𬨚	xxiry
 𰉯	xxisg
 𩿇	xxish
 𱂔	xxism	[u]
@@ -108759,7 +108740,7 @@
 𰗘	xxlid
 𧏀	xxlih
 𧈴	xxlii
-𰲬	xxlik
+𰹾	xxlik
 𮓰	xxlim
 𰲾	xxlin	[u]
 𬠑	xxlio
@@ -109153,7 +109134,7 @@
 𬽷	xxoii
 𠈙	xxoij
 𰂐	xxoik
-𠐲	xxoim
+𱃣	xxoim
 𢻶	xxoin
 𩝞	xxoio
 𪫫	xxoip
@@ -109224,7 +109205,7 @@
 𬷴	xxoph
 𫓨	xxopi
 𰽶	xxopl
-𰻥	xxopn
+𰽣	xxopn
 𪜪	xxopp
 𠰰	xxopr
 伅	xxopu
@@ -109296,7 +109277,7 @@
 𰀋	xxpll
 𢥻	xxpmb
 𭏃	xxpmg
-𱉣	xxpmi	[u]
+𱉌	xxpmi
 𢟈	xxpmk
 𢣒	xxpmm
 𢖸	xxpn
@@ -109425,7 +109406,6 @@
 𰔜	xxqyw
 𠯮	xxra
 𡁡	xxran
-𨙨	xxrau
 㖟	xxrbb
 𠜏	xxrbl
 𭇒	xxrbt
@@ -109788,7 +109768,7 @@
 𧃱	xxtrr
 𰱸	xxtse
 𤓘	xxtsf
-莬	xxtsh
+苉	xxtsh
 𮒶	xxtsj
 𮎼	xxtsl
 𦵲	xxtsm
@@ -111227,7 +111207,7 @@
 𧨔	xyrty
 乩	xyru
 𧦆	xyrue
-讗	xyruo
+𧫶	xyruo
 𫌳	xyrv
 𬣘	xyrvf
 𧭄	xyrvv
@@ -113670,12 +113650,10 @@
 𮟚	ymbs
 贇	ymbuc
 𧸾	ymbuc
-𧹂	ymbuc
 𰶵	ymbuc
 覷	ymbuu
 覰	ymbuu
 𧠛	ymbuu
-𬢆	ymbuu
 𮗞	ymbuu
 𨖝	ymbv
 𨘍	ymbv
@@ -114150,7 +114128,6 @@
 𠅣	ynice
 𬩍	ynid
 虥	ynii
-𰲞	yniki
 𬽛	ynilp
 迻	ynin
 𨑦	ynin
@@ -117218,7 +117195,6 @@
 𫜦	yuijb
 𫜫	yuijb
 𱌚	yuik
-𰲞	yuiki	[u]
 𢎕	yuip
 齝	yuir
 𱌯	yuir
@@ -118311,7 +118287,6 @@
 ˋ	yyyyo
 𧹂	yzbuc
 𬢆	yzbuu
-𣥒	yzylm
 暈	zcabj
 冒	zcabu
 㒻	zcabu
