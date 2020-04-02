@@ -7,7 +7,7 @@
 原碼表為[「倉頡平台 2012」](http://www.chinesecj.com/forum/viewthread.php?tid=2596)的「五倉世紀」碼表。
 
 ## 下載
-[按此](https://github.com/Jackchows/Cangjie5/releases/download/1.4/RimeData_20200316_Cangjie5.7z)下載適用於RIME的輸入法方案文檔。
+[按此](https://github.com/Jackchows/Cangjie5/releases/download/v1.4.2/RimeData_20200403_Cangjie5.7z)下載適用於RIME的輸入法方案文檔。
 
 ## 目標
 
