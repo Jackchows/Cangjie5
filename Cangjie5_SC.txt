@@ -79733,7 +79733,6 @@
 𭻋	smlwh
 䎈	smlwp
 𡲝	smlwp
-𡲿	smlwp
 𦐪	smlwp
 𮋕	smlx
 羾	smm
@@ -80596,6 +80595,7 @@
 屫	svmb
 𡲆	svme
 匨	svmg
+𡲿	svmp
 郾	svnl
 邔	svnl
 𬪆	svnl
@@ -96300,7 +96300,7 @@
 𭪊	xdheh
 𭬾	xdhei
 𪲋	xdheq
-𰝸	xdhf
+𰟣	xdhf
 𣕅	xdhgu
 槏	xdhhc
 𣠘	xdhhj
@@ -99240,7 +99240,7 @@
 𰠸	xhqyt
 𥭞	xhrb
 𬂫	xhrd
-𰯿	xhrdh
+𰤥	xhrdh
 𮡐	xhrf
 𬐊	xhrha
 𠭔	xhrhe
@@ -100711,7 +100711,7 @@
 夷	xkn
 旮	xkna
 瘓	xknbk
-𰤇	xknbq
+𰣮	xknbq
 𡥂	xknd
 鴺	xknha
 厹	xkni
@@ -101615,7 +101615,7 @@
 𭄏	xmkln
 𭆆	xmkm
 𠛬	xmkmj
-𰋩	xmkmk
+𰋟	xmkmk
 𭑇	xmkmm
 𮁑	xmkmr
 㼲	xmkmv
@@ -102604,7 +102604,7 @@
 𨛉	xnunl
 𣣖	xnuno
 𰕙	xnuok
-𱍅	xnupi
+𰅝	xnupi
 𱉭	xnupy
 𠜰	xnush
 𠓄	xnusq
@@ -102619,7 +102619,7 @@
 𩺰	xnwfn
 𭑏	xnwk
 𡐲	xnwkg
-𰁀	xnyjj	[u]
+𰁏	xnyjj
 𬽪	xoa
 𭀠	xoahu
 𠟏	xoaln
@@ -103139,7 +103139,7 @@
 𠋧	xopmm
 𬬷	xopmr
 𫓦	xopnd
-𰽣	xopnl
+𰻥	xopnl
 𣢉	xopno
 镵	xopnr
 𰾹	xopog
@@ -103390,7 +103390,7 @@
 曶	xpha
 𫻅	xphae
 𩾕	xphaf
-𰢲	xphbq
+𰢰	xphbq
 𥁑	xphbt
 𢙆	xphbu
 𢖻	xphe
@@ -103491,7 +103491,7 @@
 匉	xpmfj
 𡉲	xpmg
 𢛢	xpmhm
-𰡀	xpmik
+𱉣	xpmik	[u]
 𠣍	xpmj
 𠣽	xpmjk
 𰑞	xpmjp
@@ -103699,7 +103699,7 @@
 𢯣	xqee
 𢬏	xqeee
 𪎊	xqefh
-𱋋	xqegi
+𰔃	xqegi
 𭡭	xqehr
 𱋈	xqei
 𢸪	xqeii
@@ -103851,7 +103851,7 @@
 𢷟	xqjbo
 㨁	xqjbv
 𢲘	xqjcc
-𰔨	xqjce
+𰔏	xqjce
 𢰃	xqjck
 摉	xqjcn
 攨	xqjco
@@ -107777,7 +107777,7 @@
 𬅴	xxdfn
 𭝦	xxdgp
 𣡿	xxdhb
-𰟣	xxdhf
+𰝸	xxdhf
 𣛪	xxdhh
 𭫗	xxdhj
 𬂢	xxdhn
@@ -108378,7 +108378,7 @@
 𬔮	xxhqo
 𤘘	xxhqr
 𥫬	xxhqu
-𰤥	xxhrd
+𰯿	xxhrd
 鵅	xxhrh
 𰩾	xxhri
 㔚	xxhrk
@@ -108459,7 +108459,7 @@
 鷛	xxibh
 𭄊	xxibl
 𫆡	xxibn
-𱊤	xxibp
+𱊋	xxibp
 𣀾	xxiby
 𪇵	xxich
 𠠎	xxicl
@@ -108683,7 +108683,7 @@
 𪈌	xxkih
 𠀆	xxkj
 㚐	xxkk
-𰞕	xxkkf
+𰞖	xxkkf
 𩾾	xxkkh
 𤵄	xxkki
 𤷤	xxkkk
@@ -108700,7 +108700,7 @@
 𬐣	xxkmr
 𤹘	xxkmv
 𡗝	xxkn
-𰣮	xxknb
+𰤇	xxknb
 𤴳	xxknd
 䲥	xxknh
 𠀊	xxkni
@@ -108864,7 +108864,7 @@
 𡊼	xxmkg
 𪅷	xxmkh
 蛩	xxmkl
-𰋟	xxmkm
+𰋩	xxmkm
 𩜸	xxmko
 憨	xxmkp
 㧬	xxmkq
@@ -109079,10 +109079,10 @@
 𤈖	xxnuf
 𪁅	xxnuh
 𨞭	xxnun
-𰅝	xxnup
+𱍅	xxnup
 𢎞	xxnv
 𮫬	xxnwf
-𰁏	xxnyj
+𰁀	xxnyj	[u]
 𭥍	xxoa
 𬀷	xxoam
 𬪡	xxoan
@@ -109206,7 +109206,7 @@
 𬷴	xxoph
 𫓨	xxopi
 𰽶	xxopl
-𰻥	xxopn
+𰽣	xxopn
 𪜪	xxopp
 𠰰	xxopr
 钆	xxopu
@@ -109257,7 +109257,7 @@
 𭴁	xxpf
 顈	xxpfm
 㫚	xxpha
-𰢰	xxphb
+𰢲	xxphb
 𢗖	xxphg
 𢖾	xxphh
 𢜢	xxpho
@@ -109278,7 +109278,7 @@
 𰀋	xxpll
 𢥻	xxpmb
 𭏃	xxpmg
-𱉣	xxpmi	[u]
+𰡀	xxpmi
 𢟈	xxpmk
 𢣒	xxpmm
 𢖸	xxpn
@@ -109313,7 +109313,7 @@
 𠥽	xxqc	[O]
 𢷜	xxqdl
 𮮃	xxqee
-𰔃	xxqeg
+𱋋	xxqeg
 𱋅	xxqep
 𫽮	xxqfb
 𢩿	xxqg
@@ -109581,7 +109581,7 @@
 𭛒	xxsmb
 𭵧	xxsmf
 𩿮	xxsmh
-𡲿	xxsml
+𦐪	xxsml
 𬺴	xxsmm
 𨾆	xxsmo
 𰞞	xxsms

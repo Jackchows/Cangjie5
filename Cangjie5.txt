@@ -79733,7 +79733,6 @@
 𭻋	smlwh
 䎈	smlwp
 𡲝	smlwp
-𡲿	smlwp
 𦐪	smlwp
 𮋕	smlx
 羾	smm
@@ -80596,6 +80595,7 @@
 屫	svmb
 𡲆	svme
 匨	svmg
+𡲿	svmp
 郾	svnl
 邔	svnl
 𬪆	svnl
@@ -96300,7 +96300,7 @@
 𭪊	xdheh
 𭬾	xdhei
 𪲋	xdheq
-𰟣	xdhf
+𰝸	xdhf
 𣕅	xdhgu
 槏	xdhhc
 𣠘	xdhhj
@@ -99240,7 +99240,7 @@
 𰠸	xhqyt
 𥭞	xhrb
 𬂫	xhrd
-𰯿	xhrdh
+𰤥	xhrdh
 𮡐	xhrf
 𬐊	xhrha
 𠭔	xhrhe
@@ -99463,7 +99463,7 @@
 𣬉	xhwpp
 𬸪	xhwpy
 𢍄	xhwt
-𦥑	xhx
+𨈑	xhx
 𣇀	xhxa
 𦥷	xhxbc
 𥂞	xhxbt
@@ -100711,7 +100711,7 @@
 夷	xkn
 旮	xkna
 痪	xknbk
-𰤇	xknbq
+𰣮	xknbq
 𡥂	xknd
 鴺	xknha
 厹	xkni
@@ -100969,7 +100969,7 @@
 𬟽	xlikd
 𧉑	xliki
 𰲩	xlikn
-𰹾	xlikq
+𰲬	xlikq
 𧈼	xlill
 䖵	xlilm
 𧑛	xlilx
@@ -101615,7 +101615,7 @@
 𭄏	xmkln
 𭆆	xmkm
 𠛬	xmkmj
-𰋟	xmkmk
+𰋩	xmkmk
 𭑇	xmkmm
 𮁑	xmkmr
 㼲	xmkmv
@@ -102604,7 +102604,7 @@
 𨛉	xnunl
 𣣖	xnuno
 𰕙	xnuok
-𰅝	xnupi
+𱍅	xnupi
 𱉭	xnupy
 𠜰	xnush
 𠓄	xnusq
@@ -102619,7 +102619,7 @@
 𩺰	xnwfn
 𭑏	xnwk
 𡐲	xnwkg
-𰁏	xnyjj
+𰁀	xnyjj	[u]
 𬽪	xoa
 𭀠	xoahu
 𠟏	xoaln
@@ -103246,7 +103246,7 @@
 𪝸	xotmk
 𩀂	xotog
 𠏆	xotpb
-僷	xotpd
+𫣟	xotpd
 𦍐	xotq
 𬿜	xotqu
 𰃖	xott
@@ -103390,7 +103390,7 @@
 曶	xpha
 𫻅	xphae
 𩾕	xphaf
-𰢰	xphbq
+𰢲	xphbq
 𥁑	xphbt
 𢙆	xphbu
 𢖻	xphe
@@ -103491,7 +103491,7 @@
 匉	xpmfj
 𡉲	xpmg
 𢤩	xpmhm
-𱉣	xpmik	[u]
+𰡀	xpmik
 𠣍	xpmj
 𠣽	xpmjk
 𰑞	xpmjp
@@ -103699,7 +103699,7 @@
 𢯣	xqee
 𢬏	xqeee
 𪎊	xqefh
-𱋋	xqegi
+𰔃	xqegi
 𭡭	xqehr
 𱋈	xqei
 𢸪	xqeii
@@ -103851,7 +103851,7 @@
 𢷟	xqjbo
 㨁	xqjbv
 𢲘	xqjcc
-𰔨	xqjce
+𰔏	xqjce
 𢰃	xqjck
 摉	xqjcn
 攨	xqjco
@@ -106207,7 +106207,7 @@
 𤐂	xtsf
 𬟦	xtshe
 𦬄	xtshi
-苉	xtshu
+莬	xtshu
 藯	xtsip
 𦲅	xtsjb
 𧄀	xtsjd
@@ -107655,7 +107655,7 @@
 𰥀	xxbub
 𥇶	xxbuc
 𪳐	xxbud
-𰆸	xxbue
+𰛙	xxbue
 𤊯	xxbuf
 𪄙	xxbuh
 𥋰	xxbuj
@@ -107777,7 +107777,7 @@
 𬅴	xxdfn
 𭝦	xxdgp
 𣡿	xxdhb
-𰝸	xxdhf
+𰟣	xxdhf
 𣛪	xxdhh
 𭫗	xxdhj
 𬂢	xxdhn
@@ -108087,7 +108087,7 @@
 𥖗	xxgem
 𧤂	xxgen
 𢠱	xxgep
-𰉣	xxgeq
+𰔕	xxgeq
 𪡹	xxger
 𮋻	xxges
 𪔨	xxget
@@ -108378,7 +108378,7 @@
 𬔮	xxhqo
 𤘘	xxhqr
 𥫬	xxhqu
-𰤥	xxhrd
+𰯿	xxhrd
 鵅	xxhrh
 𰩾	xxhri
 㔚	xxhrk
@@ -108431,7 +108431,7 @@
 𩕏	xxhwm
 𢙥	xxhwp
 𢍉	xxhwt
-𨈑	xxhx
+𦥑	xxhx
 𦦪	xxhxb
 𪠨	xxhxe
 䳔	xxhxh
@@ -108683,7 +108683,7 @@
 𪈌	xxkih
 𠀆	xxkj
 㚐	xxkk
-𰞖	xxkkf
+𰞕	xxkkf
 𩾾	xxkkh
 𤵄	xxkki
 𤷤	xxkkk
@@ -108700,7 +108700,7 @@
 𬐣	xxkmr
 𤹘	xxkmv
 𡗝	xxkn
-𰣮	xxknb
+𰤇	xxknb
 𤴳	xxknd
 䲥	xxknh
 𠀊	xxkni
@@ -108741,7 +108741,7 @@
 𰗘	xxlid
 𧏀	xxlih
 𧈴	xxlii
-𰲬	xxlik
+𰹾	xxlik
 𮓰	xxlim
 𰲾	xxlin	[u]
 𬠑	xxlio
@@ -108864,7 +108864,7 @@
 𡊼	xxmkg
 𪅷	xxmkh
 蛩	xxmkl
-𰋩	xxmkm
+𰋟	xxmkm
 𩜸	xxmko
 恐	xxmkp
 㧬	xxmkq
@@ -109079,10 +109079,10 @@
 𤈖	xxnuf
 𪁅	xxnuh
 𨞭	xxnun
-𱍅	xxnup
+𰅝	xxnup
 𢎞	xxnv
 𮫬	xxnwf
-𰁀	xxnyj	[u]
+𰁏	xxnyj
 𭥍	xxoa
 𬀷	xxoam
 𬪡	xxoan
@@ -109257,7 +109257,7 @@
 𭴁	xxpf
 顈	xxpfm
 㫚	xxpha
-𰢲	xxphb
+𰢰	xxphb
 𢗖	xxphg
 𢖾	xxphh
 𢜢	xxpho
@@ -109278,7 +109278,7 @@
 𰀋	xxpll
 𢥻	xxpmb
 𭏃	xxpmg
-𱉌	xxpmi
+𱉣	xxpmi	[u]
 𢟈	xxpmk
 𢣒	xxpmm
 𢖸	xxpn
@@ -109313,7 +109313,7 @@
 𠥽	xxqc	[O]
 𢷜	xxqdl
 𮮃	xxqee
-𰔃	xxqeg
+𱋋	xxqeg
 𱋅	xxqep
 𫽮	xxqfb
 𢩿	xxqg
@@ -109581,7 +109581,7 @@
 𭛒	xxsmb
 𭵧	xxsmf
 𩿮	xxsmh
-𡲿	xxsml
+𦐪	xxsml
 𬺴	xxsmm
 𨾆	xxsmo
 𰞞	xxsms
@@ -109769,7 +109769,7 @@
 𧃱	xxtrr
 𰱸	xxtse
 𤓘	xxtsf
-莬	xxtsh
+苉	xxtsh
 𮒶	xxtsj
 𮎼	xxtsl
 𦵲	xxtsm
@@ -110439,7 +110439,7 @@
 𮟁	xxyko
 𢥲	xxykp
 㪯	xxykq
-𰅇	xxyks
+𰄢	xxyks
 𨔶	xxykt
 歨	xxylm
 辷	xxym
