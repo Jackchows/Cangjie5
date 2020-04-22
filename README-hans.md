@@ -8,7 +8,7 @@
 
 ## 下载
 [按此](https://github.com/Jackchows/Cangjie5/releases/download/v1.4.2/RimeData_20200403_Cangjie5.7z)下载适用於RIME的输入法方案文件。<br />
-[按此](https://github.com/Jackchows/Cangjie5/releases/download/v1.4.3/MSCJData_20200422_Cangjie5.7z)下载适用於替换微软仓颉码表的文件。
+[按此](https://github.com/Jackchows/Cangjie5/releases/download/v1.4.3/MSCJData_20200422_Cangjie5.7z)下载适用於替换微软仓颉码表的文件。（使用说明見[此处](http://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=194346)）
 
 ## 目标
 
