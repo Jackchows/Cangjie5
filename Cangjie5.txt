@@ -18780,7 +18780,6 @@
 𤏓	fhbs
 烅	fhbt
 省	fhbu
-𤒅	fhbu
 𮙷	fhbuc
 㶶	fhbv
 烐	fhby
@@ -18951,7 +18950,7 @@
 㷐	fhxg
 𤊓	fhxu
 𪚯	fhxu
-𪚱	fhxu
+𤒅	fhxu
 𰟨	fhxv
 𥅷	fhybu
 𪹙	fhye
@@ -38305,7 +38304,6 @@
 麶	jeyub
 𪌁	jeyv
 灾	jf
-𡗜	jf
 宵	jfb
 𥈷	jfbu
 𧹆	jfbuc
@@ -38366,8 +38364,6 @@
 𡫑	jgig
 𡫓	jgig
 𡫭	jgjd
-𡬀	jgjgg
-𡬏	jgjgg
 㝪	jgji
 㝪	jgjk
 𦘏	jgjwp
@@ -38421,7 +38417,6 @@
 𡬚	jher
 𡧸	jheu
 𪧞	jhey
-𧸹	jhfc
 宷	jhfd
 𡑁	jhg
 𡪓	jhgc
@@ -38490,6 +38485,7 @@
 𬔕	jhvfu
 𭩩	jhvh
 𡫘	jhws
+𧸹	jhxc
 寫	jhxf
 𡨯	jhxj
 𡩔	jhxk
@@ -39617,6 +39613,7 @@
 𫳰	jmge
 𡫚	jmgf
 𤎟	jmgf
+𡬀	jmgg
 𪧧	jmgg
 𫳽	jmgg
 𫳚	jmgh
@@ -39644,6 +39641,7 @@
 𰃓	jmhxu
 𨊢	jmi
 室	jmig
+𡬏	jmii
 𤠊	jmik
 𭅬	jmjbf
 𪧡	jmjdi
@@ -40927,6 +40925,7 @@
 㾣	kc
 𡗕	kc
 𤴭	kc
+𡗜	kc
 昚	kca
 尞	kcaf
 𤊽	kcaf
@@ -62747,7 +62746,6 @@
 餦	oismv
 𠌩	oisn
 𩚯	oisp
-𫩧	oisr
 𰂌	oisr
 饇	oisrr
 𠉱	oiss
@@ -63416,7 +63414,7 @@
 𪵍	olhne
 𮨨	olhni
 𨁀	olho
-𠐃	olhp
+𠐃	olhp	[O]
 𠎕	olhq	[Ou]
 𣬹	olhqu
 𠌪	olhu
@@ -63497,6 +63495,7 @@
 翛	olom
 𪬪	olonp
 𨁀	oloo
+𠐃	olop	[Ou]
 𠎕	oloq	[O]
 𰏥	oloq
 𠌪	olou
@@ -63835,6 +63834,7 @@
 𠉦	omow
 钅	omp
 𢗁	omp
+𢢱	omp
 𠍎	ompc
 𬾍	ompd
 𠇢	ompk
@@ -63884,6 +63884,7 @@
 屔	omsp
 𪚙	omsp
 𫝉	omsr
+𫩧	omsr
 伌	omsu
 𥅍	omsu
 𬡌	omsv
@@ -66447,7 +66448,6 @@
 𢿴	oyok
 𬾗	oyok
 𭯉	oyoyu
-𢢱	oyp
 𫣞	oypc
 偨	oypd
 𠋵	oypk
@@ -97667,7 +97667,6 @@
 𭜧	xfgp
 𤐵	xfgrr
 𡭽	xfhaf
-𤒅	xfhbu
 炿	xfhby
 𠬵	xfhe
 㸅	xfhhl
@@ -100130,7 +100129,6 @@
 𪍦	xjeyj
 𧈌	xjeyp
 𰕂	xjeyt
-𡗜	xjf
 𫳍	xjfd
 𮭈	xjfha
 𣫠	xjfhn
@@ -100139,7 +100137,6 @@
 𬬆	xjgc
 𪆉	xjgha
 𡫓	xjgig
-𡬏	xjgjg
 𡫓	xjgkg
 𬺱	xjh
 𡨗	xjhap
@@ -100275,7 +100272,7 @@
 𭔟	xjmgc
 𫳰	xjmge
 𤎟	xjmgf
-𫳽	xjmgg
+𪧧	xjmgg
 𫴄	xjmgk
 𡩧	xjmgu
 䳦	xjmha
@@ -101153,7 +101150,7 @@
 𫔰	xlsit
 𫌇	xlsje
 𫋲	xlsk
-𰿥	xlsl
+𠁧	xlsl
 𧷤	xlslc
 𬮚	xlsm
 𧛐	xlsmg
@@ -102844,7 +102841,6 @@
 𬿍	xoisg
 𬛤	xoisl
 𩛐	xoism
-𰂌	xoisr
 𩛘	xoitc
 𩟌	xoitg
 𱃪	xoitm
@@ -103012,6 +103008,7 @@
 𦏾	xomsm
 𡦈	xomso
 𪚙	xomsp
+𫩧	xomsr
 𥅍	xomsu
 𠇋	xomt
 𭀆	xomtc
@@ -108607,6 +108604,7 @@
 𡪏	xxjma
 𮗗	xxjmb
 𡧢	xxjmc
+𫳽	xxjmg
 𤍘	xxjmm
 𫳜	xxjmu
 𡨡	xxjnb
@@ -109155,6 +109153,7 @@
 𠓞	xxomm
 𨝫	xxomn
 𠇮	xxomo
+𢢱	xxomp
 𠇅	xxomr
 𨗜	xxoms
 𥠌	xxomw
@@ -110123,6 +110122,7 @@
 𪄋	xxxju
 𡫖	xxxjw
 𪅣	xxxkb
+𡗜	xxxkc
 𤴷	xxxkd
 𪠣	xxxke
 𤆍	xxxkf
@@ -110243,7 +110243,7 @@
 𨞩	xxxsg
 𤃄	xxxsh
 𰻰	xxxsi
-𡰸	xxxsj
+𭃎	xxxsj
 刃	xxxsk
 𠭃	xxxsl
 𡰱	xxxsm
