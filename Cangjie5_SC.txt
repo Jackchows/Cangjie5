@@ -6019,6 +6019,7 @@
 睕	bujnu
 𪾸	bujoc
 𭿤	bujoe
+𬑨	bujok
 𥄻	bujp
 𥉙	bujpa
 矃	bujpn
@@ -6427,7 +6428,6 @@
 𥄑	buqo
 𥋋	buqoa
 𥌦	buqoj
-𬑨	buqoo
 瞡	buqou
 𰥪	buqou
 𥆭	buqqo
@@ -20531,7 +20531,6 @@
 𡊟	gbu
 垻	gbuc
 埧	gbuc
-𥈜	gbuc
 䵺	gbul
 𪔄	gbul
 䵺	gbun
@@ -37260,6 +37259,7 @@
 𰶱	jbuc
 𡩈	jbud
 𡕹	jbue
+𥈜	jbuk
 𰥑	jbum
 𢜇	jbup
 𡩇	jbuu
@@ -39386,6 +39386,7 @@
 㹈	jkhq
 㲠	jkhqu
 𦒷	jkhqu
+𣰠	jkhqu
 𩲘	jkhui
 宏	jki
 者	jkia
@@ -39476,6 +39477,7 @@
 𰭧	jku
 𡧞	jkuh
 𡟋	jkv
+𣂐	jkyj
 𣦔	jkylm
 𮋝	jkyma
 𧩥	jkymr
@@ -39563,6 +39565,7 @@
 𡧇	jm
 𰌼	jma
 𰍒	jmad
+𠁗	jmak
 宣	jmam
 𡩦	jmam
 𡪏	jmam
@@ -39951,7 +39954,6 @@
 𫴊	jojf
 𡧰	joju
 𡧦	jok
-𠁊	jok
 𫳌	jokr
 𡪽	joku
 𢂯	jolb
@@ -46245,6 +46247,7 @@
 𧙲	ljks
 𧚨	ljlo
 褄	ljlv
+𧞲	ljmk
 䙋	ljmm
 䘢	ljmn
 䘺	ljmo
@@ -47220,7 +47223,6 @@
 裱	lqmv
 𧛔	lqmy
 衭	lqo
-𧞲	lqoa
 𫌖	lqoj
 𧜴	lqou
 𦘨	lqphh
@@ -68805,7 +68807,6 @@
 𢶹	qaya
 𢾎	qaye
 撔	qayf
-𣂐	qayj
 𣁤	qaykk
 抈	qb
 㨠	qbac
@@ -71018,7 +71019,6 @@
 𫯰	qohjg
 𩖬	qohni
 𢰑	qoho
-𣰠	qohqu
 𢬜	qohv
 𢬩	qoi
 𰔣	qoic
@@ -100318,7 +100318,6 @@
 𭱁	xjoe
 㝦	xjogs
 𮭻	xjohe
-𠁊	xjok
 𩔧	xjomb
 𮭻	xjoni
 𢾶	xjook
@@ -101151,7 +101150,7 @@
 𫌇	xlsje
 𫋲	xlsk
 𰿥	xlsl
-頥	xlslc
+𧷤	xlslc
 𬮚	xlsm
 𧛐	xlsmg
 𬡳	xlsmj
@@ -108068,7 +108067,6 @@
 𪢻	xxgb
 𭏁	xxgbh
 𡔾	xxgbm
-𥈜	xxgbu
 𧹦	xxgcb
 糓	xxgdh
 𢧺	xxgdi
@@ -108595,6 +108593,7 @@
 𬧱	xxjjp
 𮝀	xxjjs
 軕	xxjju
+𣰠	xxjkh
 𢠜	xxjkp
 𡧣	xxjkr
 𰗐	xxjld
@@ -108754,7 +108753,7 @@
 𭁈	xxlqm
 𠁦	xxls
 𮤭	xxlsf
-𧷤	xxlsl
+𬼕	xxlsl
 𬡵	xxltg
 𮕤	xxlu
 𤇐	xxluf
@@ -110242,7 +110241,7 @@
 𨞩	xxxsg
 𤃄	xxxsh
 𰻰	xxxsi
-𡰸	xxxsj
+𭃎	xxxsj
 刃	xxxsk
 𠭃	xxxsl
 𡰱	xxxsm
@@ -110300,7 +110299,7 @@
 𫺄	xxxwp
 𣫬	xxxwt
 〇	xxxxx
-𢿝	xxxyb
+𭪢	xxxyb
 𠧶	xxxyc
 𬷶	xxxyd
 𡓝	xxxye
@@ -119275,6 +119274,11 @@
 ⿶	ziwu
 ⿺	ziwv
 ⿻	ziww
+𝍲	znm
+𝍳	znml
+𝍴	znmy
+𝍵	znmyl
+𝍶	znmyl
 ⽇	zra
 ⽈	zra
 ⾨	zran
