@@ -30438,8 +30438,8 @@
 𤚚	hqqmy
 𥲶	hqqq
 𤘛	hqqu
-筘	hqr
 吿	hqr
+筘	hqr
 𤘘	hqr
 𤙝	hqrau
 𬌞	hqrhr
@@ -58723,10 +58723,10 @@
 𨸢	nlhml
 𨼹	nlhmo
 𬯝	nlhmp
+𨸔	nlhn
 𨹄	nlhnd
 𮥟	nlhnd
 𨸜	nlhne
-𨸔	nlhni
 𨺢	nlhni
 𨽠	nlhoc
 𨼦	nlhog
@@ -59701,7 +59701,6 @@
 𱄿	nmnvm
 𬶳	nmnwa
 𩷷	nmnwf
-𬻘	nmnym
 𬶁	nmo
 鳆	nmoae
 𪪻	nmob
@@ -79484,6 +79483,7 @@
 匲	skrr
 𡰧	sks
 𡱉	sksk
+𬻘	sksk
 𬳪	sksqf
 𩠷	skthu
 𩯢	skthu
@@ -99249,7 +99249,7 @@
 𤛃	xhqpf
 𥳺	xhqpp
 𥮼	xhqpu
-吿	xhqr
+筘	xhqr
 𰑣	xhqrp	[u]
 𥲳	xhqsb
 𮅻	xhqsk
@@ -105187,6 +105187,7 @@
 𡱐	xskn
 𫑝	xsknl
 忍	xskp
+𬻘	xsksk
 𩯢	xskth
 𰕉	xskye
 𰆊	xsl
@@ -110753,7 +110754,6 @@
 𬽑	xyhxo
 𫐰	xyhxu
 𬩚	xyhxv
-𧭹	xyhym
 𨕳	xyhyu
 𫻴	xyib
 𬩢	xyibt
@@ -112106,6 +112106,7 @@
 𫋴	ycyhv
 𫿳	ycyj
 𠅯	ycylc
+𧭹	ycymr
 𠅅	yd
 𫐠	yd
 𨓳	yda
@@ -112784,7 +112785,6 @@
 𨕴	yhye
 𨒂	yhym
 𧧑	yhymr
-𧭹	yhymr
 遞	yhyn
 𠨂	yhyph
 遞	yhyu
