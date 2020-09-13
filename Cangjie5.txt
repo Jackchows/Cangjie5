@@ -1417,6 +1417,7 @@
 𨶆	anomr
 𨵦	anomv
 䦍	anon
+𣈩	anoo
 䦟	anoog
 閦	anooo
 𨴟	anooo
@@ -2078,6 +2079,7 @@
 𧒛	avli
 㓭	avln
 𠛵	avln
+𢑢	avmb	[u]
 䫘	avmbc
 䫀	avmbc
 𩒳	avmbc
@@ -32548,6 +32550,7 @@
 𦦇	hxumb
 𡢗	hxv
 𦈇	hxvff
+𦥠	hxvhe
 𦥠	hxvle
 𦦒	hxvle
 𬛿	hxvml
@@ -66642,6 +66645,7 @@
 𪬢	paus
 恨	pav
 𡘬	pavk
+𣊸	pavmb	[u]
 𢢚	pavo
 䭬	pavvu
 慢	pawe
@@ -70214,6 +70218,7 @@
 艳	qjnau
 邦	qjnl
 鄻	qjnl
+𦥆	qjnog
 𫡗	qjnq
 捥	qjnu
 摍	qjoa
@@ -77288,7 +77293,6 @@
 𩤻	sfbmo
 𩥃	sfbmo
 駧	sfbmr
-𩤗	sfbou
 𩥣	sfbou
 騆	sfbqr
 駉	sfbr
@@ -77708,6 +77712,7 @@
 騤	sfnok
 騛	sfnoo
 䮴	sfnot
+𩤗	sfnou
 䮪	sfnqd
 𱄭	sfnuw
 𱄱	sfnwa
@@ -90931,6 +90936,7 @@
 娤	vgv
 嬻	vgwc
 裝	vgyhv
+𠂈	vh
 𡛳	vha
 𪦴	vhaa
 婂	vhab
@@ -90964,6 +90970,7 @@
 𰌛	vhdu
 婑	vhdv
 嬏	vhdw
+𠬞	vhe
 㛔	vhej
 㚵	vhem
 𡜠	vheq
@@ -104973,7 +104980,6 @@
 𩦔	xsfan
 𩢋	xsfb
 𩥃	xsfbm
-𩥣	xsfbo
 𠤻	xsfd
 㷉	xsfdi
 𩥹	xsfdl
@@ -110057,7 +110063,7 @@
 𣱿	xxxeo
 𣳊	xxxep
 𰊇	xxxer
-𭲞	xxxet
+𤂧	xxxet
 𪶁	xxxeu
 𬉳	xxxev
 𣾌	xxxey
