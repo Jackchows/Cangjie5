@@ -11221,7 +11221,6 @@
 柠	djmn
 椗	djmo
 榢	djmo
-𤊟	djmo
 𣚅	djmp
 梡	djmu
 𩈘	djmwl
@@ -19090,6 +19089,7 @@
 𤉳	fjmf
 煊	fjmm
 𤆼	fjmn
+𤊟	fjmo
 𭶁	fjmp
 烷	fjmu
 𬋋	fjmw
