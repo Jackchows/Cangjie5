@@ -4493,7 +4493,6 @@
 𦟕	bmha
 鴡	bmhaf
 𫚷	bmhaf
-𥁔	bmhio
 𫇀	bmhm
 𣬭	bmhqu
 𪚮	bmhxu
@@ -5414,6 +5413,7 @@
 𦡂	bthg
 𦡦	bthg
 𧖱	bthhl
+𥁔	bthio
 䐤	bthm
 𬛊	btho
 𪭓	bti
@@ -9445,8 +9445,8 @@
 𨫏	cyij
 𨬨	cyiq
 𫒻	cyiq
-銃	cyiu
 鋶	cyiu
+銃	cyiu
 鋶	cyiv
 鈄	cyj
 𨰮	cyje
@@ -11190,7 +11190,7 @@
 𣖋	djir
 𬃋	djir
 𣔮	djis
-𣚺	djisy
+𣚺	djisy	[U]
 𣚸	djiv
 𣛨	djjb
 𭬕	djjd
@@ -16667,8 +16667,8 @@
 洋	etq
 𣴱	etq
 𬉔	etqd
+𣺸	etqf
 溠	etqm
-𣺸	etqo
 㳾	etqu
 𣼑	etrd
 𤅞	etre
@@ -37964,6 +37964,7 @@
 𬅄	jdisd
 𦗱	jdisj
 𤳡	jdisw
+𣚺	jdisy
 𰥡	jdiu
 𡦳	jdixf
 𡦲	jdixf
@@ -46745,7 +46746,6 @@
 裋	lmrt
 褔	lmrw
 褊	lmsb
-𩇧	lmsim
 𩇧	lmsn
 𭀡	lmsp
 𩇦	lmss
@@ -94392,7 +94392,6 @@
 𣂽	wmhml
 氎	wmhqu
 㲲	wmhqu
-𡆶	wmhu
 𭺙	wmhvo
 𢧷	wmi
 𡇓	wmig
@@ -94405,6 +94404,7 @@
 𤴍	wmjmn
 𰢹	wmkj	[u]
 𤲖	wmkp
+𡆶	wmku
 畀	wml
 曱	wmll
 𡈀	wmlm
@@ -96171,7 +96171,7 @@
 𨩔	xcyid
 𨫏	xcyij
 𫒻	xcyiq
-鋶	xcyiu
+銃	xcyiu
 鉼	xcyjj
 𨰠	xcykq
 𫒚	xcylc
