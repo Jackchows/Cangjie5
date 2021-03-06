@@ -24030,7 +24030,6 @@
 𥲹	hbea
 𬜃	hbemc
 𫇓	hbemw
-𦪉	hbeog
 燢	hbf
 爂	hbf
 𤏤	hbf
@@ -32663,6 +32662,7 @@
 䑡	hyei
 𦩨	hyelq
 䑭	hyem
+𦪉	hyeog
 𦨲	hyesu
 𬜚	hyeyh
 艄	hyfb
