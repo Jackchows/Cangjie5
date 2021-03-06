@@ -450,7 +450,6 @@
 剔	ahln
 𭃶	ahln
 𭦡	ahlo
-𭨷	ahlr
 𣉷	ahmfu
 𣈨	ahmj
 昕	ahml
@@ -582,7 +581,6 @@
 𤮦	aimvn
 𬎬	aimvn
 既	aimvu
-𭨴	ain
 昹	aine
 㫤	aine
 𪰰	ainl
@@ -2138,7 +2136,6 @@
 𣋍	awlu
 𣋖	awly
 𣰱	awma
-𣎈	awmf
 𫀝	awmf
 𣉍	awmv
 㬈	awot
@@ -3782,6 +3779,7 @@
 𭃤	bhln
 𦜓	bhlo
 貄	bhlq
+𭨷	bhlr
 𦞧	bhlw
 𧲹	bhlw
 貊	bhma
@@ -4045,6 +4043,7 @@
 𭨺	bimr
 𮍄	bims
 𩉃	bimwl
+𭨴	bin
 脉	bine
 𬪃	binl
 𨿐	biog
@@ -6903,6 +6902,7 @@
 𫸤	bwlt
 𫤻	bwlv
 𭂀	bwlv
+𣎈	bwmf
 𦛢	bwmg
 腘	bwmi
 𦜠	bwml
