@@ -27142,6 +27142,7 @@
 𥗶	himr
 𩳟	himso
 𥱔	himt
+𩳯	himuu
 𩳍	himvm
 𤬵	himvn
 𮫦	himwd
@@ -27179,6 +27180,7 @@
 𨾦	hiog
 𮔺	hioge
 𩴧	hiogf
+𩳇	hiohe
 𩴁	hiohr
 𮅟	hioi
 𩲩	hioii
@@ -27234,6 +27236,7 @@
 𬴿	hisj
 䈆	hisk
 𩱺	hisl
+𩲂	hisli
 𥰢	hism
 𩴹	hismg
 𡭒	hismr
@@ -31719,7 +31722,6 @@
 𩱕	humrb
 𣯗	humta
 𦣾	humu
-𩳯	humuu
 𣯋	humvi
 𣮻	humwl
 𩈠	humwl
@@ -38586,7 +38588,6 @@
 𡭇	jiob
 胾	jiobo
 截	jiog
-𩳇	jiohe
 𬲏	jioiv
 𭤈	jiok
 𬲏	jiomv
@@ -38605,7 +38606,6 @@
 𢧜	jirmg
 𬹢	jirxu
 𡫣	jisk
-𩲂	jisli
 翝	jismm
 𫸜	jit
 𡨜	jiti
