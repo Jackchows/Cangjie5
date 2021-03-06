@@ -15405,7 +15405,6 @@
 𤃉	emdp
 汳	eme
 𣷌	emeb
-𨄈	emeid
 𣷉	emem
 𣶬	emem
 㳅	emf
@@ -73916,6 +73915,7 @@
 𨀃	rmeg
 𨆒	rmegj
 䟕	rmei
+𨄈	rmeid
 𨃣	rmeii
 𨃹	rmeiv
 𨀹	rmem
@@ -74230,6 +74230,7 @@
 䟠	rmiv
 𫏆	rmive
 躔	rmiwg
+𨄭	rmixi
 蹗	rmixp
 𮜥	rmiyf
 踮	rmiyr
@@ -84260,7 +84261,6 @@
 𤯂	tmik
 𮎾	tmik
 𤯋	tmitf
-𨄭	tmixi
 芉	tmj
 𫶰	tmje
 𭶧	tmjf
