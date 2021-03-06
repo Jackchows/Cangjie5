@@ -3746,7 +3746,6 @@
 𧳯	bhjka
 𧳅	bhjlk
 腄	bhjm
-𫰘	bhjn
 䏦	bhjr
 𭁦	bhjr
 𧴍	bhjtc
@@ -91036,6 +91035,7 @@
 𫲊	vhjf
 媑	vhjg
 娷	vhjm
+𫰘	vhjn
 姡	vhjr
 𡝜	vhjr
 𡟈	vhju
