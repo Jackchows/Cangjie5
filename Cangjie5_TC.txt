@@ -19424,7 +19424,6 @@
 焕	fnbk
 𤐃	fnbq
 𧣌	fnbq
-𩶠	fnbrv
 𨨺	fnc
 𤐐	fncr
 𣕇	fnd
@@ -56900,6 +56899,7 @@
 鰩	nfbou
 𩻲	nfboy
 鯛	nfbqr
+𩶠	nfbrv
 䱢	nfbsd
 𩸤	nfbse
 𥁝	nfbt
