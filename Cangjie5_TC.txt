@@ -25483,7 +25483,6 @@
 穖	hdvii
 穖	hdvik
 𮃐	hdvip
-𪀂	hdvis
 𨤑	hdvle
 𬕢	hdvmb
 𫀿	hdvno
@@ -26216,6 +26215,7 @@
 𦂎	hfvif
 𪅹	hfvii
 𪅹	hfvik
+𪀂	hfvis
 𪂯	hfvjr
 䉤	hfvk
 鵦	hfvne
