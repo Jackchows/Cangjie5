@@ -49768,7 +49768,6 @@
 𥛫	mfscd
 𥛹	mfseq
 𥘉	mfsh
-𤤻	mfshg
 祒	mfshr
 𥚆	mfsip
 𥜓	mfsit
@@ -50983,6 +50982,7 @@
 𤧁	mgsfd
 𠞢	mgsh
 𭸵	mgsh
+𤤻	mgshg
 䑒	mgshh
 𤤊	mgshh
 䑒	mgshi
