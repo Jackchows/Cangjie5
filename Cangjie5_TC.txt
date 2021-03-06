@@ -284,7 +284,6 @@
 炚	af
 𣌢	af
 𭴋	af
-𩤵	afahm
 𣆺	afb
 𰖤	afbb
 曭	afbf
@@ -77293,6 +77292,7 @@
 䮖	sfaa
 𩥈	sfabt
 𩤶	sfahl
+𩤵	sfahm
 騴	sfajv
 𩤟	sfamh
 駻	sfamj
