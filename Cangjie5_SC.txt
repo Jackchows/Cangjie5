@@ -43373,6 +43373,7 @@
 𫦥	krm
 䫑	krmbc
 𩑲	krmbc
+𤶲	krmg
 𪟗	krmn
 哿	krmnr
 䂟	krmr
@@ -47266,7 +47267,6 @@
 𧟀	lrji
 𮖹	lrji
 裎	lrmg
-𤶲	lrmg
 𮖅	lrmk	[u]
 𮧰	lrmvj
 㥈	lrp
