@@ -25097,6 +25097,7 @@
 𥢕	hdmwd
 䅺	hdmwf
 𥡱	hdmwf
+𮃓	hdmwg
 𥢏	hdmwj
 𣗱	hdmy
 𥝽	hdmys
@@ -25587,6 +25588,7 @@
 𥠣	hdyrn
 𮃳	hdyro
 穰	hdyrv
+𥣦	hdysj
 𥠥	hdysp
 䆈	hdysq
 𥣔	hdysq
@@ -28280,7 +28282,6 @@
 篻	hmwf
 𥯑	hmwg
 𥵏	hmwg
-𮃓	hmwg
 簟	hmwj
 𮆖	hmwk
 甥	hmwks
@@ -33079,7 +33080,6 @@
 𦨣	hyshr
 艉	hyshu
 艦	hysit
-𥣦	hysj
 艍	hysjr
 簇	hysk
 𬕗	hysl
