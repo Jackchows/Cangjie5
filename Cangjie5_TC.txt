@@ -56807,7 +56807,6 @@
 𨚡	nerau
 㣄	nesd
 𫦘	nesh	[u]
-𢌟	nesmm
 𰭟	nesmm
 𢀷	nesu
 𢌼	net
@@ -58508,6 +58507,7 @@
 𨂣	nkryo
 𠝸	nksh
 𮋊	nksmm
+𢌟	nksmm
 騖	nksqf
 𩡵	nksqf
 𢍸	nkt
