@@ -46480,7 +46480,6 @@
 𤗎	llklu
 𤗎	llklv
 川	lll
-𪮋	lll
 帅	lllb
 𫖦	lllb
 𬡔	lllb
@@ -70559,6 +70558,7 @@
 𢵟	qlkc
 𪭶	qll
 𫑢	qll
+𪮋	qll
 帮	qllb
 𢂼	qllb
 𰓝	qllb
@@ -101110,7 +101110,6 @@
 牑	xllhs
 𧙽	xlli
 牑	xllis
-𪮋	xlll
 𫖦	xlllb
 𠁵	xlllc
 𬏍	xllll
@@ -103968,6 +103967,7 @@
 烲	xqlf
 𰓐	xqlk
 𫑢	xqll
+𪮋	xqll
 𢂼	xqllb
 扸	xqlln
 𰔋	xqlmo
