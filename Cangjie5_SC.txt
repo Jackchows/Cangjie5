@@ -31686,6 +31686,7 @@
 𣬟	huln
 𰄩	huln
 𬚬	hulqh
+𭯫	hulvk
 𰚓	hulw
 𰚒	hulwl
 𭕾	hum
@@ -80524,7 +80525,6 @@
 𡳕	sulmy
 𠜾	suln
 𰅈	suln	[u]
-𭯫	sulvk
 𡲭	sulwp
 䪱	sumbc
 𩒔	sumbc
