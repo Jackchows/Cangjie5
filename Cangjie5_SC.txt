@@ -3921,7 +3921,6 @@
 䑄	bhul
 貒	bhumb
 臜	bhuo
-𪾷	bhuob
 𦞜	bhup
 䑄	bhut
 貀	bhuu
@@ -6298,6 +6297,7 @@
 矍	buoge
 𬑠	buoge
 瞧	buogf
+𪾷	buogs
 𥆉	buohe
 眕	buohh
 𥅩	buoi
