@@ -20731,7 +20731,6 @@
 𢿰	gdok
 𭤄	gdok
 𡒫	gdtb
-𥢇	gdtdl
 埬	gdw
 堜	gdwf
 𭤵	gdyhs
@@ -25395,6 +25394,7 @@
 穙	hdtco
 䅬	hdtct
 𥟂	hdtd
+𥢇	hdtdl
 䅵	hdtgf
 𥠦	hdtgk
 𮃬	hdtgr
