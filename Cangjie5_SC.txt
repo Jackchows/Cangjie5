@@ -29452,6 +29452,7 @@
 𮕢	hommn
 𭛨	hommo
 𢓲	hommr
+𢔚	homms
 𢓆	hommu
 㣔	homn
 䈩	homn
@@ -63829,7 +63830,6 @@
 𫝹	ommp
 俉	ommr
 𠇙	ommr
-𢔚	omms
 㐾	ommu
 佞	ommv
 侲	ommv
