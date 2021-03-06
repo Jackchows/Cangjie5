@@ -19550,7 +19550,6 @@
 𪸕	fomn
 𪹊	fomn
 㷿	fomo
-𡑯	fomo
 𭶖	fomp
 烚	fomr
 𪹊	fomv
@@ -22405,6 +22404,7 @@
 𡉛	gomn
 𧺰	gomni
 趔	gomnn
+𡑯	gomo
 𧾒	gomoc
 趦	gomor
 𪤣	gomp
