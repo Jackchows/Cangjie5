@@ -25872,7 +25872,6 @@
 㪢	heye
 褩	heyhv
 𧝷	heyhv
-𦧢	heyid
 𥲂	heyj
 𪐍	heyjj
 𪐔	heylc
@@ -30926,6 +30925,7 @@
 𨽵	hryfr
 𠂶	hryh
 𫫹	hryhh
+𦧢	hryid
 𪯬	hryj
 𫫹	hrykh
 𫇖	hrykr
