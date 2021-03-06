@@ -15469,6 +15469,7 @@
 𣽥	emjc
 汧	emjj
 澉	emjk
+𭯿	emjn
 汚	emjs
 㴙	emjx
 𣸸	emke
@@ -15539,6 +15540,7 @@
 𤃣	emoc
 𤂮	emof
 𪶫	emog
+𭰘	emoo
 鸿	empm
 沰	emr
 沯	emr
@@ -15626,6 +15628,7 @@
 𤀌	emwm
 𭳒	emwm
 𰝲	emwm
+𭰫	emwr
 𣻝	emwu
 𪶪	emwu
 㴗	emwv
@@ -15992,6 +15995,7 @@
 𭰠	eoyg
 𭲅	eoyk
 𰴸	eoymr
+𣻃	eoyr
 𰜸	eoyr
 涖	eoyt
 𬉕	eoyu
@@ -70727,7 +70731,6 @@
 扞	qmj
 撖	qmjk
 𪮂	qmjl
-𭯿	qmjn
 𰓭	qmjp
 𢰔	qmju
 插	qmjx
@@ -70782,7 +70785,6 @@
 𪭵	qmob
 𢫳	qmoj
 𢫲	qmon
-𭰘	qmoo
 𢱆	qmor
 𢗣	qmp
 𢪦	qmp
@@ -70849,7 +70851,6 @@
 㩖	qmwm
 㨽	qmwn
 𭍠	qmwr
-𭰫	qmwr
 𭍥	qmwsl
 𢱼	qmwt
 𢳍	qmwu
@@ -71214,7 +71215,6 @@
 𢻳	qoye
 𢳺	qoyk
 𢬖	qoym
-𣻃	qoyr
 𭡩	qoyr
 𬀁	qoyso
 𭠿	qoyt
