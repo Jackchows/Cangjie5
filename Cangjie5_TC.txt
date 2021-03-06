@@ -2809,6 +2809,7 @@
 𧴩	bcc
 𧷜	bccim
 賺	bccmc
+𬥕	bccms
 賹	bccmt
 𫎙	bccru
 𧷚	bccrv
@@ -3239,6 +3240,7 @@
 𧸔	bcykm
 𧶆	bcykr
 𧸽	bcylc
+𬥖	bcymg
 𧸗	bcymh
 譻	bcymr
 𧸥	bcymu
@@ -5640,7 +5642,6 @@
 眹	bucmk
 盻	bucms
 𥅎	bucms
-𬥕	bucms
 𥈕	bucmt
 睇	bucnh
 䀰	bucor
@@ -6738,7 +6739,6 @@
 𥇟	buyks
 𥌰	buylc
 𥊵	buyle
-𬥖	buymg
 眦	buymp
 𧠻	buymr
 睟	buyoj
