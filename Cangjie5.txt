@@ -65190,7 +65190,6 @@
 𫢑	oqk
 偆	oqka
 傣	oqke
-𭝺	oqkf
 俦	oqki
 𦎚	oqknq
 俸	oqkq
@@ -68106,6 +68105,7 @@
 𢝇	pqjr
 𢝣	pqka
 㥭	pqke
+𭝺	pqkf
 㤽	pqki
 𢜗	pqkq
 𢟩	pqks
