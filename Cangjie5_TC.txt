@@ -13675,7 +13675,6 @@
 㶁	ebin
 㶁	ebiu
 渾	ebjj
-𫩚	ebk
 鸂	ebkf
 𤄩	ebkf
 𪷖	ebkf
@@ -14723,7 +14722,6 @@
 𰝮	eidr
 灖	eidy
 𬇟	eie
-𭇛	eie
 𣶔	eiel
 𤒵	eif
 粱	eifd
@@ -14875,7 +14873,6 @@
 𣶫	eiva
 𫞛	eiva
 泼	eive
-𭇜	eive
 𣴤	eivi
 浒	eivj
 瀍	eiwg
@@ -17146,7 +17143,6 @@
 𣸘	eyjp
 汶	eyk
 㳠	eyk
-𭇚	eyk
 㵦	eykb
 𬈀	eykb
 灜	eykc
@@ -17243,7 +17239,6 @@
 𤃒	eypu
 𭱼	eypu
 𭳁	eypu
-𭊅	eyql
 沾	eyr
 湻	eyra
 㶆	eyra
@@ -71313,7 +71308,6 @@
 揳	qqhk
 𢲞	qqhq
 𢰟	qqht
-𫫓	qqir
 𢪋	qqj
 挷	qqjl
 㨹	qqjm
@@ -72378,6 +72372,7 @@
 𠶇	rbine
 𠦣	rbj
 喗	rbjj
+𫩚	rbk
 嘫	rbkf
 𭌲	rbkg
 𪟣	rbks
@@ -72848,6 +72843,7 @@
 啩	rggy
 鷕	rghaf
 𠲊	rghe
+𭇵	rghl
 𪵉	rghne
 呿	rgi
 𡂞	rgii
@@ -73209,6 +73205,7 @@
 嚒	ridi
 嚤	ridq
 嚰	ridr
+𭇛	rie
 𡀚	rief
 𠲝	riei	[U]
 𡁜	rifb
@@ -73338,6 +73335,7 @@
 𠺳	riua
 𰈾	riuf
 哤	riuh
+𭇜	rive
 啷	rivl	[u]
 𡃚	riwg
 𡂻	rixe
@@ -75691,6 +75689,7 @@
 𫫶	rqhw
 𠿂	rqhx
 𫫃	rqik
+𫫓	rqir
 㕩	rqj
 𠴜	rqje
 𠳐	rqjl	[O]
@@ -76802,6 +76801,7 @@
 𡀧	ryjv
 呅	ryk
 哒	ryk
+𭇚	ryk
 𭈇	rykb
 𡆈	rykf
 𡆍	rykf
@@ -76891,6 +76891,7 @@
 嚧	rypt
 唬	rypu
 𰉌	rypy
+𭊅	ryql
 呫	ryr
 嗃	ryrb
 𡃝	ryrb
@@ -82158,7 +82159,6 @@
 𦍶	tghen
 𦍑	tghi
 𧕶	tghii
-𭇵	tghl
 𣂷	tghml
 𣂼	tghml
 𢐱	tghn
@@ -108035,7 +108035,6 @@
 𣹿	xxeyc
 𤂓	xxeyh
 𤀫	xxeyj
-𭇚	xxeyk
 𤄦	xxeyp
 𣿉	xxeyr
 𰛶	xxeys
@@ -109547,6 +109546,7 @@
 𠻉	xxryh
 𡅼	xxryj
 𰇞	xxryk
+𭇚	xxryk
 噛	xxrym
 𰈈	xxryp
 𠽆	xxryr
