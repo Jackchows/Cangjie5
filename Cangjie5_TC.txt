@@ -9716,6 +9716,7 @@
 𣖒	dbck
 𬄎	dbck
 𣖡	dbcn
+𬃽	dbcr
 櫻	dbcv
 棌	dbd
 𪲳	dbd
@@ -10666,6 +10667,7 @@
 𪴤	dhbu
 鼒	dhbul
 鼒	dhbun
+𬂰	dhbv
 𣑮	dhby
 𣙺	dhce
 𣟱	dhcj
@@ -10731,6 +10733,7 @@
 𣛘	dhhk
 柳	dhhl
 櫛	dhhl
+𬂪	dhhl
 𣏆	dhhn
 𣛗	dhhr
 㭛	dhhv
@@ -11900,6 +11903,7 @@
 楗	dnkq
 𬂹	dnkq
 梴	dnkv
+𭫎	dnkw
 䢶	dnl
 𣏖	dnl
 橢	dnlb
@@ -12521,6 +12525,7 @@
 㯢	drvc
 𣑀	drvk
 𣐲	drvl
+𭬌	drxu
 椻	dsav
 𣕩	dsav
 𣚼	dsav
@@ -12861,6 +12866,7 @@
 𭫩	dtnb
 𭪺	dtnh
 𬻮	dtnin
+𬄲	dtnk
 𬩾	dtnl
 𣓃	dtob
 𣗪	dtod
@@ -15706,7 +15712,6 @@
 𭰾	enkt
 涎	enkv
 𣶻	enkw
-𭫎	enkw
 邓	enl
 𪵰	enl
 㳱	enla
@@ -77030,7 +77035,6 @@
 𢃳	sbau
 屭	sbcc
 𭕤	sbcn
-𬃽	sbcr
 𪩺	sbdk
 𡲐	sbdu
 㕞	sbe
@@ -78168,7 +78172,6 @@
 𩮉	shbuk
 𧢋	shbuu
 𩭏	shbv
-𬂰	shbv
 𩬅	shby
 刅	shc
 𩫵	shc
@@ -78279,7 +78282,6 @@
 𮪽	shhk
 𩯘	shhkb
 𠥰	shhl
-𬂪	shhl
 𩬐	shhlo
 髠	shhn
 𩬻	shhnd
@@ -80294,7 +80296,6 @@
 㔵	srvc
 𡲍	srvs
 𦌺	srwlv
-𭬌	srxu
 𠧙	sry
 𠧬	sry
 敺	srye
@@ -80438,7 +80439,6 @@
 𭅜	stmo
 𤭸	stmvn
 𤮖	stmvn
-𬄲	stnk
 𪴲	stno
 𢼷	stok
 匶	stox
