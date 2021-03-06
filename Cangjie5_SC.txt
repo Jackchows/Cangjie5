@@ -48075,7 +48075,6 @@
 𮦋	mbbu
 𧶪	mbbuc
 𮦒	mbbuc
-𤥜	mbbue
 𩆆	mbbul
 𩆆	mbbun
 覼	mbbuu
@@ -50085,6 +50084,7 @@
 㺺	mgbu
 珼	mgbuc
 𧵼	mgbuc
+𤥜	mgbue
 𤥛	mgbup
 現	mgbuu
 䚈	mgbuu
