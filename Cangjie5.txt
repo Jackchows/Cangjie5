@@ -82696,7 +82696,6 @@
 蒰	thye
 𦻉	thye
 𰲕	thye
-𩊶	thylh
 𧨁	thymr
 𦶢	thyn
 䓘	thyr
@@ -83695,6 +83694,7 @@
 𩍠	tjykq
 𱁵	tjyks
 䪋	tjylc
+𩊶	tjylh
 𩉮	tjylm
 𩋀	tjylo
 䪈	tjylr
