@@ -9731,7 +9731,6 @@
 𬃔	dbdl
 𬃭	dbdl
 𪳚	dbdw
-𭵱	dbef
 𤏡	dbf
 𣟠	dbff
 橳	dbfs
@@ -17517,6 +17516,7 @@
 泶	fbe
 𤆳	fbe
 𭁭	fbe
+𭵱	fbef
 㡀	fbf
 𤇑	fbf
 𥽲	fbfd
@@ -20363,6 +20363,7 @@
 烗	fyvo
 燣	fywd
 燷	fywf
+𤎆	fywg
 𰞭	fywk
 𤓠	fywl
 𬊥	fywr
@@ -23487,7 +23488,6 @@
 𡐴	gywb
 壈	gywd
 𡒄	gywf
-𤎆	gywg
 𫝟	gywg
 塷	gywi
 壇	gywm
