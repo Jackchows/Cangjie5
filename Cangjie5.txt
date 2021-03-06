@@ -63429,6 +63429,7 @@
 𭀣	olai
 僂	olav
 㠳	olb
+𫢻	olb
 佒	olbk
 𠆶	olbu
 𨥷	olc
@@ -65879,6 +65880,7 @@
 𮠚	otbm
 偂	otbn
 𠐁	otbo
+𫢬	otbs
 供	otc
 𰂰	otca
 𠎞	otcb
@@ -67543,7 +67545,6 @@
 忡	pl
 𰖴	pla
 慺	plav
-𫢻	plb
 怏	plbk
 𢝈	plbt
 忱	plbu
@@ -68287,7 +68288,6 @@
 贳	ptbo
 𭞾	ptbo
 𭁯	ptbq
-𫢬	ptbs
 𫺘	ptbs
 𢢺	ptbu
 貰	ptbuc
