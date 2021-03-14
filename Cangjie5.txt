@@ -2423,6 +2423,7 @@
 骶	bbhpm
 𩩎	bbhpr
 𮪨	bbhqm
+𩨰	bbhqo
 𩨽	bbhrr
 𩩯	bbhsb
 𩩾	bbhsu
@@ -3865,7 +3866,6 @@
 𬚾	bhqi
 胜	bhqm
 胅	bhqo
-𩨰	bhqo
 㬶	bhqr
 𦞖	bhqu
 𦙤	bhqu
@@ -95239,6 +95239,7 @@
 𰉼	xbbg
 𦠽	xbbhf
 𩨒	xbbhn
+𩨰	xbbho
 𠕩	xbbhw
 𭩇	xbbjc
 𩪏	xbbkm
@@ -95404,7 +95405,6 @@
 𦘴	xbhp
 𫆗	xbhpl
 胝	xbhpm
-𩨰	xbhqo
 𦙤	xbhqu
 𮌸	xbhsb
 𧴙	xbhsi
