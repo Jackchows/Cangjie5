@@ -70550,12 +70550,12 @@
 𢵟	qlkc
 𪭶	qll
 𫑢	qll
-𪮋	qll
 帮	qllb
 𢂼	qllb
 𰓝	qllb
 捜	qlle
 扸	qlll
+𪮋	qlll
 蜇	qllmi
 拂	qlln
 扸	qlln
@@ -103967,7 +103967,6 @@
 烲	xqlf
 𰓐	xqlk
 𫑢	xqll
-𪮋	xqll
 𢂼	xqllb
 扸	xqlln
 𰔋	xqlmo
@@ -109546,7 +109545,6 @@
 𠻉	xxryh
 𡅼	xxryj
 𰇞	xxryk
-𭇚	xxryk
 噛	xxrym
 𰈈	xxryp
 𠽆	xxryr
