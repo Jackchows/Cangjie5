@@ -54828,7 +54828,7 @@
 𢛀	msp
 𭜳	msp
 𠣣	mspvo
-𫨑	msq
+𫨑	msqf
 巭	msqo
 𭮱	msre
 𠪮	msrj
