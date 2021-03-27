@@ -2871,7 +2871,6 @@
 賺	bchhc
 𧵬	bchhv
 貶	bchio
-𧵟	bchio
 𧵺	bchjd
 𧷃	bchje
 𧵳	bchjr
@@ -2895,6 +2894,7 @@
 𧷛	bchui
 𮚇	bchvf
 貾	bchvi
+𧵟	bchvo
 𧵄	bchvp
 𧹇	bchxb
 戝	bci
@@ -95291,7 +95291,7 @@
 𰷘	xbcgc
 鸎	xbcha
 𭐯	xbche
-𧵟	xbchi
+𧵟	xbchv
 𠕺	xbci
 𦊅	xbcik
 䶼	xbcip
