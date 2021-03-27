@@ -4515,6 +4515,7 @@
 助	bmks
 𰮇	bmku
 𭁟	bml
+𣍠	bml
 脼	bmlb
 𣍷	bmlb
 𣍾	bmlb
@@ -4613,7 +4614,6 @@
 𭁵	bmuk
 𪞕	bmus
 㓂	bmuv
-𣍠	bmv
 𬛂	bmvb
 𮌦	bmvb
 𤓹	bmvc
