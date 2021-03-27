@@ -72320,6 +72320,7 @@
 嗳	rbbe
 噯	rbbe
 㖟	rbbe
+𭇒	rbbm
 𡁌	rbbo
 𫫰	rbbq
 喎	rbbr
@@ -80943,7 +80944,6 @@
 𬟀	tbbk
 𮒆	tbbk
 𦳎	tbbm
-𭇒	tbbm
 蕣	tbbq
 萵	tbbr
 薍	tbbu
@@ -104281,6 +104281,7 @@
 𠯲	xrb
 𭈙	xrbau
 噯	xrbbe
+𭇒	xrbbm
 𭌙	xrbca
 𠹻	xrbck
 𰈥	xrbcu
@@ -105421,7 +105422,6 @@
 𦮏	xtbbb
 𦰹	xtbbe
 𬟀	xtbbk
-𭇒	xtbbm
 𦸡	xtbbu
 蓥	xtbc
 𧅅	xtbcf
