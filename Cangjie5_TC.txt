@@ -29280,7 +29280,6 @@
 篒	hoiv
 𥷓	hoiv
 𢖇	hoixf
-𫹍	hoj
 𰷻	hojbc	[u]
 𭛫	hojbd
 㣮	hojbj
@@ -29292,6 +29291,7 @@
 衠	hojcn
 𢓛	hojd
 𭣠	hoje
+𫹍	hoje
 𪫖	hojii
 𭛮	hojio
 𢕣	hojjk
