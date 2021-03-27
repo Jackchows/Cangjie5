@@ -3651,6 +3651,7 @@
 脷	bhdn
 𧳟	bhdoo
 𦟇	bhdp
+𬛐	bhdp
 𧳕	bhdt
 腇	bhdv
 膰	bhdw
@@ -3674,7 +3675,6 @@
 爳	bhfn
 𦡗	bhfp
 𢡺	bhfp
-𬛐	bhfp
 噕	bhfr
 㸒	bhg
 䏕	bhg
