@@ -11445,8 +11445,6 @@
 𢖗	dlhoo
 𣭵	dlhqu
 𠒹	dlhu
-𣑺	dli
-𧉓	dli
 螙	dlii
 𭸋	dlik
 𭩛	dlis
@@ -11482,6 +11480,8 @@
 樓	dllv
 頼	dlmbc
 樻	dlmc
+𣑺	dlmi
+𧉓	dlmi
 𢆬	dlmjj
 𣨗	dlmni
 桃	dlmo
