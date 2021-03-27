@@ -420,7 +420,6 @@
 𥟙	ahhd
 𥟟	ahhd
 𢒗	ahhhh
-𣈢	ahhj
 𣉧	ahhk
 昴	ahhl
 𬁋	ahhl
@@ -519,6 +518,7 @@
 㫝	ahvi
 昂	ahvl
 𪱁	ahwg
+𣈢	ahwj
 𣆵	ahx
 𣋱	ahxc
 𣈵	ahxo
