@@ -113563,7 +113563,6 @@
 𩫮	ylhhj
 𨙛	ylhto
 衷	ylhv
-𨒷	yli
 𨗗	ylib
 𬴡	ylihs
 𠅊	ylj
@@ -113585,6 +113584,7 @@
 𬴜	ylmf
 步	ylmh
 歩	ylmh
+𨒷	ylmi
 逃	ylmo
 遗	ylmo
 歨	ylmo
