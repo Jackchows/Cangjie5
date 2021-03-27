@@ -3235,6 +3235,7 @@
 貥	bcyhn
 𧷹	bcyhr
 𫎒	bcyhs
+𧸩	bcyhu
 𧸉	bcyia
 𧶰	bcyib
 𧴼	bcyj
@@ -3248,7 +3249,6 @@
 𧸗	bcymh
 譻	bcymr
 𧸥	bcymu
-𧸩	bcymu
 賥	bcyoj
 䞊	bcypu
 貼	bcyr
@@ -95329,7 +95329,7 @@
 𰶼	xbcw
 𮚖	xbcwa
 𧵾	xbcye
-𧸩	xbcym
+𧸩	xbcyh
 𣎻	xbd
 𦝃	xbdd
 𦡞	xbddf
