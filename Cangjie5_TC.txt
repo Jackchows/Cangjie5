@@ -51141,6 +51141,7 @@
 𤪼	mgtyj
 𭹛	mgtys
 玌	mgu
+𬍑	mgu
 𤨾	mguap
 𤪀	mguce
 𤪖	mgufk
@@ -51161,7 +51162,6 @@
 𤤓	mguq
 𤨈	mgurb
 𤩑	mgutn
-𬍑	mguu
 𤨉	mguuk
 𤣷	mgv
 𭒁	mgv
