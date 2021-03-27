@@ -2798,7 +2798,6 @@
 䞈	bcbhf
 𬢒	bcbhu
 賱	bcbjj
-𫎓	bcbm
 𰭐	bcbmc
 𬥢	bcbme
 𬥥	bcbmo
@@ -2962,6 +2961,7 @@
 賭	bcjka
 𫎟	bcjka
 𧸴	bcjkf
+𫎓	bcjm
 𮚪	bcjmc
 𧵴	bcjmd
 賩	bcjmf
