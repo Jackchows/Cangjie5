@@ -1156,7 +1156,6 @@
 𨶇	anhrf
 闙	anhrk
 𣅅	anhs
-𨴃	anhs
 𬁒	anhs
 閻	anhsx
 闑	anhud
@@ -1423,6 +1422,7 @@
 𫔛	anop
 𨴞	anoq
 闟	anorm
+𨴃	anos
 𨶭	anotf
 𨶏	anouk
 𨳢	anoy
@@ -95080,7 +95080,6 @@
 𨷵	xanhm
 𭦁	xanhn
 𨷣	xanho
-𨴃	xanhs
 𠕣	xanhx
 𭥑	xani
 𭥸	xanii
@@ -95105,6 +95104,7 @@
 𨵼	xanol
 𨷲	xanom
 𨴟	xanoo
+𨴃	xanos
 𢛩	xanp
 𨷞	xanpk
 𮤑	xanqj
