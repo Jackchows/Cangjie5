@@ -430,7 +430,6 @@
 𣉺	ahhqo
 𰖝	ahhw
 㦹	ahi
-𣉨	ahi
 𣋇	ahiei
 𣉷	ahifu
 𣉝	ahij
@@ -513,6 +512,7 @@
 𣌒	ahtgi
 𰖽	ahuc
 暞	ahud
+𣉨	ahui
 曍	ahuj
 𣊊	ahum
 㫝	ahvi
@@ -94975,7 +94975,6 @@
 𪃌	xahha
 𥟟	xahhd
 𬁋	xahhl
-𣉨	xahi
 𭃶	xahln
 𬪌	xahnl
 𬁊	xahod
@@ -94987,6 +94986,7 @@
 甠	xahqm
 𣌸	xahsl
 𣅮	xaht
+𣉨	xahui
 𭦺	xahxo
 𢾙	xahye
 𭦕	xaice
