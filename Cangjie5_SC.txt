@@ -2959,7 +2959,6 @@
 𧸄	bcjiv
 𧸰	bcjjm
 賭	bcjka
-𫎟	bcjka
 𧸴	bcjkf
 𫎓	bcjm
 𮚪	bcjmc
@@ -2970,6 +2969,7 @@
 𮚉	bcjmu
 䝹	bcjnu
 𰶿	bcjp
+𫎟	bcjpa
 𮚫	bcjpn
 𧷦	bcjpu
 𦊙	bcjr
