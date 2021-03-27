@@ -6321,6 +6321,7 @@
 𥄍	buoll
 𥆓	buoll
 𥋎	buolu
+𥅔	buom
 瞺	buoma
 睔	buomb
 𥌉	buomb
@@ -6328,7 +6329,6 @@
 䀬	buomg
 𥆂	buomg
 𥄺	buomj
-𥅔	buomj
 𪾧	buoml
 睑	buomm
 𥄰	buomm
