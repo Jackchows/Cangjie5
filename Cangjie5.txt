@@ -2944,7 +2944,7 @@
 𦉲	bcj
 𰷚	bcjac
 𧷿	bcjal
-𫎕	bcjb
+𫎕	bcjb	[u]
 𧷒	bcjbc
 𬥲	bcjbv
 𧸵	bcjcm
@@ -3242,6 +3242,7 @@
 𰶹	bcyk
 𧸔	bcykm
 𧶆	bcykr
+𫎕	bcylb
 𧸽	bcylc
 𬥖	bcymg
 𧸗	bcymh
