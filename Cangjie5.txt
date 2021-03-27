@@ -11576,6 +11576,7 @@
 欛	dmbb
 𣚊	dmbb
 𣠌	dmbb
+𪲔	dmbb
 槓	dmbc
 𣛲	dmbd
 𪴖	dmbd
@@ -11585,7 +11586,6 @@
 㰌	dmbg
 橒	dmbi
 㯪	dmbi
-𪲔	dmbib
 㮕	dmbk
 栭	dmbl
 㯪	dmbl
