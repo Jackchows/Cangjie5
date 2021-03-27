@@ -4632,6 +4632,7 @@
 𦙫	bmym
 肊	bn
 㐍	bn
+𭨧	bn
 冤	bnai
 脕	bnau
 脃	bnau
@@ -4722,7 +4723,6 @@
 𦠦	bnmu
 䢆	bnmvi
 𭨥	bnn
-𭨧	bnn
 𰁊	bnn
 𫜠	bnnd
 𬊓	bnnf
@@ -95537,7 +95537,6 @@
 𰯓	xbnme
 𤓸	xbnmm
 𦠦	xbnmu
-𭨧	xbnn
 𭭆	xbnno
 𰕗	xbnok
 𫺲	xbnp
