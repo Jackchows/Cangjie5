@@ -20726,6 +20726,7 @@
 𭤵	gdyhs
 𡉺	ge
 𪢿	ge
+𪢲	ge
 𡌩	gea
 𣍆	gea
 𣫙	gead
@@ -20933,7 +20934,6 @@
 𠹢	ger
 𣪥	ger
 𪡹	ger
-𪢲	ger
 𭇸	ger
 𰈺	ger
 𰉶	ger
