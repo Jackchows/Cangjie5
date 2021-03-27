@@ -3899,6 +3899,7 @@
 𧲽	bhss
 𰮯	bhss
 𬛑	bhsu
+𦙜	bhsu
 䐄	bhsx
 貘	bhtak
 𧴌	bhtco
@@ -4068,6 +4069,7 @@
 𮌸	bisb
 𦜏	bisk
 𤔺	bismr
+𦜛	bisn
 𡬰	biso
 𰮯	biss	[u]
 𫟊	bitb
@@ -27246,7 +27248,6 @@
 𩴵	hismt
 𩳤	hismv
 𰿋	hismv
-𦜛	hisn
 𩣣	hisqf
 𩣨	hisqf
 𩥢	hisqf
@@ -58159,7 +58160,6 @@
 𥍯	nhsme
 騭	nhsqf
 𠂏	nhss
-𦙜	nhsu
 矠	nhta
 𥎚	nhtcg
 𥍼	nhtlk
