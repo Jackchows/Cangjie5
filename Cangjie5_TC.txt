@@ -5774,7 +5774,6 @@
 瞗	buhaf
 𪄙	buhaf
 𫚲	buhaf
-𭿟	buhaj
 矈	buhas
 𥆒	buhau
 𥌣	buhbf
@@ -5888,6 +5887,7 @@
 𥉒	buhud
 𭿙	buhuh
 䁛	buhui
+𭿟	buhuj
 矏	buhus
 𮗙	buhuz
 䀥	buhvd
