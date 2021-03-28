@@ -5942,6 +5942,7 @@
 𪾡	buiku
 𥉽	buile
 𭿂	buili
+𭾿	builo
 瞊	builr
 𪾪	buimo
 𧡆	buimu
@@ -5953,7 +5954,6 @@
 𥌜	buipf
 𥅞	buipm
 𥋨	buipp
-𭾿	buiqo
 眙	buir
 𥇿	buirm
 𥄅	buis
