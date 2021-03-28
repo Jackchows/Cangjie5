@@ -6393,6 +6393,7 @@
 𥆲	buphu
 𪾠	bupi
 盷	bupim
+𥈝	bupkp
 𪾠	bupm
 𥅬	bupmi
 盷	bupmm
@@ -6401,7 +6402,6 @@
 䀝	bupp
 𮌗	bupp
 𥆯	buppg
-𥈝	bupqp
 眗	bupr
 𫌩	bupr
 𰴏	bupr
