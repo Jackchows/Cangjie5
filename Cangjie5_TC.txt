@@ -10999,6 +10999,7 @@
 𭩤	dih
 𪁿	dihaf
 𣜰	dihc
+𬃩	dihd
 槭	dihf
 㭽	dihi
 㯅	dihj
@@ -78830,7 +78831,6 @@
 𪈺	sihaf
 𬷔	sihaf
 𫔖	sihbv
-𬃩	sihd
 𩡛	sihda
 𨲚	sihdg
 𨲿	sihec
