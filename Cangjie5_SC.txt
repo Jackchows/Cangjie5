@@ -8539,7 +8539,6 @@
 𨦛	coik
 鑯	coim
 鈐	coin
-𭠔	coin
 錜	coip
 𨥶	coip
 鎗	coir
@@ -71070,6 +71069,7 @@
 𢰇	qoik
 攕	qoim
 扲	qoin
+𭠔	qoin
 捻	qoip
 𢫙	qoip
 𪭩	qoip
