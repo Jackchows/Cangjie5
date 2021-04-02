@@ -21710,7 +21710,6 @@
 𡎌	gkit
 𢻝	gkje
 𭣛	gkje
-𪯆	gkjmm
 䵅	gkjoe
 䵅	gkjon
 𡍋	gkjt
@@ -38145,6 +38144,7 @@
 𪌡	jejhn
 𪌡	jejhu
 𰍘	jejj
+𪯆	jejmm
 䴷	jejmu
 𮭼	jejnu
 䴱	jejp
