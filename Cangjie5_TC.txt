@@ -47074,6 +47074,7 @@
 䘞	lnvm
 𧞦	lnwf
 𥝃	lnwlb
+𪚖	lnybp
 牓	lnybs
 𤖸	lnyg
 𰠚	lnyhs
@@ -114307,7 +114308,6 @@
 𮡢	ynwgn
 𧇙	ynwks
 䖖	ynwl
-𪚖	ynybp
 𠧝	ynyc
 𢾊	ynye
 𬽞	ynyhl
