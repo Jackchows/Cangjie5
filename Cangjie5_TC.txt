@@ -116140,6 +116140,7 @@
 𧮛	yrybg
 𧬪	yrybj
 讞	yrybk
+𮙇	yrybp
 𧬍	yrybr
 謗	yrybs
 䜜	yrybu
@@ -117019,7 +117020,6 @@
 𥩖	yty
 竨	ytyaj
 𥪟	ytybb
-𮙇	ytybp
 𰩤	ytyck
 㪭	ytye
 𥩣	ytyg
