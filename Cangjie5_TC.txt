@@ -78024,6 +78024,7 @@
 騈	sfyjj
 馼	sfyk
 𩥮	sfykm
+䯁	sfykq
 𩣖	sfykr
 𩣝	sfylh
 𩤋	sfymd
@@ -80167,7 +80168,6 @@
 𭁝	sqtc
 𤰀	squg
 𦨄	squyg
-䯁	sqykq
 𬔙	sqyt
 叵	sr
 𡰪	sr
