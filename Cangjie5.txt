@@ -48079,7 +48079,6 @@
 䨳	mbbuu
 𧢝	mbbuu
 𰴒	mbbuu
-𤥜	mbbve
 𬚏	mbbve
 𧟴	mbc
 𨪖	mbc
@@ -50090,6 +50089,7 @@
 𤤢	mgbv
 𰡾	mgbv
 𭺒	mgbvd
+𤥜	mgbve
 𤨊	mgbvk
 玬	mgby
 𤪅	mgbya
