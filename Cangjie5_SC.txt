@@ -37161,7 +37161,6 @@
 宴	jav
 㝠	jayc
 𢾀	jaye
-𢾑	jaye
 𣂃	jayj
 巿	jb
 𡧓	jb
@@ -100068,7 +100067,6 @@
 䎞	xjan
 𢝬	xjap
 𭓡	xjau
-𢾑	xjaye
 𡧓	xjb
 賷	xjbbu
 𮣣	xjbc
@@ -110596,6 +110594,7 @@
 𱂓	xyaom
 𠧢	xyap
 𬰺	xyatc
+𢾑	xyaye
 𨒵	xybb
 𬩧	xybbd
 𰻃	xybbe
@@ -111665,6 +111664,7 @@
 𩑂	yawli
 𫖙	yaybc
 𩐟	yayck
+𢾑	yaye
 𨗈	yayf
 韼	yayhj
 𧙴	yayhv
