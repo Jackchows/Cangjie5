@@ -20051,6 +20051,7 @@
 𩴖	fuhi
 𤐜	fuhi
 㷨	fuhj
+𭀦	fuhk
 𧹍	fuhuc
 𩳁	fuhui
 𪕗	fuhxv
@@ -23214,7 +23215,6 @@
 𠓘	gugrr
 𠒶	guguu
 䴃	guhaf
-𭀦	guhk
 𰊳	guhk
 瞉	guhne
 䍍	guhne
