@@ -39145,6 +39145,7 @@
 𬧵	jjoye
 斡	jjoyj
 𨋼	jjoyj
+𬢺	jjoyr
 𨊳	jjp
 𭅓	jjp
 𨋮	jjpa
@@ -115732,7 +115733,6 @@
 誨	yrowy
 𧪃	yroyr
 𧪄	yroyr
-𬢺	yroyr
 訫	yrp
 㤐	yrp
 䚰	yrp
