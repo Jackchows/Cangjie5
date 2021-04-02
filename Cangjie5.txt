@@ -7690,6 +7690,7 @@
 䥞	chsk
 䥇	chsm
 𮊺	chsmm
+𮢑	chss
 錎	chsx
 𨰉	chtl
 𮣬	chtl
@@ -69833,7 +69834,6 @@
 𢬉	qhsp
 𫽓	qhsq
 𰓸	qhsr	[u]
-𮢑	qhss
 𢺙	qhst
 摡	qhsu
 㨭	qhsu
