@@ -27228,7 +27228,6 @@
 䉞	hirp
 𫙎	hirrj
 𥫿	his
-𫼉	his
 篇	hisb
 𮫫	hisei
 𮕅	hisfv
@@ -31027,6 +31026,7 @@
 𣱆	hshvp
 𬇋	hshvp
 臽	hshx
+𫼉	hsi
 𥵦	hsib
 戾	hsik
 𤠩	hsik
