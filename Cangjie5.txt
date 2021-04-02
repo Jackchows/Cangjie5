@@ -10829,7 +10829,6 @@
 𣘧	dhoi
 𣘱	dhoi
 𣔥	dhom
-𭿹	dhomr
 桁	dhon
 椼	dhon
 樅	dhoo
@@ -58136,6 +58135,7 @@
 𥍦	nholb
 矝	nhoml
 𥎄	nhomr
+𭿹	nhomr
 𥎃	nhond
 䂉	nhonk
 𢐔	nhoo
