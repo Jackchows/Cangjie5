@@ -52368,7 +52368,6 @@
 𪴽	mmvfh
 厊	mmvh
 㕄	mmvi
-𣧒	mmvj
 瓨	mmvn
 𠩅	mmvn
 𬎥	mmvn
@@ -52707,6 +52706,7 @@
 𧰛	mnmrt
 𰐊	mnmt
 𢧖	mnmui
+𣧒	mnmvj
 殌	mnmvm
 㼗	mnmvn
 㼦	mnmvn
