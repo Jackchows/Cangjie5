@@ -77731,6 +77731,7 @@
 䑞	sfniq
 𰰊	sfniq
 𩡰	sfnj
+𩡰	sfnk
 駳	sfnkm
 騝	sfnkq
 駳	sfnkv
@@ -80146,7 +80147,6 @@
 𰍽	sqmb
 𩑫	sqmbc
 𰍱	sqni
-𩡰	sqnk
 那	sqnl
 𨞗	sqnl
 𫛀	sqnlf
