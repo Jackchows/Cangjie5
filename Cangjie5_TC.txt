@@ -20523,6 +20523,7 @@
 䶲	gbnxu
 坝	gbo
 𣙲	gbod
+𭏥	gbof
 𫭮	gbon
 𡏟	gbou
 壱	gbp
@@ -22050,7 +22051,6 @@
 壻	gnob
 墢	gnoe
 𡍰	gnoe
-𭏥	gnof
 𡐆	gnoi
 𡎝	gnok
 墱	gnot
