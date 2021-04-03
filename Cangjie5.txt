@@ -59583,6 +59583,7 @@
 骁	nmjpu
 鿹	nmjpu
 𬶞	nmjrb
+𢎰	nmjs
 𫚬	nmjsh
 鲼	nmjto
 𬴏	nmjto
@@ -59606,7 +59607,6 @@
 𱅆	nmkr
 劲	nmks
 𠣃	nmks
-𢎰	nmks
 𱅁	nml
 𭛅	nmlb
 𩧫	nmlbk
