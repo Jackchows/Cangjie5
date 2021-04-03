@@ -7658,7 +7658,6 @@
 𢚖	chp
 𫒇	chp
 錉	chpa
-𬫌	chpi
 𮡳	chpl
 𬫌	chpm
 銽	chpr
@@ -7709,6 +7708,7 @@
 𭄃	chune
 鎴	chup
 𫒠	chvf
+𬫌	chvi
 䤝	chvl
 𨪐	chvm
 鈲	chvo
