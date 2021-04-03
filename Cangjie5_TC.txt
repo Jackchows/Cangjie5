@@ -56360,6 +56360,7 @@
 觨	nbme
 瓕	nbmgi
 𧤡	nbmgk
+𧣲	nbmlk
 𧥖	nbmmp
 𮗰	nbmmr
 𧣨	nbmmv
@@ -56379,7 +56380,6 @@
 𮗩	nbmvn
 𧢵	nbmvs
 𧢾	nbmvu
-𧣲	nbmwk
 𧣠	nbmym
 𢏃	nbn
 𧢺	nbn
