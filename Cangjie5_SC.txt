@@ -15645,7 +15645,6 @@
 潒	enao
 浼	enau
 𣴊	enau
-𤀧	enau
 𪵼	enau
 𭱘	enbc
 涣	enbk
@@ -15795,6 +15794,7 @@
 溋	enst
 漲	ensv
 𣵊	enuq
+𤀧	enuu
 𰛊	envm
 澛	enwa
 瀂	enwa
@@ -107978,13 +107978,13 @@
 𤃶	xxemr
 𤃁	xxemv
 𣻔	xxemw
-𤀧	xxena
 𣑃	xxend
 𡋋	xxeng
 𣴙	xxeni
 𣶊	xxenl
 𤂻	xxenn
 㳄	xxeno
+𤀧	xxenu
 𣱸	xxeo
 𬐮	xxeob
 𣸊	xxeoi
