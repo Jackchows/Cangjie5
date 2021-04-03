@@ -8205,8 +8205,8 @@
 𨪳	cmbf
 𨯊	cmbg
 𨯟	cmbg
-𨰡	cmbg
 𨭭	cmbi
+𨰡	cmbi
 鐔	cmbj
 𨨰	cmbk
 𨭭	cmbl
