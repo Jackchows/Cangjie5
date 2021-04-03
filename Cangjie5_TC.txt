@@ -70671,6 +70671,7 @@
 𢸍	qmbv
 擂	qmbw
 搢	qmca
+𢺕	qmce
 𭡵	qmcp
 拪	qmcw
 𢬣	qmcw
@@ -70821,7 +70822,6 @@
 扤	qmu
 撍	qmua
 𢹎	qmue
-𢺕	qmue
 𭡝	qmue
 𭡲	qmue
 表	qmv
@@ -103987,6 +103987,7 @@
 𢺰	xqmbo
 𢳬	xqmbs
 𢹩	xqmbu
+𢺕	xqmce
 𢬣	xqmcw
 麦	xqme
 𰔅	xqmem	[u]
@@ -104016,7 +104017,6 @@
 𰔓	xqmre
 𰒽	xqms
 𢸸	xqmtc
-𢺕	xqmue
 𰓀	xqmvi
 𢪔	xqmvm
 𢱾	xqmwf
