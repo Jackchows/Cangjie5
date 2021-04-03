@@ -115684,7 +115684,6 @@
 䛈	yrok
 𢿶	yrok
 𪯙	yrok
-𫌴	yrok
 𠆂	yrol
 䚸	yroll
 𧦺	yrom
@@ -116185,6 +116184,7 @@
 𧨆	yryiv
 䚵	yryj
 謰	yryjj
+𫌴	yryk
 䜔	yrykb
 諺	yrykh
 𮘷	yrykm
