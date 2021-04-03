@@ -50733,6 +50733,7 @@
 𤥺	mgnbk
 𭺅	mgnbq
 𤩞	mgnce
+𪼤	mgncr
 㺭	mgnd
 𬎄	mgndf
 𤦕	mgndt
@@ -50775,7 +50776,6 @@
 瓍	mgnlb
 琭	mgnme
 𤩈	mgnmr
-𪼤	mgnmr
 𤥕	mgnmu
 玖	mgno
 歅	mgno
@@ -101535,11 +101535,11 @@
 珁	xmgmv
 𤩗	xmgmw
 瓊	xmgnb
+𪼤	xmgnc
 𬍪	xmgne
 𤥀	xmgni
 𤣲	xmgnj
 鄄	xmgnl
-𪼤	xmgnm
 歅	xmgno
 𰡼	xmgns
 𬛱	xmgo
