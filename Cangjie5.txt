@@ -115224,7 +115224,6 @@
 战	yri
 𢧝	yri
 𧥾	yri
-𬢜	yri
 誏	yriav
 𧨜	yrib
 譧	yricc
@@ -115275,6 +115274,7 @@
 諮	yrior
 𧫺	yriot
 𬢴	yriov
+𬢜	yrip
 𧩅	yripe
 試	yripm
 𬢣	yriq
