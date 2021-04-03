@@ -44222,6 +44222,7 @@
 𢄒	lbism
 𢂵	lbit
 𢅏	lbitc
+𫷊	lbjbc
 𢃜	lbjbm
 𢃐	lbjcm
 㡧	lbjct
@@ -44233,7 +44234,6 @@
 𢂢	lbjkp
 㡦	lbjmc
 𢄨	lbjmc
-𫷊	lbjmc
 𢃏	lbjmf
 𢁼	lbjmn
 幏	lbjmo
