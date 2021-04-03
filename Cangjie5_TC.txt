@@ -87619,12 +87619,12 @@
 𡼗	uhuj
 𡽁	uhuj
 𡽕	uhuj
-𡵙	uhul
 𡽶	uhul
 𰏁	uhuo
 巍	uhvi
 岻	uhvi
 岇	uhvl
+𡵙	uhvl
 㞴	uhvp
 𭪼	uhwd
 崥	uhwj
