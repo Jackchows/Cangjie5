@@ -34004,7 +34004,6 @@
 𮁽	ifiok
 𥚭	ifior
 𥘒	ifip
-𫀐	ifipm
 𰧶	ifipm	[u]
 𥜮	ifipr
 𥙉	ifir
@@ -34146,6 +34145,7 @@
 𥘫	ifmnr
 𥙠	ifmom
 𥚭	ifmor
+𫀐	ifmpm
 祏	ifmr
 𰨐	ifmrb	[u]
 𥙤	ifmrp
@@ -49427,7 +49427,6 @@
 𮁽	mfiok
 𥚭	mfior
 𥘒	mfip
-𫀐	mfipm
 𰧶	mfipm
 𥜮	mfipr
 𥙉	mfir
@@ -49593,6 +49592,7 @@
 𮙛	mfmo
 𥙠	mfmom
 𥚭	mfmor
+𫀐	mfmpm
 祏	mfmr
 𰨐	mfmrb
 𥙤	mfmrp
