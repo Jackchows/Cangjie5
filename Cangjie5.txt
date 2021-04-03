@@ -19819,8 +19819,8 @@
 𭵻	fsfi
 灱	fsh
 𮭖	fshaf
+𪹳	fshb
 𪸐	fshi
-𪹳	fshi
 炤	fshr
 𤈦	fshu
 𰞬	fshw
@@ -97869,7 +97869,7 @@
 𢠒	xfrp
 𤊳	xfrse
 𰗞	xfsd
-𪹳	xfshi
+𪹳	xfshb
 𭴏	xfsk
 𫦸	xfsks
 𢑐	xfsm
