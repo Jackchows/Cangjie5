@@ -88652,6 +88652,7 @@
 𰎸	utgr	[u]
 𡾞	utgs
 𭗡	utgt
+𡻘	utgt
 𡻹	uthj
 𡾲	uthj
 嵯	uthm
@@ -88700,7 +88701,6 @@
 嵯	utqm
 嵳	utqm
 𭖾	utqp
-𡻘	utqt
 巏	utrg
 𭗳	utsj
 𦒀	utsmm
