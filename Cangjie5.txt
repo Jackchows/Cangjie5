@@ -53284,6 +53284,7 @@
 𧲖	moybp
 豴	moycb
 𢽚	moye
+𧱱	moyhh
 𣂀	moyj
 豣	moyjj
 𧲈	moykb
@@ -53295,7 +53296,6 @@
 𧲋	moypo
 𧱠	moysp
 䝑	moytg
-𧱱	moyth
 𧲘	moyti
 𡃠	moytr
 𧱙	moytv
