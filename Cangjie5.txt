@@ -20285,6 +20285,7 @@
 燵	fygq
 𤒄	fyhc
 𫵍	fyhc
+𬊰	fyhh
 熢	fyhj
 炕	fyhn
 㷟	fyhr
@@ -20345,7 +20346,6 @@
 𤇥	fyt
 𤋾	fyta
 燑	fytg
-𬊰	fyth
 㸍	fyti
 𤈼	fytj
 𤍤	fytj
