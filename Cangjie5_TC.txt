@@ -92737,6 +92737,7 @@
 媉	vsmg
 嫪	vsmh
 㜦	vsmi
+𡣝	vsmj
 𪥵	vsmm
 㚸	vsmr
 㜮	vsmt
@@ -92772,7 +92773,6 @@
 𭑻	vswl
 𡤱	vswu
 𡟭	vsyj
-𡣝	vsyj
 𡟛	vsyj
 𢇉	vsyki
 𭭠	vsylm
@@ -107298,10 +107298,10 @@
 𡛂	xvsk
 姫	xvsll
 媉	xvsmg
+𡣝	xvsmj
 𫱐	xvsmt
 𢟇	xvsp
 𡜢	xvss
-𡣝	xvsyj
 𰐈	xvt
 𭒮	xvtaa
 𡡂	xvtge
