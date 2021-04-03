@@ -90997,6 +90997,7 @@
 嫓	vhbp
 姠	vhbr
 𡜍	vhbu
+𭑸	vhbv
 𤔕	vhbyg
 嬼	vhcn
 𡤒	vhcq
@@ -91551,7 +91552,6 @@
 𰀧	vlbqr	[u]
 𰥆	vlbt
 妉	vlbu
-𭑸	vlbv
 𨬽	vlc
 収	vle
 𡝯	vle
