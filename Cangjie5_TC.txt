@@ -18694,12 +18694,12 @@
 熦	ffog
 𢽻	ffok
 𣀢	ffok
-𤉼	ffou
 㥕	ffp
 𫺞	ffp
 𬸖	ffpym
 𪹝	ffqf
 𤑲	ffql
+𤉼	ffqu
 𭵏	ffrg
 𤇻	ffsm
 𰟎	fftc
