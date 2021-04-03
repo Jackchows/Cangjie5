@@ -56287,7 +56287,6 @@
 氄	nbhqu
 𣭲	nbhqu
 𮗥	nbhqu
-𧣝	nbhs
 𮗤	nbht
 𧤬	nbhub
 𩴢	nbhui
@@ -56429,6 +56428,7 @@
 𮥠	nbop
 𱁀	nbop
 𧣟	nbopd
+𧣝	nbos
 恿	nbp
 𢡢	nbp
 𧢶	nbp
