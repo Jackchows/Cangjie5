@@ -41771,6 +41771,7 @@
 狂	khmg
 𤞕	khmgb
 𪺾	khmgg
+𤡰	khmgg
 𤞬	khmgt
 𤡫	khmhd
 獂	khmhf
@@ -42246,7 +42247,6 @@
 𤝋	khyk
 𭸃	khyk
 𤢍	khykb
-𤡰	khykg
 𪻉	khykg
 𬌵	khykq
 𤞼	khykr
