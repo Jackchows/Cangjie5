@@ -24555,6 +24555,7 @@
 𥯆	hdci
 𬓵	hdcim
 𥣍	hdcin
+𮃐	hdcip
 稴	hdcmc
 𣞊	hdcmi
 𥢎	hdcmi
@@ -25479,7 +25480,6 @@
 𮡎	hdv
 穖	hdvii
 穖	hdvik
-𮃐	hdvip
 𨤑	hdvle
 𬕢	hdvmb
 𫀿	hdvno
