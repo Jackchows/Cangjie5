@@ -92872,7 +92872,6 @@
 𡢼	vtpb
 𡡣	vtpd
 𡢬	vtpd
-𫱻	vtpk
 𡟝	vtpo
 𫱰	vtpu
 𫰧	vtq
@@ -92880,6 +92879,7 @@
 𡤮	vtqr
 㛨	vtqu
 孉	vtrg
+𫱻	vtrk
 𫰮	vts
 媶	vtsj
 𫲝	vtst
