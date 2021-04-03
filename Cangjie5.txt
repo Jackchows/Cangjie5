@@ -90620,7 +90620,7 @@
 紺	vftm
 綨	vftmc
 䌙	vftmc
-𦅠	vftmq
+𦅠	vftmj
 𦂭	vftmr
 𦆇	vftmr
 𦂼	vftmv
