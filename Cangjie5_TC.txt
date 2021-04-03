@@ -3851,7 +3851,6 @@
 𬛆	bhpa
 豹	bhpi
 䐚	bhpl
-𫆗	bhpl
 豹	bhpm
 胝	bhpm
 豼	bhpp
@@ -3928,6 +3927,7 @@
 貀	bhuu
 膬	bhuu
 胝	bhvi
+𫆗	bhvl
 𧳩	bhvno
 胍	bhvo
 𦙆	bhvp
