@@ -41532,6 +41532,7 @@
 𤟑	khhsk
 𤝤	khhsn
 𤡚	khhsu
+𪻆	khhui
 獋	khhuj
 𤢳	khhul
 𬍂	khhum
@@ -41540,7 +41541,6 @@
 狐	khhvo
 㹝	khhvp
 瘤	khhw
-𪻆	khhwi
 猈	khhwj
 𤠞	khhwp
 㺞	khhxc
