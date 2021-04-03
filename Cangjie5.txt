@@ -85523,7 +85523,6 @@
 𫅓	tqtq
 羴	tqtqq
 𰭙	tqtt
-𦍫	tqtvi
 羌	tqu
 𫅎	tqu
 𫅛	tqubb
@@ -85561,6 +85560,7 @@
 譱	tqyrr
 菈	tqyt
 𦏆	tqytg
+𦍫	tqyvi
 𪉤	tqywi
 羶	tqywm
 𦏨	tqywv
