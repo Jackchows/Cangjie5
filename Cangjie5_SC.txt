@@ -34584,7 +34584,6 @@
 𦙪	ihb
 𥁘	ihbt
 𥁣	ihbt
-𢇧	ihbu
 𫤯	ihc
 𬫧	ihc
 𢌍	ihcc
@@ -35096,6 +35095,7 @@
 庸	ilb
 𢁔	ilb
 𭙘	ilbk
+𢇧	ilbu
 𢈏	ilc
 𢞢	ilcp
 𪲜	ild
