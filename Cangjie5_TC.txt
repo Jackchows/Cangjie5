@@ -42699,6 +42699,7 @@
 𭼠	kmbs
 𤶰	kmbt
 𥁋	kmbt
+𤵿	kmbv
 癗	kmbw
 𰼻	kmc
 㾞	kmcw
@@ -42773,7 +42774,6 @@
 𨾭	kmog
 𤶥	kmok
 㾳	kmov
-𤵿	kmov
 𪽶	kmrb
 𤻒	kmrj
 𤻳	kmrr
@@ -100741,6 +100741,7 @@
 𪥓	xkmbg
 𤹶	xkmbk
 𥁋	xkmbt
+𤵿	xkmbv
 𤶈	xkmcw
 𭑃	xkmd
 𪥈	xkmfj
@@ -100753,7 +100754,6 @@
 𰏇	xkmn
 疴	xkmnr
 𨾭	xkmog
-𤵿	xkmov
 𰣻	xkmrr
 𡘰	xkmrt
 𫯦	xkmso
