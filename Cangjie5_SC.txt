@@ -79774,6 +79774,7 @@
 𭅞	smjk
 𦑥	smjka
 𦑈	smjlo
+𬚈	smjmc
 𮋌	smjmm
 𦒨	smjti
 𦑐	smjwi
@@ -79919,7 +79920,6 @@
 䎎	smsju
 𢑑	smsm
 𢑚	smsm
-𬚈	smsmc
 𠭙	smsme
 𤈗	smsmf
 𩢳	smsmf
