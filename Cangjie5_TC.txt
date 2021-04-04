@@ -50817,7 +50817,6 @@
 𪼌	mgoge
 㻪	mgogs
 㻽	mgogs
-𪻬	mgogu
 𭹆	mgohg
 珍	mgohh
 𪻴	mgohh
@@ -50866,6 +50865,7 @@
 𪻖	mgoms
 瑶	mgomu
 𤩣	mgomu
+𪻬	mgomu
 瑜	mgomv
 𰢆	mgomy
 𤣮	mgon
