@@ -12090,6 +12090,7 @@
 𩐋	dolsm
 𩐒	dolsm
 𭩫	dom
+𪲀	dom
 檜	doma
 棆	domb
 顂	dombc
@@ -12215,7 +12216,6 @@
 𣒬	dpdm
 𣟓	dpfc
 椈	dpfd
-𪲀	dpg
 𭬦	dpgf
 柲	dph
 𬂟	dph
