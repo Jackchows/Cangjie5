@@ -92402,7 +92402,6 @@
 㛀	vnsm
 𡟚	vnst
 𬌋	vntmc
-𡞿	vnue
 嬎	vnum
 㛯	vnus
 妈	vnvm
@@ -92946,6 +92945,7 @@
 㜐	vumt
 𠄑	vun
 𫱂	vune
+𡞿	vune
 媺	vunk
 孈	vuob
 𡠱	vuob
