@@ -87198,7 +87198,6 @@
 𰻶	ubnl
 𫶜	ubnn
 歂	ubno
-𪨹	ubob
 𡻰	ubof
 𢽸	ubok
 𢿗	ubok
@@ -88491,6 +88490,7 @@
 𨜋	urnl
 𪨸	urno
 𬅨	urno
+𪨹	urob
 嶉	urog
 𢽡	urok
 𢾷	urok
