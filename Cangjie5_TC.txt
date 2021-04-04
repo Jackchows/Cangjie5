@@ -115130,7 +115130,6 @@
 䜠	yrhlc
 詶	yrhll
 𧦐	yrhlo
-𧦼	yrhlo
 譭	yrhme
 訢	yrhml
 𣃎	yrhml
@@ -115198,6 +115197,7 @@
 詆	yrhvi
 𧥴	yrhvl
 𤬃	yrhvo
+𧦼	yrhvo
 𧦄	yrhvp
 諀	yrhwj
 䛜	yrhwk
