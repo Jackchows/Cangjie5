@@ -15501,6 +15501,7 @@
 澒	emmc
 沶	emmf
 沄	emmi
+𪷏	emmi
 𣳙	emmj
 𰜥	emml
 𣲇	emmn
@@ -15577,7 +15578,6 @@
 𭳼	emtg
 𬇬	emth
 㴻	emti
-𪷏	emti
 㵐	emto
 𤂢	emtp
 𣶮	emtu
@@ -97214,6 +97214,7 @@
 𣷌	xemlb
 𣵾	xemlm
 𭱋	xemmb
+𪷏	xemmi
 𭱊	xemmo
 𠮔	xemmp
 𣶢	xemms
@@ -97229,7 +97230,6 @@
 𣵑	xemsk
 𬇸	xemsm
 𣵠	xemso
-𪷏	xemti
 𭱣	xemue
 𣼸	xemui
 𣶖	xemvg
