@@ -50813,7 +50813,6 @@
 𰢇	mgof
 琟	mgog
 𨾽	mgog
-𪻤	mgogc
 𪼛	mgogd
 𪼌	mgoge
 㻪	mgogs
@@ -50847,6 +50846,7 @@
 𤦎	mgomb
 𪼔	mgomb
 𰢙	mgomb
+𪻤	mgomc
 㻌	mgomd
 𭺈	mgomf
 𰢌	mgomf
