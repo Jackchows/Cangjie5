@@ -74425,6 +74425,7 @@
 跴	rmmcw
 𨁪	rmmcw
 趶	rmmd
+𮛉	rmmdm
 𧿨	rmme
 呩	rmmf
 𠸱	rmmf
@@ -74469,7 +74470,6 @@
 䟚	rmmml
 𨀥	rmmmo
 躧	rmmmp
-𮛉	rmmmr
 𧿙	rmmmu
 䟴	rmmmv
 䟓	rmmn
