@@ -89874,6 +89874,7 @@
 𦀋	vfime
 𮈞	vfimm
 絘	vfimo
+𬗊	vfine
 𥾐	vfip
 𦇘	vfipd
 𥿮	vfipm
@@ -89887,7 +89888,6 @@
 䋆	vfis
 編	vfisb
 𦄒	vfisb
-𬗊	vfise
 𦆲	vfish
 綟	vfisk
 𦇁	vfisk
