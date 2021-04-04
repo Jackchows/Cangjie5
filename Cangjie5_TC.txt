@@ -22007,7 +22007,6 @@
 𡊑	gnf
 𭶊	gnf
 𩿆	gnhaf
-𫭧	gnhd
 𭏋	gnhd
 圾	gnhe
 殼	gnhne
@@ -22061,6 +22060,7 @@
 𪤳	gnri
 垜	gnsd
 埩	gnsd
+𫭧	gnsd
 场	gnsh
 𰋍	gnsrg
 𡎠	gnst
