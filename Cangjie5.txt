@@ -91042,7 +91042,6 @@
 鄉	vhiil
 𡤪	vhim
 姂	vhio
-𡜁	vhio
 𭀗	vhiu
 奷	vhj
 姝	vhjd
@@ -91141,6 +91140,7 @@
 媳	vhup
 嬶	vhut	[Ou]
 𡛜	vhvi
+𡜁	vhvo
 𡚼	vhvp
 婢	vhwj
 𡜧	vhwk
@@ -107095,7 +107095,6 @@
 𪦂	xvhbk
 𠨞	xvhhp	[u]
 𠨞	xvhhs	[u]
-𡜁	xvhio
 𡝜	xvhjr
 𡟢	xvhju
 𭒤	xvhkb
@@ -107108,6 +107107,7 @@
 𡝢	xvhsk
 𠨍	xvhsl
 𰀵	xvhu
+𡜁	xvhvo
 𡠌	xvhwp
 𪦪	xvhws
 嬩	xvhxc
