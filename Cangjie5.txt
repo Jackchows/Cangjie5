@@ -24581,6 +24581,7 @@
 稦	hddmq
 䅘	hddoo
 𥣱	hddow
+𥟂	hddt
 𫞸	hddw
 𥤏	hddwi
 𥝐	hde
@@ -25392,7 +25393,6 @@
 𮃤	hdtcg
 穙	hdtco
 䅬	hdtct
-𥟂	hdtd
 𥢇	hdtdl
 䅵	hdtgf
 𥠦	hdtgk
