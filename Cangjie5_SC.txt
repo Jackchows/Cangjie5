@@ -43458,6 +43458,7 @@
 𭄷	kscmt
 𠡙	ksdy
 𤵧	kse
+𤺳	kseq
 𭶕	ksf
 𤸮	ksfb
 𤺶	ksfe
@@ -43570,7 +43571,6 @@
 𮈋	ksvif
 𤰛	ksw
 勰	kswp
-𤺳	ksyq
 夹	kt
 㚏	kt
 瘄	kta
