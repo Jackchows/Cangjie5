@@ -41809,7 +41809,6 @@
 𰡉	khmtc
 𤞤	khmth
 獗	khmto
-𤷝	khmu
 犽	khmvh
 𤝃	khmvi
 𬌽	khmvi
@@ -43050,6 +43049,7 @@
 癒	komp
 㾑	komr
 𤺠	komu
+𤷝	komu
 瘉	komv
 𤸤	komv
 㼪	komvn
