@@ -45104,6 +45104,7 @@
 蛛	lihjd
 𧎚	lihje
 蝩	lihjg
+𧌯	lihjm
 𬠕	lihjp
 蛞	lihjr
 蟜	lihkb
@@ -45141,7 +45142,6 @@
 𧑂	lihpu
 𧉖	lihq
 蛾	lihqi
-𧌯	lihqm
 﨡	lihqm
 蛈	lihqo
 蚝	lihqu
