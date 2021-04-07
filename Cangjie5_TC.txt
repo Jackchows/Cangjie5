@@ -33867,11 +33867,13 @@
 𭙸	ifdq
 𫷹	ifdv
 㵗	ife
+𥛫	ifecd
 𥛋	ifeed
 䄌	ifeee
 𥙲	ifeg
 𢌇	ifegi
 𥘓	ifei
+𥛫	ifeid
 䄕	ifew
 𢉘	iff
 𥘙	iff
@@ -34334,7 +34336,6 @@
 蹙	ifryo
 𬒺	ifryo
 㞝	ifs
-𥛫	ifscd
 𥛹	ifseq
 𥘉	ifsh
 祒	ifshr
@@ -49263,10 +49264,12 @@
 𬴵	mfe
 𰆱	mfe
 𬓜	mfea
+𥛫	mfecd
 𥛋	mfeed
 䄌	mfeee
 𥙲	mfeg
 𥘓	mfei
+𥛫	mfeid
 䄕	mfew
 㶨	mff
 㶪	mff
@@ -49774,7 +49777,6 @@
 祦	mfrvk	[u]
 𥜐	mfrxu
 𬒺	mfryo
-𥛫	mfscd
 𥛹	mfseq
 𥘉	mfsh
 祒	mfshr
