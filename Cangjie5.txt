@@ -46171,6 +46171,7 @@
 𧊤	liylc
 𧔥	liylc
 𧑔	liyle
+𧌂	liylh
 𧉀	liylm
 𧒭	liylo
 𰳌	liylw
@@ -46178,7 +46179,6 @@
 𰳅	liymb
 𮕃	liymf
 𰲿	liymf
-𧌂	liymh
 𧍐	liymn
 𧏿	liymo
 䛓	liymr
