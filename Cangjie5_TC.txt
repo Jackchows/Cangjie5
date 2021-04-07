@@ -36476,7 +36476,6 @@
 䗪	itfi
 𡊅	itg
 𧷫	itgc
-𭙬	itgi
 鴘	ithaf
 𢊑	ithb
 𫸄	ithi
@@ -36521,6 +36520,7 @@
 庰	itt
 𭙺	ittb
 㡿	itu
+𭙬	itui
 庿	itw
 𢉱	itw
 𭙿	itwb
