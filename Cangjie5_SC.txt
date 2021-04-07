@@ -36462,6 +36462,7 @@
 𢉧	itbu
 𭚞	itbwi
 𢈎	itc
+𢈀	itc
 𩃽	itcb
 𢋍	itcc
 𢌍	itcc
@@ -36497,7 +36498,6 @@
 㢍	itlk
 廑	itlm
 𢇾	itm
-𢈀	itm
 䪻	itmbc
 廣	itmc
 𨠢	itmcw
@@ -100018,12 +100018,12 @@
 𪨯	xisu
 𢨲	xisyh
 弁	xit
+𢈀	xitc
 𢌍	xitcc
 𢉙	xitf
 𢈐	xithn
 𰏼	xitjb
 鿮	xitlb
-𢈀	xitm
 𨞐	xitnl
 𢉱	xitw
 𢇢	xiu
