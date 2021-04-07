@@ -68299,6 +68299,7 @@
 貰	ptbuc
 㤨	ptc
 𢢜	ptcd
+𪭆	ptce
 𢠹	ptcl
 𫺪	ptcl	[u]
 𭞴	ptco
@@ -68394,7 +68395,6 @@
 𩊈	pttlj
 𢛰	pttm
 𢢆	pttr
-𪭆	ptue
 𠣲	ptug
 𫻌	ptvp
 𠣯	ptw
