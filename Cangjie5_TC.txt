@@ -17432,6 +17432,7 @@
 𡮥	fanh
 𤓙	fanj
 燘	fank
+𤒻	fanm
 熌	fano
 燜	fanp
 𡮬	fanp
@@ -17441,7 +17442,6 @@
 爛	fanw
 爓	fanx
 𤓁	fanx
-𤒻	fany
 𤑼	faos
 𤒫	faos
 𤈑	fap
