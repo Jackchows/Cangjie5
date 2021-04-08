@@ -22002,7 +22002,6 @@
 𡍢	gndo
 𪣂	gndu
 𡐄	gnee
-𡋺	gneg
 𡍅	gneq
 𤈔	gnf
 𡊑	gnf
@@ -22024,6 +22023,7 @@
 㘧	gnin
 𭎉	gniy
 𡑒	gnjk
+𡋺	gnkg
 埏	gnkm
 𪤞	gnkq
 𫮑	gnkq
