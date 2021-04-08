@@ -47601,7 +47601,6 @@
 𮕤	lu
 𭦳	lua
 䙖	lubb
-𫌌	lubf
 𧚸	lubq
 𰤿	lubt
 𧛝	luce
@@ -47615,6 +47614,7 @@
 㱽	luhne
 𤫯	luhvo
 𧜐	luip
+𫌌	lujf
 𠠹	luks
 𠛌	luln
 𠖑	lumam
