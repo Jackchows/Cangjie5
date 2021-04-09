@@ -17772,7 +17772,7 @@
 𰫃	fdbjj
 粗	fdbm
 𬊩	fdbm	[uv]
-𥺎	fdbmc
+𥺎	fdbmc	[U]
 𬖼	fdbmn
 粡	fdbmr
 粰	fdbnd
@@ -17782,6 +17782,7 @@
 粣	fdbt
 𥹣	fdbt
 𥹤	fdbtt
+𥺎	fdbuc
 𥻠	fdbuh
 粯	fdbuu
 𥻺	fdbvk
