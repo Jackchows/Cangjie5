@@ -80378,6 +80378,7 @@
 螶	sslii
 𪟭	ssls
 𦉭	sslu
+𡰩	ssm
 𠥦	ssmc
 𢑽	ssmff
 𠥧	ssmfr
