@@ -41174,7 +41174,6 @@
 𭼎	kfbs
 盔	kfbt
 瘠	kfcb
-𤷄	kfcu
 𤸽	kfdp
 瘘	kfdv
 𤶌	kfe
@@ -41215,6 +41214,7 @@
 鹩	kfpym
 𤹤	kfqe
 𤺦	kfqr
+𤷄	kfqu
 𨝼	kfrau
 𠜓	kfsh
 𰟶	kftbo
