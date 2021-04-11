@@ -7565,7 +7565,6 @@
 䤨	chhv
 𤫫	chhvo
 鎦	chhw
-𨪈	chi
 𬬖	chij
 𫓤	chim
 𨥧	chio
@@ -7704,6 +7703,7 @@
 鎳	chud
 𨪹	chug
 𨪽	chug
+𨪈	chui
 𭄃	chune
 鎴	chup
 𫒠	chvf
