@@ -45483,6 +45483,7 @@
 䘈	limbs
 𧒽	limbw
 𧛠	limc
+𧎽	limca
 𧊻	limcg
 醤	limcw
 𬠂	limcw
@@ -45918,7 +45919,6 @@
 𮔚	litbs
 𧋄	litc
 𧞋	litc
-𧎽	litca
 𫋣	litci
 𧎲	litcj
 蟖	litcl
