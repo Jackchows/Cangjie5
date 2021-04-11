@@ -24963,6 +24963,7 @@
 𥝿	hdksr
 䅄	hdkss
 𠨟	hdksu
+𥞦	hdkt
 䅾	hdkua	[Ou]
 𨤙	hdkvf
 𪙖	hdkyu
@@ -25388,7 +25389,6 @@
 𥠙	hdtbm
 𥣛	hdtbo
 簯	hdtc
-𥞦	hdtc
 𥣈	hdtcd
 𮃤	hdtcg
 穙	hdtco
