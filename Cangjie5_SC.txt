@@ -12799,7 +12799,6 @@
 𪺽	dtik
 𣔰	dtio
 𣞓	dtip
-𪴆	dtip
 欌	dtis
 𬃾	dtis
 𣘾	dtisb
@@ -12949,6 +12948,7 @@
 𬃶	dtvf
 𭫨	dtvg
 𣕜	dtvi
+𪴆	dtvp
 𪲇	dtw
 𬃝	dtw
 槽	dtwa
@@ -96706,7 +96706,6 @@
 𮫗	xdthe
 𣜳	xdthn
 𣚰	xdthu
-𪴆	xdtip
 𬃾	xdtis
 𣕗	xdtjp
 㯴	xdtjr
@@ -96739,6 +96738,7 @@
 𣝈	xdttc
 㰛	xdtvd
 𬃶	xdtvf
+𪴆	xdtvp
 𬃝	xdtw
 𣛃	xdtwd
 櫗	xdtwi
