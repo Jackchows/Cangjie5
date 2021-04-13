@@ -50733,6 +50733,7 @@
 瓊	mgnbk
 𤥺	mgnbk
 𭺅	mgnbq
+𬍺	mgnbs
 𤩞	mgnce
 𪼤	mgncr
 㺭	mgnd
@@ -50755,7 +50756,6 @@
 𤥀	mgnin
 𬍩	mgnio
 𤥁	mgnir
-𬍺	mgnis
 𤦱	mgniw
 𤤫	mgniy
 𤣭	mgnj
@@ -50801,6 +50801,7 @@
 𤩆	mgnwe
 𤩆	mgnwk
 𤧓	mgnws
+𬍺	mgnws
 㺼	mgnyo
 珡	mgo
 𬛱	mgo
