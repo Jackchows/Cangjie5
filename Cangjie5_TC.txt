@@ -24486,6 +24486,7 @@
 䅞	hdami
 稈	hdamj
 䅠	hdamo
+𥡕	hdano
 𮃦	hdanu
 𥠝	hdaok
 𥟘	hdaph
@@ -25115,7 +25116,6 @@
 𥝙	hdn
 𬼯	hdn
 𰀹	hdn
-𥡕	hdnao
 𮃯	hdnao
 䅋	hdnau
 𥡌	hdnau
