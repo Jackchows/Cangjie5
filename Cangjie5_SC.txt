@@ -93179,14 +93179,12 @@
 𪦖	vybd
 𡡠	vybk	[u]
 𫲒	vybl
-𫱍	vybn
 𰌂	vybo
 𫲘	vybp
 𡡿	vybr
 嫎	vybs
 𠧡	vybu
 𡢧	vybu
-𫱍	vybu
 嫡	vycb
 𫱨	vycb
 𡡫	vycc
@@ -93256,7 +93254,9 @@
 婛	vyrf
 婷	vyrn
 𫰳	vyrn
+𫱍	vyrn
 𡣛	vyru
+𫱍	vyru
 孃	vyrv
 𡟓	vyrv
 嫙	vyso
@@ -109992,8 +109992,8 @@
 𪦤	xxvvf
 𢆸	xxvvi
 𫰊	xxvvv
-𫱍	xxvyb
 𡡸	xxvym
+𫱍	xxvyr
 𡡍	xxvys
 𢜹	xxwbp
 𭍛	xxwci
