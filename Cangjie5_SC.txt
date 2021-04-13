@@ -23100,7 +23100,6 @@
 𰊚	gtlo
 坩	gtm
 𡐭	gtma
-𡏞	gtmb
 𰊟	gtmb
 䫦	gtmbc
 墴	gtmc
@@ -23158,6 +23157,7 @@
 𭐌	gtst
 垪	gtt	[O]
 㘫	gtt
+𡏞	gttb
 𡌶	gttc
 𪤴	gttct
 𧰣	gtthf
