@@ -7621,7 +7621,6 @@
 𨦨	chnb
 鏫	chnd
 䤪	chnd
-𨦃	chnd
 鈠	chne
 𠔠	chnem
 𨭷	chnf
@@ -8484,6 +8483,7 @@
 鏹	cnri
 𨥹	cnru
 錚	cnsd
+𨦃	cnsd
 𨨽	cnsk
 𨩙	cnst
 𭶽	cntcg
@@ -96048,6 +96048,7 @@
 𨦏	xcnoe
 𬫬	xcnot
 鏹	xcnri
+𨦃	xcnsd
 𨫷	xcnwf
 𨤿	xco
 𨦁	xcog
@@ -107742,7 +107743,6 @@
 𨥁	xxce
 𫢊	xxcf
 𭪗	xxchd
-𨦃	xxchn
 𫓍	xxcho
 𨩮	xxchs
 𨯩	xxchu
