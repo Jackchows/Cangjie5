@@ -56209,8 +56209,8 @@
 䚣	nbamo
 𰴦	nbana
 𧤽	nbanb
+𧣤	nbap
 䚠	nbapp
-𧣤	nbapp
 𮗳	nbapv
 𧣃	nbau
 𧣢	nbav
