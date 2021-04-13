@@ -12384,6 +12384,7 @@
 𩏊	dqnem
 韖	dqnhd
 𩎕	dqnhe
+𣏢	dqni
 𩎝	dqniu
 郼	dqnl
 𩎼	dqnlp
@@ -12441,7 +12442,6 @@
 韤	dqtwi
 𩎢	dque
 𩏘	dquog
-𣏢	dqvi
 𩏙	dqvvd
 𩏔	dqvvu
 𩏀	dqvvw
