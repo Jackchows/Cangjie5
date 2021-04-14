@@ -53365,6 +53365,7 @@
 𭻏	mpw
 𣀷	mpye
 武	mpylm
+𬷾	mpym
 𣦏	mpymj
 𣦏	mpyml
 𠨭	mq
@@ -60413,7 +60414,6 @@
 弽	nptd
 𢐨	npun
 𰣃	npw
-𬷾	npym
 𧮐	npymr
 丮	nq
 𢩦	nq
