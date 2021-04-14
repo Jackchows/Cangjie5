@@ -32127,7 +32127,7 @@
 鿻	hvklb
 鿼	hvksr
 𪔽	hvlbu
-𪕕	hvli
+𪕕	hvlmi
 鼬	hvlw
 䶇	hvlwb
 䫋	hvmbc
@@ -90042,7 +90042,6 @@
 𮈡	vfle
 繣	vflgm
 𮉂	vflgm
-𬗌	vfli
 𦅱	vflid
 𫃳	vflii
 𫃳	vflim
@@ -90057,6 +90056,7 @@
 繢	vflmc
 蠻	vflmi
 𧑿	vflmi
+𬗌	vflmi
 絩	vflmo
 𦃠	vflmw
 緋	vflmy
