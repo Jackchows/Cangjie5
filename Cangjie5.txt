@@ -43684,6 +43684,7 @@
 尲	kucmc	[u]
 𡯾	kucmw
 𡯔	kucp
+𡯕	kucsh
 𡯐	kud
 㝿	kudhe
 𰤰	kudhe
@@ -43773,7 +43774,6 @@
 𡯡	kupru
 鹌	kupym
 𨜀	kurau
-𡯕	kush
 𰄴	kush
 尷	kusit
 尷	kusmt
