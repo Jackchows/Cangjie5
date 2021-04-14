@@ -14920,7 +14920,6 @@
 𰝈	ejcc
 𰜿	ejcd
 𤄘	ejce
-𪸋	ejcf
 漥	ejcg
 潌	ejcg
 㴏	ejcg
@@ -15082,6 +15081,7 @@
 泋	ejt
 濆	ejtc
 𭳪	ejtd
+𪸋	ejtf
 𤀕	ejtg
 𪶗	ejtj
 𭳉	ejtk
