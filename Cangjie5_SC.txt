@@ -93860,6 +93860,7 @@
 𡆱	whhh
 𤱰	whhv
 𤰞	whj
+𪽜	whje	
 畽	whjg
 𡈈	whjg
 𡇸	whjp
@@ -94643,7 +94644,7 @@
 𭻵	wrrm
 𡈨	wrrr
 𡈆	wrrs
-𪽜	wrse
+𪽜	wrse	[u]
 𭍪	wrsj
 𠠩	wrtbn
 𡇆	wrum
