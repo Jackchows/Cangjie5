@@ -44785,7 +44785,6 @@
 袟	lhqo
 𧘧	lhqs
 𧜂	lhrb
-𧙓	lhs
 褊	lhsb
 𧞶	lhsf
 𧝳	lhsk
@@ -47156,6 +47155,7 @@
 𮕽	lopj
 褓	lord
 𧝅	lorm
+𧙓	los
 𧛛	losi
 𮧤	lotje
 襥	loto
