@@ -27839,6 +27839,7 @@
 劤	hlks
 𱌕	hlkt
 𥭾	hll
+𪖹	hllav
 筛	hllb
 𢂗	hllb
 齂	hlle
@@ -27855,7 +27856,6 @@
 𠠑	hlln
 𫥽	hlln
 簍	hllv
-𪖹	hllwv
 𮓱	hlm
 頎	hlmbc
 𩔅	hlmbc
