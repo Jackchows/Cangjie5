@@ -20318,11 +20318,11 @@
 焠	fyoj
 焲	fyok
 𤋋	fyok
+𪹣	fypc
 𰞱	fypn
 㷾	fypo
 爈	fypp
 爐	fypt
-𪹣	fypt
 𰞱	fypu	[u]
 炶	fyr
 熇	fyrb
@@ -97943,7 +97943,7 @@
 𰍫	xfyhv
 𣁂	xfyk
 𤋋	xfyok
-𪹣	xfypt
+𪹣	xfypc
 燺	xfyrd
 𬊬	xfyrf
 𬋜	xfyrg
