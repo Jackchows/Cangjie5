@@ -45619,6 +45619,7 @@
 𧑐	linhb
 蝚	linhd
 𫊩	linhe
+𧌡	linhi
 𧎄	linhk
 𧈣	linhs
 𧐙	linhs
@@ -45637,12 +45638,12 @@
 蚓	linl
 𮔲	linld
 𧋜	linli
-𧌡	linli
 𧏶	linlj
 𧑟	linlm
 𧌰	linlq
 𮕖	linmb
 𧌍	linme
+𧌡	linmi
 蛫	linmu
 𰳉	linnf	[u]
 㰩	lino
