@@ -29847,6 +29847,7 @@
 𰳬	hoyhn
 彷	hoyhs
 𧙍	hoyhv
+𢕑	hoyij
 衒	hoyin
 斞	hoyj
 𤓺	hoyj
@@ -29873,7 +29874,6 @@
 𫹔	hoymr
 䘕	hoynn
 𢔙	hoyoj
-𢕑	hoyoj
 𭛺	hoypb
 𤬜	hoypt
 𢓕	hoyr
@@ -99220,11 +99220,11 @@
 𫹌	xhov
 𰺮	xhoy
 𭺚	xhoyb
+𢕑	xhoyi
 𤓺	xhoyj
 𬔻	xhoyk
 𪫘	xhoyl
 𥬧	xhoym
-𢕑	xhoyo
 𫂕	xhoyr
 𬕅	xhoyt
 𦦭	xhoyv
