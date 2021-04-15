@@ -64114,6 +64114,7 @@
 𨍻	onjwj
 気	onk
 䫛	onkc
+𣱝	onkd
 𥀃	onke
 𪃶	onkf
 侹	onkg
@@ -64223,7 +64224,6 @@
 𢖴	onp
 𢠚	onp
 𰚻	onp
-𣱝	onpd
 𰚽	onphh
 𫢐	onq
 傑	onqd
