@@ -79571,6 +79571,7 @@
 𣂜	slhml
 𠙉	slhn
 𰯯	slhne
+𫇇	slhqi
 卪	sli
 𦣣	sli
 𠂁	sli
@@ -80363,7 +80364,6 @@
 𩿮	sshaf
 𢑵	sshdw
 𣪐	sshne
-𫇇	sshqi
 𢀦	sshsl
 𠥫	sshus
 𢀬	ssiib
