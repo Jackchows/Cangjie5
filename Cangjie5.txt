@@ -76076,6 +76076,7 @@
 𠯄	rshh
 𠯄	rshi
 𰇳	rshi	[u]
+𠽼	rshm
 𰇱	rshmr
 𠰾	rshn
 𣪆	rshne
@@ -76093,6 +76094,7 @@
 𭈶	rsijb
 𭈩	rsik
 𭇰	rsim
+𠽼	rsim
 𠴍	rsip
 嚂	rsit
 𫬠	rsiu
@@ -76153,7 +76155,6 @@
 㖊	rsmi
 𠷲	rsmi
 噿	rsmj
-𠽼	rsmm
 𠰆	rsmn
 呞	rsmr
 𠱲	rsms
