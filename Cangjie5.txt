@@ -22722,7 +22722,6 @@
 𡋝	gpii
 均	gpim
 𡔙	gpipp
-𡊿	gpiu
 𢣞	gpkni
 𢣞	gpknk
 圴	gpm
@@ -23397,6 +23396,7 @@
 𡑌	gyia
 堉	gyib
 𡍕	gyid
+𡊿	gyiu
 㘰	gyj
 垪	gyjj	[Ou]
 𪤎	gyjj
