@@ -57214,6 +57214,7 @@
 鱅	nfilb
 鱇	nfile
 𮬁	nfili
+𬵛	nfilo
 𩹶	nfilr
 𩶙	nfine
 𫚁	nfioc
@@ -57222,7 +57223,6 @@
 𫙩	nfior
 𢎓	nfip
 𩽁	nfipf
-𬵛	nfiqo
 鮐	nfir
 䱛	nfirm
 鱤	nfirp
