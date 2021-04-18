@@ -85417,10 +85417,10 @@
 𦍠	tqmks
 𦍘	tqmmu
 𦎄	tqmnp
-𦎜	tqmpo
 𩰱	tqmrb
 𦏤	tqmrr
 𦎇	tqmso
+𦎜	tqmso
 𬙲	tqmt
 𦏅	tqmto
 𦴀	tqmu
