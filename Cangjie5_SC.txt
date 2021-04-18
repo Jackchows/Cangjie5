@@ -7266,7 +7266,6 @@
 𡗄	cchhn
 𫥣	cchhn	[u]
 𠔮	cchni	[u]
-𨩣	ccht
 𤬓	cchvo
 𪕼	cchxv
 鈆	cci
@@ -7302,6 +7301,7 @@
 銳	ccru
 鋭	ccru
 鈖	ccsh
+𨩣	ccst
 𨧂	cctn
 𫡂	ccttc	[u]
 𫒵	ccui
