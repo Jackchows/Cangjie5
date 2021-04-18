@@ -19320,6 +19320,7 @@
 𮙲	fmbuc
 𤐝	fmbw
 兴	fmc
+𪺈	fmce
 𤈇	fmcw
 𨟽	fmcw
 炍	fme
@@ -19393,7 +19394,6 @@
 光	fmu
 熸	fmua
 𤌤	fmue
-𪺈	fmue
 𤆹	fmvh
 𤍇	fmvi
 𮭋	fmvif
