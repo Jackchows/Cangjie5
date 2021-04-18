@@ -20070,7 +20070,6 @@
 𰃐	fuiuh
 𠓇	fuivb
 䆪	fujcm
-𭀴	fujrn
 勌	fuks
 𠢚	fuks
 𰃌	fuks
@@ -20141,6 +20140,7 @@
 𧇺	fuypm
 𧇳	fuypu
 𤍉	fuyr
+𭀴	fuyrn
 𭀴	fuyru
 𭑨	fv
 𰋷	fv
