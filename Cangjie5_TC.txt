@@ -71884,7 +71884,6 @@
 𢬡	qvif
 𫼡	qvih
 𢴰	qvii
-𢷖	qvii
 𢴰	qvik
 拟	qvio
 拗	qvis
@@ -71915,6 +71914,7 @@
 𢹬	qvug
 𢭓	qvvb
 摷	qvvd
+𢷖	qvvi
 拶	qvvn
 𢴫	qvvn
 擸	qvvv
@@ -104215,9 +104215,9 @@
 𢺳	xqvfi
 𢴋	xqvfy
 𱈭	xqvha
-𢷖	xqvii
 抝	xqvis
 𫼰	xqvr
+𢷖	xqvvi
 𢴫	xqvvn
 捰	xqwd
 𢮆	xqwhj
