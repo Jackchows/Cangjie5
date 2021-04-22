@@ -69159,7 +69159,6 @@
 𰓯	qdl
 耬	qdlav
 攋	qdlc
-𪮶	qdlc
 𢳯	qdlk
 𢱠	qdll
 𢳮	qdll
@@ -69170,6 +69169,7 @@
 𠛨	qdln
 𫅿	qdlnc
 摗	qdlo
+𪮶	qdlo
 𫽘	qdls
 𢫆	qdm
 頛	qdmbc
@@ -103751,9 +103751,9 @@
 揸	xqdbm
 𢭰	xqdg
 𰓯	xqdl
-𪮶	xqdlc
 𢳮	xqdll
 𠛨	xqdln
+𪮶	xqdlo
 𩓕	xqdmb
 𨛙	xqdnl
 𫝾	xqdon
