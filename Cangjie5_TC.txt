@@ -16474,6 +16474,7 @@
 潆	etbf
 𤁱	etbf
 𣸨	etbf
+𪷇	etbh
 滢	etbi
 𭰯	etbi
 𭳰	etbi
@@ -16641,7 +16642,6 @@
 𭰳	etmu
 湛	etmv
 𣺋	etmw
-𪷇	etnh
 𪷵	etni
 𣿮	etnk
 𪸄	etnl
