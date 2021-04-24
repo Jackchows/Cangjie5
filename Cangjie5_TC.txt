@@ -88022,6 +88022,7 @@
 𡺮	umbu
 𥄾	umbu
 𫶘	umbw
+𡺽	umca
 巎	umce
 𡶼	umcw
 𡷾	umcw
@@ -88640,7 +88641,6 @@
 覬	utbuu
 𡶵	utc
 𰎑	utc
-𡺽	utca
 嶪	utcd
 嶫	utcd
 巙	utce
