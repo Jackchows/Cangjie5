@@ -93612,11 +93612,12 @@
 𪐝	wfk
 𪒖	wfkcg
 𪒂	wfkcu
+𪑂	wfkd
 𪑀	wfkf
 𪑭	wfkgg
 𪐥	wfki
-𪑂	wfkic
-𪑂	wfkid
+𪑂	wfkic	[u]
+𪑂	wfkid	[u]
 𪑖	wfkjt
 黤	wfklu
 黤	wfklv
