@@ -70834,6 +70834,7 @@
 𢹎	qmue
 𭡝	qmue
 𭡲	qmue
+𫽇	qmuw
 表	qmv
 𢍣	qmvft
 𫽪	qmvg
@@ -70868,7 +70869,6 @@
 𢱼	qmwt
 𢳍	qmwu
 𢲭	qmwu
-𫽇	qmwu
 𢰳	qmwv
 纛	qmwyf
 毒	qmwyi
