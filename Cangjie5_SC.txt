@@ -75224,6 +75224,7 @@
 㖻	rnhd
 吸	rnhe
 𠻍	rnhe
+𠺁	rnhh
 𭉹	rnhi
 𰇽	rnhi
 𠮨	rnhs
@@ -75278,6 +75279,7 @@
 𠽔	rnml
 𠱲	rnmm
 𭌡	rnmm
+𠺁	rnmm
 喼	rnmp
 𧰑	rnmrt
 𠱓	rnmu
@@ -75335,7 +75337,6 @@
 𪚩	rnxu
 𪡃	rnyk
 𠰊	rnyo
-𠺁	rnyy
 叺	ro
 㕥	ro
 𭈂	roam
