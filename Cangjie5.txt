@@ -114109,7 +114109,6 @@
 𣲊	yne
 𬩩	ynee
 𬨲	ynem
-𬨸	ynet
 迩	ynf
 𤓤	ynf
 𤍋	ynf
@@ -114295,6 +114294,7 @@
 驘	ynsqf
 𩤌	ynsqf
 𪩧	ynss
+𬨸	ynst
 𨓟	yntc
 𧇞	yntgu
 𦣄	yntlj
