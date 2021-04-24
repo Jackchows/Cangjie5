@@ -10385,8 +10385,8 @@
 麭	depsu
 𪍐	deptd
 𪌋	depu
-𭽲	depup
 𮭿	depuu
+𭽲	depuu
 𪌐	deq
 𰗛	deq
 𪍊	deqmv
