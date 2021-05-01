@@ -7689,6 +7689,7 @@
 䥞	chsk
 䥇	chsm
 𮊺	chsmm
+𮢑	chss
 錎	chsx
 𨰉	chtl
 𮣬	chtl
@@ -8538,7 +8539,6 @@
 𨦛	coik
 鑯	coim
 鈐	coin
-𭠔	coin
 錜	coip
 𨥶	coip
 鎗	coir
@@ -10711,7 +10711,6 @@
 𡯀	dhf
 𰝸	dhf
 𰟣	dhf
-𮫒	dhfbw
 㭔	dhfd
 𣝎	dhff
 𣜷	dhfp
@@ -10829,7 +10828,6 @@
 𣘧	dhoi
 𣘱	dhoi
 𣔥	dhom
-𭿹	dhomr
 桁	dhon
 椼	dhon
 樅	dhoo
@@ -10998,6 +10996,7 @@
 𭩤	dih
 𪁿	dihaf
 𣜰	dihc
+𬃩	dihd
 槭	dihf
 㭽	dihi
 㯅	dihj
@@ -20051,6 +20050,7 @@
 𩴖	fuhi
 𤐜	fuhi
 㷨	fuhj
+𭀦	fuhk
 𧹍	fuhuc
 𩳁	fuhui
 𪕗	fuhxv
@@ -21709,7 +21709,6 @@
 𡎌	gkit
 𢻝	gkje
 𭣛	gkje
-𪯆	gkjmm
 䵅	gkjoe
 䵅	gkjon
 𡍋	gkjt
@@ -23214,7 +23213,6 @@
 𠓘	gugrr
 𠒶	guguu
 䴃	guhaf
-𭀦	guhk
 𰊳	guhk
 瞉	guhne
 䍍	guhne
@@ -27228,7 +27226,6 @@
 䉞	hirp
 𫙎	hirrj
 𥫿	his
-𫼉	his
 篇	hisb
 𮫫	hisei
 𮕅	hisfv
@@ -31027,6 +31024,7 @@
 𣱆	hshvp
 𬇋	hshvp
 臽	hshx
+𫼉	hsi
 𥵦	hsib
 戾	hsik
 𤠩	hsik
@@ -37159,7 +37157,6 @@
 宴	jav
 㝠	jayc
 𢾀	jaye
-𢾑	jaye
 𣂃	jayj
 巿	jb
 𡧓	jb
@@ -38146,6 +38143,7 @@
 𪌡	jejhn
 𪌡	jejhu
 𰍘	jejj
+𪯆	jejmm
 䴷	jejmu
 𮭼	jejnu
 䴱	jejp
@@ -39146,6 +39144,7 @@
 𬧵	jjoye
 斡	jjoyj
 𨋼	jjoyj
+𬢺	jjoyr
 𨊳	jjp
 𭅓	jjp
 𨋮	jjpa
@@ -44222,6 +44221,7 @@
 𢄒	lbism
 𢂵	lbit
 𢅏	lbitc
+𫷊	lbjbc
 𢃜	lbjbm
 𢃐	lbjcm
 㡧	lbjct
@@ -44233,7 +44233,6 @@
 𢂢	lbjkp
 㡦	lbjmc
 𢄨	lbjmc
-𫷊	lbjmc
 𢃏	lbjmf
 𢁼	lbjmn
 幏	lbjmo
@@ -47072,6 +47071,7 @@
 䘞	lnvm
 𧞦	lnwf
 𥝃	lnwlb
+𪚖	lnybp
 牓	lnybs
 𤖸	lnyg
 𰠚	lnyhs
@@ -52368,7 +52368,6 @@
 𪴽	mmvfh
 厊	mmvh
 㕄	mmvi
-𣧒	mmvj
 瓨	mmvn
 𠩅	mmvn
 𬎥	mmvn
@@ -52707,6 +52706,7 @@
 𧰛	mnmrt
 𰐊	mnmt
 𢧖	mnmui
+𣧒	mnmvj
 殌	mnmvm
 㼗	mnmvn
 㼦	mnmvn
@@ -56423,6 +56423,7 @@
 𧣟	nbopd
 恿	nbp
 𢡢	nbp
+𧢶	nbp
 𮗬	nbpa
 𤊱	nbpf
 𧰼	nbpho
@@ -58135,6 +58136,7 @@
 𥍦	nholb
 矝	nhoml
 𥎄	nhomr
+𭿹	nhomr
 𥎃	nhond
 䂉	nhonk
 𢐔	nhoo
@@ -60419,7 +60421,6 @@
 𩼠	nqnwf
 𭛆	nqoa
 𢢣	nqp
-𧢶	nqp
 𪉋	nqpym
 𢫰	nqq
 𢵠	nqq
@@ -69832,7 +69833,6 @@
 𢬉	qhsp
 𫽓	qhsq
 𰓸	qhsr	[u]
-𮢑	qhss
 𢺙	qhst
 摡	qhsu
 㨭	qhsu
@@ -71068,6 +71068,7 @@
 𢰇	qoik
 攕	qoim
 扲	qoin
+𭠔	qoin
 捻	qoip
 𢫙	qoip
 𪭩	qoip
@@ -77729,6 +77730,7 @@
 䑞	sfniq
 𰰊	sfniq
 𩡰	sfnj
+𩡰	sfnk
 駳	sfnkm
 騝	sfnkq
 駳	sfnkv
@@ -78022,6 +78024,7 @@
 騈	sfyjj
 馼	sfyk
 𩥮	sfykm
+䯁	sfykq
 𩣖	sfykr
 𩣝	sfylh
 𩤋	sfymd
@@ -78235,6 +78238,7 @@
 𤌩	shf
 𩬊	shf
 髾	shfb
+𮫒	shfbw
 𩮦	shfcb
 𨤏	shfd
 𩭄	shfd
@@ -78829,7 +78833,6 @@
 𪈺	sihaf
 𬷔	sihaf
 𫔖	sihbv
-𬃩	sihd
 𩡛	sihda
 𨲚	sihdg
 𨲿	sihec
@@ -80144,7 +80147,6 @@
 𰍽	sqmb
 𩑫	sqmbc
 𰍱	sqni
-𩡰	sqnk
 那	sqnl
 𨞗	sqnl
 𫛀	sqnlf
@@ -80166,7 +80168,6 @@
 𭁝	sqtc
 𤰀	squg
 𦨄	squyg
-䯁	sqykq
 𬔙	sqyt
 叵	sr
 𡰪	sr
@@ -85276,7 +85277,7 @@
 莏	tqfh
 𦿕	tqgd
 𦎁	tqgr
-𦏔	tqgrt
+𦏔	tqgrr
 𦾃	tqgt
 𦎉	tqgug
 𦏢	tqgwc
@@ -100060,7 +100061,6 @@
 䎞	xjan
 𢝬	xjap
 𭓡	xjau
-𢾑	xjaye
 𡧓	xjb
 賷	xjbbu
 𮣣	xjbc
@@ -102603,7 +102603,6 @@
 𭜥	xnpp
 𢩦	xnq
 㙰	xnqg
-𧢶	xnqp
 𢵠	xnqq
 𠮥	xnr
 𤎧	xnrf
@@ -110582,6 +110581,7 @@
 𱂓	xyaom
 𠧢	xyap
 𬰺	xyatc
+𢾑	xyaye
 𨒵	xybb
 𬩧	xybbd
 𰻃	xybbe
@@ -111651,6 +111651,7 @@
 𩑂	yawli
 𫖙	yaybc
 𩐟	yayck
+𢾑	yaye
 𨗈	yayf
 韼	yayhj
 𧙴	yayhv
@@ -114294,7 +114295,6 @@
 𮡢	ynwgn
 𧇙	ynwks
 䖖	ynwl
-𪚖	ynybp
 𠧝	ynyc
 𢾊	ynye
 𬽞	ynyhl
@@ -115211,7 +115211,6 @@
 战	yri
 𢧝	yri
 𧥾	yri
-𬢜	yri
 誏	yriav
 𧨜	yrib
 譧	yricc
@@ -115262,6 +115261,7 @@
 諮	yrior
 𧫺	yriot
 𬢴	yriov
+𬢜	yrip
 𧩅	yripe
 試	yripm
 𬢣	yriq
@@ -115720,7 +115720,6 @@
 誨	yrowy
 𧪃	yroyr
 𧪄	yroyr
-𬢺	yroyr
 訫	yrp
 㤐	yrp
 䚰	yrp
@@ -116127,6 +116126,7 @@
 𧮛	yrybg
 𧬪	yrybj
 讞	yrybk
+𮙇	yrybp
 𧬍	yrybr
 謗	yrybs
 䜜	yrybu
@@ -117006,7 +117006,6 @@
 𥩖	yty
 竨	ytyaj
 𥪟	ytybb
-𮙇	ytybp
 𰩤	ytyck
 㪭	ytye
 𥩣	ytyg
