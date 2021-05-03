@@ -47530,6 +47530,7 @@
 襺	ltbi
 𧝠	ltbk
 䙩	ltbo
+𫌑	ltca
 𧝉	ltcb
 𮖷	ltcd
 𫌘	ltce
@@ -47565,6 +47566,7 @@
 𧝒	ltlc
 𪟎	ltln
 𪟖	ltln
+𫌑	ltma
 褀	ltmc
 𧝒	ltmc
 𮤴	ltmdm
@@ -47587,7 +47589,6 @@
 𧟋	ltst
 𫔷	ltsup
 𧚭	ltt
-𫌑	ltta
 褠	lttb
 𧝫	lttb
 𮖯	lttr
