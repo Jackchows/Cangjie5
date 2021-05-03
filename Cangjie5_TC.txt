@@ -83026,6 +83026,7 @@
 䩺	tjcim
 葖	tjck
 𦱇	tjcm
+𬰧	tjcmo
 鞧	tjcmw
 藭	tjcn
 𦲄	tjcn
@@ -83633,12 +83634,12 @@
 𫖉	tjtpb
 𩍣	tjtpd
 𬰩	tjtpd
+𬰧	tjtpo
 𱁸	tjtpr
 藆	tjtq
 𩊑	tjtq
 𩌢	tjtqm
 䩸	tjtsj
-𬰧	tjtso
 𩋪	tjtsp
 𩊖	tjtt
 鞲	tjttb
