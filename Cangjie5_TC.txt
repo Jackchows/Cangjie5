@@ -89803,7 +89803,6 @@
 繳	vfhsk
 綟	vfhsk
 𰫰	vfhsk
-𦄓	vfhsu
 𥾷	vfht
 𬗛	vfhtg
 𡞞	vfhu
@@ -89812,6 +89811,7 @@
 𮈔	vfhvf
 𥿄	vfhvi
 紙	vfhvp
+𦄓	vfhvu
 𦇳	vfhwf
 綼	vfhwj
 𦅳	vfhwj
