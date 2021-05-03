@@ -88524,6 +88524,7 @@
 𡼑	urrs
 𰎵	urru
 𰎶	urru
+𡺁	urse
 𡷘	ursn
 𡵆	uru
 𡶗	urup
@@ -88532,7 +88533,6 @@
 𨤦	urwg
 𡽑	urxu
 𢿁	urye
-𡺁	urye
 㟕	uryj
 𡷿	uryo
 辥	urytj
@@ -106823,7 +106823,7 @@
 巗	xurrk
 㟧	xurrs
 𰎶	xurru
-𡺁	xurye
+𡺁	xurse
 𡰮	xus
 𮬵	xusha
 屻	xushh
