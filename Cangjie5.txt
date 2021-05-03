@@ -73387,7 +73387,6 @@
 𰈯	rjbk
 𠵌	rjbm
 𠶗	rjbm
-𠰽	rjbn
 嚏	rjbo
 嚔	rjbo
 囔	rjbv
@@ -73436,6 +73435,7 @@
 𠾰	rjhg
 𣃓	rjhml
 𰕣	rjhml
+𠰽	rjhn
 咤	rjhp
 哰	rjhq
 喀	rjhr
