@@ -58801,7 +58801,6 @@
 𨻬	nlhuk
 𮥭	nlhul
 𨻁	nlhup
-𨽊	nlhuu
 阺	nlhvi
 𨸯	nlhvo
 𨸝	nlhvp
@@ -59055,6 +59054,7 @@
 𨸳	nlnsd
 𨹃	nlnsd
 隐	nlnsp
+𨽊	nlnuu
 𬮺	nlnvm
 队	nlo
 䧗	nloae
