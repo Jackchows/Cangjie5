@@ -16385,6 +16385,7 @@
 瀈	esmj
 𣼢	esml
 𤁍	esmm
+𣴆	esmm
 㵤	esmo
 𣽓	esmp
 𰝍	esmq
@@ -16449,7 +16450,6 @@
 𣴻	esym
 𭳙	esyr
 𣶅	esyt
-𣴆	esyy
 𣲟	et
 㳻	eta
 𤃦	etaa
