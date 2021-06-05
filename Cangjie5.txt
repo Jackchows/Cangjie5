@@ -19516,7 +19516,6 @@
 𤎱	fogs
 𭴞	fohg
 𤇪	fohh
-𤉔	fohs
 𭵘	foie
 炩	foii
 𤒯	foim
@@ -19563,6 +19562,7 @@
 𤑯	foon
 𤈰	foos
 𤍺	foos
+𤉔	foos
 炛	fop
 𤆢	fop
 𤆷	fop
