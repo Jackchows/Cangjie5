@@ -9637,6 +9637,7 @@
 䳠	hmhaf
 䳉	hmhaf
 斵	hmhml
+斲	hmhml
 㽓	hmhmm
 筑	hmhn
 毁	hmhne
@@ -10306,8 +10307,8 @@
 物	hqphh
 㹅	hqpkp
 犓	hqpuu
-筘	hqr
 吿	hqr
+筘	hqr
 𤘘	hqr
 䉗	hqrj
 靠	hqrly
@@ -10869,7 +10870,6 @@
 舽	hyheq
 艁	hyhgr
 䑣	hyhhh
-舧	hyhhn
 篷	hyhj
 艞	hyhlo
 簅	hyhm
@@ -10877,6 +10877,7 @@
 䑮	hyhnd
 般	hyhne
 舤	hyhni
+舧	hyhni
 䑺	hyhni
 船	hyhnr
 䒀	hyhoi
@@ -12419,6 +12420,7 @@
 㝝	jdd
 鵓	jdhaf
 守	jdi
+𣚺	jdisy
 勃	jdks
 䫅	jdmbc
 䫙	jdmbc
@@ -25810,6 +25812,7 @@
 䮍	sfyhv
 騈	sfyjj
 馼	sfyk
+䯁	sfykq
 䮹	sfymh
 䮱	sfymo
 䯁	sfynq
@@ -26380,7 +26383,6 @@
 㓾	sqln
 那	sqnl
 馬	sqsf
-䯁	sfykq
 叵	sr
 𡰪	sr
 盬	srbt
@@ -32166,6 +32168,7 @@
 𬕂	xhmbo
 籈	xhmgn
 䲼	xhmha
+斲	xhmhm
 邸	xhmnl
 憄	xhmp
 冖	xhn
@@ -32224,7 +32227,7 @@
 㸭	xhqau
 牫	xhqi
 𥶙	xhqjp
-吿	xhqr
+筘	xhqr
 鴰	xhrha
 劶	xhrks
 劄	xhrln
@@ -32281,7 +32284,7 @@
 𥰆	xhybb
 𦨭	xhydh
 䳉	xhyha
-䑺	xhyhn
+舧	xhyhn
 舮	xhyhs
 䑷	xhyis
 䈂	xhyjj
@@ -33952,6 +33955,7 @@
 笜	xxhuu
 𥯨	xxhwp
 䳔	xxhxh
+䑺	xxhyh
 䑢	xxhym
 䈉	xxhyt
 䏍	xxib

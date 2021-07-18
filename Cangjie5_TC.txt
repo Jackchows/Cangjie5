@@ -1741,7 +1741,7 @@
 𰖾	aqai
 𣈓	aqde
 𣉶	aqdu
-𪰳	aqhd
+𪰳	aqhk
 晣	aqhl
 𣇄	aqhl
 𭥮	aqhp
@@ -7861,7 +7861,7 @@
 𨯋	cisk
 翁	cism
 䥇	cism
-𮢑	ciss
+𮢑	ciss	[u]
 𪪳	cit
 𫒞	cit
 鐮	citc
@@ -28314,7 +28314,6 @@
 𠘨	hn
 𥫘	hn
 𥫤	hn
-𰀫	hn
 𰍧	hn
 䫻	hna
 𣇘	hna
@@ -31024,7 +31023,7 @@
 𣱆	hshvp
 𬇋	hshvp
 臽	hshx
-𫼉	hsi
+𫼉	hsi	[u]
 𥵦	hsib
 戾	hsik
 𤠩	hsik
@@ -44373,7 +44372,7 @@
 㠲	lbp
 㡄	lbpa
 𢃜	lbpbc
-𫷊	lbpbc
+𫷊	lbpbc	[u]
 𢁞	lbph
 𢁽	lbph
 𢁕	lbpi
@@ -46806,6 +46805,7 @@
 𠁡	ln
 𠁢	ln
 𧘏	ln
+𰀫	ln
 𧝌	lnaf
 𤗱	lnaib
 𤗘	lnamo
@@ -96040,7 +96040,6 @@
 𨰚	xcoge
 鎸	xcogs
 𠫥	xcoi
-𭠔	xcoin
 𨥶	xcoip
 鋡	xcoir
 𫒍	xcoj
@@ -98331,7 +98330,6 @@
 𭐆	xgubu
 𡒇	xguce
 𭎐	xgug
-𰊳	xguhk
 䍍	xguhn
 𭏐	xguju
 𣤶	xguno
@@ -98837,7 +98835,6 @@
 鸱	xhipy
 啔	xhir
 䉞	xhirp
-𫼉	xhis
 𬇉	xhish
 𬴿	xhisj
 𰿋	xhism
@@ -100937,7 +100934,7 @@
 𰳾	xlbms
 𭓕	xlbnd
 𮌇	xlbno
-𫷊	xlbpb
+𫷊	xlbpb	[u]
 𢁽	xlbph
 𮌱	xlbtc
 𬛛	xlbtm
@@ -102362,6 +102359,7 @@
 𧕑	xnhli
 䖥	xnhlm
 𢐅	xnhnh
+𭿹	xnhom
 䂆	xnhpm
 𬑭	xnhu
 弘	xni
@@ -104060,6 +104058,7 @@
 擕	xqogs
 𫼻	xqoha
 𢰇	xqoik
+𭠔	xqoin
 𢫙	xqoip
 𫼹	xqoir
 𪭡	xqoj
@@ -108764,7 +108763,6 @@
 𤹡	xxkyp
 𬎾	xxlb
 𧞇	xxlbb
-𫷊	xxlbj
 𭓘	xxlbn
 𡭔	xxlc
 𮕧	xxle
@@ -109010,6 +109008,7 @@
 𪅿	xxnbh
 勈	xxnbk
 𩀶	xxnbo
+𧢶	xxnbp
 𧢳	xxnbu
 𫱶	xxnbv
 𮠂	xxncn
@@ -110581,7 +110580,6 @@
 𱂓	xyaom
 𠧢	xyap
 𬰺	xyatc
-𢾑	xyaye
 𨒵	xybb
 𬩧	xybbd
 𰻃	xybbe
