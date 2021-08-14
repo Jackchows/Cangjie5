@@ -87373,7 +87373,6 @@
 𧡠	ufbuu
 𡽊	ufbw
 嵴	ufcb
-𡿂	ufccg
 𡰇	ufchn
 𫂳	ufd
 𪩋	ufdh
@@ -87429,6 +87428,7 @@
 𥜺	ufsmg
 𡾡	ufua
 𣑼	ufuf
+𡿂	ufvvg
 𡻼	ufwl
 𢿆	ufye
 𣁗	ufyk
