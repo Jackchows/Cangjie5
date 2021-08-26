@@ -17608,7 +17608,6 @@
 炯	fbr
 尙	fbr
 𫩠	fbr
-𡮢	fbra
 𬻬	fbram
 𨜂	fbrau
 賞	fbrbc
@@ -17646,6 +17645,7 @@
 黨	fbrwf
 𧒾	fbrwi
 𭟚	fbrwp
+𡮢	fbrya
 𣥺	fbrym
 𫵁	fbrym
 𫵂	fbrym
