@@ -73703,7 +73703,6 @@
 𪡛	rlsr
 𪢌	rlsw
 𫫦	rlsx
-叽	rlu	[Ou]
 䶷	rlu
 𠳴	rlv
 𪔈	rlv
@@ -104487,7 +104486,6 @@
 𬪋	xrlnl
 𭀾	xrlo
 𠳇	xrlr
-䶷	xrlu
 𪔈	xrlv
 𠱋	xrlw
 𧿭	xrma
