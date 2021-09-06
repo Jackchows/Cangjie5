@@ -35816,6 +35816,7 @@
 𢋅	iono
 𢌃	iono
 𬅪	iono
+𩶲	ionwf
 𢊿	iooe
 𢋌	iooe
 座	ioog
