@@ -53392,7 +53392,7 @@
 䃏	mrahm
 𭄓	mrahn
 𰦸	mraj
-𥘀	mrajv
+𥘀	mrajv	[U]
 𥑲	mram
 碭	mramh
 碍	mrami
