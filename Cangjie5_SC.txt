@@ -2266,6 +2266,7 @@
 𣎊	bahu
 䐚	bail
 𬛑	baiu
+𦣙	bajv
 𠖇	bak
 𦜃	bak
 幂	bakb
@@ -2307,7 +2308,6 @@
 𫆳	bawe
 冥	bayc
 𧔲	bayi
-𦣙	bayv
 朋	bb
 肎	bb
 冎	bb
@@ -53392,6 +53392,7 @@
 䃏	mrahm
 𭄓	mrahn
 𰦸	mraj
+𥘀	mrajv
 𥑲	mram
 碭	mramh
 碍	mrami
