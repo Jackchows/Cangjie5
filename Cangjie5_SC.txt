@@ -6155,6 +6155,7 @@
 𢝝	bumfp
 𥉿	bumfu
 𥄮	bumg
+𪛟	bumg
 睚	bumgg
 𣃒	bumhl
 𥌮	bumhm
@@ -6956,6 +6957,7 @@
 㬵	byck
 𤿔	bydhe
 㬿	bydk
+𫜶	bydk
 𮍊	bydu
 𫨳	bye
 𦟂	byfd
@@ -21406,6 +21408,7 @@
 墋	giih
 𠬃	giijb
 𭏱	giil
+鿾	giil
 𡑐	giip
 𪠢	giitc
 𡊸	gij
@@ -21533,6 +21536,7 @@
 𫭨	give
 縶	givif
 𦂌	givif
+鿾	givl	[u]
 㙻	giwg
 𡏂	giwg
 𰆯	giwg
@@ -32704,6 +32708,7 @@
 𦪟	hygth
 𦩄	hygug
 𮆡	hygv
+𫜵	hyh
 舶	hyha
 艊	hyhab
 鵃	hyhaf
@@ -33337,6 +33342,7 @@
 𬅤	ibno
 𱅝	ibnvm
 贠	ibo
+鿿	iboe
 𨿌	ibog
 𨿱	ibog
 𢽊	ibok
@@ -51041,6 +51047,7 @@
 𬎟	mgtaw
 琠	mgtbc
 𦥃	mgtbc
+𪛞	mgtbd
 𬎆	mgtbi
 𤩀	mgtbk
 𪼘	mgtbm
@@ -70020,6 +70027,7 @@
 𢬠	qine
 㨩	qing
 𫑘	qinl
+𫜷	qinl
 𢭸	qinn
 𰓇	qino
 𰁓	qinsd
@@ -73395,6 +73403,7 @@
 𠾘	rjcr
 𠴛	rjcs
 𫫳	rjcs
+鿽	rjcs
 𡀙	rjcu
 𫫍	rjcu
 味	rjd
@@ -75553,6 +75562,7 @@
 吣	rp
 𠮟	rp
 𢗀	rp
+𫜸	rp
 咰	rpa
 昬	rpa
 𭇣	rpa
