@@ -21407,8 +21407,8 @@
 㙟	giib
 墋	giih
 𠬃	giijb
-𭏱	giil
 鿾	giil
+𭏱	giil
 𡑐	giip
 𪠢	giitc
 𡊸	gij
@@ -24455,7 +24455,6 @@
 𮖶	hcyhv
 𪴿	hcylm
 𰙺	hcylm
-𥬧	hcym
 頾	hcymp
 譽	hcymr
 𰪥	hcyo
@@ -25886,6 +25885,7 @@
 𬆞	heyv
 灬	hf
 爫	hf
+𫜵	hf
 𬔲	hf
 𰨮	hfa
 鵿	hfaht
@@ -29864,6 +29864,7 @@
 徙	hoylo
 𪫒	hoylp
 𥬚	hoym
+𥬧	hoym
 𢕱	hoymh
 𢕺	hoymh
 𬠿	hoymn
@@ -32708,7 +32709,6 @@
 𦪟	hygth
 𦩄	hygug
 𮆡	hygv
-𫜵	hyh
 舶	hyha
 艊	hyhab
 鵃	hyhaf
@@ -69059,7 +69059,6 @@
 𢴣	qcwa
 掸	qcwj
 𢺚	qcyg
-𢫜	qcym
 耒	qd
 𢪮	qd
 𦔀	qdaie
@@ -71220,6 +71219,7 @@
 𢻳	qoye
 𢳺	qoyk
 𢬖	qoym
+𢫜	qoym
 𭡩	qoyr
 𬀁	qoyso
 𭠿	qoyt
@@ -73401,9 +73401,9 @@
 𫬟	rjco
 𠹍	rjcr
 𠾘	rjcr
+鿽	rjcs
 𠴛	rjcs
 𫫳	rjcs
-鿽	rjcs
 𡀙	rjcu
 𫫍	rjcu
 味	rjd
@@ -80780,12 +80780,12 @@
 𦾥	tabj
 𣀚	tabk
 𧁎	tabk
+𦼨	tabmc
 𢡗	tabp
 𧂡	tabp
 蒀	tabt
 𦽹	tabt
 萺	tabu
-𦼨	tabuc
 𦸫	tach
 菒	tad
 皵	tadhe
@@ -95724,6 +95724,7 @@
 𥌎	xbumb
 𥈍	xbume
 𥄚	xbumf
+𪛟	xbumg
 𥅳	xbumj
 𭿖	xbumm
 𥅙	xbumo
@@ -95828,6 +95829,7 @@
 腣	xbybb
 𠖥	xbybp
 㬵	xbyck
+𫜶	xbydk
 𭨳	xbyhv
 𰃴	xbyjc
 𦟪	xbyjj
@@ -98089,6 +98091,7 @@
 𧎅	xgihn
 𤙏	xgihq
 𡋡	xgihv
+𭏱	xgiil
 𢻝	xgije
 𨎐	xgijw
 劫	xgiks
@@ -99214,7 +99217,7 @@
 𤓺	xhoyj
 𬔻	xhoyk
 𪫘	xhoyl
-𢕺	xhoym
+𥬧	xhoym
 𢕑	xhoyo
 𤬞	xhoyr
 𬕅	xhoyt
@@ -103880,6 +103883,7 @@
 㧑	xqiks
 𰄞	xqiln
 𢬠	xqine
+𫜷	xqinl
 𰔰	xqiod
 𫾳	xqiok
 𪫷	xqip
@@ -104091,6 +104095,7 @@
 𪮝	xqort
 𢷵	xqotq
 𢪗	xqoy
+𢫜	xqoym
 𭡖	xqoyv
 𣬛	xqp
 㧦	xqpa
@@ -104449,7 +104454,7 @@
 𠶥	xrjcn
 𠹁	xrjco
 𠾘	xrjcr
-𫫳	xrjcs
+𠴛	xrjcs
 𫫍	xrjcu
 𠳼	xrjd
 𪄍	xrjha
@@ -108285,7 +108290,7 @@
 𭇪	xxher
 𪏮	xxhev
 𬆞	xxhey
-𬔲	xxhf
+𫜵	xxhf
 䲷	xxhfd
 𪇑	xxhfh
 𠣆	xxhfk
@@ -110125,7 +110130,7 @@
 𪇬	xxxhc
 𤇫	xxxhd
 𥫸	xxxhe
-𥭁	xxxhf
+𬔲	xxxhf
 𥫦	xxxhg
 𰪤	xxxhh
 𡿨	xxxhi
@@ -116442,7 +116447,6 @@
 旂	ysohl
 旌	ysohm
 斻	ysohn
-𣃲	ysohn
 𣄖	ysohn
 𬀄	ysoho
 𣃮	ysohp
@@ -116450,6 +116454,7 @@
 𣃬	ysoht
 旄	ysohu
 旅	ysohv
+𣃲	ysohv
 旛	ysohw
 𣃯	ysohy
 𣃼	ysohy
