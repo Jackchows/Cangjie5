@@ -7708,7 +7708,7 @@
 𭄃	chune
 鎴	chup
 𫒠	chvf
-𬫌	chvi
+𬫌	chvi	[u]
 䤝	chvl
 𨪐	chvm
 鈲	chvo
@@ -20306,7 +20306,7 @@
 𬊉	fyk
 𪹴	fykb
 𪹰	fykg
-𬊰	fykh
+𬊰	fykh	[u]
 𪸔	fylm
 𭵍	fylw
 𬉷	fym
@@ -49592,7 +49592,7 @@
 𮙛	mfmo
 𥙠	mfmom
 𥚭	mfmor
-𫀐	mfmpm
+𫀐	mfmpm	[u]
 祏	mfmr
 𰨐	mfmrb
 𥙤	mfmrp
@@ -50118,7 +50118,6 @@
 琹	mgd
 𬍓	mgd
 𤤹	mgdb
-𤥤	mgdb
 㻷	mgdbb
 𤧇	mgdbu
 琳	mgdd
@@ -95412,7 +95411,6 @@
 𠕵	xbhni
 𦠱	xbhoi
 𦘴	xbhp
-𫆗	xbhpl
 胝	xbhpm
 𦙤	xbhqu
 𮌸	xbhsb
@@ -99297,7 +99295,6 @@
 𤛵	xhquc
 𥷐	xhqwj
 𰠹	xhqwl
-𤚢	xhqyc
 𬕩	xhqyj
 𢲤	xhqyr
 𰠸	xhqyt
@@ -99718,7 +99715,6 @@
 𰧽	xifhb
 㫂	xifhm
 𥘌	xifhn
-𰧶	xifip	[u]
 𬓇	xifjb
 𡦵	xifjk
 𥙗	xifkr
@@ -101420,7 +101416,6 @@
 𩲡	xmfhu
 𢨙	xmfi
 𥙷	xmfij
-𰧶	xmfip
 㔻	xmfj
 𠁒	xmfjb
 𭑦	xmfkc
@@ -101478,7 +101473,6 @@
 兲	xmgc
 𮦱	xmgcm
 𬍓	xmgd
-𤥤	xmgdb
 𰤣	xmgdh
 𫇎	xmgdl
 𤪍	xmgdm
@@ -101511,6 +101505,7 @@
 𤥟	xmgil
 㺹	xmgit
 𭹸	xmgjc
+𤥤	xmgjd
 璌	xmgjm
 𰈫	xmgjr
 𤥃	xmgjv
@@ -101535,7 +101530,6 @@
 珁	xmgmv
 𤩗	xmgmw
 瓊	xmgnb
-𪼤	xmgnc
 𬍪	xmgne
 𤥀	xmgni
 𤣲	xmgnj
@@ -103521,7 +103515,6 @@
 㤿	xpklv
 𩓙	xpkmb
 𦑑	xpkmm
-𭝎	xpkmp
 恞	xpkn
 𣢸	xpkno
 𠤗	xpkp
@@ -106616,8 +106609,8 @@
 𡺼	xuhud
 㟴	xuhui
 𡻇	xuhuj
-𡽶	xuhul
 岻	xuhvi
+𡵙	xuhvl
 㠘	xuhxc
 𡻁	xuhxe
 𡸣	xuhxu
