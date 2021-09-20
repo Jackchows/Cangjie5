@@ -47,7 +47,7 @@
 - **[change_details.log](https://github.com/Jackchows/Cangjie5/blob/master/change_details.log)**<br />
 碼表的詳細編輯記錄。
 - **[Cangjie5_special.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_special.txt)**<br />
-碼表。**特別版本**，收錄以下字符：Unicode 中日韓統一表意文字基本區（除去 U+9FD1 至 U+9FFF）、擴展A區、中日韓兼容表意文字（其中十二個視作統一漢字的字符）、《通用規範漢字表》、《香港增補字符集—2016》（HKSCS）。<br />
+碼表。**特別版本**，收錄以下字符：Unicode 中日韓統一表意文字基本區（除去 U+9FD1 至 U+9FFF）、擴展A區（除去 U+4DB6 至 U+4DBF）、中日韓兼容表意文字（其中十二個視作統一漢字的字符）、《通用規範漢字表》、《香港增補字符集—2016》（HKSCS）。<br />
 另外，[Change_summary.md#字形問題](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#%E5%AD%97%E5%BD%A2%E5%95%8F%E9%A1%8C) 中列出的多種字形，此表會盡數收錄。<br />
 此碼表與前面幾份碼表更新可能不同步。
 
