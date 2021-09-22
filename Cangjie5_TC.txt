@@ -3296,6 +3296,7 @@
 䏞	bdj
 𦚜	bdj
 𦚬	bdj
+𦚀	bdje
 𪺗	bdjmu
 䏐	bdk
 㔜	bdks
@@ -3304,7 +3305,6 @@
 𩓖	bdmbc
 𩓞	bdmbc
 𩓰	bdmbc
-𦚀	bdme
 𬋨	bdmn
 𦝛	bdmq
 郛	bdnl
