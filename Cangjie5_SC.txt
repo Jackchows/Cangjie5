@@ -38999,8 +38999,8 @@
 輊	jjmig
 軒	jjmj
 𪪂	jjmj
+𫏲	jjmjs
 𨋝	jjmks
-𫏲	jjmks
 輛	jjmlb
 𮝓	jjmlk
 𨌡	jjmls
@@ -100277,7 +100277,6 @@
 𨎪	xjjmb
 軠	xjjmg
 𪪂	xjjmj
-𫏲	xjjmk
 𨐀	xjjmm
 𮝣	xjjmr
 𨋆	xjjmv
