@@ -37522,6 +37522,7 @@
 㝐	jci
 䆡	jciav
 梥	jcid
+𥥇	jcid
 𮄚	jcifu
 𥥰	jcihi
 窚	jcihs
