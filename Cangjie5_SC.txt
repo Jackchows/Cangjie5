@@ -13924,6 +13924,7 @@
 沫	edj
 𣳰	edj
 𢻚	edje
+𣲺	edje
 𣸴	edjn
 決	edk
 𤄄	edkf
@@ -13954,7 +13955,6 @@
 顙	edmbc
 颡	edmbo
 𣸑	edmd
-𣲺	edme
 渿	edmf
 㳹	edmg
 𬇪	edmn
