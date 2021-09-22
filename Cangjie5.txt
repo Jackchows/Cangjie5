@@ -31607,7 +31607,7 @@
 𠪻	huibi
 𦤩	huicc
 𭯚	huice
-𣭍	huid
+𣭍	huid	[u]
 𭯧	huiev
 𣰜	huifn
 𣬽	huih
@@ -31619,6 +31619,7 @@
 毧	huij
 𠃃	huijb
 𣭾	huijb
+𣭍	huijc
 毬	huije
 臭	huik
 毧	huik
