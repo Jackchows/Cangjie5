@@ -115084,7 +115084,6 @@
 𪆿	yrhaf
 𪀄	yrhaf
 諻	yrhag
-𧫍	yrhag
 𮘮	yrhai
 䜂	yrhaj
 𧭇	yrhas
@@ -115209,6 +115208,7 @@
 𧮂	yrhua
 讚	yrhuc
 𧮖	yrhuc
+𧫍	yrhug
 謉	yrhui
 𧬁	yrhuj
 𧪩	yrhup
