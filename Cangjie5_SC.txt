@@ -22003,6 +22003,7 @@
 𡍢	gndo
 𪣂	gndu
 𡐄	gnee
+𡏈	gnef
 𡍅	gneq
 𤈔	gnf
 𡊑	gnf
@@ -22038,7 +22039,6 @@
 𣝷	gnmd
 𡍖	gnme
 燾	gnmf
-𡏈	gnmf
 𡑹	gnmf
 壽	gnmi
 𡔽	gnmi
@@ -98222,12 +98222,12 @@
 㐋	xgn
 𭐄	xgnbg
 𣓇	xgnd
+𡏈	xgnef
 𡊑	xgnf
 殼	xgnhn
 㘧	xgnin
 𫮑	xgnkq
 𰉞	xgnl
-𡏈	xgnmf
 𡔽	xgnmi
 𡉌	xgno
 𡍰	xgnoe
