@@ -3883,6 +3883,7 @@
 𦙅	bhs
 䐔	bhsb
 𮌸	bhsb
+𦢶	bhsc
 𦘿	bhse
 貂	bhshr
 𧳺	bhsim
@@ -3916,7 +3917,6 @@
 𧲠	bhu
 𣎯	bhua
 臢	bhuc
-𦢶	bhuc
 𦞙	bhui
 𦟞	bhuj
 䑄	bhul
@@ -95438,12 +95438,12 @@
 胝	xbhpm
 𦙤	xbhqu
 𮌸	xbhsb
+𦢶	xbhsc
 𧴙	xbhsi
 𣎣	xbhsk
 𰮯	xbhss
 𬛑	xbhsu
 见	xbhu
-𦢶	xbhuc
 膬	xbhuu
 𣎗	xbhwp
 𦛓	xbhx
