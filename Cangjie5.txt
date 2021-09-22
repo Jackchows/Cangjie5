@@ -17995,6 +17995,7 @@
 䊉	fdjd
 𥸳	fdje
 𭣜	fdje
+𤆿	fdje
 𥻞	fdjhr
 䊜	fdjii
 𥼏	fdjjq
@@ -18093,7 +18094,6 @@
 𥽯	fdmbw
 粞	fdmcw
 粄	fdme
-𤆿	fdme
 𰪳	fdmf
 𥹒	fdmfj
 𥹂	fdmfm
@@ -97682,7 +97682,6 @@
 𫥾	xfdln
 䉺	xfdm
 糥	xfdmb
-𤆿	xfdme
 𰪯	xfdmg	[u]
 𥸯	xfdms
 𥻛	xfdmw
