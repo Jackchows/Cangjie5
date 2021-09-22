@@ -43378,7 +43378,6 @@
 𭀢	krhu
 𰅚	kriop
 攲	krje
-𬐀	krjg
 𫯽	krjka
 𮝋	krjwj
 㚙	krk
@@ -43495,6 +43494,7 @@
 耷	ksj
 𤺈	ksja
 𤼕	ksja
+𬐀	ksjg
 𤹚	ksji
 奁	ksk
 㿄	kske
