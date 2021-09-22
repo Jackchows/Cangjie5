@@ -30849,7 +30849,6 @@
 鹄	hrpym
 鸹	hrpym
 𱉮	hrpym
-𡀤	hrqi
 筥	hrr
 𰈧	hrr
 𥸂	hrre
@@ -73122,6 +73121,7 @@
 𭈘	rhqh
 哦	rhqi
 𭉪	rhqi
+𡀤	rhqi
 㗑	rhqj
 𠳐	rhql	[Ou]
 𠰮	rhqm
