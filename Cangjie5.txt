@@ -69954,8 +69954,8 @@
 攠	qicy
 𢭩	qid
 𣒭	qid
+𢫖	qid	[u]
 𢳀	qidd
-𢫖	qidd
 𭢮	qidi
 𭢹	qidi
 擵	qidq
@@ -70001,6 +70001,7 @@
 撡	qiip
 𢫨	qij
 捕	qijb
+𢫖	qijc	
 捄	qije
 𰍎	qijmo
 𢳿	qijo
@@ -103885,7 +103886,6 @@
 扩	xqi
 𢱿	xqibo
 𣒭	xqid
-𢫖	xqidd
 𭢹	xqidi
 焘	xqif
 𢹿	xqift
