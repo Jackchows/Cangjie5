@@ -1572,13 +1572,13 @@
 𢡥	anykp
 𫔤	anykq
 閙	anylb
+𨶡	anymp
 誾	anymr
 𬮗	anypb
 𨵘	anypn
 𨵘	anypu
 䦓	anyr
 𨶃	anyrp
-𨶡	anyrp
 𮤖	anysk
 𬮐	anysv
 閼	anysy
@@ -95161,7 +95161,7 @@
 𬵅	xanwf
 𨷤	xanwl
 𭧛	xanwu
-𨶡	xanyr
+𨶡	xanym
 𨴲	xanyt
 𪰻	xaoir
 𪰕	xaok
