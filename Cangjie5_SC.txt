@@ -50990,6 +50990,7 @@
 𰢖	mgrsb
 瑕	mgrse
 𤩩	mgrsm
+𤩭	mgrsn
 𤩭	mgrsu
 𤩄	mgruc
 𤩄	mgrvc
@@ -51150,7 +51151,6 @@
 瓘	mgtrg
 𭺃	mgtrj
 璥	mgtrk
-𤩭	mgtsn
 㻂	mgtt
 𤩕	mgttr
 𪼎	mgtui
