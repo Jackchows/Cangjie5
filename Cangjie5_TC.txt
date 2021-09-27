@@ -89915,7 +89915,6 @@
 𫄅	vfirp
 䋆	vfis
 編	vfisb
-𦄒	vfisb
 𦆲	vfish
 綟	vfisk
 𦇁	vfisk
@@ -90538,6 +90537,7 @@
 絕	vfshu
 𦫲	vfshu
 𦀿	vfshu
+𦄒	vfsib
 綛	vfsip
 繿	vfsit
 䌫	vfsiu
@@ -107010,7 +107010,6 @@
 䌕	xvfij
 紁	xvfik
 𰫨	xvfir
-𦄒	xvfis
 𬗕	xvfit
 𥾅	xvfj
 𮉁	xvfjb
@@ -107073,6 +107072,7 @@
 𫟁	xvfrs
 𮜭	xvfry
 𠠪	xvfsh
+𦄒	xvfsi
 𦀩	xvfsj
 𰫝	xvfsk
 𦃌	xvfsm
