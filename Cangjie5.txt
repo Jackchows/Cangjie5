@@ -79232,6 +79232,7 @@
 𦗞	sjjkr
 𰅨	sjjl
 聍	sjjmn
+𦗰	sjjmn
 聢	sjjmo
 𮋲	sjjmu
 匭	sjjn
@@ -79313,7 +79314,6 @@
 䏇	sjmwf
 𦗩	sjmwf
 𦗡	sjmwj
-𦗰	sjmwn
 聇	sjmym
 𰭵	sjmys
 䎲	sjn
