@@ -16499,6 +16499,7 @@
 濝	etcf
 𪃡	etcf
 𣻺	etcg
+𤁉	etcg
 𣶼	etch
 𫞙	etci
 𣿢	etcj
@@ -16607,7 +16608,6 @@
 𤀚	etld
 𭳨	etle
 𤃇	etlf
-𤁉	etlg
 㴖	etlj
 𣶿	etlj
 渶	etlk
