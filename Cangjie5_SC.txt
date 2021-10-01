@@ -16565,7 +16565,6 @@
 瀳	etif
 𣸻	etih
 𣷸	etio
-𪷺	etip
 𣿎	etir
 𣹓	etir
 𭳎	etir
@@ -16581,6 +16580,7 @@
 𭳚	etji
 𭱺	etjj
 𣵃	etjn
+𪷺	etjp
 𤁇	etjr
 𣼷	etjs
 𣻻	etju
