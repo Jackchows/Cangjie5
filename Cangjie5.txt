@@ -20847,7 +20847,6 @@
 𤠼	geik
 𬺝	geikp
 𭚢	geip
-𭎚	gej
 𣫝	gejcm
 𪔣	gejcm
 𪍠	gejoe
@@ -20877,6 +20876,7 @@
 𩓊	gembc
 𨢋	gemcw
 𨢤	gemcw
+𭎚	gemj
 𮂐	gemmf
 𪔎	gemmi
 𱌋	gemnr
