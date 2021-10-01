@@ -116620,7 +116620,6 @@
 𭥉	ystcv	[u]
 𫞁	ystgk
 𣄄	ysthl
-𮟨	ystj
 𪯿	ystlb
 𭤭	ystm
 𣄃	ystmc
@@ -116629,6 +116628,7 @@
 遅	ystq
 𪯷	ystq
 𬨭	ystq
+𮟨	ystq
 𨔧	ystt
 𨑓	ysu
 選	ysuc
