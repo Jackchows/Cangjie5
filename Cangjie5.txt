@@ -5420,7 +5420,6 @@
 𧖱	bthhl
 𥁔	bthio
 䐤	bthm
-𬛊	btho
 𪭓	bti
 𦡰	btii
 臟	btis
@@ -5483,6 +5482,7 @@
 𢘼	btp
 𰯅	btpa
 𬛚	btpd
+𬛊	btpo
 𦢬	btpp
 𣎨	btpp
 羘	btq
