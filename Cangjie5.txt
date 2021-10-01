@@ -1787,7 +1787,6 @@
 𬱌	armbc
 冔	armd
 𣊤	armmv
-𣉏	arol
 㬆	arpa
 𣋝	arrd
 暺	arrj
@@ -1914,6 +1913,7 @@
 㬮	atog
 𣌖	atog
 𣉏	atoi
+𣉏	atol	[u]
 𣋸	atoo
 𣋭	atos
 𣋑	atpd
