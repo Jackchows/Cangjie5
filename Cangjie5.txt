@@ -14662,7 +14662,6 @@
 泒	ehvo
 𣲖	ehvo
 汦	ehvp
-𤄚	ehwf
 渒	ehwj
 𣳦	ehwk
 𤀈	ehwk
@@ -14680,6 +14679,7 @@
 溲	ehxe
 潟	ehxf
 澙	ehxf
+𤄚	ehxf
 𣺅	ehxh
 湼	ehxm
 𤅌	ehxn
