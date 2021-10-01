@@ -89822,7 +89822,6 @@
 𥿄	vfhvi
 紙	vfhvp
 𦄓	vfhvu
-𦇳	vfhwf
 綼	vfhwj
 𦅳	vfhwj
 𥿳	vfhwk
@@ -89837,6 +89836,7 @@
 𦦽	vfhx
 𦃨	vfhxd
 𦃈	vfhxe
+𦇳	vfhxf
 𨊟	vfhxh
 𦁴	vfhxl
 䋩	vfhxu
