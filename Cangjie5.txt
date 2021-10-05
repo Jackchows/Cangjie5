@@ -79947,7 +79947,6 @@
 𢑚	smsm
 𠭙	smsme
 𤈗	smsmf
-𩢳	smsmf
 𰞞	smsmf
 𭃊	smsmm
 𭜵	smsmp
@@ -79956,6 +79955,7 @@
 𰭠	smso
 𦑄	smsok
 𭛎	smsp
+𩢳	smsqf
 𠰟	smsr
 羿	smt
 𫸖	smt
