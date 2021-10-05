@@ -41769,8 +41769,8 @@
 𤠅	khmft
 狂	khmg
 𤞕	khmgb
-𪺾	khmgg
 𤡰	khmgg
+𪺾	khmgg
 𤞬	khmgt
 𤡫	khmhd
 獂	khmhf
@@ -88650,8 +88650,8 @@
 𭖾	utgp
 𰎸	utgr	[u]
 𡾞	utgs
-𭗡	utgt
 𡻘	utgt
+𭗡	utgt
 𡻹	uthj
 𡾲	uthj
 嵯	uthm
@@ -95992,6 +95992,7 @@
 䒑	xcm
 𨫋	xcmbc
 𨯟	xcmbg
+𨰡	xcmbi
 𨯂	xcmbv
 𮣙	xcmdm
 鈑	xcme
@@ -97412,7 +97413,7 @@
 𣷬	xetkn
 𭲉	xetkr
 𭰼	xetks
-𣺏	xetlb
+滞	xetlb
 𭲑	xetlc
 𣶿	xetlj
 𤂣	xetll
@@ -97868,7 +97869,6 @@
 𢠒	xfrp
 𤊳	xfrse
 𰗞	xfsd
-𪹳	xfshb
 𭴏	xfsk
 𫦸	xfsks
 𢑐	xfsm
@@ -100620,6 +100620,7 @@
 𤡤	xkhmb
 𬌲	xkhmc
 𤟷	xkhmf
+𪺾	xkhmg
 𤞿	xkhmj
 𤴾	xkhml
 𤢿	xkhmr
@@ -103293,6 +103294,7 @@
 𬻝	xotm
 𠊃	xotmb
 僙	xotmc
+𠎑	xotmj
 𪝸	xotmk
 𩀂	xotog
 𠏆	xotpb
@@ -103986,7 +103988,6 @@
 𢺰	xqmbo
 𢳬	xqmbs
 𢹩	xqmbu
-𢺕	xqmce
 𢬣	xqmcw
 扳	xqme
 𰔅	xqmem	[u]
@@ -104016,6 +104017,7 @@
 𰔓	xqmre
 𰒽	xqms
 𢸸	xqmtc
+𭡝	xqmue
 𰓀	xqmvi
 𢪔	xqmvm
 𢱾	xqmwf
@@ -106832,6 +106834,7 @@
 𭗆	xutct
 𡺚	xutcw
 㠖	xutgi
+𭗡	xutgt
 𡾲	xuthj
 嵳	xuthm
 𡿒	xutjd
@@ -107298,10 +107301,10 @@
 𡛂	xvsk
 姫	xvsll
 媉	xvsmg
-𡣝	xvsmj
 𫱐	xvsmt
 𢟇	xvsp
 𡜢	xvss
+𡟛	xvsyj
 𰐈	xvt
 𭒮	xvtaa
 𡡂	xvtge
@@ -107747,7 +107750,6 @@
 𨦘	xxckn
 𠔈	xxcl
 𠔀	xxcm
-𨰡	xxcmb
 𨧴	xxcmf
 𫒧	xxcml
 𨨵	xxcmr
@@ -107977,13 +107979,13 @@
 𤃶	xxemr
 𤃁	xxemv
 𣻔	xxemw
+𪵼	xxena
 𣑃	xxend
 𡋋	xxeng
 𣴙	xxeni
 𣶊	xxenl
 𤂻	xxenn
 㳄	xxeno
-𤀧	xxenu
 𣱸	xxeo
 𬐮	xxeob
 𣸊	xxeoi
@@ -108008,7 +108010,7 @@
 𭱩	xxetc
 𤀡	xxetg
 𭳎	xxeti
-𣼛	xxetl
+𣺏	xxetl
 𤃊	xxetm
 𤄶	xxetv
 𤃿	xxetw
@@ -109391,7 +109393,7 @@
 𢴬	xxqmg
 𢫚	xxqmm
 𢲬	xxqmn
-𭡝	xxqmu
+𭡲	xxqmu
 𢶁	xxqmw
 𢷳	xxqnb
 𰔅	xxqne
@@ -109975,7 +109977,6 @@
 𭝆	xxvop
 𭒬	xxvor
 𡚨	xxvp
-𡟛	xxvsy
 𡡷	xxvtg
 𫦳	xxvuk
 𬯮	xxvuo
@@ -110086,11 +110087,11 @@
 𰛒	xxxek
 𰊢	xxxel
 𣽈	xxxem
-𪵼	xxxen
+𣾂	xxxen
 𣱿	xxxeo
 𣳊	xxxep
 𰊇	xxxer
-𬇣	xxxet
+𣼛	xxxet
 𪶁	xxxeu
 𬉳	xxxev
 𣾌	xxxey
