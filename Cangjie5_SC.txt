@@ -83994,6 +83994,7 @@
 𦹚	tlbk
 帯	tlblb
 㒼	tlbo
+𬟃	tlbo
 𦳟	tlbq
 萜	tlbr
 䒞	tlbu
@@ -85965,7 +85966,6 @@
 𦸀	ttcg
 䔮	ttcl
 豑	ttcnh
-𬟃	ttco
 𮑁	ttco
 𫎁	ttcor
 𦷧	ttcp
