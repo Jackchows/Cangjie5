@@ -115459,6 +115459,7 @@
 謱	yrlav
 𢂋	yrlb
 詇	yrlbk
+𧭙	yrlbo
 訦	yrlbu
 𰴹	yrleg
 𬣄	yrlga
@@ -115993,7 +115994,6 @@
 譾	yrtbm
 𧪈	yrtbn
 𧭊	yrtbo
-𧭙	yrtbo
 鿁	yrtc
 譜	yrtca
 𧬗	yrtcd
