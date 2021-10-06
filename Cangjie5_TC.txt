@@ -85329,7 +85329,6 @@
 𦏣	tqhir
 葜	tqhk
 䓆	tqhl
-𦍳	tqhlo
 𰭗	tqhn
 羖	tqhne
 羝	tqhpm
@@ -85340,6 +85339,7 @@
 𮊳	tqhuj
 䍹	tqhuk
 羝	tqhvi
+𦍳	tqhvo
 𦼾	tqhw
 䍲	tqhxu
 羪	tqiav
