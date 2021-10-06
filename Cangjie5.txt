@@ -55470,7 +55470,6 @@
 𮠝	mwhk
 𫨍	mwhl
 酬	mwhll
-𨠋	mwhlo
 𮠜	mwhlo
 疈	mwhlw
 𨠇	mwhml
@@ -55501,6 +55500,7 @@
 醜	mwhui
 𩈸	mwhuk
 𩈕	mwhvo
+𨠋	mwhvo
 𨟾	mwhvp
 𨡕	mwhwj
 𮗆	mwhwj
