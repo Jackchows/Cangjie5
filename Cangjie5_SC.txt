@@ -26561,6 +26561,7 @@
 𬧢	hhikp
 𨈣	hhiku
 躿	hhile
+𮜸	hhilp
 𨉙	hhimn
 軈	hhiop
 𨉕	hhisk
@@ -26626,7 +26627,6 @@
 笊	hhlo
 䠺	hhlsr
 𨈮	hhlwl
-𮜸	hhlwp
 𫷘	hhlws
 𮜷	hhlws
 𨉿	hhmbb
