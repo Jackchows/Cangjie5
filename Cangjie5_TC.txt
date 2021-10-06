@@ -11677,6 +11677,7 @@
 枅	dmjj
 橄	dmjk
 㭢	dmjn
+𣏓	dmjs
 㮑	dmjx
 𣏿	dmk
 㮪	dmkd
@@ -11740,7 +11741,6 @@
 㮞	dmor
 𣐸	dmow
 𣓸	dmpm
-𣏓	dmps
 柘	dmr
 𭇁	dmr
 槅	dmrb
