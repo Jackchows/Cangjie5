@@ -77095,12 +77095,12 @@
 刷	sbln
 㔉	sbln
 朢	sbmg
-𫧒	sbmr
 𫹅	sbnk
 𣤀	sbno
 屃	sbo
 𢽰	sbok
 𭺸	sbq
+𫧒	sbr
 𢅜	sbsmb
 𫧐	sbu
 𭕘	sbu
