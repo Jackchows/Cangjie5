@@ -43478,7 +43478,6 @@
 𪥂	ksh
 鴮	kshaf
 𰅗	kshhq
-𤬄	kshio
 𫦧	kshio
 𣂒	kshml
 𪵈	kshne
@@ -43488,6 +43487,7 @@
 𤺼	kshs
 綔	kshvf
 瓠	kshvo
+𤬄	kshvo
 𫻧	ksi
 𦫐	ksiav
 𫦭	ksiav
