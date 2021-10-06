@@ -89768,6 +89768,7 @@
 𦃕	vfhlp
 𮈯	vfhlp
 𫄂	vfhlq
+𥾖	vfhlu
 𬗺	vfhlw
 𦇐	vfhmf
 紤	vfhml
@@ -90074,7 +90075,6 @@
 繍	vflll
 𬗷	vflll
 紼	vflln
-𥾖	vfllu
 縷	vfllv
 𮈨	vflmb
 繢	vflmc
