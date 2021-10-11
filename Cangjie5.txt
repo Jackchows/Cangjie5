@@ -86039,7 +86039,7 @@
 𩤫	sfnmm
 𩥩	sfnmm
 𩦑	sfnmr
-𮩶	sfno
+𮩶	sfno	[u]
 𮩹	sfno
 驋	sfnoe
 騤	sfnok
@@ -86293,6 +86293,7 @@
 𩦋	sfvik
 𩢒	sfvis
 騄	sfvne
+𮩶	sfvo
 𩢯	sfvou
 𩢯	sfvov
 𩣃	sfvvu
