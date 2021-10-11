@@ -76052,7 +76052,7 @@
 𪂹	qahaf
 𪃣	qahaf
 𱈻	qahaf
-𢮚	qahk
+𢮚	qahk	[u]
 𢯤	qahl
 𭡧	qahl
 𭡦	qahm
