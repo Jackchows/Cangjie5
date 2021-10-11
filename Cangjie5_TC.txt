@@ -17340,7 +17340,6 @@
 难	eog
 𱦁	eog
 潗	eogd
-𣹶	eoge
 𣺦	eoge
 𲪼	eoge
 潐	eogf
@@ -17451,6 +17450,7 @@
 𣺢	eood
 𪶢	eood
 𭳮	eooe
+𣹶	eooe
 𣴳	eoog
 𣴶	eoog
 𬈼	eoog
