@@ -39685,12 +39685,12 @@
 𢉛	ipkp
 𫜋	ipks
 䴥	ipksr
-𧈱	ipli
 𧐠	ipli
 䘅	iplii
 螚	iplmi
 𧈩	iplmi
 𰲴	iplmi
+𧈱	iplmi
 𲎎	iplpc
 式	ipm
 弌	ipm
