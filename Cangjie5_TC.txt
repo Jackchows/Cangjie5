@@ -21594,7 +21594,7 @@
 𬊡	fphp
 灼	fpi
 𱪮	fpi
-𤆥	fpim
+𤆥	fpim	[u]
 𰟖	fpko
 㷓	fpkp
 灼	fpm
