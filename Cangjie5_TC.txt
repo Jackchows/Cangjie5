@@ -11624,7 +11624,7 @@
 板	dme
 𣔯	dmeb
 𣝺	dmed
-𭫸	dmef
+𭫸	dmef	[u]
 𭬛	dmei
 極	dmem
 杯	dmf
