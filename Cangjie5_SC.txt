@@ -68676,8 +68676,8 @@
 𢣧	pyms
 𡷊	pymu
 𢠆	pynb
-𪫢	pynd
 𪬜	pynk
+𪫢	pynn
 𢡏	pynv
 𫻗	pyoe
 𭞷	pyog
