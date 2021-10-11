@@ -54499,7 +54499,6 @@
 𰧼	mfhkr	[u]
 䄔	mfhlb
 𭶶	mfhlo
-𥜞	mfhls
 祈	mfhml
 𣂘	mfhml
 𥙐	mfhmr
@@ -54557,6 +54556,7 @@
 𥚞	mfhxl
 𮂈	mfhxm
 𫀕	mfhxs
+𥜞	mfhxs
 𱵷	mfhxt	[u]
 𫀗	mfhxu
 𥛕	mfhyo
