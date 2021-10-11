@@ -15772,7 +15772,6 @@
 沠	ehlo
 𱦷	ehlo
 潷	ehlq
-𬈍	ehls
 𤄙	ehlx
 𭳶	ehmb
 𤅆	ehmc
@@ -15980,6 +15979,7 @@
 𤅌	ehxn
 㳛	ehxo
 𣽌	ehxo	[u]
+𬈍	ehxs
 𤃗	ehxt
 淣	ehxu
 𤄻	ehxu
