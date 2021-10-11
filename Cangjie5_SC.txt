@@ -57945,7 +57945,7 @@
 𬵮	nfygq
 𩼖	nfyhc
 𫙧	nfyhl
-𩻏	nfyhm
+𩻏	nfyhm	[u]
 魧	nfyhn
 𩶞	nfyhn
 𩺬	nfyhr
@@ -57962,6 +57962,7 @@
 鮩	nfyjj
 魰	nfyk
 𩼂	nfykb
+𩻏	nfykm
 䰽	nfylb
 𩽎	nfylc
 𩷉	nfylc
