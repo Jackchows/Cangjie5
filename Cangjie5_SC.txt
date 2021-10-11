@@ -72362,7 +72362,7 @@
 嗳	rbbe
 噯	rbbe
 㖟	rbbe
-𭇒	rbbm
+𭇒	rbbm	[u]
 𡁌	rbbo
 𫫰	rbbq
 喎	rbbr
