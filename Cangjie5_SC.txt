@@ -74431,7 +74431,7 @@
 𭋿	rmm
 𰇇	rmm
 𬦰	rmma
-𫪃	rmmb
+𫪃	rmmb	[u]
 𨅲	rmmbb
 𫏧	rmmbb
 𬧞	rmmbb
