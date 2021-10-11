@@ -35412,6 +35412,7 @@
 𠖱	immvi	[O]
 冱	immvm
 𠗊	immvm
+𠖱	immvo
 𭂆	immvs
 𠖱	immvy
 凓	immwd
