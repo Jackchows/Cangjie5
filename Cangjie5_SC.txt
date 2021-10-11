@@ -47510,7 +47510,7 @@
 𬆶	kowy
 㪎	koye
 𰋤	koye
-𤶊	koyi
+𤶊	koyi	[U]
 𪘘	koymu
 𤷴	koyv
 疕	kp
