@@ -85964,7 +85964,7 @@
 駤	sfmig
 𩤴	sfmih
 馯	sfmj
-𩣙	sfmjl
+𩣙	sfmjl	[U]
 䮢	sfmjx
 䭶	sfml
 𩡸	sfmlb
