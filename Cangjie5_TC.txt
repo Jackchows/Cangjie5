@@ -5123,7 +5123,7 @@
 𦜕	bneu
 𭩉	bneu
 𣍨	bnf
-𥉬	bnf
+𥉬	bnf	[U]
 𦢦	bnfd
 𪺚	bnff
 䏔	bng
@@ -6759,6 +6759,7 @@
 盶	bummu
 䀼	bummv
 盯	bumn
+𥉬	bumnf
 𥆁	bumnn
 𭾨	bumnr
 眪	bumob
@@ -105452,7 +105453,7 @@
 𡬼	xbndi
 𦘿	xbne
 𭩉	xbneu
-𥉬	xbnf
+𥉬	xbnf	[U]
 𦠈	xbnhb
 𦛸	xbnib
 𦚺	xbnkm
