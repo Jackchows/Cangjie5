@@ -14796,7 +14796,6 @@
 𲪹	ebcg
 瀃	ebch
 𣺠	ebch
-𣽷	ebch
 𭳴	ebch
 𲩻	ebch
 濺	ebci
@@ -14915,6 +14914,7 @@
 𪶴	eboa
 𣿀	eboe
 漈	ebof
+𣽷	eboh
 溅	eboj
 𲩚	ebok
 测	ebon
@@ -119439,7 +119439,6 @@
 𱨂	xxeav
 𠕒	xxeb
 𲪒	xxebb
-𣽷	xxebc
 𪸊	xxebd
 𤁞	xxebe
 𭏺	xxebg
