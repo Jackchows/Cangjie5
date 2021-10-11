@@ -11738,7 +11738,6 @@
 𣞯	dhlm
 枛	dhlo
 𣔙	dhlo
-𬃤	dhls
 𣠱	dhma
 𣠗	dhmb
 𭬬	dhmd
@@ -11911,6 +11910,7 @@
 𣕕	dhxm
 楰	dhxo
 𬄵	dhxs
+𬃤	dhxs
 棿	dhxu
 櫷	dhxu
 𣜌	dhxv
