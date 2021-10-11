@@ -28280,8 +28280,10 @@
 𡴓	hmuu
 𤯕	hmv
 笌	hmvh
+𥫻	hmvi
 䇘	hmvm
 𰩼	hmvm
+𥫻	hmvo
 𥬗	hmvu
 𡿽	hmvvv
 𰯇	hmwb	[u]
@@ -30203,7 +30205,7 @@
 𤚞	hqhwu
 我	hqi
 牫	hqi
-𥫻	hqi
+𥫻	hqi	[U]
 𰠵	hqiav
 𥱴	hqib
 𤚽	hqibi
@@ -108458,7 +108460,7 @@
 𢾽	xxhpy
 龵	xxhq
 𮅈	xxhqh
-𥫻	xxhqi
+𥫻	xxhqi	[U]
 𰠰	xxhqm
 𬩶	xxhqn
 𬔮	xxhqo
