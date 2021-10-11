@@ -1378,6 +1378,7 @@
 欥	ano
 閄	ano
 𬀨	ano
+𨳉	ano
 𨵀	anoam
 𨳙	anob
 𨶨	anobn
