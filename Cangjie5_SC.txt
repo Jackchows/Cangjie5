@@ -76269,7 +76269,7 @@
 𢱄	qbse
 𢭺	qbsh
 靘	qbshu
-𰔚	qbsi
+𰔚	qbsi	[u]
 𰔘	qbsm
 𱁮	qbsme
 𤎓	qbsmf
