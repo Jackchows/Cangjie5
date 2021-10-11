@@ -57472,6 +57472,7 @@
 魱	nfmvm
 𩷏	nfmvm
 𩶏	nfmvn
+𩵯	nfmvo
 𩺦	nfmvr
 𬵁	nfmvs
 𩵪	nfmvu
