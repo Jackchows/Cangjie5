@@ -73165,7 +73165,7 @@
 𠌝	ounk	[Ou]
 𨚐	ounl
 𨞅	ounl
-𬙐	ounme
+𬙐	ounme	[u]
 𠊵	ounn
 缼	ouno
 儶	ouob
