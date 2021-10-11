@@ -62232,6 +62232,7 @@
 𩚱	oibr
 𠋑	oibr
 𩞛	oibrd
+𮨺	oibru
 𠌽	oibs
 𥃗	oibt
 𩟹	oibug
@@ -62935,7 +62936,7 @@
 餵	oiwmv
 𩟍	oiwod
 饂	oiwot
-𮨺	oiwr
+𮨺	oiwr	[u]
 𩞫	oiwtc
 饆	oiwtj
 𠏰	oixf
@@ -65501,6 +65502,7 @@
 飷	osbm
 䭡	osbmp
 餇	osbmr
+𮨺	osbru	[u]
 餒	osbv
 𩟼	osbvv	[u]
 𠈀	osch
@@ -65857,7 +65859,7 @@
 䭞	oswlj
 餵	oswmv
 饂	oswot
-𮨺	oswr
+𮨺	oswr	[u]
 饆	oswtj
 𭀓	oswu
 餃	osyck
