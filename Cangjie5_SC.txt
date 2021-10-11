@@ -127874,7 +127874,7 @@
 𲁶	yrmri
 謌	yrmrr
 䛠	yrmrt
-𧦠	yrmru
+𧦠	yrmru	[U]
 諨	yrmrw
 𮞐	yrms
 諞	yrmsb
