@@ -23946,6 +23946,7 @@
 𣊓	gka
 𪢹	gkb
 𰉦	gkb
+𮌳	gkb
 𩪋	gkbbb
 𭎺	gkbl
 𮌳	gkbl
@@ -108418,7 +108419,6 @@
 𱘋	xgjuu
 𣊁	xgka
 𰉦	xgkb
-𮌳	xgkbl
 𥂢	xgkbt
 贄	xgkbu
 䥍	xgkc
