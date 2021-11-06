@@ -7165,7 +7165,7 @@
 䎖	casmm
 𢍋	cat
 鑤	cate
-𨯮	catq
+𨯮	catj
 鈀	cau
 銀	cav
 𨧉	cav
@@ -7565,7 +7565,6 @@
 䤨	chhv
 𤫫	chhvo
 鎦	chhw
-𨪈	chi
 𬬖	chij
 𫓤	chim
 𨥧	chio
@@ -7704,6 +7703,7 @@
 鎳	chud
 𨪹	chug
 𨪽	chug
+𨪈	chui
 𭄃	chune
 鎴	chup
 𫒠	chvf
@@ -12384,6 +12384,7 @@
 𩏊	dqnem
 韖	dqnhd
 𩎕	dqnhe
+𣏢	dqni
 𩎝	dqniu
 郼	dqnl
 𩎼	dqnlp
@@ -12441,7 +12442,6 @@
 韤	dqtwi
 𩎢	dque
 𩏘	dquog
-𣏢	dqvi
 𩏙	dqvvd
 𩏔	dqvvu
 𩏀	dqvvw
@@ -12799,7 +12799,6 @@
 𪺽	dtik
 𣔰	dtio
 𣞓	dtip
-𪴆	dtip
 欌	dtis
 𬃾	dtis
 𣘾	dtisb
@@ -12949,6 +12948,7 @@
 𬃶	dtvf
 𭫨	dtvg
 𣕜	dtvi
+𪴆	dtvp
 𪲇	dtw
 𬃝	dtw
 槽	dtwa
@@ -17227,7 +17227,6 @@
 𭱨	eypd
 𬈶	eypf
 𤀶	eypg
-𣶭	eyph
 澞	eypk
 𣻐	eypm
 淲	eypn
@@ -17237,6 +17236,7 @@
 𤄦	eypp
 𤀃	eypr
 𪷓	eyps
+𣶭	eyps
 瀘	eypt
 淲	eypu
 𤃒	eypu
@@ -17432,6 +17432,7 @@
 𡮥	fanh
 𤓙	fanj
 燘	fank
+𤒻	fanm
 熌	fano
 燜	fanp
 𡮬	fanp
@@ -17441,7 +17442,6 @@
 爛	fanw
 爓	fanx
 𤓁	fanx
-𤒻	fany
 𤑼	faos
 𤒫	faos
 𤈑	fap
@@ -17772,7 +17772,7 @@
 𰫃	fdbjj
 粗	fdbm
 𬊩	fdbm	[uv]
-𥺎	fdbmc
+𥺎	fdbmc	[U]
 𬖼	fdbmn
 粡	fdbmr
 粰	fdbnd
@@ -17782,6 +17782,7 @@
 粣	fdbt
 𥹣	fdbt
 𥹤	fdbtt
+𥺎	fdbuc
 𥻠	fdbuh
 粯	fdbuu
 𥻺	fdbvk
@@ -18326,7 +18327,6 @@
 𥼎	fdtgy
 糒	fdthb
 𬖱	fdthg
-𫃕	fdtip
 𥹎	fdtj
 𥽒	fdtjd
 𫃊	fdtjp
@@ -18359,6 +18359,7 @@
 𫃒	fdttv
 糚	fdtvg
 糍	fdtvi
+𫃕	fdtvp
 𥺩	fdtvy
 粬	fdtw
 糟	fdtwa
@@ -22002,7 +22003,6 @@
 𡍢	gndo
 𪣂	gndu
 𡐄	gnee
-𡋺	gneg
 𡍅	gneq
 𤈔	gnf
 𡊑	gnf
@@ -22024,6 +22024,7 @@
 㘧	gnin
 𭎉	gniy
 𡑒	gnjk
+𡋺	gnkg
 埏	gnkm
 𪤞	gnkq
 𫮑	gnkq
@@ -22432,7 +22433,7 @@
 圪	gon
 𮚲	gon
 𰁁	gon
-𮚻	gonai
+𮚻	gonau
 𧾣	gonbe
 𧽄	gonbn
 䞻	gonbs
@@ -24962,6 +24963,7 @@
 𥝿	hdksr
 䅄	hdkss
 𠨟	hdksu
+𥞦	hdkt
 䅾	hdkua	[Ou]
 𨤙	hdkvf
 𪙖	hdkyu
@@ -25387,7 +25389,6 @@
 𥠙	hdtbm
 𥣛	hdtbo
 簯	hdtc
-𥞦	hdtc
 𥣈	hdtcd
 𮃤	hdtcg
 穙	hdtco
@@ -25593,8 +25594,8 @@
 𥠣	hdyrn
 𮃳	hdyro
 穰	hdyrv
+𥠥	hdysd
 𥣦	hdysj
-𥠥	hdysp
 䆈	hdysq
 𥣔	hdysq
 𥤂	hdysv
@@ -41173,7 +41174,6 @@
 𭼎	kfbs
 盔	kfbt
 瘠	kfcb
-𤷄	kfcu
 𤸽	kfdp
 瘘	kfdv
 𤶌	kfe
@@ -41214,6 +41214,7 @@
 鹩	kfpym
 𤹤	kfqe
 𤺦	kfqr
+𤷄	kfqu
 𨝼	kfrau
 𠜓	kfsh
 𰟶	kftbo
@@ -45033,11 +45034,11 @@
 䖼	ligil
 蜐	ligis
 䗘	ligit
-𧑅	ligiv
 𧋒	liglc
 𫋤	ligni
 𫋦	ligoe
 𧐻	ligog
+𧑅	ligov
 𧒗	ligow
 𧋺	ligp
 蛣	ligr
@@ -45482,6 +45483,7 @@
 䘈	limbs
 𧒽	limbw
 𧛠	limc
+𧎽	limca
 𧊻	limcg
 醤	limcw
 𬠂	limcw
@@ -45917,7 +45919,6 @@
 𮔚	litbs
 𧋄	litc
 𧞋	litc
-𧎽	litca
 𫋣	litci
 𧎲	litcj
 蟖	litcl
@@ -68108,12 +68109,12 @@
 𢟩	pqjm
 懳	pqjp
 𢝇	pqjr
+𢟩	pqjs
 𢝣	pqka
 㥭	pqke
 𭝺	pqkf
 㤽	pqki
 𢜗	pqkq
-𢟩	pqks
 𢠅	pqkx
 情	pqmb
 㥽	pqmc
@@ -80378,6 +80379,7 @@
 螶	sslii
 𪟭	ssls
 𦉭	sslu
+𡰩	ssm
 𠥦	ssmc
 𢑽	ssmff
 𠥧	ssmfr
@@ -88663,9 +88665,9 @@
 𣪱	uthne
 颽	uthni
 獃	utik
-𡿄	utims
 𬤹	utiop
 𭗶	utis
+𡿄	utis
 㟿	utit
 𭖓	utj
 𫶇	utjb
@@ -93177,19 +93179,17 @@
 𪦖	vybd
 𡡠	vybk	[u]
 𫲒	vybl
-𫱍	vybn
 𰌂	vybo
 𫲘	vybp
 𡡿	vybr
 嫎	vybs
 𠧡	vybu
 𡢧	vybu
-𫱍	vybu
 嫡	vycb
+𫱨	vycb
 𡡫	vycc
 姣	vyck
 嬘	vyco
-𫱨	vycr
 嬢	vycv
 𪦝	vydi
 𡡬	vydk
@@ -93254,7 +93254,9 @@
 婛	vyrf
 婷	vyrn
 𫰳	vyrn
+𫱍	vyrn
 𡣛	vyru
+𫱍	vyru
 孃	vyrv
 𡟓	vyrv
 嫙	vyso
@@ -96704,7 +96706,6 @@
 𮫗	xdthe
 𣜳	xdthn
 𣚰	xdthu
-𪴆	xdtip
 𬃾	xdtis
 𣕗	xdtjp
 㯴	xdtjr
@@ -96737,6 +96738,7 @@
 𣝈	xdttc
 㰛	xdtvd
 𬃶	xdtvf
+𪴆	xdtvp
 𬃝	xdtw
 𣛃	xdtwd
 櫗	xdtwi
@@ -109990,8 +109992,8 @@
 𪦤	xxvvf
 𢆸	xxvvi
 𫰊	xxvvv
-𫱍	xxvyb
 𡡸	xxvym
+𫱍	xxvyr
 𡡍	xxvys
 𢜹	xxwbp
 𭍛	xxwci
