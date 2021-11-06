@@ -7246,8 +7246,8 @@
 県	buvf
 矊	buvfb
 𥇆	buvfd
-𥍚	buvfe
 䂅	buvfi
+𥍚	buvfk
 𥆎	buvfu
 䁻	buvid
 𲲰	buvii
