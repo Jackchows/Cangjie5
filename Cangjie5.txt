@@ -1541,7 +1541,7 @@
 𨵼	anoll
 𨷬	anomb
 𨷲	anomb
-𰿡	anomb	[u]
+𰿡	anomb
 𨴴	anomc
 𨴩	anomd
 𳇺	anomg
@@ -39111,7 +39111,7 @@
 𫥘	imoir
 𲒑	imoir
 𲒜	imoir
-𫥕	imoit	[u]
+𫥕	imoit
 飡	imoiv
 𫥖	imoiy
 𠖴	imoj
@@ -85012,7 +85012,7 @@
 𭊹	ryio
 𪡁	ryiu
 𪠻	ryiu	[u]
-𪠻	ryiv	[u]
+𪠻	ryiv
 呌	ryj
 𪢆	ryja
 𲗕	ryjb
@@ -124346,7 +124346,7 @@
 𥽽	ydyhm
 𲧃	ydyiu
 𲧃	ydyiv	[u]
-𰘐	ydyk	[u]
+𰘐	ydyk
 𥽽	ydykm
 𫧷	ydykm
 𠆓	ydyok
