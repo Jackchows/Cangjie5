@@ -36899,6 +36899,7 @@
 𩕅	icmbc
 廉	icmc	[u]
 𰢌	icmgi
+𰢍	icmgi
 𢌊	icmgt
 𧶀	icmmi
 磨	icmr
