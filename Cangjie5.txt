@@ -84092,6 +84092,7 @@
 𡼚	rrurr
 𠒅	rruu
 𡜓	rrv
+𠵭	rrvb
 噀	rrvc
 𠱐	rrvk
 𭊲	rrvll
@@ -84815,7 +84816,6 @@
 民	rvp
 𭝫	rvp
 𱒥	rvr
-𠵭	rvrb
 𭉺	rvsl
 𲉒	rvsmh
 𢌴	rvt
