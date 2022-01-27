@@ -18398,6 +18398,7 @@
 𪶕	eufd
 𡒖	eug
 𭏈	eug
+𡏬	eug
 𲘾	eug
 𤄔	eugi
 澂	eugk
@@ -18524,7 +18525,7 @@
 𲪾	evfu
 𲫇	evfv
 𪷉	evfw
-𡏬	evg
+𡏬	evg	[u]
 𪤊	evg
 𫮏	evg
 𪃂	evhaf
