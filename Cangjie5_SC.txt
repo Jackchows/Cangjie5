@@ -12645,7 +12645,6 @@
 愸	dsp
 𢛱	dsp
 𪬈	dsp
-𫖒	dsppj
 榪	dsqf
 梛	dsql
 𣚝	dsqv
@@ -71565,6 +71564,7 @@
 𢜉	qsp
 𱂅	qsph
 𮧴	qspo
+𫖒	qsppj
 𱂊	qsptd
 𢲫	qsqf
 挪	qsql
@@ -97384,7 +97384,7 @@
 𪷢	xersn
 𡞠	xerv
 𣿬	xeseg
-𣴀	xeshh
+㲽	xeshh
 𣷋	xeshi
 澀	xeshm
 浼	xeshu
