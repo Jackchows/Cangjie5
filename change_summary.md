@@ -171,7 +171,7 @@
 |U+2459B|𤖛|从「且」|GB 18030-2005：从「旦」|本碼表依 UCS 字形|
 |U+27664|𧙤|从「朶」|GB 18030-2005：从「朵」|本碼表依 UCS 字形。从「朵」的是U+2C856「𬡖」|
 |U+24A8A|𤪊|U源从「令」，V源从「今」||本碼表取「令」（見N4454）|
-|U+2AF5C|𪽜|从「![HRS](https://user-images.githubusercontent.com/10194519/153738190-0ff1f0ba-a05f-4424-a4d8-c2fb75ad6867.png)」|CNS 11643：从「![RS](https://user-images.githubusercontent.com/10194519/153738198-311a87dc-0830-442f-aa90-10919dd02e24.png)」|本碼表依 UCS 字形|
+|U+2AF5C|𪽜|从「![HSJ](https://user-images.githubusercontent.com/10194519/153739298-6e645110-0bea-4f52-862d-e06af3cb706a.png)」|CNS 11643：从「![RS](https://user-images.githubusercontent.com/10194519/153738198-311a87dc-0830-442f-aa90-10919dd02e24.png)」|本碼表依 UCS 字形|
 
 
 ### 排序調整
