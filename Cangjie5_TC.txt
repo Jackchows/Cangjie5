@@ -647,7 +647,7 @@
 𪰼	ailr
 䫀	aimbc
 𣇝	aimi
-𣇝	aiml
+𣇝	aiml	[u]
 既	aimlu
 𣇈	aimu
 𭥊	aimuj
