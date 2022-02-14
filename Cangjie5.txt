@@ -96586,7 +96586,6 @@
 𱟠	ugi
 𤝶	ugik
 𡻊	ugit
-𡹴	ugjf
 𡼈	ugji
 㞿	ugk
 𲝛	uglc
@@ -96657,6 +96656,7 @@
 嵊	uhdp
 𱜈	uhdp
 𫵿	uhds
+𡹴	uhdt
 崣	uhdv
 𡹜	uhdv
 嶓	uhdw
