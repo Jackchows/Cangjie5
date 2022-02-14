@@ -3375,7 +3375,7 @@
 郥	bcnl
 𫎑	bcnl
 𰶻	bcnl
-𮚓	bcnme
+𮚓	bcnme	[u]
 𧸸	bcnmr
 𰷜	bcnmr
 𧵥	bcnmu
