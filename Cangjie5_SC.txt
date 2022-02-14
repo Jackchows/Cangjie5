@@ -11148,6 +11148,7 @@
 𪌓	dehne
 𣓦	deho
 𪌂	dehp
+𭽣	dehpm
 𪌜	dehqm
 𰤢	dehqm
 𳑅	dehqo
@@ -11155,7 +11156,7 @@
 𪌤	dehrr
 𰘁	dehu
 𱤇	dehv
-𭽣	dehvi
+𭽣	dehvi	[u]
 𭽣	dehvm
 䴽	dehwj
 𪍜	dehwp
