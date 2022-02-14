@@ -100947,7 +100947,6 @@
 𱙪	vjkr
 㛈	vjks
 𡠑	vjlf
-𡞍	vjli
 婶	vjll
 婕	vjlo
 𪥼	vjlv
@@ -100995,6 +100994,7 @@
 𡣚	vjtu
 𡞢	vjun
 姲	vjv
+𡞍	vjwi
 𡝀	vjwj
 𬟲	vjypn
 𬟲	vjypu
