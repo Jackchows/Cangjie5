@@ -32935,12 +32935,12 @@
 𪫙	howlj
 𱬿	howln
 𢕼	howlv
-𢕏	howmj
 𪫑	howmv
 𭛢	howo
 𤬒	howot
 𮱽	howp
 徊	howr
+𢕏	howtj
 𱸠	howv
 𫂂	howy
 𭑐	howyi
