@@ -31534,7 +31534,7 @@
 𬔷	hniy
 𭂩	hnj
 𩖭	hnjb
-𮨰	hnjbc
+𮨰	hnjbc	[u]
 𩗓	hnjbd
 𫗈	hnjbd
 𩘝	hnjbf
