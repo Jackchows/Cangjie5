@@ -94384,7 +94384,7 @@
 𦏤	tqmrr
 𦎇	tqmso
 𦎜	tqmso
-𬙲	tqmt
+𬙲	tqmt	[u]
 𦏅	tqmto
 𦴀	tqmu
 䍼	tqmua
