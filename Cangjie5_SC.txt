@@ -27680,6 +27680,7 @@
 𥢴	hdmbi
 稬	hdmbk
 𥠛	hdmbk
+𥢴	hdmbl	[u]
 𰨟	hdmbm
 𥤞	hdmbo
 𬓭	hdmcb
@@ -27721,7 +27722,6 @@
 𱶈	hdmmq
 𥟊	hdmmr
 𥝜	hdmms
-𥢴	hdmnl
 䅀	hdmnn
 𥞍	hdmnr
 𭪋	hdmnr
