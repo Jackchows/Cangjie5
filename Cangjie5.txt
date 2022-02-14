@@ -3987,7 +3987,7 @@
 𦝂	bhai
 𧴞	bhaip
 𦞵	bhaj
-𦝂	bham
+𦝂	bham	[u]
 貋	bhamj
 𬂎	bhao
 冟	bhap
