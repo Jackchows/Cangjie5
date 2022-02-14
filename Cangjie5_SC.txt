@@ -104155,7 +104155,7 @@
 𦊆	wlylm
 詈	wlymr
 𦋾	wlypm
-𦌻	wlyrc
+𦌻	wlyrc	[u]
 罸	wlyri
 罰	wlyrn
 𦋤	wlysd
@@ -130403,6 +130403,7 @@
 𨒇	ywl
 𨖞	ywla
 遇	ywlb
+𦌻	ywlc
 𲐎	ywld
 遝	ywle
 𰁞	ywle
