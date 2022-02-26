@@ -72471,6 +72471,7 @@
 哯	rbuu
 𠸵	rbuv
 𠽗	rbuv
+𠶼	rbuv
 哸	rbv
 𰌑	rbv
 𬗧	rbvif
@@ -76663,7 +76664,6 @@
 𠿃	rvtd
 𠮪	rvu
 𡄸	rvug
-𠶼	rvuv
 𠻥	rvvd
 𠷍	rvve
 咝	rvvm
