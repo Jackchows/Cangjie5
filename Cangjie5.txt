@@ -7246,8 +7246,8 @@
 𨧏	cbup
 𨪵	cbur
 鋧	cbuu
+𨨴	cbuv
 鋖	cbv
-𨨴	cbvv
 𨰜	cbwi
 𬬝	cbwk
 鍂	cc
