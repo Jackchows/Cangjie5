@@ -89255,6 +89255,7 @@
 娊	vbuu
 𡢞	vbuv
 𡡆	vbuv
+𡟠	vbuv
 娞	vbv
 𫿦	vbvbk
 𫱘	vbvf
@@ -93089,7 +93090,6 @@
 𭗾	vvuk
 𠚋	vvuq
 𡿹	vvurl
-𡟠	vvuv
 姦	vvv
 巛	vvv
 𫰊	vvv
