@@ -6655,11 +6655,12 @@
 𮮥	buvnh
 𥆃	buvr
 𥄀	buvu
-𥄉	buvv
+𥄉	buvv	[O]
 𥊌	buvvd
 𤕆	buvvu
 𦉔	buvvu
 䁽	buvvv
+𥄉	buvvv
 䁌	buwb
 𥍎	buwbc
 睏	buwd
@@ -17994,8 +17995,8 @@
 𥺥	fdjbm
 䊉	fdjd
 𥸳	fdje
-𭣜	fdje
 𤆿	fdje
+𭣜	fdje
 𥻞	fdjhr
 䊜	fdjii
 𥼏	fdjjq
@@ -29182,7 +29183,6 @@
 𢔗	hohkm
 𧗤	hohkn
 𤔯	hohlq
-𢖣	hohmf
 𣂥	hohml
 役	hohne
 𣫢	hohne
@@ -54805,6 +54805,7 @@
 𠪡	msja
 𱁣	msjbm
 𠫀	msjg
+𤽩	msjka
 𭆊	msjl
 𠫇	msjp
 戻	msk
@@ -70005,7 +70006,7 @@
 撡	qiip
 𢫨	qij
 捕	qijb
-𢫖	qijc	
+𢫖	qijc
 捄	qije
 𰍎	qijmo
 𢳿	qijo
@@ -73127,8 +73128,8 @@
 𰠧	rhq
 𭈘	rhqh
 哦	rhqi
-𭉪	rhqi
 𡀤	rhqi
+𭉪	rhqi
 㗑	rhqj
 𠳐	rhql	[Ou]
 𠰮	rhqm
@@ -95164,7 +95165,6 @@
 𬵅	xanwf
 𨷤	xanwl
 𭧛	xanwu
-𨶡	xanym
 𨴲	xanyt
 𪰻	xaoir
 𪰕	xaok
@@ -95446,7 +95446,6 @@
 胝	xbhpm
 𦙤	xbhqu
 𮌸	xbhsb
-𦢶	xbhsc
 𧴙	xbhsi
 𣎣	xbhsk
 𰮯	xbhss
@@ -96952,6 +96951,7 @@
 𪄫	xedha
 𢧱	xedi
 𣳰	xedj
+𣲺	xedje
 𪁠	xedkf
 𤃏	xedkr
 瀬	xedlc
@@ -97392,7 +97392,7 @@
 𪷢	xersn
 𡞠	xerv
 𣿬	xeseg
-㲽	xeshh
+𣴀	xeshh
 𣷋	xeshi
 涩	xeshm
 浼	xeshu
@@ -97430,6 +97430,7 @@
 𫞜	xetcb
 𬈘	xetce
 𪃡	xetcf
+𤁉	xetcg
 𰜝	xetcl	[u]
 𤁦	xetcn
 𣽫	xetcp
@@ -97683,7 +97684,7 @@
 𬖎	xfdi
 㶬	xfdj
 𥽕	xfdjb
-𭣜	xfdje
+𤆿	xfdje
 𬖣	xfdjm
 𤋹	xfdjr
 类	xfdk
@@ -97701,7 +97702,7 @@
 𬖿	xfdnq
 𬖌	xfdo
 敩	xfdok
-𥻲	xfdom
+𫃃	xfdom
 𢝲	xfdp
 𭫮	xfdpt
 𢰣	xfdq
@@ -98230,12 +98231,12 @@
 㐋	xgn
 𭐄	xgnbg
 𣓇	xgnd
-𡏈	xgnef
 𡊑	xgnf
 彀	xgnhn
 㘧	xgnin
 𫮑	xgnkq
 𰉞	xgnl
+𡑹	xgnmf
 𡔽	xgnmi
 𡉌	xgno
 𡍰	xgnoe
@@ -100135,6 +100136,7 @@
 𫁖	xjchu
 𮄒	xjchw
 㝐	xjci
+𥥇	xjcid
 𡩥	xjcim
 㒹	xjcjb
 𥩊	xjcjp
@@ -100874,7 +100876,7 @@
 𰣾	xkrrw
 𠀁	xks
 𤴬	xksh
-𫦧	xkshi
+𤬄	xkshv
 𫦭	xksia
 𤼕	xksja
 𤻢	xkske
@@ -102152,11 +102154,11 @@
 䅇	xmwhd
 𮗀	xmwhe
 𩈙	xmwhj
-𮠜	xmwhl
 𩗏	xmwhn
 𮗊	xmwho
 𣮿	xmwhq
 𬪴	xmwhr
+𨠋	xmwhv
 𮗆	xmwhw
 𨣪	xmwic
 䩋	xmwid
@@ -104417,7 +104419,7 @@
 𭆿	xrhp
 𠲃	xrhpl
 𰠧	xrhq
-𭉪	xrhqi
+𡀤	xrhqi
 𭺲	xrhqm
 𭋑	xrhqq
 𣬦	xrhqu
@@ -105049,7 +105051,6 @@
 𩧠	xsfhe
 𱄸	xsfhh
 𫘈	xsfhn
-𩥧	xsfhu
 𰒯	xsfi
 䭾	xsfik
 䮁	xsfit
@@ -105204,6 +105205,7 @@
 𦖚	xsjhx
 𫟉	xsji
 𦕧	xsjij
+𦗰	xsjjm
 𦗟	xsjjw
 𫯺	xsjk
 𮋷	xsjkh
@@ -107013,6 +107015,7 @@
 䌕	xvfij
 紁	xvfik
 𰫨	xvfir
+𦇁	xvfis
 𬗕	xvfit
 𥾅	xvfj
 𮉁	xvfjb
@@ -107075,7 +107078,6 @@
 𫟁	xvfrs
 𮜭	xvfry
 𠠪	xvfsh
-𦄒	xvfsi
 𦀩	xvfsj
 𰫝	xvfsk
 𦃌	xvfsm
@@ -107983,6 +107985,7 @@
 𪃕	xxehr
 𬇽	xxehs
 𪷽	xxehu
+𤄚	xxehx
 㲿	xxei
 鿄	xxeid
 𭰢	xxeih
@@ -108084,6 +108087,7 @@
 𡭢	xxfd
 𤓣	xxfdd
 𰪩	xxfdi
+𭣜	xxfdj
 𰪦	xxfdk
 𡭦	xxfdm
 𬖋	xxfdn
@@ -108217,7 +108221,6 @@
 𭩥	xxgnd
 𭶊	xxgnf
 殻	xxgnh
-𡑹	xxgnm
 𫭧	xxgns
 𧺍	xxgoc
 𧺔	xxgog
@@ -109399,6 +109402,7 @@
 𢷣	xxqhx
 𫜩	xxqhy
 払	xxqi
+𢫖	xxqid	[u]
 㧠	xxqif
 𪮗	xxqih
 𰔐	xxqik
@@ -109478,6 +109482,7 @@
 㖟	xxrbb
 𠜏	xxrbl
 𭇒	xxrbt
+𠶼	xxrbu
 唫	xxrc
 𫪒	xxrdh
 𭯶	xxre
@@ -109490,7 +109495,7 @@
 𭇆	xxrhg
 𰇬	xxrhh
 㘅	xxrho
-𠸦	xxrhq
+𭉪	xxrhq
 𠼍	xxrhs
 𪾍	xxrhu
 𡁝	xxrhx
@@ -109952,6 +109957,7 @@
 𰎭	xxuyr	[u]
 𭗍	xxuyt
 𠞤	xxvbl
+𡟠	xxvbu
 𪀮	xxvdh
 𡞸	xxvdl
 𥃎	xxveb
@@ -110405,6 +110411,7 @@
 𨒛	xxxyo
 𮓛	xxxyp
 𩫌	xxxyr
+𮟨	xxxys
 𰺯	xxxyt
 𪗱	xxxyu
 𧘯	xxxyv
@@ -116391,7 +116398,6 @@
 𨓊	ysju
 𨘽	ysju
 𬊐	yskf
-𤽩	yskka
 𣃾	ysklu
 𣃾	ysklv
 旑	yskmr
