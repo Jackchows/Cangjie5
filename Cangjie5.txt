@@ -48069,6 +48069,7 @@
 𫕠	mbau
 𩅍	mbawe
 𧟩	mbb
+𫕟	mbb
 䨜	mbbb
 𩄨	mbbbb
 𱁦	mbbch
@@ -48155,7 +48156,6 @@
 𩅹	mbeau
 𮦶	mbeau
 𩅳	mbeav
-𫕟	mbeb
 𬰆	mbebd	[u]
 霪	mbebg
 𩅴	mbebj
