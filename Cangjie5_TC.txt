@@ -13140,7 +13140,6 @@
 䰤	dwhui
 㼑	dwhvo
 槶	dwim
-𪳿	dwite
 𣏭	dwj
 樌	dwjc
 檲	dwji
@@ -93466,6 +93465,7 @@
 団	wdi
 𤰥	wdi
 𰘪	wdiss
+𪳿	wdite
 𢻔	wdje
 𬃻	wdjlk
 𤰮	wdk
