@@ -26851,7 +26851,6 @@
 𬧥	hhumr
 䠽	hhumt
 𬖃	hhuo
-𥫽	hhup
 𥰝	hhup
 𬕰	hhur
 𥵨	hhus
@@ -26864,6 +26863,7 @@
 𨈼	hhvf
 𬧮	hhvfb
 笟	hhvo
+𥫽	hhvp
 篼	hhvu
 𨉒	hhvvf
 留	hhw
