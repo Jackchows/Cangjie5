@@ -30696,7 +30696,6 @@
 𥫯	hl
 𣊅	hla
 𣊆	hla
-𰕲	hla
 兎	hlai
 𪖺	hlaiu
 𪖭	hlami
@@ -49253,6 +49252,7 @@
 𰙨	lgylm
 𱖿	lgyy
 袙	lha
+𰕲	lha
 𫌙	lhaa
 𧟉	lhab
 𧜣	lhaf
@@ -119969,7 +119969,6 @@
 㠞	xxhku
 𮈛	xxhkv
 𥫯	xxhl
-𰕲	xxhla
 𡊎	xxhlg
 𥫨	xxhll
 𩕬	xxhlm
