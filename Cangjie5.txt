@@ -38774,7 +38774,6 @@
 𭈝	ilr
 𢉫	ilsl
 归	ilsm
-帰	ilsmb
 𰄇	ilsp	[u]
 庙	ilw
 𢈔	ilwk
@@ -50584,6 +50583,7 @@
 归	lism	[O]
 𱿘	lism
 𧐔	lisma
+帰	lismb
 𧌈	lismb
 蠗	lismg
 䖱	lismg
