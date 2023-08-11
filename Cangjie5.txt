@@ -50581,6 +50581,7 @@
 𬠍	liskp
 𲾑	lislb
 𧊺	lisll
+归	lism	[O]
 𱿘	lism
 𧐔	lisma
 𧌈	lismb
