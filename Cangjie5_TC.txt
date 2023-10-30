@@ -1377,8 +1377,8 @@
 閃	ano
 欥	ano
 閄	ano
-𬀨	ano
 𨳉	ano
+𬀨	ano
 𨵀	anoam
 𨳙	anob
 𨶨	anobn
@@ -30931,8 +30931,8 @@
 𠂶	hryh
 𫫹	hryhh
 𦧢	hryid
-𪯬	hryj
 𣁳	hryj
+𪯬	hryj
 𫫹	hrykh
 𫇖	hrykr
 𬜇	hrymr
@@ -62941,7 +62941,6 @@
 餵	oiwmv
 𩟍	oiwod
 饂	oiwot
-𮨺	oiwr	[u]
 𩞫	oiwtc
 饆	oiwtj
 𠏰	oixf
@@ -65864,7 +65863,6 @@
 䭞	oswlj
 餵	oswmv
 饂	oswot
-𮨺	oswr	[u]
 饆	oswtj
 𭀓	oswu
 餃	osyck
@@ -84002,7 +84000,6 @@
 𦹚	tlbk
 帯	tlblb
 㒼	tlbo
-𬟃	tlbo
 𦳟	tlbq
 萜	tlbr
 䒞	tlbu
@@ -85974,6 +85971,7 @@
 𦸀	ttcg
 䔮	ttcl
 豑	ttcnh
+𬟃	ttco
 𮑁	ttco
 𫎁	ttcor
 𦷧	ttcp
@@ -89776,7 +89774,6 @@
 𦃕	vfhlp
 𮈯	vfhlp
 𫄂	vfhlq
-𥾖	vfhlu
 𬗺	vfhlw
 𦇐	vfhmf
 紤	vfhml
@@ -90083,6 +90080,7 @@
 繍	vflll
 𬗷	vflll
 紼	vflln
+𥾖	vfllu
 縷	vfllv
 𮈨	vflmb
 繢	vflmc
@@ -98847,7 +98845,6 @@
 𠑼	xhhsu
 𮜲	xhhtc
 𬼧	xhhu
-𥰝	xhhup
 𡕜	xhhuu
 𨊂	xhhwg
 𨊒	xhhwl
@@ -99371,6 +99368,7 @@
 𦧏	xhrtt
 乱	xhru
 𢼤	xhrye
+𪯬	xhryj
 𮗺	xhrym
 𬜈	xhryo
 𨐙	xhryt
@@ -101314,6 +101312,7 @@
 𭆂	xman
 䣟	xmanl
 𫺠	xmap
+𫕟	xmbb
 𮦒	xmbbu
 𨪖	xmbc
 𭫒	xmbd
@@ -115468,7 +115467,6 @@
 謱	yrlav
 𢂋	yrlb
 詇	yrlbk
-𧭙	yrlbo
 訦	yrlbu
 𰴹	yrleg
 𬣄	yrlga
@@ -116003,6 +116001,7 @@
 譾	yrtbm
 𧪈	yrtbn
 𧭊	yrtbo
+𧭙	yrtbo
 鿁	yrtc
 譜	yrtca
 𧬗	yrtcd
