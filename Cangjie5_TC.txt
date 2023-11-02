@@ -3560,6 +3560,7 @@
 𧌘	belmi
 𩓔	bembc
 𩔃	bembc
+𮦸	bembi
 𦉻	bemj
 𤭲	bemvn
 𬋮	bemym
@@ -15373,8 +15374,9 @@
 𥞹	eihd
 滅	eihf
 㳚	eihi
+𣷳	eihi
 𣾒	eihk
-𣷳	eihm
+𣷳	eihm	[u]
 𪫚	eihoq
 𣳥	eihp
 洠	eihq
@@ -33868,6 +33870,7 @@
 𪕕	hvlmi
 鼬	hvlw
 䶇	hvlwb
+𫜢	hvm
 䫋	hvmbc
 𡡓	hvmbc
 𪕯	hvmbc
@@ -34338,7 +34341,6 @@
 𦦒	hxvle
 𬛿	hxvml
 𬛿	hxvmn
-𫜢	hxvym
 鼠	hxvyv
 𰯹	hxwd
 𦦷	hxwib
@@ -51738,7 +51740,6 @@
 𩒴	membc
 𬱐	membc
 𱩤	membc
-𮦸	membi
 𫩍	membw
 𠫒	memee
 𭯠	memhu
@@ -66928,9 +66929,9 @@
 𠓪	ololl
 𰁽	ololl
 翛	olom
-𪬪	olonp
 𨁀	oloo
 𠐃	olop	[Ou]
+𪬪	olop
 𠎕	oloq	[O]
 𰏥	oloq
 𠌪	olou
@@ -71281,7 +71282,6 @@
 懮	pmbe
 𭟙	pmbg
 愞	pmbk
-𢡍	pmbl
 恆	pmbm
 𢗶	pmbm
 𰒅	pmbm	[u]
@@ -71427,6 +71427,7 @@
 𪉓	pmpym
 𢰨	pmq
 𫹺	pmr
+𢡍	pmrb
 𱉙	pmrc
 𢣀	pmri
 𢣃	pmrj
@@ -75483,8 +75484,8 @@
 𢱒	qtgk
 𢮲	qtgn
 𪮲	qtgo
-𢴯	qtgr
 𢵈	qtgr
+𢴯	qtgr
 𢸤	qtgs
 𪯄	qtgs
 𢷞	qtgt
@@ -80552,7 +80553,7 @@
 𠴟	rtq
 𭉋	rtqc	[?]
 𫪾	rtqi
-𭉋	rtqk	[?]
+𭉋	rtqk
 嗟	rtqm
 𭈏	rtqo
 唴	rtqu
@@ -87348,7 +87349,7 @@
 𦽫	tirp
 𰱥	tirp
 𬝭	tirt
-𫉏	tirv
+𫉏	tiru
 芦	tis
 萹	tisb
 菺	tisb
@@ -87419,7 +87420,6 @@
 荸	tjbd
 䕓	tjbf
 𦵫	tjbf
-𩍫	tjbge
 𩋙	tjbgr
 𦭄	tjbh
 𩍇	tjbhf
@@ -87430,6 +87430,7 @@
 䩵	tjbjj
 带	tjblb
 帯	tjblb	[O]
+𩍫	tjble
 𩊟	tjbll
 𰸛	tjblo
 𰑵	tjblp
@@ -87716,7 +87717,7 @@
 𪟥	tjks
 𫇷	tjks
 𩊏	tjksr
-𮐗	tjku	[?]
+𮐗	tjku
 鞻	tjlav
 𦲐	tjlb
 𩊟	tjlbb
@@ -87742,7 +87743,6 @@
 萐	tjlo
 𮧛	tjlst
 𱁽	tjlsw
-𩍫	tjlue
 萋	tjlv
 䩜	tjlw
 𫈛	tjlw
@@ -87929,7 +87929,7 @@
 𩌼	tjorw
 𮧫	tjotb
 𩍩	tjoto
-𮐗	tjou	[?]
+𮐗	tjou
 𮒙	tjow
 𰱵	tjow
 𩊱	tjowy
@@ -97456,7 +97456,6 @@
 𡟟	vpkp
 𫷏	vplb
 妁	vpm
-𫖩	vpmbc
 㚬	vpmm
 𫻈	vpoir
 𡝒	vpok
@@ -97710,8 +97709,8 @@
 㜋	vtct
 媨	vtcw	[u]
 𡌎	vtg
-𡠘	vtge
 𡡂	vtge
+𡠘	vtge
 𡡷	vtge
 𭒏	vtgf
 嬟	vtgi
@@ -97953,6 +97952,7 @@
 𢀉	vvlpb
 丝	vvm
 纟	vvm
+𫖩	vvmbc
 𩠐	vvmbu
 𡝂	vvmg
 姧	vvmj
@@ -102217,6 +102217,7 @@
 沭	xeid
 𥹭	xeifd
 𣺭	xeihb
+𣷳	xeihi
 𣴿	xeihq
 𬇠	xeihs
 𭰈	xeihu
@@ -108571,6 +108572,7 @@
 𠌚	xoloj
 攸	xolok
 𠓪	xolol
+𪬪	xolop
 𰏥	xoloq
 𠊞	xolp
 𭁕	xolyc
@@ -109826,7 +109828,7 @@
 𢵙	xqtcd
 𢵇	xqtge
 𢷮	xqtgi
-𢵈	xqtgr
+𢴯	xqtgr
 𪯄	xqtgs
 𭢕	xqtgt
 𢶻	xqthn
@@ -113185,7 +113187,7 @@
 𡟛	xvsyj
 𰐈	xvt
 𭒮	xvtaa
-𡡂	xvtge
+𡠘	xvtge
 𡤦	xvtgi
 𡣨	xvtgt
 𫲛	xvthk
@@ -117462,7 +117464,7 @@
 𨃱	xytry
 𨔴	xytsr
 进	xytt
-𥫃	xyttg
+𥪺	xyttg
 𨔸	xyttm
 𨑘	xytu
 𥪬	xytvn
@@ -118334,7 +118336,6 @@
 𥾻	ycvif
 𭁖	ycvne
 𬡄	ycvv
-𬔫	ycwlc
 𱶣	ycwrd	[u]
 𱏳	ycy
 𢿡	ycye
@@ -118482,6 +118483,7 @@
 𬨮	ydw
 𨗐	ydwa
 𨙠	ydwa
+𬔫	ydwlc
 𢽫	ydye
 𭣸	ydye
 𥽽	ydyhm
@@ -123375,8 +123377,8 @@
 𮄷	yttct
 𤍍	yttf
 𨘦	yttg
-𥪺	yttgi
 𥫃	yttgi
+𥪺	yttgi
 𥪿	ytthg
 𥩩	yttm
 𨔸	yttm
