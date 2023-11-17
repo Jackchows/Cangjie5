@@ -4,11 +4,11 @@
 
 相关项目：[Arthurmcarthur/Cangjie3-Plus](https://github.com/Arthurmcarthur/Cangjie3-Plus)
 
-原码表为[「仓颉平台 2012」](http://www.chinesecj.com/forum/viewthread.php?tid=2596)的「五仓世纪」码表。
+原码表为[「仓颉平台 2012」](https://chinesecj.com/forum/forum.php?mod=viewthread&tid=2596)的「五仓世纪」码表。
 
 ## 下载
-[按此](https://github.com/Jackchows/Cangjie5/releases/download/v2.0/RimeData_20220214_Cangjie5.7z)下载适用於RIME的输入法方案文件。<br />
-[按此](https://github.com/Jackchows/Cangjie5/releases/download/v2.0/MSCJData_20220214_Cangjie5.7z)下载适用於替换微软仓颉码表的文件。（使用说明見[此处](http://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=194346)）
+[按此](https://github.com/Jackchows/Cangjie5/releases/download/v3.0/RimeData_20231117_Cangjie5.7z)下载适用於RIME的输入法方案文件。<br />
+[按此](https://github.com/Jackchows/Cangjie5/releases/download/v3.0/MSCJData_20231117_Cangjie5.7z)下载适用於替换微软仓颉码表的文件。（使用说明見[此处](http://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=194346)）
 
 ## 目标
 
@@ -32,7 +32,7 @@
 
 - **[Cangjie5.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5.txt)**<br />
 码表。**一般排序**，综合考虑字频及繁简（**部分常用的简化字可能排列于传统汉字前**）。<br />
-收录中日韩统一表意文字（基本区至扩展G区）字符、[中日韩兼容表意文字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%9B%B8%E5%AE%B9%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97)区中未见于统一汉字区的十二个字符，以及官方码表中收录的符号。<br />
+收录中日韩统一表意文字（基本区至扩展I区）字符、[中日韩兼容表意文字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%9B%B8%E5%AE%B9%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97)区中未见于统一汉字区的十二个字符，以及官方码表中收录的符号。<br />
 同时收录以下 Unicode 区域的字符：中日韩兼容表意文字（除十二个视作统一汉字的字符）、中日韩兼容表意文字补充、康熙部首、中日韩部首补充、中日韩笔画、表意文字描述字符、算筹符号（部分）、中日韩符号和标点（部分）及中日韩兼容标点（部分）。**此部分字符，编码以「z」开头**（兼容汉字「zc」，部首「zr」，笔画「zs」，表意文字描述字符「zi」，算筹符号「zn」，其他符号「zf」）。<br />
 - **[Cangjie5_TC.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_TC.txt)**<br />
 码表。**传统汉字优先**（限《常用国字标准字体表》、《次常用国字标准字体表》及《常用字字形表》范围）。<br />
