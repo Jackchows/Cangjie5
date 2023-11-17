@@ -59533,7 +59533,6 @@
 𧣂	nbmsu
 𧤰	nbmtj
 𧤼	nbmto
-𮯞	nbmu
 𧣐	nbmvh
 𧣎	nbmvi
 㼧	nbmvn
@@ -59629,7 +59628,7 @@
 𧣒	nbss
 𧣶	nbssu
 𮯛	nbssu
-𮯞	nbsu
+𮯞	nbssu
 𮗨	nbsuj
 𢍅	nbt
 𰴡	nbt
@@ -115172,6 +115171,7 @@
 勈	xxnbk
 𩀶	xxnbo
 𧢶	xxnbp
+𮯞	xxnbs
 𧢳	xxnbu
 𫱶	xxnbv
 𮠂	xxncn
