@@ -421,8 +421,8 @@
 昄	ahe
 𠬮	ahe
 𣇔	ahej
-昸	ahem
-㫡	ahem
+昸	ahem	[u]
+㫡	ahem	[u]
 𰖋	aheo
 𪰠	aheq
 𭥵	aher
@@ -740,6 +740,7 @@
 𰖇	ajru
 𭅸	ajsl
 𭧥	ajtc
+𠘗	ajtm	[u]
 暁	ajtu
 𠘗	ajty
 𣋢	ajuu
@@ -1186,7 +1187,7 @@
 𨵋	anhdv
 𨶸	anhdw
 昅	anhe
-𫔠	anhem
+𫔠	anhem	[u]
 閣	anher
 𫔠	anhey
 𨳝	anhg
@@ -3559,6 +3560,7 @@
 𪺙	beijw
 𦌄	beiwb
 𬛒	beja
+𬋸	bejtm	[u]
 𬋸	bejty
 𧷅	belmc
 𧌘	belmi
@@ -3850,6 +3852,7 @@
 𧲵	bheg
 𦣈	bhei
 䏺	bhej
+𦙭	bhem
 胮	bheq
 胳	bher
 䝣	bhesd
@@ -3885,6 +3888,7 @@
 膁	bhhc
 𧳌	bhhdn
 𧳌	bhhdu
+𧲴	bhhem	[u]
 貉	bhher
 𧲴	bhhey
 𧳿	bhhgu
@@ -15027,7 +15031,7 @@
 𣶳	eheg
 浲	ehej
 湰	ehem
-泈	ehem
+泈	ehem	[u]
 𭰸	ehem
 𪷔	ehen
 𪶟	eheo
@@ -15770,6 +15774,7 @@
 𤀕	ejtg
 𪶗	ejtj
 𭳉	ejtk
+𣽬	ejtm	[u]
 瀽	ejto
 𣸣	ejto
 𪷱	ejto
@@ -21274,6 +21279,7 @@
 𤒔	fvfi
 𤓩	fvfk
 𤋢	fvfm
+𤍑	fvfm	[u]
 𤍑	fvfy
 𱈲	fvhaf
 𰐫	fvhhh
@@ -21761,6 +21767,7 @@
 𪁌	gchaf
 𧹰	gchda
 夌	gche
+𧹝	gchem	[u]
 𧹝	gchey
 𡓯	gchg
 𧸷	gchhl
@@ -21986,12 +21993,13 @@
 𪐕	gehdt
 𪔞	gehej
 鼕	gehem
-㲇	gehem
+㲇	gehem	[u]
 𪔢	gehem
+𭽸	gehem
 𪔔	geheq
 鼕	gehey
 㲇	gehey
-𭽸	gehey
+𭽸	gehey	[u]
 𮡑	gehfd
 𣫘	gehhl
 𮡞	gehjg
@@ -26104,6 +26112,7 @@
 𮃏	hdheb
 𥢦	hdhef
 𥡑	hdhem
+𮂽	hdhem	[u]
 𥠢	hdhen
 𥢓	hdhen
 𥞜	hdheq
@@ -27182,6 +27191,7 @@
 𪐎	heijc
 冬	heim
 螽	heimi
+㐑	heimn
 箈	heir
 𥳒	heir
 𥮓	heit
@@ -29675,7 +29685,7 @@
 鴟	hmhaf
 䲼	hmhaf
 䳠	hmhaf
-䳉	hmhaf
+䳉	hmhaf	[u]
 𤯸	hmhbs
 𤯣	hmhbu
 𥠟	hmhd
@@ -29785,6 +29795,7 @@
 𤬵	hmmvn
 𱰈	hmmvn
 𣱐	hmmwg
+㐑	hmn
 𠃘	hmn
 𥫙	hmn
 築	hmnd
@@ -29799,6 +29810,7 @@
 邸	hmnl
 筇	hmnl
 𨚥	hmnl
+𨚟	hmnl	[u]
 𮠋	hmnl
 𢑅	hmnn
 𥬭	hmnn
@@ -29808,9 +29820,9 @@
 𢲿	hmnq
 笴	hmnr
 𥯹	hmnt
-䶱	hmnxu
+䶱	hmnxu	[u]
 䇤	hmob
-䧷	hmog
+䧷	hmog	[u]
 𨾦	hmog
 𨿠	hmog
 𥴃	hmoj
@@ -30780,6 +30792,7 @@
 𪁛	hohef
 𨿒	hoheg
 𢓱	hohej
+𢓘	hohem	[u]
 𱉷	hohem
 𢓿	hohep
 𢓤	hoheq
@@ -31034,7 +31047,7 @@
 𰐬	holll
 彿	holln
 𤫰	holln
-𥮴	holm
+𥮴	holm	[u]
 𧐱	holmi
 𱽃	holmi
 𢓝	holmo
@@ -33282,6 +33295,7 @@
 𦤇	huhe
 𮶖	huhe
 𣭬	huhef
+𪚽	huhem	[u]
 𪚽	huhey
 毨	huhgu
 兟	huhgu
@@ -36502,7 +36516,7 @@
 𢇪	ihe
 𫨵	ihe
 𢈦	ihej
-庝	ihem
+庝	ihem	[u]
 𰒦	ihem	[u]
 㦴	iher
 庝	ihey
@@ -41854,6 +41868,7 @@
 𤍘	jmmf
 𡔂	jmmg
 𡫼	jmmg
+𡫶	jmmgt	[u]
 𡫟	jmmk
 𰌴	jmmm
 𡧃	jmmn
@@ -42585,6 +42600,7 @@
 䗙	jtci
 寒	jtcm
 骞	jtcm
+𡬜	jtcm	[u]
 𬸣	jtcm
 𮋐	jtcm
 𰙶	jtcm
@@ -42949,7 +42965,7 @@
 𡩘	jyta
 𡩁	jytd
 宰	jytj
-𫴐	jytm
+𫴐	jytm	[u]
 𭓳	jytn
 𭔃	jytr
 𫳭	jytu
@@ -46546,7 +46562,7 @@
 𢄰	lbhcr
 𢃸	lbhdf
 幡	lbhdw
-㠽	lbhem
+㠽	lbhem	[u]
 𭘞	lbher
 㠽	lbhey
 𬡮	lbhf
@@ -47507,6 +47523,7 @@
 𧎓	lihei
 蜂	lihej
 𧍰	lihem
+𧊂	lihem	[u]
 𧊵	liheq
 蛒	liher
 𧊂	lihey
@@ -47791,6 +47808,7 @@
 𧎡	lijrr
 𱿣	lijru
 蟦	lijtc
+𧑚	lijtm	[u]
 𰳊	lijto
 𧑚	lijty
 𧒼	lijue
@@ -50874,7 +50892,7 @@
 𱘤	mbhe
 𩂫	mbhee
 𩆲	mbheh
-𩂓	mbhem
+𩂓	mbhem	[u]
 𩂣	mbher
 雾	mbhes
 𩂓	mbhey
@@ -53024,6 +53042,7 @@
 𤦰	mghef
 琒	mghej
 𤦶	mghem
+𤤮	mghem	[u]
 𠙚	mghen
 𮴊	mgheo	[u]
 𭹇	mgheq
@@ -54320,6 +54339,7 @@
 𩞨	mhdv
 𪠚	mhdw
 𠨹	mhe
+𠩁	mhem	[u]
 𭘇	mher
 𠩁	mhey
 𭴪	mhf
@@ -55465,6 +55485,7 @@
 𥞥	mnhd
 𣨙	mnhdv
 瓪	mnhe
+𣧩	mnhem	[u]
 𣧳	mnher
 𭇏	mnher
 𣧩	mnhey
@@ -58557,6 +58578,8 @@
 𮠱	mwhdr
 𨡌	mwhdv
 𨡃	mwhej
+𨠌	mwhem	[u]
+𮗀	mwhem	[u]
 酪	mwher
 𨠱	mwhes
 𨠌	mwhey
@@ -64044,6 +64067,7 @@
 𪀗	nuhaf
 𪁅	nuhaf
 𬷖	nuhaf
+𪚽	nuhem	[u]
 𪚽	nuhey
 𡢎	nuhmv
 𠙀	nuhn
@@ -66557,7 +66581,7 @@
 𠐻	ojto
 𠏯	ojtq
 𠎾	ojtu
-㒏	ojty
+㒏	ojty	[u]
 缶	oju
 侒	ojv
 𠎟	ojvu	[u]
@@ -66917,6 +66941,7 @@
 鞗	olhj
 倏	olhk
 翛	olhm
+𠗆	olhm	[u]
 𱇱	olhm
 𪵍	olhne
 𮨨	olhni
@@ -67557,7 +67582,7 @@
 鿫	onhbk
 㑱	onhd
 伋	onhe
-氡	onhem
+氡	onhem	[u]
 氡	onhey
 𡔟	onhg
 𪝟	onhh
@@ -71174,6 +71199,7 @@
 駂	pjsqf
 𫸞	pjt
 憤	pjtc
+𢢈	pjtm	[u]
 愤	pjto
 𢢈	pjty
 慎	pjuc
@@ -73475,6 +73501,7 @@
 捀	qhej
 𰓵	qhej
 𢭌	qhem
+𢫝	qhem	[u]
 拠	qhen
 𢭎	qheq
 挌	qher
@@ -75805,6 +75832,7 @@
 𱡂	qvfj
 𢺲	qvfk
 𢰹	qvfm
+𢴋	qvfm	[u]
 𢺯	qvfn
 𢷻	qvfo
 𢵰	qvfr
@@ -75836,10 +75864,11 @@
 𪭿	qvmg
 摪	qvmi
 𭠲	qvmm
+𭡯	qvmm
 𱠸	qvmo
 𪮖	qvmu
 𱠰	qvmu
-𭡯	qvmy
+𭡯	qvmy	[u]
 𢮑	qvne
 掾	qvno
 𩹚	qvnwf
@@ -77591,6 +77620,7 @@
 𡅶	rjtf
 噻	rjtg
 𡂷	rjti
+𭊻	rjtm	[u]
 喷	rjto
 㗷	rjto
 𡄓	rjto
@@ -78154,9 +78184,10 @@
 蹯	rmhdw
 𧿨	rmhe
 𨁣	rmhef
+𨀐	rmhem
 跭	rmheq
 路	rmher
-𨀐	rmhey
+𨀐	rmhey	[u]
 𠺿	rmhf
 𠾒	rmhg
 𨅸	rmhgi
@@ -79119,6 +79150,7 @@
 𨇼	rmvff
 𨈎	rmvff
 𨁭	rmvfh
+𨄿	rmvfm	[u]
 𨈊	rmvfn
 𨈌	rmvfp
 𮜘	rmvfr
@@ -81774,6 +81806,7 @@
 𱄥	sfhdt
 䮳	sfhdw
 𲋴	sfhe	[u]
+𩢦	sfhem
 𩧞	sfheq
 𩧠	sfheq
 駱	sfher
@@ -81932,6 +81965,7 @@
 𩢪	sfjr
 𱄝	sfjru
 𩦥	sfjtc
+𩦊	sfjtm	[u]
 䮿	sfjto
 𮪈	sfjtu
 𩦊	sfjty
@@ -87096,6 +87130,7 @@
 𦷘	thmp
 茩	thmr
 𧀽	thmt
+𦵝	thmt	[u]
 𦭐	thmy
 芁	thn
 蘈	thnc
@@ -87785,6 +87820,7 @@
 䪀	tjjrp
 䩪	tjjrr
 䩿	tjjtc
+𩍎	tjjtm	[u]
 𩎀	tjjto
 𩎅	tjjto
 𩍎	tjjty
@@ -88177,6 +88213,7 @@
 𪏥	tjtlc
 𧄊	tjtlo
 𱁾	tjtlw
+𦺦	tjtm	[u]
 鞴	tjtmb
 䪄	tjtmc
 𪏥	tjtmc
@@ -92272,7 +92309,8 @@
 峰	uhej
 峯	uhej
 𭖥	uhel
-峂	uhem
+峂	uhem	[u]
+𡶞	uhem	[u]
 𡶶	uheq
 峉	uher
 峈	uher
@@ -95646,7 +95684,7 @@
 䋥	vfwg
 𦄿	vfwgf
 纆	vfwgg
-𰫫	vfwhm	[u]
+𰫫	vfwhm
 𰫫	vfwhy
 𦂮	vfwii
 𦄰	vfwim
@@ -95933,7 +95971,7 @@
 嬏	vhdw
 𠬞	vhe
 㛔	vhej
-㚵	vhem
+㚵	vhem	[u]
 𡜠	vheq
 𡞕	vhew
 㚵	vhey
@@ -98928,6 +98966,7 @@
 畈	whe
 𡇫	whef
 𤴂	whei
+𤱞	whem	[u]
 略	wher
 畧	wher
 𮰘	wher
@@ -99904,8 +99943,9 @@
 㚻	wv
 圞	wvfd
 圝	wvff
+𡈡	wvfm
 𡈻	wvfp
-𡈡	wvfy
+𡈡	wvfy	[u]
 䴉	wvhaf
 𡆩	wvi
 累	wvif
@@ -100135,7 +100175,7 @@
 晑	xahbr
 𣆢	xahbu
 𠬮	xahe
-㫡	xahem
+㫡	xahem	[u]
 㫡	xahey
 𡮤	xahf
 𣊳	xahgf
@@ -102276,7 +102316,7 @@
 㴽	xehdp
 汷	xehe
 𭳣	xehed
-泈	xehem
+泈	xehem	[u]
 烫	xehf
 𡋷	xehg
 𰜹	xehhk
@@ -103296,6 +103336,7 @@
 𧇺	xfuyp
 𰋷	xfv
 𤒔	xfvfi
+𤍑	xfvfm	[u]
 𥹰	xfvno
 𭵰	xfvvu
 𤊲	xfvvw
@@ -103390,7 +103431,7 @@
 𡒢	xgeg
 𪆪	xgeha
 𥡛	xgehd
-㲇	xgehe
+㲇	xgehe	[u]
 𥀎	xgehn
 𡅦	xgeho
 𤛖	xgehq
@@ -104440,7 +104481,7 @@
 𥬤	xhmms
 𱼮	xhmmu	[u]
 𤬵	xhmmv
-𥫙	xhmn
+𠃘	xhmn
 𥳎	xhmni
 邸	xhmnl
 𥬭	xhmnn
@@ -106572,6 +106613,7 @@
 𬟶	xligi
 𧏜	xligr
 𧐹	xlihd
+𧊂	xlihe	[u]
 𰲪	xlihi
 𧉲	xlihm
 𧊶	xlihn
@@ -107778,7 +107820,7 @@
 𪀹	xmwha
 𬪩	xmwhb
 䅇	xmwhd
-𮗀	xmwhe
+𮗀	xmwhe	[u]
 𩈙	xmwhj
 𩗏	xmwhn
 𮗊	xmwho
@@ -108685,7 +108727,7 @@
 儵	xolhf
 𬿧	xolhg
 𢒃	xolhh
-𱇱	xolhm
+𠗆	xolhm	[u]
 𬾱	xolhu
 𱏱	xolis
 𫢇	xoll
@@ -109576,6 +109618,7 @@
 洯	xqhe
 𫽌	xqheh
 𰓵	xqhej
+𢫝	xqhem	[u]
 𫽟	xqher
 𢹋	xqhet
 𫾡	xqhgi
@@ -109996,9 +110039,11 @@
 𢺥	xqvfe
 𢹨	xqvfh
 𢺳	xqvfi
+𢴋	xqvfm	[u]
 𢴋	xqvfy
 𱈭	xqvha
 抝	xqvis
+𭡯	xqvmm
 𱠰	xqvmu
 𫼰	xqvr
 𢴫	xqvvn
@@ -111611,6 +111656,7 @@
 𦲽	xthlo
 𦽪	xthlw
 𦸙	xthml
+𦵝	xthmt	[u]
 𦿾	xthne
 葻	xthni
 𧸋	xthoc
@@ -112536,6 +112582,7 @@
 𱜈	xuhdp
 𡹜	xuhdv
 峯	xuhej
+𡶞	xuhem	[u]
 峈	xuher
 𡶞	xuhey
 𪨫	xuhhl
@@ -114809,7 +114856,7 @@
 𢾒	xxjry
 𡪬	xxjsj
 𠦃	xxjt
-𬸣	xxjtc
+𬈡	xxjtc
 𭓵	xxjtd
 鵍	xxjuh
 𡧚	xxjuk
@@ -117014,6 +117061,7 @@
 𠧘	xyhe
 𮞦	xyhed
 𨘡	xyhej
+𨒟	xyhem	[u]
 𮟦	xyheo
 𲅹	xyhew
 𨗡	xyhgr
@@ -117628,6 +117676,7 @@
 𲎩	xyugc
 𪂬	xyuha
 𪗮	xyuhd
+𲎭	xyuhe
 𬺄	xyuhj
 龋	xyuhl
 龂	xyuhm
@@ -118990,6 +119039,7 @@
 逢	yhej
 𨘡	yhej
 𨓧	yhem
+𨒟	yhem	[u]
 𨙅	yheo
 𮟦	yheo
 逄	yheq
@@ -119419,6 +119469,7 @@
 𥫔	yjhec
 竷	yjhee
 𪈋	yjhef
+𣁲	yjhem	[u]
 赣	yjheo
 𥪴	yjheq
 𫁯	yjhew
@@ -120575,6 +120626,7 @@
 𧇸	ynhdf
 𧇮	ynhdr
 﨤	ynhe
+𧆼	ynhem	[u]
 𧆼	ynhey
 𮓗	ynhg
 彪	ynhhh
@@ -120755,6 +120807,7 @@
 𠅦	ynus
 嬴	ynv
 𡛝	ynv
+𧈆	ynvfm	[u]
 𧈆	ynvfy
 𦆁	ynvif
 𧆢	ynvl
@@ -123722,6 +123775,7 @@
 𧇸	yuhdf
 𧇮	yuhdr
 𪚈	yuhei
+𧆼	yuhem	[u]
 𲎭	yuhem
 𪘊	yuher
 𧆼	yuhey
@@ -124097,6 +124151,7 @@
 𨗞	yuuw
 𡣼	yuv
 𪗵	yuve
+𧈆	yuvfm	[u]
 𧈆	yuvfy
 𪙧	yuvii
 𪙧	yuvik
