@@ -38132,6 +38132,7 @@
 𪊓	ipyk
 𪊙	ipyk
 𪪐	ipyk
+𬸾	ipykl
 麐	ipykr
 𪊺	ipykr
 𪊳	ipylc
@@ -117419,7 +117420,6 @@
 𪚥	xypyb
 𣀞	xypye
 𧙁	xypyh
-𬸾	xypyk
 讋	xypym
 𦟀	xyq
 𮟖	xyqmc
@@ -121275,7 +121275,6 @@
 𪚛	ypyj
 虔	ypyk
 𫊢	ypykl
-𬸾	ypykl
 訾	ypymr
 讋	ypymr
 𧮩	ypymr
@@ -124675,7 +124674,6 @@
 𩐓	yxglm
 𪗉	yxhd
 𦦏	yxhx
-𪗌	yxibc
 𪗍	yxjlv
 𠆜	yxjlv
 𪗑	yxjme
@@ -126005,6 +126003,7 @@
 ㍿	zfdmo
 ㍽	zfkmy
 ㍻	zfmji
+々	zfni
 ㋿	zfoih
 ㋿	zfolh
 ⿱	zia
