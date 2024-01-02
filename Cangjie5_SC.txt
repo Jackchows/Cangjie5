@@ -1882,6 +1882,7 @@
 𣈣	arlu
 𬱌	armbc
 冔	armd
+𣇒	armg
 𣊤	armmv
 㬆	arpa
 𣋝	arrd
@@ -3299,6 +3300,7 @@
 𰇩	bcr
 𬥙	bcrbc
 𧵙	bcrc
+𧶔	bcrhg	[u]
 貺	bcrhu
 𰭉	bcrhu
 腳	bcrl
@@ -19249,6 +19251,7 @@
 𥺐	fdrhl
 𥺓	fdrhr
 𥻢	fdrhu
+𥺆	fdrmg	[u]
 𥺏	fdrno
 𮇎	fdrp
 𥼾	fdrrd
@@ -28294,6 +28297,7 @@
 𲄡	hhrau
 篩	hhrb
 𨈪	hhrc
+𨉑	hhrhg	[u]
 躳	hhrhr
 𮆞	hhrj
 𥳃	hhrk
@@ -34885,7 +34889,7 @@
 𥷺	hyrk
 𥸏	hyrk
 篰	hyrl
-𮎏	hyrmg
+𮎏	hyrmg	[u]
 𦨳	hyrmk
 𦪨	hyrmk
 𥭔	hyrn
@@ -45713,6 +45717,7 @@
 鵸	krhaf
 鴐	krhaf
 𦨦	krhby
+𤶲	krhg	[u]
 𭄢	krhi
 𣂦	krhml
 𠙏	krhn
@@ -46817,7 +46822,7 @@
 𢄙	lbrbc
 帜	lbrc
 𭘡	lbrhg
-𭘡	lbrmg
+𭘡	lbrmg	[u]
 幧	lbrrd
 幝	lbrrj
 𱜻	lbrrr
@@ -48286,6 +48291,7 @@
 蜎	lirb
 𧔸	lirbb
 𧊄	lirc
+𧋸	lirhg	[u]
 𱿤	lirhr	[u]
 𧕘	lirig
 𧊅	lirks
@@ -56662,6 +56668,7 @@
 䃲	mrhet
 𥓶	mrhew
 䂢	mrhey
+𠩥	mrhg	[u]
 𰧥	mrhgi
 硞	mrhgr
 𥑻	mrhgu
@@ -60880,6 +60887,7 @@
 𩷣	nfrhg
 𫙺	nfrij
 𩻂	nfrjw
+𩷣	nfrmg	[u]
 𩶭	nfrmk
 𬵰	nfrmo
 𱆩	nfrms
@@ -61767,7 +61775,7 @@
 𱋥	nkqme
 𫸫	nkr
 𢌥	nkrhg
-𢌥	nkrmg
+𢌥	nkrmg	[u]
 𲍅	nkrsk
 𨂣	nkryo
 𠝸	nksh
@@ -66214,6 +66222,7 @@
 𩛦	oirhg
 𩚶	oirhu
 𩞓	oirjw
+𩛦	oirmg	[u]
 㖚	oirp
 𬿯	oirp
 𩟎	oirrd
@@ -69430,7 +69439,9 @@
 䬼	osrb
 𮩉	osrbc
 𠏄	osrg
+𩛦	osrhg	[u]
 僻	osrj
+𩛦	osrmg	[u]
 𪝁	osrp
 傴	osrr
 饌	osruc
@@ -80078,6 +80089,7 @@
 𪁳	rrhaf
 𡂇	rrhce
 𠭤	rrhe	[O]
+𠴔	rrhg	[u]
 𱕶	rrhjg
 喌	rrhll	[O]
 咒	rrhn
@@ -89027,6 +89039,7 @@
 𦵶	tmnd
 𦹡	tmnd
 𦶣	tmnf
+𦹠	tmng
 薚	tmnh
 𧀫	tmnh
 𦺐	tmni
@@ -89266,7 +89279,6 @@
 芕	tni
 𫈏	tnib
 𦰔	tnid
-𦹠	tnig
 茅	tnih
 蔃	tnii
 茒	tnil
@@ -90299,6 +90311,7 @@
 𪇜	trhaf
 𰱣	trhb
 𫉩	trhf
+𮎺	trhg	[u]
 𧪷	trhml
 𣯈	trhqu
 莒	trhr
@@ -123537,7 +123550,7 @@
 𨙕	ytrg
 𮄰	ytrhg
 竞	ytrhu
-𮄰	ytrmg
+𮄰	ytrmg	[u]
 𥪅	ytrno
 𥩶	ytrr
 𨕃	ytrr
