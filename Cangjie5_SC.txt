@@ -7472,7 +7472,7 @@
 鍀	cami
 𲇬	cami
 銲	camj
-𬁮	camkp
+𬁮	camkp	[u]
 𣍎	cammu
 鍉	camo
 𨨊	camt
@@ -22433,6 +22433,7 @@
 𰊆	ghke
 𰉩	ghkl
 𡒁	ghkm
+𡍞	ghkp
 𭎝	ghkr
 𡐥	ghky
 㙖	ghlb
@@ -23179,7 +23180,7 @@
 𡊘	gmk
 𫭛	gmk
 𰊆	gmke	[u]
-𡍞	gmkp
+𡍞	gmkp	[u]
 𭎝	gmkr
 坜	gmks
 𪢸	gmku
@@ -24994,6 +24995,7 @@
 𲌯	hahid
 𤽡	hahio
 𬐆	hahio
+𩡋	hahkp	[u]
 𤽇	hahlu
 𤽇	hahlv
 篂	hahm
@@ -31652,6 +31654,7 @@
 𬇊	hphvp
 𥫩	hpi
 𥬉	hpi
+𢧏	hpi	[u]
 𱸪	hpii
 𤟀	hpik
 笉	hpim
@@ -76744,7 +76747,7 @@
 𠴎	rehk
 𠽇	rehm
 𭈠	reho
-𠻹	rehp
+𠻹	rehp	[u]
 𣮫	rehqu
 𠸪	rehr
 𭉉	rehr
@@ -87728,6 +87731,7 @@
 鞽	tjhkb
 𧄳	tjhkb
 鞒	tjhkl
+𩋅	tjhkp	[u]
 𩍵	tjhlc
 靳	tjhml
 𣃕	tjhml
@@ -98998,6 +99002,7 @@
 𡇸	whjp
 𡇜	whjr
 𤲎	whkf
+𤲖	whkp
 𫭎	whlb
 𭍚	whn
 𡇙	whnd
@@ -114577,6 +114582,7 @@
 𱝫	xxhoy
 𬕇	xxhpb
 𪀻	xxhph
+𢧏	xxhpi	[u]
 𰀭	xxhpk
 𠝍	xxhpl
 𩑒	xxhpm
@@ -121681,6 +121687,7 @@
 訞	yrhk
 譑	yrhkb
 𧬩	yrhkm
+𧨩	yrhkp
 䜠	yrhlc
 詶	yrhll
 𧦐	yrhlo
@@ -123336,6 +123343,7 @@
 𧰜	ythjg
 𬔥	ythjg
 𰩨	ythjg
+𥪌	ythkp	[u]
 竬	ythlb
 𮄨	ythlo
 𨕇	ythm
@@ -126003,7 +126011,6 @@
 ㍿	zfdmo
 ㍽	zfkmy
 ㍻	zfmji
-々	zfni
 ㋿	zfoih
 ㋿	zfolh
 ⿱	zia
