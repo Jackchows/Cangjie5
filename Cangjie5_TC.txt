@@ -8593,8 +8593,8 @@
 𮡨	cmdm
 𮣙	cmdm
 𬫢	cmdt
-銾	cme
 鈑	cme
+銾	cme
 𫒧	cmeb
 𬫡	cmem
 鈈	cmf
@@ -9844,8 +9844,8 @@
 𨫏	cyij
 𨬨	cyiq
 𫒻	cyiq
-鋶	cyiu
 銃	cyiu
+鋶	cyiu
 鋶	cyiv
 鈄	cyj
 𨰮	cyje
@@ -15986,8 +15986,8 @@
 浊	elmi
 𧈡	elmi
 𥜙	elmmf
-溃	elmo
 洮	elmo
+溃	elmo
 𰛗	elmp
 濜	elmt
 𰜪	elmu
@@ -37718,6 +37718,7 @@
 垐	iog
 㢈	iog
 𨾓	iog
+𡉡	iog
 𫻼	iog
 膺	iogb
 𩪠	iogb
@@ -44680,8 +44681,8 @@
 𰋫	kik
 𤵬	kike
 𤺉	kikf
-瘆	kikh
 痝	kikh
+瘆	kikh
 𭆠	kiki
 𡙒	kikii
 𤵬	kikk
@@ -46450,8 +46451,8 @@
 𦧶	laomr
 𭴷	lapf
 裼	laph
-裩	lapp
 褐	lapp
+裩	lapp
 褐	lapv
 𲍻	lapym
 𰗂	laqmb
@@ -46462,8 +46463,8 @@
 襮	late
 𬡊	lau
 𧟊	laud
-裉	lav
 婁	lav
+裉	lav
 𣍚	lavfe
 𧝽	lavo
 𧜞	lawe
@@ -49234,8 +49235,8 @@
 𲀨	lmfm
 𧝼	lmfn
 𫄽	lmfou
-壮	lmg
 衽	lmg
+壮	lmg
 𩰋	lmg
 𧛢	lmge
 𧝪	lmgi
@@ -49419,8 +49420,8 @@
 𤖱	lnhd
 𥡀	lnhdd
 𤗹	lnhdw
-版	lnhe
 衱	lnhe
+版	lnhe
 𤗌	lnhew
 𢒍	lnhhh
 𤖼	lnhhv
@@ -53576,8 +53577,8 @@
 𤩪	mgnao
 㻊	mgnau
 瓊	mgnbe
-瑍	mgnbk
 瓊	mgnbk
+瑍	mgnbk
 𤥺	mgnbk
 𭺅	mgnbq
 𬍺	mgnbs
@@ -72308,8 +72309,8 @@
 𢙙	pumu
 𢞊	pune
 𢚼	pune
-邨	punl
 鄒	punl
+邨	punl
 𨚔	punl
 㱀	puno
 𣣯	puno
@@ -74343,8 +74344,8 @@
 拵	qkld
 𰓚	qkld
 𧐧	qklii
-蛰	qklmi
 螯	qklmi
+蛰	qklmi
 𧉾	qklmi
 㓶	qkln
 掩	qklu
@@ -79594,7 +79595,6 @@
 唯	rog
 㘴	rog
 𠱊	rog
-𡉡	iog
 𡋏	rog
 𡏔	rog
 𪠶	rog
@@ -89663,8 +89663,8 @@
 荼	tomd
 𦯬	tomf
 𱍨	tomfm
-荃	tomg
 荏	tomg
+荃	tomg
 𦭿	tomh
 荟	tomi
 𬜳	tomi
@@ -92831,9 +92831,9 @@
 𡼣	ulx
 𡿌	ulyd
 𤴗	ulyo
+匕	um
 屸	um
 屵	um
-匕	um
 㞢	um
 㞬	um
 𠙵	um
@@ -96190,8 +96190,8 @@
 槳	vid
 嫲	vidd
 𪪋	vidh
-嬷	vidi
 嬤	vidi
+嬷	vidi
 𭞉	vidp
 𡣥	vidv
 孊	vidy
@@ -96254,9 +96254,9 @@
 嫲	vijc	[u]
 㛏	vije
 𫷟	vijks
-奬	vik
 幾	vik
 娀	vik
+奬	vik
 𡗞	vik
 𫰀	vik
 𫰋	vik
@@ -101275,7 +101275,7 @@
 𨯂	xcmbv
 𲇊	xcmcw
 𮣙	xcmdm
-鈑	xcme
+銾	xcme
 𪹸	xcmf
 錽	xcmfe
 𨥾	xcmfj
@@ -101467,7 +101467,7 @@
 𨩔	xcyid
 𨫏	xcyij
 𫒻	xcyiq
-銃	xcyiu
+鋶	xcyiu
 鉼	xcyjj
 𨰠	xcykq
 𫒚	xcylc
@@ -102527,7 +102527,7 @@
 汌	xelll
 沜	xelln
 𧈡	xelmi
-洮	xelmo
+溃	xelmo
 𱧹	xelmw
 𫗚	xeloi
 𢜅	xelp
@@ -104549,7 +104549,7 @@
 𩙪	xhnff
 𮆦	xhngg
 𫥠	xhngl
-𩙦	xhnha
+鷉	xhnha
 𱃜	xhnhd
 飗	xhnhh
 𩗝	xhnhl
@@ -106300,7 +106300,7 @@
 𩿅	xkiha
 𱘸	xkiil	[u]
 𰋫	xkik
-痝	xkikh
+瘆	xkikh
 𰣦	xkiks
 𡯤	xkiku
 𰀅	xkim
@@ -106564,8 +106564,8 @@
 𪲹	xlad
 𧛰	xlahu
 𬻸	xlamh
-褐	xlapp
-婁	xlav
+裩	xlapp
+裉	xlav
 帇	xlb
 𱜳	xlban
 𧚯	xlbbe
@@ -106785,7 +106785,7 @@
 𧟙	xlmbo
 𭴘	xlmf
 𧷇	xlmfb
-衽	xlmg
+壮	xlmg
 𮷀	xlmgi
 𮓰	xlmi
 𰳹	xlmik
@@ -106810,7 +106810,7 @@
 𣲴	xlne
 𤗷	xlnfd
 𤘄	xlngw
-衱	xlnhe
+版	xlnhe
 𣂔	xlnhm
 𣭘	xlnhq
 牑	xlnhs
@@ -107223,7 +107223,7 @@
 𦥍	xmgmu
 珁	xmgmv
 𤩗	xmgmw
-瓊	xmgnb
+瑍	xmgnb
 𬍪	xmgne
 𤥀	xmgni
 𤣲	xmgnj
@@ -107617,7 +107617,7 @@
 𦧙	xmrhj
 𰧬	xmrhk
 㪼	xmrhm
-𫇔	xmrhn
+碸	xmrhn
 𥕣	xmrho
 𦧋	xmrhq
 𥓎	xmrhs
@@ -108815,7 +108815,6 @@
 𫢋	xomk
 𠐣	xomkp
 𪟘	xomks
-𠇭	xoml
 𠇆	xomlb
 𱎮	xomlm
 𠛲	xomln
@@ -109488,7 +109487,7 @@
 𠞃	xpuln
 𲊬	xpumb
 𢚼	xpune
-鄒	xpunl
+邨	xpunl
 𣣯	xpuno
 慛	xpuog
 𫹾	xpup
@@ -109799,7 +109798,7 @@
 𢫉	xqkks
 𪭬	xqklb
 𰓚	xqkld
-螯	xqklm
+蛰	xqklm
 𭠑	xqkm
 𩕀	xqkmb
 砉	xqkmr
@@ -112135,7 +112134,7 @@
 𠞦	xtoln
 𮎥	xtom
 蘥	xtomb
-荏	xtomg
+荃	xtomg
 𬜳	xtomi
 𦳄	xtomk
 莶	xtomm
@@ -112721,7 +112720,7 @@
 𡺃	xulmi
 𡷏	xulq
 峀	xulw
-屵	xum
+屸	xum
 𡶾	xuma
 𩨮	xumbb
 𡺋	xumbc
@@ -113183,7 +113182,7 @@
 𢇃	xvicc
 嬷	xvici
 槳	xvid
-嬤	xvidi
+嬷	xvidi
 𢆼	xvie
 糹	xvif
 𫲁	xvifd
@@ -113196,7 +113195,7 @@
 㡬	xvihs
 𰏯	xvihu
 𫧠	xvij
-幾	xvik
+娀	xvik
 𡞋	xvikh
 妫	xviks
 𧎶	xvilm
@@ -114561,7 +114560,7 @@
 凩	xxhnd
 𠘫	xxhne
 𤉉	xxhnf
-𩖛	xxhnh
+鵚	xxhnh
 𪛝	xxhni
 𥳔	xxhnl
 𱶋	xxhnm
@@ -116152,7 +116151,7 @@
 𡵦	xxuki
 𮀘	xxukm
 𭖈	xxull
-匕	xxum
+屵	xxum
 𣋤	xxuma
 𡺭	xxumb
 𭩱	xxumd
@@ -116233,7 +116232,7 @@
 𡤗	xxvif
 𧗓	xxvih
 𭅩	xxvij
-娀	xxvik
+奬	xxvik
 𠠞	xxvil
 𭙈	xxvis
 𢇂	xxvit
@@ -116330,7 +116329,7 @@
 𫆤	xxxbc
 𦙣	xxxbd
 𦙙	xxxbe
-𰮃	xxxbf
+鰧	xxxbf
 𰮦	xxxbg
 𰋙	xxxbk
 𠀃	xxxbm
@@ -116496,7 +116495,7 @@
 𤋅	xxxlu
 𫾺	xxxlv
 𨟕	xxxma
-䴓	xxxmb
+鳾	xxxmb
 𭦚	xxxmc
 𭫔	xxxmd
 𣱷	xxxme
@@ -116668,7 +116667,7 @@
 𡓝	xxxye
 𬷦	xxxyf
 𪇦	xxxyg
-𧛿	xxxyh
+顔	xxxyh
 𨓩	xxxyi
 𪅄	xxxyj
 𦝠	xxxyk
@@ -116733,7 +116732,7 @@
 𬩿	xxygn
 𰺻	xxygp
 𮞾	xxyha
-褎	xxyhd
+襃	xxyhd
 𮓚	xxyhe
 𨘥	xxyhg
 𮭘	xxyhh
@@ -117084,7 +117083,7 @@
 𬩢	xyhbt
 𲅘	xyhbu
 𬨩	xyhdn
-襃	xyhdv
+褎	xyhdv
 𠧘	xyhe
 𮞦	xyhed
 𨘡	xyhej
@@ -117454,7 +117453,7 @@
 𧨞	xyrbk
 𠱗	xyrbm
 亮	xyrbn
-𩙷	xyrbo
+謡	xyrbo
 𠅸	xyrbp
 𮘄	xyrbq
 詗	xyrbr
@@ -119048,8 +119047,8 @@
 透	yhds
 𬨩	yhdu
 逶	yhdv
-襃	yhdv
 褎	yhdv
+襃	yhdv
 𧛿	yhdv
 𮖥	yhdv
 返	yhe
@@ -120662,7 +120661,6 @@
 𣂳	ynhml
 𠙑	ynhn
 𮓟	ynhn
-𪗎	yxhnc
 𣪢	ynhne
 䬌	ynhni
 𣨖	ynhom
@@ -124688,6 +124686,7 @@
 齌	yxf
 𩐓	yxglm
 𪗉	yxhd
+𪗎	yxhnc
 𦦏	yxhx
 𪗍	yxjlv
 𠆜	yxjlv
