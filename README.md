@@ -82,10 +82,10 @@
    為了避免這種困擾，本項目兼容不同字形，使用戶可以按自己習慣的字形取碼。<br />
    不過，出於實用性的考量，有一些字形沒有收錄。例如，「今」字的「丶」也可寫作「一」，後者取「人一弓」。「今」「气」「俞」都常作為漢字的右偏旁出現，三者作字身時均取碼「人一弓」，產生「汽渝汵」「喻吟」等大量重碼字。因此，本項目沒有收錄「今」的「人一弓」這一字形。
 5. Q：為甚麼碼表中很多字無法顯示？<br />
-   A：`Cangjie5.txt`、`Cangjie5_TC.txt`、`Cangjie5_SC.txt`三份碼表收錄了 Unicode 中日韓統一表意文字基本區至擴展I區的所有漢字，數量為九萬餘。有一些擴展區的漢字，若電腦和手機系統字體不支持，就會顯示為方框「□」、問號「�」或空白。<br />
+   A：`Cangjie5.txt`、`Cangjie5_TC.txt`、`Cangjie5_HK.txt`、`Cangjie5_SC.txt`四份碼表收錄了 Unicode 中日韓統一表意文字基本區至擴展I區的所有漢字，數量為九萬餘。有一些擴展區的漢字，若電腦和手機系統字體不支持，就會顯示為方框「□」、問號「�」或空白。<br />
    有些用戶可能不會用到擴展區漢字，`Cangjie5_special.txt`只保留了主流手機、電腦系統通常可以顯示的漢字，字數為三萬餘。<br />
    以下為不同版本的收字**示例**：
-   |漢字|`Cangjie5_special.txt`|`Cangjie5.txt`/`Cangjie5_TC.txt`/`Cangjie5_HK.txt`/`Cangjie5_SC.txt`|備註|
+   |漢字舉例|`Cangjie5_special.txt`|`Cangjie5.txt`/`Cangjie5_TC.txt`/`Cangjie5_HK.txt`/`Cangjie5_SC.txt`|備註|
    |-|-|-|-|
    |常用字|✓|✓||
    |[㗎](https://zi.tools/zi/%E3%97%8E)、[䶮](https://zi.tools/zi/%E4%B6%AE)|✓|✓|擴展A區字|
