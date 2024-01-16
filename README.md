@@ -4,7 +4,7 @@
 
 相關項目：[Arthurmcarthur/Cangjie3-Plus](https://github.com/Arthurmcarthur/Cangjie3-Plus)
 
-原碼表為[「倉頡平台 2012」](https://chinesecj.com/forum/forum.php?mod=viewthread&tid=2596)的「五倉世紀」碼表。
+由[「倉頡平台 2012」](https://chinesecj.com/forum/forum.php?mod=viewthread&tid=2596)的「五倉世紀」碼表修改而來。
 
 ## 下載
 [按此](https://github.com/Jackchows/Cangjie5/releases/download/v3.0/RimeData_20231117_Cangjie5.7z)下載適用於RIME的輸入法方案文檔。<br />
@@ -36,10 +36,10 @@
 另外收錄兼容漢字、部首、筆畫以及其他一些形似漢字的符號。為避免與常規漢字混淆，**此部分字符編碼以「z」開頭**（兼容漢字「zc」，部首「zr」，筆畫「zs」，表意文字描述字符「zi」，算籌符號「zn」，其他符號「zf」）。
 - **[Cangjie5_TC.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_TC.txt)**<br />
 碼表。**傳統漢字優先**（限《常用國字標準字體表》、《次常用國字標準字體表》及《常用字字形表》範圍）。<br />
-收字範圍與 Cangjie5.txt 相同。
+收字範圍與`Cangjie5.txt`相同。
 - **[Cangjie5_SC.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_SC.txt)**<br />
 碼表。**簡化字優先**（限《通用規範漢字表》範圍）。<br />
-收字範圍與 Cangjie5.txt 相同。
+收字範圍與`Cangjie5.txt`相同。
 - **[Cangjie5_supplement.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_supplement.txt)**<br />
 碼表。收錄兼容漢字、部首、筆畫以及其他一些形似漢字的符號。此表按原始編碼收錄，編碼不以「z」開頭。<br />
 - **[change_summary.md](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md)**<br />
@@ -47,7 +47,7 @@
 - **[change_details.log](https://github.com/Jackchows/Cangjie5/blob/master/change_details.log)**<br />
 碼表的詳細編輯記錄。
 - **[Cangjie5_special.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_special.txt)**<br />
-碼表。**特別版本**，收錄主流系統可以直接顯示的字符，包括：中日韓統一表意文字基本區（除去 U+9FD1 至 U+9FFF）、擴展A區（除去 U+4DB6 至 U+4DBF）、兼容漢字區中視作統一漢字的十二個字符、《通用規範漢字表》、《香港增補字符集—2016》（HKSCS）。<br />
+碼表。**特別版本**，收錄主流系統通常可以顯示的字符，包括：中日韓統一表意文字基本區（除去`U+9FD1`至`U+9FFF`）、擴展A區（除去`U+4DB6`至`U+4DBF`）、兼容漢字區中視作統一漢字的十二個字符、《通用規範漢字表》、《香港增補字符集—2016》（HKSCS）。<br />
 另外，[Change_summary.md#字形問題](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#%E5%AD%97%E5%BD%A2%E5%95%8F%E9%A1%8C) 中列出的多種字形，此表會盡數收錄。<br />
 此碼表與前面幾份碼表更新可能不同步。
 
@@ -87,7 +87,7 @@
    |[𫫇](https://zi.tools/zi/%F0%AB%AB%87)、[𩾌](https://zi.tools/zi/%F0%A9%BE%8C)|✓|✓|通用規範漢字表字|
    |[鿫](https://zi.tools/zi/%E9%BF%AB)、[鿬](https://zi.tools/zi/%E9%BF%AC)|✗|✓|新版本Unicode增收的基本區和擴展A區字|
    |[𪠽](https://zi.tools/zi/%F0%AA%A0%BD)、[𰻞](https://zi.tools/zi/%F0%B0%BB%9E)|✗|✓|擴展B區至I區的其他字|
-   
+
 ## 反饋
 
 若發現錯誤，可在此處[反饋](https://github.com/Jackchows/Cangjie5/issues/new)。

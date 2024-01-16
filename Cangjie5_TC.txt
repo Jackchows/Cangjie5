@@ -67297,7 +67297,6 @@
 𮯸	omks
 𠎛	omku
 㒎	omky
-㐃	oml
 𠇭	oml
 倆	omlb
 𠇆	omlb
@@ -79595,7 +79594,7 @@
 唯	rog
 㘴	rog
 𠱊	rog
-𡉡	rog
+𡉡	iog
 𡋏	rog
 𡏔	rog
 𪠶	rog
@@ -120663,7 +120662,7 @@
 𣂳	ynhml
 𠙑	ynhn
 𮓟	ynhn
-𪗎	ynhnc
+𪗎	yxhnc
 𣪢	ynhne
 䬌	ynhni
 𣨖	ynhom
