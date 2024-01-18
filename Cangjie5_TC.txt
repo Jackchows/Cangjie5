@@ -1,7 +1,7 @@
 標註：
 [O] 官方編碼
 [u] Unicode Code Charts 文檔未收錄字形
-[U] UCS2003 字形
+[U] Unicode 舊版本字形，日後可能從碼表刪除
 [v] Unicode IVD 未收錄字形
 [V] Unicode IVD 收錄字形
 [!] 部分字符集或字體的字形可能有誤，請閱讀說明#字形問題。

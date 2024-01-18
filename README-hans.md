@@ -32,17 +32,14 @@
 
 - **[Cangjie5.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5.txt)**<br />
 码表。**一般排序**，综合考虑字频及繁简（**部分常用简化字可能排列于传统汉字前**）。<br />
-收录中日韩统一表意文字（基本区至扩展I区）字符、[兼容汉字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%9B%B8%E5%AE%B9%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97)区中视作统一汉字的十二个字符，以及官方码表中收录的符号。<br />
-另外收录兼容汉字、部首、笔画以及其他一些形似汉字的符号。为避免与常规汉字混淆，**此部分字符编码以「z」开头**（兼容汉字「zc」，部首「zr」，笔画「zs」，表意文字描述字符「zi」，算筹符号「zn」，其他符号「zf」）。
 - **[Cangjie5_TC.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_TC.txt)**<br />
-码表。**传统汉字优先，偏好台湾字形**，符合《常用国字标准字体表》的字形将排在前面。<br />
-收字范围与`Cangjie5.txt`相同。
+码表。**传统汉字优先，偏好台湾用字习惯**，符合《常用国字标准字体表》的字形将排在前面。<br />
 - **[Cangjie5_HK.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_HK.txt)**<br />
-码表。**传统汉字优先，偏好香港字形**，符合《常用字字形表》的字形将排在前面。<br />
-收字范围与`Cangjie5.txt`相同。
+码表。**传统汉字优先，偏好香港用字习惯**，符合《常用字字形表》的字形将排在前面。<br />
 - **[Cangjie5_SC.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_SC.txt)**<br />
 码表。**简化字优先**，符合《通用规范汉字表》的字形将排在前面。<br />
-收字范围与`Cangjie5.txt`相同。
+**※以上四份码表收录字符相同**，包括：中日韩统一表意文字基本区至扩展I区、[兼容汉字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%9B%B8%E5%AE%B9%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97)区中视作统一汉字的十二个字符，以及官方码表中收录的符号。<br />
+另外收录兼容汉字、部首、笔画以及其他一些形似汉字的符号。为避免与常规汉字混淆，**此部分字符编码以「z」开头**（兼容汉字「zc」，部首「zr」，笔画「zs」，表意文字描述字符「zi」，算筹符号「zn」，其他符号「zf」）。
 - **[Cangjie5_supplement.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_supplement.txt)**<br />
 码表。收录兼容汉字、部首、笔画以及其他一些形似汉字的符号。此表按原始编码收录，编码不以「z」开头。<br />
 - **[change_summary.md](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md)**<br />
@@ -50,7 +47,7 @@
 - **[change_details.log](https://github.com/Jackchows/Cangjie5/blob/master/change_details.log)**<br />
 码表的详细编辑记录。
 - **[Cangjie5_special.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_special.txt)**<br />
-码表。**特别版本**，收录主流系统通常可以显示的字符，包括：中日韩统一表意文字基本区（除去`U+9FD1`至`U+9FFF`）、扩展A区（除去`U+4DB6`至`U+4DBF`）、兼容汉字区中视作统一汉字的十二个字符、《通用规范汉字表》、《香港增补字符集—2016》（HKSCS）。<br />
+码表。**收字较少的版本**，收录主流系统通常可以显示的字符，包括：中日韩统一表意文字基本区（除去`U+9FD1`至`U+9FFF`）、扩展A区（除去`U+4DB6`至`U+4DBF`）、兼容汉字区中视作统一汉字的十二个字符、《通用规范汉字表》、《香港增补字符集—2016》（HKSCS）。<br />
 另外，[Change_summary.md#字形问题](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#%E5%AD%97%E5%BD%A2%E5%95%8F%E9%A1%8C) 中列出的多种字形，此表会尽数收录。<br />
 此码表与前面几份码表更新可能不同步。
 
@@ -65,8 +62,8 @@
 3. Q：码表的重码字排序是如何确定的？<br />
    A：重码字排序参考了各地的常用字表以及字频数据。<br />
    「一般排序」版本假设用户繁简并用，以繁体为主，但是常用的简体字也可能排在不那么常用的繁体字之前。<br />
-   「传统汉字优先」版本又分为「偏好台湾字形」和「偏好香港字形」两种，差异在于「群羣」等异体字的排序。<br />
-   「简化字优先」版本除简体字排在前面外，符合《通用规范汉字表》的繁体字形（俗称「陆标繁体」）也会排在相对前面的位置。<br />
+   「传统汉字优先」版本又分为「偏好台湾用字习惯」和「偏好香港用字习惯」两种，差异在于「群羣」等异体字的排序。<br />
+   「简化字优先」版本除简体字排在前面外，符合《通用规范汉字表》的繁体字（俗称「陆标繁体」）也会排在相对前面的位置。<br />
    除此之外，粤语白话文的常用字获得了一定程度的权重加成。<br />
    显然，每个人有不同的用字习惯，重码字排序不可能同时满足所有人。用户可根据自己的需要自行调整。<br />
    以下为四个版本的排序**示例**：
