@@ -31,7 +31,7 @@
 ## 內容
 
 - **[Cangjie5.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5.txt)**<br />
-碼表。**一般排序**，綜合考慮字頻及繁簡（**部分常用簡化字可能排列於傳統漢字前**）。<br />
+碼表。**一般排序**，綜合考慮字頻及繁簡，部分常用簡化字可能排在傳統漢字前面。<br />
 - **[Cangjie5_TC.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_TC.txt)**<br />
 碼表。**傳統漢字優先，偏好台灣用字習慣**，符合《常用國字標準字體表》的字形將排在前面。<br />
 - **[Cangjie5_HK.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_HK.txt)**<br />
