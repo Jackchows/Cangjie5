@@ -7943,7 +7943,6 @@
 𡗯	chk
 𨥜	chk
 鐈	chkb
-𬫆	chke
 𫸽	chklu
 𨧐	chkr
 𨪻	chkt
@@ -8650,6 +8649,7 @@
 鍤	cmjx
 关	cmk
 𨦐	cmke
+𬫆	cmke
 䤯	cmkh
 銒	cmkj
 鉶	cmkn
@@ -21250,6 +21250,7 @@
 𰥟	fups
 𠓒	fuqoc
 𠒦	furhr
+𠒦	furr	[u]
 𠓊	furrj
 𪹖	fusk
 𦒉	fusma
@@ -29578,6 +29579,7 @@
 𪖳	hltxc
 𪖐	hlu
 𡷦	hlu
+𢿹	hlude
 𪖾	hluhi
 𡝨	hlv
 𡡋	hlv
@@ -31764,7 +31766,7 @@
 𡹁	hpu
 𥫱	hpu
 𰎣	hpu
-𢿹	hpude
+𢿹	hpude	[U]
 𥶈	hpue
 篘	hpuu
 㪓	hpye
@@ -33968,7 +33970,6 @@
 𱸤	hvmu
 𪕣	hvmvm
 瓾	hvmvn
-𣅞	hvna
 箓	hvne
 𮮬	hvng
 𲎟	hvnhd
@@ -34025,8 +34026,10 @@
 𪕰	hvrse
 𪕜	hvrvk
 𪕝	hvryo
+𣅞	hvsa
 鼴	hvsav
 𪔹	hvsh
+𨈐	hvsh	[u]
 𪔺	hvshi
 鼦	hvshr
 𪕔	hvsj
@@ -65679,6 +65682,7 @@
 餛	oiapp
 餲	oiapv
 倉	oiar
+𩙿	oias	[u]
 𩝣	oiasm
 𩚇	oiat
 𩚥	oiau
@@ -67180,8 +67184,8 @@
 𬾮	oman
 𠊊	omap
 𩚁	omap
+𩙿	omas
 𠍚	omaw
-𩙿	omay
 𦟝	omb
 儒	ombb
 俪	ombb
@@ -68084,6 +68088,7 @@
 𩁰	oottw
 佡	oou
 𡴤	oou
+𢿹	ooude
 𠏘	oour
 𠏘	oouv	[u]
 𦃃	oovif
@@ -68161,7 +68166,7 @@
 䥾	opbym
 𫓥	opc
 𰾑	opc
-𠑘	opcc	[u]
+𠑘	opcc
 𫓪	opci
 𬭩	opcim
 𲈇	opckl
@@ -89017,6 +89022,7 @@
 𦾂	tmhp
 𤯄	tmhvp
 𮏬	tmhw
+𠀪	tmi
 𦵻	tmia
 𦰧	tmid
 荎	tmig
@@ -101370,6 +101376,7 @@
 𬫃	xcmg
 𨫄	xcmgg
 銩	xcmgi
+𬫆	xcmke
 𬫂	xcmks
 𨨄	xcmlb
 𫤫	xcmls
@@ -105139,6 +105146,7 @@
 𲋈	xhvom
 憄	xhvp
 䶂	xhvpi
+𨈐	xhvsh	[u]
 𠑼	xhvsu
 𫗂	xhvya
 𲋋	xhvyo
