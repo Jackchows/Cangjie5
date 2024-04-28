@@ -47,7 +47,7 @@
 - **[change_details.log](https://github.com/Jackchows/Cangjie5/blob/master/change_details.log)**<br />
 碼表的詳細編輯記錄。
 - **[Cangjie5_special.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_special.txt)**<br />
-碼表。**收字較少的版本**，收錄主流系統通常可以顯示的字符，包括：中日韓統一表意文字基本區（除去`U+9FD1`至`U+9FFF`）、擴展A區（除去`U+4DB6`至`U+4DBF`）、兼容漢字區中視作統一漢字的十二個字符、《通用規範漢字表》、《香港增補字符集—2016》（HKSCS）。<br />
+碼表。**收字較少的版本**，收錄主流系統通常可以顯示的字符，包括：中日韓統一表意文字基本區（除去`U+9FF0`至`U+9FFF`）、擴展A區（除去`U+4DB6`至`U+4DBF`）、兼容漢字區中視作統一漢字的十二個字符、《通用規範漢字表》、《香港增補字符集—2016》（HKSCS）。<br />
 另外，[Change_summary.md#字形問題](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#%E5%AD%97%E5%BD%A2%E5%95%8F%E9%A1%8C) 中列出的多種字形，此表會盡數收錄。<br />
 此碼表與前面幾份碼表更新可能不同步。
 
@@ -88,7 +88,7 @@
    |[㗎](https://zi.tools/zi/%E3%97%8E)、[䶮](https://zi.tools/zi/%E4%B6%AE)|✓|✓|擴展A區字|
    |[𠝹](https://zi.tools/zi/%F0%A0%9D%B9)、[𡁻](https://zi.tools/zi/%F0%A1%81%BB)|✓|✓|HKSCS字|
    |[𫫇](https://zi.tools/zi/%F0%AB%AB%87)、[𩾌](https://zi.tools/zi/%F0%A9%BE%8C)|✓|✓|通用規範漢字表字|
-   |[鿫](https://zi.tools/zi/%E9%BF%AB)、[鿬](https://zi.tools/zi/%E9%BF%AC)|✗|✓|新版本Unicode增收的基本區和擴展A區字|
+   |[鿿](https://zi.tools/zi/%E9%BF%BF)、[𫬷](https://zi.tools/zi/%F0%AB%AC%B7)|✗|✓|新版本Unicode增收的基本區和擴展A區字，2016年之後HKSCS增收的字|
    |[𪠽](https://zi.tools/zi/%F0%AA%A0%BD)、[𰻞](https://zi.tools/zi/%F0%B0%BB%9E)|✗|✓|擴展B區至I區的其他字|
 
 ## 反饋
