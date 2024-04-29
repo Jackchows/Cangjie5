@@ -108,5 +108,12 @@ if __name__ == "__main__":
   '''
   schema_id = "cangjie5_sc"
   buildYaml(github, yaml, description, schema_id)
+  
+  github = '..\Cangjie5_special.txt'
+  yaml = 'cangjie5_special.dict.yaml'
+  description = '''# 收字較少的版本，收錄主流系統通常可以顯示的字符。
+  '''
+  schema_id = "cangjie5_special"
+  buildYaml(github, yaml, description, schema_id)
 
   print("Done.")
