@@ -19267,6 +19267,7 @@
 𨹦	nlrd
 隁	nlsav
 䧂	nlshr
+陷	nlshx
 陬	nlsje
 陿	nlsko
 䧞	nlsqf
