@@ -20790,7 +20790,7 @@
 𬍢	fqmgi
 𤐭	fqmi
 𮍢	fqmig
-𣫶	fqmj
+𣫶	fqmj	[u]
 𫝤	fqmk
 䄅	fqmmf
 𮳭	fqmo
@@ -20798,6 +20798,7 @@
 豢	fqmso
 𱫑	fqmv
 甐	fqmvn
+𣫶	fqmy
 弮	fqn
 觠	fqnbg
 觠	fqnbq
@@ -21204,7 +21205,7 @@
 兤	fuitc
 𠓌	fuitc	[u]
 𰃐	fuiuh
-𠓇	fuivb
+𠓇	fuivb	[u]
 𱏮	fuivb
 䆪	fujcm
 𪹇	fukf	[u]
@@ -29399,7 +29400,7 @@
 質	hlbuc
 𥶋	hlbw
 𨥫	hlc
-𠔂	hlc
+𠔂	hlc	[U]
 𪖜	hlcg
 𪖳	hlcmc
 𪖦	hlcnh
@@ -31060,6 +31061,7 @@
 𥱤	holh
 𭛹	holhd
 𢖛	holhf
+𢔜	holhh
 㣠	holhm
 𢕦	holhv
 㣠	holhy
@@ -34266,6 +34268,8 @@
 盥	hxbt
 𥂞	hxbt
 𥂤	hxbt
+𥃖	hxbt
+𥃜	hxbt
 𪾙	hxbt
 𬐬	hxbt
 𱲛	hxbt
@@ -34315,8 +34319,6 @@
 𦧂	hxhxk
 𢍹	hxhxt
 𥃔	hxhxt
-𥃖	hxhxt
-𥃜	hxhxt
 𦦁	hxhxu
 𥝈	hxib
 𥝋	hxib
@@ -43511,7 +43513,6 @@
 痔	kgdi
 奎	kgg
 㾏	kgg
-𣫵	kggj
 㥣	kggp
 鵟	kghaf
 𤹥	kghe
@@ -45636,6 +45637,7 @@
 轾	kqmig
 轩	kqmj
 𢆐	kqmj
+𣫵	kqmj	[u]
 𫐆	kqmks
 𰹷	kqmmu
 轲	kqmnr
@@ -45649,6 +45651,7 @@
 𱱙	kqmu
 𤷶	kqmv
 𤸚	kqmy
+𣫵	kqmy
 𰹯	kqn
 𬨈	kqnau
 𫐓	kqnhd
@@ -47386,7 +47389,6 @@
 𫋩	libuf
 蠷	libug
 蜆	libuu
-𮗘	libuu
 螇	libvk
 𫋜	libwi
 𲀓	libwi
@@ -54460,7 +54462,9 @@
 𱭥	mhohg
 𧰾	mhoii
 𭷒	mhoii
+𭷒	mhois	[u]
 餮	mhoiv
+𭷒	mhoiv	[u]
 𤛆	mhokq
 𱭥	mhomg	[u]
 𧰾	mhoml
@@ -65560,7 +65564,6 @@
 偫	ohoi
 𫣓	ohoi
 𩝶	ohoiv
-𩝶	ohomv
 傱	ohoo
 𫤐	ohoo
 倃	ohor
@@ -65976,7 +65979,6 @@
 伏	oik
 仪	oik
 𫗏	oikb
-𩟟	oikbt
 䭜	oikcf
 㑓	oike
 偽	oikf
@@ -65997,6 +65999,7 @@
 𩜪	oikmf
 𩟣	oikmt
 𩟤	oikmt
+𩟟	oikmt
 𬲑	oikna
 𩚐	oikni
 𩚐	oiknk
@@ -69294,7 +69297,7 @@
 𩚑	oshni
 餰	oshon
 飥	oshp
-䬫	oshpm
+䬫	oshpm	[u]
 𩞊	oshpu
 餓	oshqi
 𫗓	oshqr	[u]
@@ -69309,7 +69312,7 @@
 饡	oshuc
 餽	oshui
 䭒	oshup
-䬫	oshvi
+䬫	oshvi	[u]
 餿	oshxe
 𱃯	oshyt	[u]
 𢦳	osi
@@ -71428,6 +71431,7 @@
 𧍀	plii
 𫹰	plis
 𢦃	plit
+𫺙	pllc
 𢠮	plle
 𠤛	plll
 𫧁	plll
@@ -71461,7 +71465,6 @@
 𢘊	plwl
 𢘽	plwp
 𭜖	plxh
-𫺙	plyc
 𢡅	plyd
 𢟵	plyg
 𱟋	plyk
@@ -80164,7 +80167,6 @@
 𡋐	rrg
 𡋑	rrg
 𡓶	rrg
-𡓿	rrg
 𰊩	rrg
 𱘖	rrgje
 鷺	rrhaf
@@ -80312,6 +80314,7 @@
 𱓚	rrrm
 碞	rrrr
 㗊	rrrr
+𡓿	rrrrg
 𠾅	rrrrr
 㗁	rrrs
 𠵛	rrrs
@@ -82617,7 +82620,7 @@
 𬴮	shahu
 𭃽	shahu
 𰯭	shaib	[u]
-𠓗	shaii
+𠓗	shaii	[u]
 𩯂	shaiu
 䰋	shajv
 𱐖	sham
@@ -89339,6 +89342,7 @@
 𦾞	tnet
 𧗆	tnet
 𧯷	tnet
+𦬼	tnf
 蘇	tnfd
 𦼼	tnfe
 𫊒	tnfg
@@ -92158,8 +92162,7 @@
 𡺜	ucsn
 𡽎	uctm
 𡻿	ucu
-𡴪	ucucc
-𡴫	ucucc
+𡴪	ucucc	[u]
 嶒	ucwa
 𡼳	ucwa
 𮱯	ucwj
@@ -92952,6 +92955,7 @@
 𥄾	umbu
 𫶘	umbw
 𡺽	umca
+𡴪	umcc
 巎	umce
 𡶼	umcw
 𡷾	umcw
@@ -94015,6 +94019,7 @@
 𡷚	uybu
 𡴆	uyc
 㠃	uycb
+𡴫	uycc
 𫶄	uyce
 𡾠	uyci
 𡾟	uyci
@@ -96395,11 +96400,11 @@
 𠫙	vio
 𡑶	viog
 𩝫	vioiv
+𩞟	vioiv
 娭	viok
 𬿠	viom
 㡮	viomn
 𩝫	viomv
-𩞟	viomv
 𢇓	vion
 𫱝	viop
 𡟔	vior
@@ -104538,7 +104543,7 @@
 𣊆	xhla
 𥬬	xhlb
 𥜻	xhlbi
-𠔂	xhlc
+𠔂	xhlc	[U]
 𪖞	xhldh
 𡊂	xhlg
 𱈞	xhlha
@@ -106547,6 +106552,7 @@
 𡗢	xkq
 𢆐	xkqmj
 𱱙	xkqmu
+𣫵	xkqmy
 𮷘	xkqom
 𫐅	xkqu
 𤷟	xkqyt
@@ -112675,7 +112681,6 @@
 𭖦	xucor
 𱛯	xucru
 㞣	xucsh
-𡴫	xucuc
 𡼳	xucwa
 𱚼	xudam	[u]
 㟣	xudci
@@ -113318,7 +113323,7 @@
 𠟣	xviln
 𢆳	xvinn
 𠫙	xvio
-𩞟	xviom
+𩞟	xvioi
 𪦌	xviov	[u]
 𭟄	xvip
 𪪊	xvipi
@@ -115077,6 +115082,7 @@
 㚒	xxkoo
 㣻	xxkp
 𤴟	xxkpb
+𣫵	xxkqm	[u]
 𠮣	xxkr
 𬅠	xxkrn
 𤼅	xxkrr
@@ -116707,7 +116713,7 @@
 𠰚	xxxro
 𢗀	xxxrp
 𱓰	xxxrq
-𡓿	xxxrr
+𰊩	xxxrr
 𭈨	xxxrs
 𫪾	xxxrt
 𱒅	xxxru
