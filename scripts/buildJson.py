@@ -10,36 +10,33 @@ def buildJson(github):
     github_file = parent_directory+'\\'+github
     # print(str(github_file))
     if (os.path.exists(github_file)==False):                               # 若github不存在
-        print ("["+str(github)+"] does not exists.")
+        # print ("["+str(github)+"] does not exists.")
+        print ("未找到 "+str(github_file)+"，請檢查文件是否存在")
         return
     #output_file = current_directory+'\\'+'converter_output_'+time.strftime('%Y-%m-%d_%H-%M-%S',time.localtime(time.time()))+'.json'
     json_file = current_directory+'\\'+github.replace('.txt','.json')
 
     # 開啟
-    gib = open(github_file,'r',encoding='utf8')
-    jsn = open(json_file,'w+',encoding='utf8')
-    jsn.truncate()
-  
-    # 寫入
-    data = {}
-    for line in gib:
-        if re.match(r'^.*\t[a-z]{1,5}\t*.*$',line):
-            this_line = line.split()
-            this_char = this_line[0]
-            this_code = this_line[1]
-            if this_code in data:
-                data[this_code].append(this_char)
-            else:
-                data[this_code] = [this_char]
+    with open(github_file,'r',encoding='utf8') as gib,\
+         open(json_file,'w',encoding='utf8') as jsn:
+            # 寫入
+            data = {}
 
-    json_data = json.dumps(data, ensure_ascii=False, indent=4)
-    jsn.write(json_data)
+            for line in gib:
+                value_line = re.match(r'^([^\t\n\r]+)\t([a-z]{1,5}).*$', line)    # 排除開頭的說明文字
+                if value_line:
+                    value_char = value_line[1]
+                    value_code = value_line[2]
+                    if value_code in data:
+                        data[value_code].append(value_char)
+                    else:
+                        data[value_code] = [value_char]
 
-    # 關閉
-    gib.close()
-    jsn.close()
+            json_data = json.dumps(data, ensure_ascii=False, indent=2, check_circular=False)
+            jsn.write(json_data)
     
-    print("輸出文件為 "+json_file)
+    # 結束
+    print("輸出文件 "+json_file)
 
 if __name__ == "__main__":
     github = 'Cangjie5.txt'
@@ -52,3 +49,5 @@ if __name__ == "__main__":
     buildJson(github)
     github = 'Cangjie5_special.txt'
     buildJson(github)
+
+    print("完成。")
