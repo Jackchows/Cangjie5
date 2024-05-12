@@ -9,11 +9,12 @@
 > 參數
 ```
 -s source    需要轉換的源文件，如[Cangjie5.txt]
+-f filename  轉換輸出的文件名稱，可選
 -o order     輸出文件的字和倉頡碼的順序[char=字在前, code=倉頡碼在前]
--d delimiter 輸出文件的分隔符[tab=製表鍵, space=一個空格, multi=多個空格, none=無]
+-d delimiter 輸出文件的分隔符[tab=製表鍵, space=一個空格, multi=以空格代替Tab對齊, none=無]
 -l linebreak 輸出文件的換行符[crlf, cr, lf]
 -t template  使用模板生成包含配置項的碼表文件，此參數衹可以與-s共用
-             [rime=ibus-rime,weasel=小狼亳, squirrel=鼠鬚管, fcitx=Fcitx 5, yong=小小輸入法]
+             [rime=ibus-rime, weasel=小狼亳, squirrel=鼠鬚管, fcitx=Fcitx 5, yong=小小輸入法]
 ```
 > 示例
 1. 轉換`一般排序`碼表，字在前，倉頡碼在後，以`Tab`分隔，以`\r\n`換行（格式與小狼亳相同，但不包含配置項）
@@ -58,6 +59,6 @@ python buildTxt.py -s Cangjie5.txt -t weasel
 ```
 
 * **buildYaml.py**<br />
-> 無需輸入參數
+> 無需輸入參數，一次性將所有碼表轉換成YAML文件
 * **buildJson.py**<br />
-> 無需輸入參數
+> 無需輸入參數，一次性將所有碼表轉換成JSON文件

@@ -7,8 +7,9 @@
 由[「倉頡平台 2012」](https://chinesecj.com/forum/forum.php?mod=viewthread&tid=2596)的「五倉世紀」碼表修改而來。
 
 ## 下載
-[按此](https://github.com/Jackchows/Cangjie5/releases/download/v3.1/RimeData_20240201_Cangjie5.7z)下載適用於RIME的輸入法方案文檔。<br />
-[按此](https://github.com/Jackchows/Cangjie5/releases/download/v3.1/MSCJData_20240218_Cangjie5.7z)下載適用於替換微軟倉頡碼表的文檔。（使用說明見[此處](http://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=194346)）
+點擊[此處](https://github.com/Jackchows/Cangjie5/releases/download/v3.1/RimeData_20240201_Cangjie5.7z)下載適用於RIME的輸入法方案文檔。<br />
+點擊[此處](https://github.com/Jackchows/Cangjie5/releases/download/v3.1/MSCJData_20240218_Cangjie5.7z)下載適用於替換微軟倉頡碼表的文檔。（使用說明見[此處](https://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=194346)）<br />
+也可使用[此處的腳本](https://github.com/Jackchows/Cangjie5/tree/master/scripts)生成適用於其他輸入法軟件的碼表文檔。
 
 ## 目標
 
@@ -22,7 +23,7 @@
 	6. **(✗)無意**　滿足所有人的需求
 2. 所稱「官方資料」，包括：
 	1. 《第五代倉頡輸入法手冊》（松崗，1993、文化傳信，1999、博碩，2006）
-	2. [「漢文庫典」](http://chidic.eduhk.hk/)網站
+	2. [「漢文庫典」](https://chidic.eduhk.hk/)網站
 	3. 朱邦復工作室《內碼對照表》（含2003版五代、六代編碼）
 	4. 《零壹中文電腦叢書之八 倉頡第三代中文字母輸入法》（全華，1984）、《零壹中文電腦叢書之九 增訂版倉頡第三代中文輸入法》（全華，1991）
 	5. 《零壹中文電腦叢書之七 標準倉頡第二代中文輸入法》（全華，1983）

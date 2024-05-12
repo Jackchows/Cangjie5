@@ -176,11 +176,15 @@ def buildTxt(source,order,delimiter,linebreak,output=None):                   # 
                 txt.write(new_line)
                 
     # 關閉
-    print("完成。輸出文件 "+output_file)
+    print("完成。輸出文件 "+os.path.abspath(output_file))
+    #input("按Enter退出")
 
-def buildYaml(source,template):                                               # RIME 模板
+def buildYaml(source,template,output):                                               # RIME 模板
 
-    yaml_file = os.path.join(current_directory,source.replace('.txt','.dict.yaml').lower())
+    if output:
+        yaml_file = os.path.join(current_directory,output)
+    else:
+        yaml_file = os.path.join(current_directory,source.replace('.txt','.dict.yaml').lower())
     if template == 'weasel':
         linebreak="\r\n"
     elif template == 'squirrel':
@@ -241,13 +245,16 @@ encoder:
         yal.write(yaml_head)
     buildTxt(source,order,delimiter,linebreak,yaml_file)
     
-def buildYong(source):                                                        # 小小輸入法模板
-    yong_file = os.path.join(current_directory,source.lower())
+def buildYong(source,output):                                                        # 小小輸入法模板
+    if output:
+        yong_file = os.path.join(current_directory,output)
+    else:
+        yong_file = os.path.join(current_directory,source.replace('.txt','_yong.txt'))
     linebreak="\r\n"
     order = 'code'
-    delimiter = '\t'
+    delimiter = 'spaces'
     # 開頭
-    yaml_head ='''#-----------------------------------------------------------------
+    yong_head ='''#-----------------------------------------------------------------
 # 倉頡五代補完計劃：
 # https://github.com/Jackchows/Cangjie5
 # 使用前務必閱讀：
@@ -273,45 +280,79 @@ commit=1 6 0
 '''
     # 寫入yong
     with open(yong_file,'w',encoding='utf8') as yog:
-        yog.write(yaml_head)
+        yog.write(yong_head)
     buildTxt(source,order,delimiter,linebreak,yong_file)
 
-def buildFcitx(source):                                                       # Fcitx 5 模板
-    fcitx_file = os.path.join(current_directory,source.lower().replace('.txt','_fcitx.txt'))
+def buildFcitx(source,output):                                                       # Fcitx 5 模板
+    if output:
+        fcitx_file = os.path.join(current_directory,output)
+    else:
+        fcitx_file = os.path.join(current_directory,source.replace('.txt','_fcitx.txt'))
     linebreak="\n"
     order = 'code'
     delimiter = ' '
     fcitx_head ='''键码=abcdefghijklmnopqrstuvwxyz
+提示=&
 码长=6
 [数据]
+&a 日
+&b 月
+&c 金
+&d 木
+&e 水
+&f 火
+&g 土
+&h 竹
+&i 戈
+&j 十
+&k 大
+&l 中
+&m 一
+&n 弓
+&o 人
+&p 心
+&q 手
+&r 口
+&s 尸
+&t 廿
+&u 山
+&v 女
+&w 田
+&x 難
+&y 卜
+&z 片
 '''
     # 寫入fcitx
     with open(fcitx_file,'w',encoding='utf8',newline = '\n') as fcx:
         fcx.write(fcitx_head.replace('\r\n','\n'))
     buildTxt(source,order,delimiter,linebreak,fcitx_file)
 
-def buildWithTemplate(template,source):                                  # 判斷是否使用模板
-    if template == 'rime':
-        buildYaml(source,template)
+def buildWithTemplate(template,source,output):                                  # 判斷是否使用模板
+    if template is None:
+        return 'no'
+    elif template == 'rime':
+        buildYaml(source,template,output)
         return 'yes'
     elif template == 'weasel':
-        buildYaml(source,template)
+        buildYaml(source,template,output)
         return 'yes'
     elif template == 'squirrel':
-        buildYaml(source,template)
+        buildYaml(source,template,output)
         return 'yes'
     elif template == 'fcitx':
-        buildFcitx(source)
+        buildFcitx(source,output)
         return 'yes'
     elif template == 'yong':
-        buildYong(source)
+        buildYong(source,output)
         return 'yes'
     else:
-        return 'no'
+        print("--template 參數有誤 [rime=ibus-rime, weasel=小狼亳, squirrel=鼠鬚管, fcitx=Fcitx 5, yong=小小輸入法]")
+        return 'error'
 
 def parse_args():
     parse = argparse.ArgumentParser(description='參數')
     parse.add_argument('-s', '--source', help='需要轉換的源文件，如[Cangjie5.txt]')  # 創建參數
+    parse.add_argument('-f', '--filename', help='轉換輸出的文件名稱')
     parse.add_argument('-o', '--order', help='字和倉頡碼的順序[char=字在前, code=倉頡碼在前]')
     parse.add_argument('-d', '--delimiter', help='分隔符[tab=製表鍵, space=一個空格, multi=以空格代替Tab對齊, none=無]')
     parse.add_argument('-l', '--linebreak', help='換行符[crlf, cr, lf]')
@@ -326,22 +367,26 @@ if __name__ == "__main__":
     delimiter = args.delimiter
     linebreak = args.linebreak
     template = args.template
+    output = args.filename
 
     current_directory = os.path.dirname(os.path.abspath(__file__))    # 獲取文件目錄
     parent_directory = os.path.dirname(current_directory)             # 獲取上級目錄
     
     if template:
         if (order is not None) | (delimiter is not None) | (linebreak is not None):
-            print('--template 參數衹可以與 --source 參數共用')
+            print('--template 參數衹可以與 --source, --filename 參數共用')
+            exit()
+        elif source is None:
+            print('--template 參數需要與 --source 參數共用')
             exit()
 
-    build_with_template = buildWithTemplate(template,source)   # 判斷是否使用模板
+    build_with_template = buildWithTemplate(template,source,output)   # 判斷是否使用模板
 
     if build_with_template == 'no':                     # 不使用模板
         source=chooseSource(source)
         order=chooseOrder(order)
         delimiter=chooseDelimiter(delimiter)
         linebreak=chooseLineBreak(linebreak)
-        buildTxt(source,order,delimiter,linebreak)
+        buildTxt(source,order,delimiter,linebreak,output)
 
     

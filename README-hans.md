@@ -7,8 +7,9 @@
 由[「仓颉平台 2012」](https://chinesecj.com/forum/forum.php?mod=viewthread&tid=2596)的「五仓世纪」码表修改而来。
 
 ## 下载
-[按此](https://github.com/Jackchows/Cangjie5/releases/download/v3.1/RimeData_20240201_Cangjie5.7z)下载适用于RIME的输入法方案文档。<br />
-[按此](https://github.com/Jackchows/Cangjie5/releases/download/v3.1/MSCJData_20240218_Cangjie5.7z)下载适用于替换微软仓颉码表的文档。（使用说明见[此处](http://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=194346)）
+点击[此处](https://github.com/Jackchows/Cangjie5/releases/download/v3.1/RimeData_20240201_Cangjie5.7z)下载适用于RIME的输入法方案文档。<br />
+点击[此处](https://github.com/Jackchows/Cangjie5/releases/download/v3.1/MSCJData_20240218_Cangjie5.7z)下载适用于替换微软仓颉码表的文档。（使用说明见[此处](https://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=194346)）<br />
+也可使用[此处的脚本](https://github.com/Jackchows/Cangjie5/tree/master/scripts)生成适用于其他输入法软件的码表文档。
 
 ## 目标
 
@@ -22,7 +23,7 @@
 	6. **(✗)无意**　满足所有人的需求
 2. 所称「官方资料」，包括：
 	1. 《第五代仓颉输入法手册》（松岗，1993、文化传信，1999、博硕，2006）
-	2. [「汉文库典」](http://chidic.eduhk.hk/)网站
+	2. [「汉文库典」](https://chidic.eduhk.hk/)网站
 	3. 朱邦复工作室《内码对照表》（含2003版五代、六代编码）
 	4. 《零壹中文电脑丛书之八 仓颉第三代中文字母输入法》（全华，1984）、《零壹中文电脑丛书之九 增订版仓颉第三代中文输入法》（全华，1991）
 	5. 《零壹中文电脑丛书之七 标准仓颉第二代中文输入法》（全华，1983）
