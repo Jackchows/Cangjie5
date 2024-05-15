@@ -348,6 +348,10 @@ def buildWithTemplate(template,source,output):                                  
     else:
         print("--template 參數有誤 [rime=ibus-rime, weasel=小狼亳, squirrel=鼠鬚管, fcitx=Fcitx 5, yong=小小輸入法]")
         return 'error'
+    
+# def buildRelease():
+#     pass
+
 
 def parse_args():
     parse = argparse.ArgumentParser(description='參數')
@@ -357,6 +361,7 @@ def parse_args():
     parse.add_argument('-d', '--delimiter', help='分隔符[tab=製表鍵, space=一個空格, multi=以空格代替Tab對齊, none=無]')
     parse.add_argument('-l', '--linebreak', help='換行符[crlf, cr, lf]')
     parse.add_argument('-t', '--template', help='使用模板[rime=ibus-rime, weasel=小狼亳, squirrel=鼠鬚管, fcitx=Fcitx 5, yong=小小輸入法]')
+    # parse.add_argument('--release', action='store_true', help='發佈')
     args = parse.parse_args()                   # 解析參數
     return args
 
@@ -368,10 +373,16 @@ if __name__ == "__main__":
     linebreak = args.linebreak
     template = args.template
     output = args.filename
+    release = args.release
 
     current_directory = os.path.dirname(os.path.abspath(__file__))    # 獲取文件目錄
     parent_directory = os.path.dirname(current_directory)             # 獲取上級目錄
     
+    # if release:
+    #     print("To release")
+    #     buildRelease()
+    #     exit()
+
     if template:
         if (order is not None) | (delimiter is not None) | (linebreak is not None):
             print('--template 參數衹可以與 --source, --filename 參數共用')
