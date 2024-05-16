@@ -6,6 +6,7 @@ import argparse
 import platform
 from buildTxt import buildYaml # type: ignore
 from buildTxt import buildYong # type: ignore
+from buildTxt import buildFcitx # type: ignore
 
 def buildRimeRelease():
     # 創建build/rime/*目錄
@@ -26,7 +27,7 @@ def buildRimeRelease():
 
 schema:
   schema_id: '''+id+'''
-  name: 倉頡五代
+  name: '''+schema_name[id]+'''
   version: "'''+str(datetime.datetime.now().strftime('%Y.%m.%d'))+'''"
   author:
     - 發明人 朱邦復先生
@@ -204,10 +205,72 @@ def buildYongRelease():
         output = yong_dict_file[id]
         buildYong(source,output)
 
+def buildFcitxRelease():
+    # 創建build/fcitx/*目錄
+    sub_directory_path = {}
+    for id in schema_id:
+        sub_directory_path[id] = os.path.join(build_directory,'fcitx',sub_directory_name[id])
+        if not os.path.exists(sub_directory_path[id]):
+            os.makedirs(sub_directory_path[id])
+    # 創建*.conf.in
+    fcitx_conf_file = {}
+    fcitx_conf_file_context = {}
+    for id in schema_id:
+        fcitx_conf_file[id] = os.path.join(build_directory,'fcitx',sub_directory_name[id],id+'.conf.in')
+        #region fcitx_conf_file_context[id]
+        fcitx_conf_file_context[id] = \
+'''
+[InputMethod]
+Name='''+id+'''
+Icon=fcitx-cangjie
+Label='''+schema_name[id]+'''
+LangCode=zh_TW
+Addon=table
+Configurable=True
+
+[Table]
+File=table/cangjie5.main.dict
+OrderPolicy=Freq
+PinyinKey=`
+AutoSelect=True
+AutoSelectLength=-1
+NoMatchAutoSelectLength=0
+MatchingKey=*
+ExactMatch=False
+Hint=False
+DisplayCustomHint=True
+PageSize=9
+CandidateLayoutHint=Vertical
+
+[Table/PrevPage]
+0=Up
+1=minus
+
+[Table/NextPage]
+0=Down
+1=equal
+'''
+        #endregion fcitx_conf_file_context[id]
+        with open(fcitx_conf_file[id],'w',encoding='utf-8') as rsf:
+            rsf.write(fcitx_conf_file_context[id])
+
+    # 創建*.txt
+    fcitx_dict_file = {}
+    for id in schema_id:
+        fcitx_dict_file[id] = os.path.join(build_directory,'fcitx',sub_directory_name[id],id+'.txt')
+        source = id.capitalize().replace('_tc','_TC').replace('_hk','_HK').replace('_sc','_SC')+'.txt'
+        output = fcitx_dict_file[id]
+        buildFcitx(source,output)
+
 if __name__ == "__main__":
 
     # 方案id
     schema_id = ['cangjie5','cangjie5_tc','cangjie5_hk','cangjie5_sc']
+    schema_name = {}
+    schema_name['cangjie5'] = '倉頡五代'
+    schema_name['cangjie5_tc'] = '倉頡五代TC'
+    schema_name['cangjie5_hk'] = '倉頡五代HK'
+    schema_name['cangjie5_sc'] = '倉頡五代SC'
     sub_directory_name = {}
     sub_directory_name['cangjie5'] = '一般排序'
     sub_directory_name['cangjie5_tc'] = '傳統漢字優先（偏好台灣用字習慣）'
@@ -225,5 +288,5 @@ if __name__ == "__main__":
 
     buildRimeRelease()
     buildYongRelease()
-
+    buildFcitxRelease()
     
