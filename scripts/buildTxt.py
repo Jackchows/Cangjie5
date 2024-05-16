@@ -136,17 +136,26 @@ def chooseLineBreak(linebreak=None):                              # 換行符
 def buildTxt(source,order,delimiter,linebreak,output=None):                   # 默認不使用模板
 
     # 獲取
-    # current_directory = os.path.dirname(os.path.abspath(__file__))    # 獲取文件目錄
-    # parent_directory = os.path.dirname(current_directory)             # 獲取上級目錄
+    current_directory = os.path.dirname(os.path.abspath(__file__))    # 獲取文件目錄
+    parent_directory = os.path.dirname(current_directory)             # 獲取上級目錄
     source_file = os.path.join(parent_directory,source)
     if (os.path.exists(source_file)==False):                               # 若source_file不存在
             print ("未找到 "+str(source_file)+"，請檢查文件是否存在")
             return
     #output_file = current_directory+'\\'+'converter_output_'+time.strftime('%Y-%m-%d_%H-%M-%S',time.localtime(time.time()))+'.txt'
-    if output is None:
-        output_file = os.path.join(current_directory,source.replace('.txt','_formatted.txt'))    # 不使用模板
+    # if output is None:
+    #     output_file = os.path.join(current_directory,source.replace('.txt','_formatted.txt'))    # 不使用模板
+    # else:
+    #     output_file = output                                                                     # 使用模板
+    if output:
+        if os.path.isabs(output):
+            output_file = output  
+        else:
+            output_file = os.path.join(current_directory,output)
     else:
-        output_file = output                                                                     # 使用模板
+        output_file = os.path.join(current_directory,source.replace('.txt','_formatted.txt'))
+
+
     # 開啟
     with open(source_file,'r',encoding='utf8') as gib, \
          open(output_file,'a',encoding='utf8',newline='') as txt:
@@ -176,13 +185,17 @@ def buildTxt(source,order,delimiter,linebreak,output=None):                   # 
                 txt.write(new_line)
                 
     # 關閉
-    print("完成。輸出文件 "+os.path.abspath(output_file))
+    if __name__ == "__main__":                                      # 如果是被引用則不輸出提示
+        print("完成。輸出文件 "+os.path.abspath(output_file))
     #input("按Enter退出")
 
 def buildYaml(source,template,output):                                               # RIME 模板
 
     if output:
-        yaml_file = os.path.join(current_directory,output)
+        if os.path.isabs(output):
+            yaml_file = output
+        else:
+            yaml_file = os.path.join(current_directory,output)
     else:
         yaml_file = os.path.join(current_directory,source.replace('.txt','.dict.yaml').lower())
     if template == 'weasel':
@@ -203,6 +216,7 @@ def buildYaml(source,template,output):                                          
     schema_id = source.replace('.txt','').lower()
 
     # 開頭
+    #region yaml_head
     yaml_head ='''# encoding: utf-8
 #
 # 倉頡五代補完計劃：
@@ -240,6 +254,7 @@ encoder:
 ...
 
 ''' 
+    #endregion
     # 寫入yaml
     with open(yaml_file,'w',encoding='utf8') as yal:
         yal.write(yaml_head)
@@ -247,9 +262,13 @@ encoder:
     
 def buildYong(source,output):                                                        # 小小輸入法模板
     if output:
-        yong_file = os.path.join(current_directory,output)
+        if os.path.isabs(output):
+            yong_file = output
+        else:
+            yong_file = os.path.join(current_directory,output)
     else:
         yong_file = os.path.join(current_directory,source.replace('.txt','_yong.txt'))
+
     linebreak="\r\n"
     order = 'code'
     delimiter = 'spaces'
@@ -285,7 +304,10 @@ commit=1 6 0
 
 def buildFcitx(source,output):                                                       # Fcitx 5 模板
     if output:
-        fcitx_file = os.path.join(current_directory,output)
+        if os.path.isabs(output):
+            fcitx_file = output
+        else:
+            fcitx_file = os.path.join(current_directory,output)
     else:
         fcitx_file = os.path.join(current_directory,source.replace('.txt','_fcitx.txt'))
     linebreak="\n"

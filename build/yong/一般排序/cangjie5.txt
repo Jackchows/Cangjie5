@@ -1,0 +1,36 @@
+# encoding: utf-8
+#
+# 倉頡五代補完計劃：
+# https://github.com/Jackchows/Cangjie5
+# 使用前務必閱讀：
+# https://github.com/Jackchows/Cangjie5/blob/master/README.md 及
+# https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md
+# 
+# 相關項目：倉頡三代補完計畫
+# https://github.com/Arthurmcarthur/Cangjie3-Plus
+#
+# 一般排序，綜合考慮字頻及繁簡，部分常用簡化字可能排在傳統漢字前面。
+---
+name: "cangjie5"
+version: "2024.05.16"
+sort: original
+use_preset_vocabulary: true
+max_phrase_length: 1
+columns:
+  - text
+  - code
+  - stem
+encoder:
+  exclude_patterns:
+    - '^x.*$'
+    - '^z.*$'
+  rules:
+    - length_equal: 2
+      formula: "AaAzBaBbBz"
+    - length_equal: 3
+      formula: "AaAzBaBzCz"
+    - length_in_range: [4, 10]
+      formula: "AaBzCaYzZz"
+  tail_anchor: "'"
+...
+
