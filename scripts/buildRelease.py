@@ -295,9 +295,26 @@ def buildMscjRelease():
         # output = os.path.join(build_directory,'yong',sub_directory_name[id],'cj5-90000.txt')
         buildTxt(source,order,delimiter,linebreak,output)
     # 創建zip
+    # old_lex_num = 0
+    new_lex_num = 0
     zip_folder = os.path.join(build_directory,'mscj')
-    zip_file = os.path.join(release_directory,'MSCJData_Cangjie5_'+str(datetime.datetime.now().strftime('%Y%m%d'))+'.zip')
-    zip_release(zip_folder,zip_file)
+    for root, dirs, files in os.walk(zip_folder):
+        for file in files:
+            file_path = os.path.join(root, file)
+            arcname = os.path.relpath(file_path, zip_folder)    # 相對路徑
+            if file == 'ChtChangjieExt.lex':
+                # old_lex_num = old_lex_num + 1
+                os.rename(os.path.join(root, 'ChtChangjieExt.lex'),os.path.join(root, 'ChtCangjieExt.lex'))
+                new_lex_num = new_lex_num + 1
+            elif file == 'ChtCangjieExt.lex':
+                new_lex_num = new_lex_num + 1
+
+    if new_lex_num==4:
+      zip_file = os.path.join(release_directory,'MSCJData_Cangjie5_'+str(datetime.datetime.now().strftime('%Y%m%d'))+'.zip')
+      zip_release(zip_folder,zip_file)
+      print('ok')
+    elif new_lex_num<4:
+        print('未生成.lex文件 (已有 '+str(new_lex_num)+'/4)')
 
 def zip_release(folder_path, zip_path):
     mscj_txt_pattern = re.compile(r'^.*mscj.*cangjie5.*txt$')
@@ -312,6 +329,8 @@ def zip_release(folder_path, zip_path):
                 #     pass
                 else:
                     zif.write(file_path, arcname)
+    # basename = os.path.basename(folder_path)
+    # print(basename)
 
 if __name__ == "__main__":
 
