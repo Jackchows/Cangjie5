@@ -1,0 +1,15 @@
+使用方法：
+
+① 先不要切換到微軟倉頡，再到任務管理器裏結束兩個Microsoft IME進程。
+
+②
+a) 若你使用 Windows 10 版本 2004 (Build 19033）之前的系統：
+進入 C:\Windows\InputMethod\CHT 目錄，刪除 ChtChangjie.lex、ChtChangjie.spd和ChtChangjieExt.lex 三個文件（刪除前請備份），然後將此處提供的 ChtCangjieExt.lex 重命名為 ChtChangjieExt.lex，並複製到該目錄。
+b) 若你使用Windows 10 版本 2004 (Build 19033）或之後的系統：
+進入 C:\Windows\System32\zh-hk 目錄，刪除 ChtCangjie.sdc、ChtCangjie.spd和ChtCangjieExt.lex 三個文件（刪除前請備份），然後將此處提供的 ChtCangjieExt.lex 複製到該目錄。
+
+③
+進入微軟倉頡設置，將字符集設置為「標準和中日韓統一表意字元擴充A」（或者「標準和中日韓統一表意字元擴充A和B」，視乎你的需要），並且打開「包含香港增補字符集字元(HKSCS)」開關。
+若使用Windows 10 版本 2004 (Build 19033）或之後版本系統，請勿打開「使用舊版的微軟倉頡」開關（若打開此開關，請按 ② a) 的方法替換文件）。
+
+詳見 https://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=194346
