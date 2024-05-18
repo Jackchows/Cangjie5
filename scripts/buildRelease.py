@@ -4,6 +4,7 @@ import re
 import datetime
 import argparse
 import platform
+import zipfile
 from buildTxt import buildYaml # type: ignore
 from buildTxt import buildYong # type: ignore
 from buildTxt import buildFcitx # type: ignore
@@ -190,6 +191,10 @@ patch:
         rime_custom_file[id] = os.path.join(build_directory,'rime',sub_directory_name[id],id+'.custom.yaml')
         with open(rime_custom_file[id],'w',encoding='utf-8') as rcf:
             rcf.write(rime_custom_file_context)
+    # 創建zip
+    zip_folder = os.path.join(build_directory,'rime')
+    zip_file = os.path.join(build_directory,'RimeData_Cangjie5_'+str(datetime.datetime.now().strftime('%Y%m%d'))+'.zip')
+    zip_release(zip_folder,zip_file)
 
 def buildYongRelease():
     # 創建build/yong/*目錄
@@ -206,6 +211,10 @@ def buildYongRelease():
         output = yong_dict_file[id]
         # output = os.path.join(build_directory,'yong',sub_directory_name[id],'cj5-90000.txt')
         buildYong(source,output)
+    # 創建zip
+    zip_folder = os.path.join(build_directory,'yong')
+    zip_file = os.path.join(build_directory,'YongData_Cangjie5_'+str(datetime.datetime.now().strftime('%Y%m%d'))+'.zip')
+    zip_release(zip_folder,zip_file)
 
 def buildFcitxRelease():
     # 創建build/fcitx/*目錄
@@ -255,7 +264,6 @@ CandidateLayoutHint=Vertical
         #endregion fcitx_conf_file_context[id]
         with open(fcitx_conf_file[id],'w',encoding='utf-8') as rsf:
             rsf.write(fcitx_conf_file_context[id])
-
     # 創建*.txt
     fcitx_dict_file = {}
     for id in schema_id:
@@ -263,6 +271,10 @@ CandidateLayoutHint=Vertical
         source = id.capitalize().replace('_tc','_TC').replace('_hk','_HK').replace('_sc','_SC')+'.txt'
         output = fcitx_dict_file[id]
         buildFcitx(source,output)
+    # 創建zip
+    zip_folder = os.path.join(build_directory,'fcitx')
+    zip_file = os.path.join(build_directory,'FcitxData_Cangjie5_'+str(datetime.datetime.now().strftime('%Y%m%d'))+'.zip')
+    zip_release(zip_folder,zip_file)
 
 def buildMscjRelease():
     # 創建build/mscj/*目錄
@@ -282,6 +294,24 @@ def buildMscjRelease():
         output = mscj_dict_file[id]
         # output = os.path.join(build_directory,'yong',sub_directory_name[id],'cj5-90000.txt')
         buildTxt(source,order,delimiter,linebreak,output)
+    # 創建zip
+    zip_folder = os.path.join(build_directory,'mscj')
+    zip_file = os.path.join(build_directory,'MSCJData_Cangjie5_'+str(datetime.datetime.now().strftime('%Y%m%d'))+'.zip')
+    zip_release(zip_folder,zip_file)
+
+def zip_release(folder_path, zip_path):
+    mscj_txt_pattern = re.compile(r'^.*mscj.*txt$')
+    with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zif:
+        for root, dirs, files in os.walk(folder_path):
+            for file in files:
+                file_path = os.path.join(root, file)
+                arcname = os.path.relpath(file_path, folder_path)
+                if mscj_txt_pattern.match(file_path):
+                    pass
+                # if re.match(r'^.*mscj.*txt$', file_path):
+                #     pass
+                else:
+                    zif.write(file_path, arcname)
 
 if __name__ == "__main__":
 
