@@ -7,9 +7,8 @@
 由[「仓颉平台 2012」](https://chinesecj.com/forum/forum.php?mod=viewthread&tid=2596)的「五仓世纪」码表修改而来。
 
 ## 下载
-点击[此处](https://github.com/Jackchows/Cangjie5/releases/download/v3.1/RimeData_20240201_Cangjie5.7z)下载适用于RIME的输入法方案文档。<br />
-点击[此处](https://github.com/Jackchows/Cangjie5/releases/download/v3.1/MSCJData_20240218_Cangjie5.7z)下载适用于替换微软仓颉码表的文档。（使用说明见[此处](https://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=194346)）<br />
-也可使用[此处的脚本](https://github.com/Jackchows/Cangjie5/tree/master/scripts)生成适用于其他输入法软件的码表文档。
+你可以在[发布页](https://github.com/Jackchows/Cangjie5/releases)下载适用于RIME、Fcitx 5、小小输入法的码表文档，以及用于替换微软仓颉码表的文档。<br />
+或者尝试使用[脚本](https://github.com/Jackchows/Cangjie5/tree/master/scripts)生成其他格式的码表文档。
 
 ## 目标
 
