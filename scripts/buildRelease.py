@@ -300,7 +300,7 @@ def buildMscjRelease():
     zip_release(zip_folder,zip_file)
 
 def zip_release(folder_path, zip_path):
-    mscj_txt_pattern = re.compile(r'^.*mscj.*txt$')
+    mscj_txt_pattern = re.compile(r'^.*mscj.*cangjie5.*txt$')
     with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zif:
         for root, dirs, files in os.walk(folder_path):
             for file in files:
