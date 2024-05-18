@@ -1,4 +1,5 @@
 scripts/__pycache__/
 build/mscj/
 build/*.zip
+build/*/*/
 release/

@@ -193,7 +193,7 @@ patch:
             rcf.write(rime_custom_file_context)
     # 創建zip
     zip_folder = os.path.join(build_directory,'rime')
-    zip_file = os.path.join(build_directory,'RimeData_Cangjie5_'+str(datetime.datetime.now().strftime('%Y%m%d'))+'.zip')
+    zip_file = os.path.join(release_directory,'RimeData_Cangjie5_'+str(datetime.datetime.now().strftime('%Y%m%d'))+'.zip')
     zip_release(zip_folder,zip_file)
 
 def buildYongRelease():
@@ -213,7 +213,7 @@ def buildYongRelease():
         buildYong(source,output)
     # 創建zip
     zip_folder = os.path.join(build_directory,'yong')
-    zip_file = os.path.join(build_directory,'YongData_Cangjie5_'+str(datetime.datetime.now().strftime('%Y%m%d'))+'.zip')
+    zip_file = os.path.join(release_directory,'YongData_Cangjie5_'+str(datetime.datetime.now().strftime('%Y%m%d'))+'.zip')
     zip_release(zip_folder,zip_file)
 
 def buildFcitxRelease():
@@ -273,7 +273,7 @@ CandidateLayoutHint=Vertical
         buildFcitx(source,output)
     # 創建zip
     zip_folder = os.path.join(build_directory,'fcitx')
-    zip_file = os.path.join(build_directory,'FcitxData_Cangjie5_'+str(datetime.datetime.now().strftime('%Y%m%d'))+'.zip')
+    zip_file = os.path.join(release_directory,'FcitxData_Cangjie5_'+str(datetime.datetime.now().strftime('%Y%m%d'))+'.zip')
     zip_release(zip_folder,zip_file)
 
 def buildMscjRelease():
@@ -296,7 +296,7 @@ def buildMscjRelease():
         buildTxt(source,order,delimiter,linebreak,output)
     # 創建zip
     zip_folder = os.path.join(build_directory,'mscj')
-    zip_file = os.path.join(build_directory,'MSCJData_Cangjie5_'+str(datetime.datetime.now().strftime('%Y%m%d'))+'.zip')
+    zip_file = os.path.join(release_directory,'MSCJData_Cangjie5_'+str(datetime.datetime.now().strftime('%Y%m%d'))+'.zip')
     zip_release(zip_folder,zip_file)
 
 def zip_release(folder_path, zip_path):
@@ -334,8 +334,11 @@ if __name__ == "__main__":
 
     # 創建build目錄
     build_directory = os.path.join(parent_directory,'build')
+    release_directory = os.path.join(parent_directory,'release')
     if not os.path.exists(build_directory):
         os.makedirs(build_directory)
+    if not os.path.exists(release_directory):
+        os.makedirs(release_directory)
 
     buildRimeRelease()
     buildYongRelease()
