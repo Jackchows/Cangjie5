@@ -12,7 +12,7 @@
 # 傳統漢字優先，偏好香港用字習慣，符合《常用字字形表》的字形將排在前面。
 ---
 name: "cangjie5_hk"
-version: "2024.05.16"
+version: "2024.05.18"
 sort: original
 use_preset_vocabulary: true
 max_phrase_length: 1

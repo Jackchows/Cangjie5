@@ -12,7 +12,7 @@
 # 一般排序，綜合考慮字頻及繁簡，部分常用簡化字可能排在傳統漢字前面。
 ---
 name: "cangjie5"
-version: "2024.05.16"
+version: "2024.05.18"
 sort: original
 use_preset_vocabulary: true
 max_phrase_length: 1

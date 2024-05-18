@@ -12,7 +12,7 @@
 # 傳統漢字優先，偏好台灣用字習慣，符合《常用國字標準字體表》的字形將排在前面。
 ---
 name: "cangjie5_tc"
-version: "2024.05.16"
+version: "2024.05.18"
 sort: original
 use_preset_vocabulary: true
 max_phrase_length: 1

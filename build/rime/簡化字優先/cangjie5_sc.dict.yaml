@@ -12,7 +12,7 @@
 # 簡化字優先，符合《通用規範漢字表》的字形將排在前面。
 ---
 name: "cangjie5_sc"
-version: "2024.05.16"
+version: "2024.05.18"
 sort: original
 use_preset_vocabulary: true
 max_phrase_length: 1

@@ -4,7 +4,7 @@
 schema:
   schema_id: cangjie5_sc
   name: 倉頡五代SC
-  version: "2024.05.16"
+  version: "2024.05.18"
   author:
     - 發明人 朱邦復先生
   description: |
@@ -58,7 +58,7 @@ speller:
   delimiter: " ;"
   #max_code_length: 5  # 五碼頂字上屏
 translator:
-  dictionary: cangjie5
+  dictionary: cangjie5_sc
   enable_charset_filter: true
   encode_commit_history: true
   enable_encoder: true

@@ -7,6 +7,7 @@ import platform
 from buildTxt import buildYaml # type: ignore
 from buildTxt import buildYong # type: ignore
 from buildTxt import buildFcitx # type: ignore
+from buildTxt import buildTxt # type: ignore
 
 def buildRimeRelease():
     # 創建build/rime/*目錄
@@ -82,7 +83,7 @@ speller:
   delimiter: " ;"
   #max_code_length: 5  # 五碼頂字上屏
 translator:
-  dictionary: cangjie5
+  dictionary: '''+id+'''
   enable_charset_filter: true
   encode_commit_history: true
   enable_encoder: true
@@ -203,6 +204,7 @@ def buildYongRelease():
         yong_dict_file[id] = os.path.join(build_directory,'yong',sub_directory_name[id],id+'.txt')
         source = id.capitalize().replace('_tc','_TC').replace('_hk','_HK').replace('_sc','_SC')+'.txt'
         output = yong_dict_file[id]
+        # output = os.path.join(build_directory,'yong',sub_directory_name[id],'cj5-90000.txt')
         buildYong(source,output)
 
 def buildFcitxRelease():
@@ -262,6 +264,25 @@ CandidateLayoutHint=Vertical
         output = fcitx_dict_file[id]
         buildFcitx(source,output)
 
+def buildMscjRelease():
+    # 創建build/mscj/*目錄
+    sub_directory_path = {}
+    for id in schema_id:
+        sub_directory_path[id] = os.path.join(build_directory,'mscj',sub_directory_name[id])
+        if not os.path.exists(sub_directory_path[id]):
+            os.makedirs(sub_directory_path[id])
+    # 創建*.txt
+    mscj_dict_file = {}
+    for id in schema_id:
+        mscj_dict_file[id] = os.path.join(build_directory,'mscj',sub_directory_name[id],id+'.txt')
+        source = id.capitalize().replace('_tc','_TC').replace('_hk','_HK').replace('_sc','_SC')+'.txt'
+        order = 'code'
+        delimiter = '\t'
+        linebreak = '\r\n'
+        output = mscj_dict_file[id]
+        # output = os.path.join(build_directory,'yong',sub_directory_name[id],'cj5-90000.txt')
+        buildTxt(source,order,delimiter,linebreak,output)
+
 if __name__ == "__main__":
 
     # 方案id
@@ -289,4 +310,4 @@ if __name__ == "__main__":
     buildRimeRelease()
     buildYongRelease()
     buildFcitxRelease()
-    
+    buildMscjRelease()
