@@ -12,7 +12,7 @@
 
 ## 目标
 
-**本项目参考官方资料对码表进行修改，可能与其他常见仓颉输入法软件存在差异，详阅[说明](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md#%E4%B8%BB%E8%A6%81%E6%94%B9%E7%A2%BC%E8%AA%AA%E6%98%8E%E5%8F%8A%E7%88%AD%E8%AD%B0%E5%8F%96%E7%A2%BC)。**<br />
+**本项目参考官方资料对码表进行修改，可能与其他常见仓颉输入法软件存在差异，详阅[说明](https://github.com/Jackchows/Cangjie5/blob/master/change_summary-hans.md#%E4%B8%BB%E8%A6%81%E6%94%B9%E7%A0%81%E8%AF%B4%E6%98%8E%E5%8F%8A%E4%BA%89%E8%AE%AE%E5%8F%96%E7%A0%81)。**<br />
 1. 本项目：
 	1. **(✓)意图**　修改字码以贴近官方资料
 	2. **(✗)无意**　修改或解释官方码表中被认为不符合仓颉输入法规则的部分，除非是明显的笔误
@@ -42,7 +42,7 @@
 另外收录兼容汉字、部首、笔画以及其他一些形似汉字的符号。为避免与常规汉字混淆，**此部分字符编码以「z」开头**（兼容汉字「zc」，部首「zr」，笔画「zs」，表意文字描述字符「zi」，算筹符号「zn」，其他符号「zf」）。
 - **[Cangjie5_supplement.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_supplement.txt)**<br />
 码表。收录兼容汉字、部首、笔画以及其他一些形似汉字的符号。此表按原始编码收录，编码不以「z」开头。<br />
-- **[change_summary.md](https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md)**<br />
+- **[change_summary.md](https://github.com/Jackchows/Cangjie5/blob/master/change_summary-hans.md)**<br />
 总体说明，包括取码争议、字形兼容、重码字排序调整说明。
 - **[change_details.log](https://github.com/Jackchows/Cangjie5/blob/master/change_details.log)**<br />
 码表的详细编辑记录。
