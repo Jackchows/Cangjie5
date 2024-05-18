@@ -7,9 +7,8 @@
 由[「倉頡平台 2012」](https://chinesecj.com/forum/forum.php?mod=viewthread&tid=2596)的「五倉世紀」碼表修改而來。
 
 ## 下載
-點擊[此處](https://github.com/Jackchows/Cangjie5/releases/download/v3.1/RimeData_20240201_Cangjie5.7z)下載適用於RIME的輸入法方案文檔。<br />
-點擊[此處](https://github.com/Jackchows/Cangjie5/releases/download/v3.1/MSCJData_20240218_Cangjie5.7z)下載適用於替換微軟倉頡碼表的文檔。（使用說明見[此處](https://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=194346)）<br />
-也可使用[此處的腳本](https://github.com/Jackchows/Cangjie5/tree/master/scripts)生成適用於其他輸入法軟件的碼表文檔。
+你可以在[發佈頁](https://github.com/Jackchows/Cangjie5/releases)下載適用於RIME、Fcitx 5、小小輸入法的碼表文檔，以及用於替換微軟倉頡碼表的文檔。<br />
+或者嘗試使用[腳本](https://github.com/Jackchows/Cangjie5/tree/master/scripts)生成其他格式的碼表文檔。
 
 ## 目標
 
