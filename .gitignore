@@ -2,3 +2,4 @@ scripts/__pycache__/
 build/*.zip
 build/*/*/
 release/
+.svn/
