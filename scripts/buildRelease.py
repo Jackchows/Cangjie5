@@ -326,12 +326,15 @@ def buildMscjRelease():
 
 def zip_release(folder_path, zip_path):
     mscj_txt_pattern = re.compile(r'^.*mscj.*cangjie5.*txt$')
+    mscj_symbol_txt_pattern = re.compile(r'^.*mscj.*symbol.txt$')
     with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zif:
         for root, dirs, files in os.walk(folder_path):
             for file in files:
                 file_path = os.path.join(root, file)
                 arcname = os.path.relpath(file_path, folder_path)
                 if mscj_txt_pattern.match(file_path):
+                    pass
+                elif mscj_symbol_txt_pattern.match(file_path):
                     pass
                 # if re.match(r'^.*mscj.*txt$', file_path):
                 #     pass
