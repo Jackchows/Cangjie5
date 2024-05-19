@@ -133,7 +133,7 @@ def chooseLineBreak(linebreak=None):                              # 換行符
         exit()
     return linebreak
 
-def buildTxt(source,order,delimiter,linebreak,output=None):                   # 默認不使用模板
+def buildTxt(source,order,delimiter,linebreak,build_with_template,output=None):                   # 默認不使用模板
 
     # 獲取
     current_directory = os.path.dirname(os.path.abspath(__file__))    # 獲取文件目錄
@@ -159,7 +159,7 @@ def buildTxt(source,order,delimiter,linebreak,output=None):                   # 
     # 開啟
     with open(source_file,'r',encoding='utf8') as gib, \
          open(output_file,'a',encoding='utf8',newline='') as txt:
-        if output is None:                                                     # 不使用模板
+        if build_with_template == 'no':                                                     # 不使用模板
             txt.seek(0,0)
             txt.truncate()
         # 寫入
@@ -206,6 +206,7 @@ def buildYaml(source,template,output):                                          
         linebreak="\n"
     order = 'char'
     delimiter = '\t'
+    build_with_template = 'yes'
 
     description = {}
     description['Cangjie5.txt']='一般排序，綜合考慮字頻及繁簡，部分常用簡化字可能排在傳統漢字前面。'
@@ -258,7 +259,7 @@ encoder:
     # 寫入yaml
     with open(yaml_file,'w',encoding='utf8') as yal:
         yal.write(yaml_head)
-    buildTxt(source,order,delimiter,linebreak,yaml_file)
+    buildTxt(source,order,delimiter,linebreak,build_with_template,yaml_file)
     
 def buildYong(source,output):                                                        # 小小輸入法模板
     if output:
@@ -272,6 +273,7 @@ def buildYong(source,output):                                                   
     linebreak="\r\n"
     order = 'code'
     delimiter = 'spaces'
+    build_with_template = 'yes'
     # 開頭
     yong_head ='''#-----------------------------------------------------------------
 # 倉頡五代補完計劃：
@@ -300,7 +302,7 @@ commit=1 6 0
     # 寫入yong
     with open(yong_file,'w',encoding='utf8') as yog:
         yog.write(yong_head)
-    buildTxt(source,order,delimiter,linebreak,yong_file)
+    buildTxt(source,order,delimiter,linebreak,build_with_template,yong_file)
 
 def buildFcitx(source,output):                                                       # Fcitx 5 模板
     if output:
@@ -313,6 +315,7 @@ def buildFcitx(source,output):                                                  
     linebreak="\n"
     order = 'code'
     delimiter = ' '
+    build_with_template = 'yes'
     fcitx_head ='''键码=abcdefghijklmnopqrstuvwxyz
 提示=&
 码长=6
@@ -347,29 +350,30 @@ def buildFcitx(source,output):                                                  
     # 寫入fcitx
     with open(fcitx_file,'w',encoding='utf8',newline = '\n') as fcx:
         fcx.write(fcitx_head.replace('\r\n','\n'))
-    buildTxt(source,order,delimiter,linebreak,fcitx_file)
+    buildTxt(source,order,delimiter,linebreak,build_with_template,fcitx_file)
 
 def buildWithTemplate(template,source,output):                                  # 判斷是否使用模板
+    global build_with_template
     if template is None:
-        return 'no'
+        build_with_template = 'no'
     elif template == 'rime':
         buildYaml(source,template,output)
-        return 'yes'
+        build_with_template = 'yes'
     elif template == 'weasel':
         buildYaml(source,template,output)
-        return 'yes'
+        build_with_template = 'yes'
     elif template == 'squirrel':
         buildYaml(source,template,output)
-        return 'yes'
+        build_with_template = 'yes'
     elif template == 'fcitx':
         buildFcitx(source,output)
-        return 'yes'
+        build_with_template = 'yes'
     elif template == 'yong':
         buildYong(source,output)
-        return 'yes'
+        build_with_template = 'yes'
     else:
         print("--template 參數有誤 [rime=ibus-rime, weasel=小狼亳, squirrel=鼠鬚管, fcitx=Fcitx 5, yong=小小輸入法]")
-        return 'error'
+        build_with_template = 'error'
     
 # def buildRelease():
 #     pass
@@ -405,6 +409,8 @@ if __name__ == "__main__":
     #     buildRelease()
     #     exit()
 
+    build_with_template = 'no'  # 是否使用了模板
+
     if template:
         if (order is not None) | (delimiter is not None) | (linebreak is not None):
             print('--template 參數衹可以與 --source, --filename 參數共用')
@@ -413,13 +419,13 @@ if __name__ == "__main__":
             print('--template 參數需要與 --source 參數共用')
             exit()
 
-    build_with_template = buildWithTemplate(template,source,output)   # 判斷是否使用模板
+    buildWithTemplate(template,source,output)   # 判斷是否使用模板
 
     if build_with_template == 'no':                     # 不使用模板
         source=chooseSource(source)
         order=chooseOrder(order)
         delimiter=chooseDelimiter(delimiter)
         linebreak=chooseLineBreak(linebreak)
-        buildTxt(source,order,delimiter,linebreak,output)
+        buildTxt(source,order,delimiter,linebreak,build_with_template,output)
 
     

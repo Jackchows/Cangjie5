@@ -291,9 +291,17 @@ def buildMscjRelease():
         order = 'code'
         delimiter = '\t'
         linebreak = '\r\n'
+        build_with_template = 'no'
         output = mscj_dict_file[id]
         # output = os.path.join(build_directory,'yong',sub_directory_name[id],'cj5-90000.txt')
-        buildTxt(source,order,delimiter,linebreak,output)
+
+        buildTxt(source,order,delimiter,linebreak,build_with_template,output)
+        mscj_symbol_file = os.path.join(build_directory,'mscj','symbol.txt')
+        with open(mscj_dict_file[id],'a',encoding='utf8') as mdf, \
+             open(mscj_symbol_file,'r',encoding='utf8') as msf:
+            for line in msf:
+                mdf.write(line)
+
     # 創建zip
     # old_lex_num = 0
     new_lex_num = 0
@@ -301,7 +309,7 @@ def buildMscjRelease():
     for root, dirs, files in os.walk(zip_folder):
         for file in files:
             file_path = os.path.join(root, file)
-            arcname = os.path.relpath(file_path, zip_folder)    # 相對路徑
+            #arcname = os.path.relpath(file_path, zip_folder)    # 相對路徑
             if file == 'ChtChangjieExt.lex':
                 # old_lex_num = old_lex_num + 1
                 os.rename(os.path.join(root, 'ChtChangjieExt.lex'),os.path.join(root, 'ChtCangjieExt.lex'))
