@@ -1,0 +1,8 @@
+# dev
+scripts/__pycache__/
+build/*.zip
+release/
+.svn/
+*複製*
+# master
+build/*/*/
