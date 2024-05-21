@@ -1,6 +1,5 @@
 scripts/__pycache__/
 build/*.zip
 build/*/*/
-drafts/
 release/
 *複製*
