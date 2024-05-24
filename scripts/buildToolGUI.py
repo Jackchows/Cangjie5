@@ -1,17 +1,16 @@
 import tkinter as tk
-# from tkinter import *
 from tkinter import filedialog
-# from tkinter.ttk import *
 import os
 import platform
 import webbrowser
-from buildTxt import buildTxt # type: ignore
-from buildTxt import chooseLineBreak # type: ignore
-from buildTxt import chooseDelimiter # type: ignore
-from buildTxt import buildYaml # type: ignore
-from buildTxt import buildFcitx # type: ignore
-from buildTxt import buildYong # type: ignore
-from buildTxt import checkSourceFileFormat # type: ignore
+from buildToolCmd import chooseLineBreak # type: ignore
+from buildToolCmd import chooseDelimiter # type: ignore
+from buildToolCmd import buildYaml # type: ignore
+from buildToolCmd import buildFcitx # type: ignore
+from buildToolCmd import buildYong # type: ignore
+from buildToolCmd import buildTxt # type: ignore
+from buildToolCmd import checkSourceFileFormat # type: ignore
+from buildToolCmd import linebreakDocode # type: ignore
 
 # 函數 - 選擇輸入文件
 def select_input_file():
@@ -25,7 +24,7 @@ def select_input_file():
         input_file_entry.delete(0, tk.END)           # 清空 [Entry 文本輸入框 - 輸入文件] 的值
         input_file_entry.insert(0, input_file_path)  # 設置 [Entry 文本輸入框 - 輸入文件] 的值
         if output_file_selected=='no':               # 如果已經手工選擇了 [Entry 文本輸入框 - 輸出文件], 就不要更改
-            output_file_defaule_value = input_file_entry.get().replace('.txt','_formated.txt').replace('\\', '/')
+            output_file_defaule_value = input_file_entry.get().replace('.txt','_formatted.txt').replace('\\', '/')
                                                                     # 設置 [Entry 文本輸入框 - 輸出文件] 的默認值
             output_file_entry.delete(0, tk.END)                     # 清空 [Entry 文本輸入框 - 輸出文件] 的内容
             output_file_entry.insert(0, output_file_defaule_value)  # 設置 [Entry 文本輸入框 - 輸出文件] 的值
@@ -54,8 +53,14 @@ def go_build():
     global selected_delimiter                       # 分隔符   - 用chooseDelimiter()處理獲得
     # print('sent delimiter=['+selected_delimiter+']') #'        ',' ','spaces',''
     delimiter=chooseDelimiter(selected_delimiter)
+    if debug:
+            print('[DEBUG][56]selected_delimiter='+selected_delimiter)
+            print('[DEBUG][56]delimiter='+delimiter)
     global selected_linebreak                       # 換行符   - 用chooseLineBreak()處理獲得
     linebreak=chooseLineBreak(selected_linebreak)
+    if debug:
+            print('[DEBUG][61]selected_linebreak='+selected_linebreak)
+            print('[DEBUG][61]linebreak='+linebreak)
     build_with_template='no'                        # 模版     - 默認不使用
     global seleted_output                           # 輸出文件 - 從 [Entry 文本輸入框 - 輸出文件] 中獲取值
     build_txt_result=''                             # 調用build函數返回的結果
@@ -66,26 +71,26 @@ def go_build():
         result_label.config(text="未選擇輸出文件", fg="red")
     elif checkSourceFileFormat(seleted_source)[0] == 'no':
         build_txt_result = 'ERR_NOT_SUPPORT_FORMAT'
-    elif selected_template=='rime' and linebreak=='\r\n':
-        build_txt_result=buildYaml(seleted_source,'weasel',seleted_output)
-    elif selected_template=='rime' and linebreak=='\n':
-        build_txt_result=buildYaml(seleted_source,'rime',seleted_output)
-    elif selected_template=='rime' and linebreak=='\r':
-        build_txt_result=buildYaml(seleted_source,'squirrel',seleted_output)
+    elif selected_template=='rime' and linebreak=='crlf':
+        build_txt_result=buildYaml(seleted_source,'crlf',seleted_output)
+    elif selected_template=='rime' and linebreak=='lf':
+        build_txt_result=buildYaml(seleted_source,'lf',seleted_output)
+    elif selected_template=='rime' and linebreak=='cr':
+        build_txt_result=buildYaml(seleted_source,'cr',seleted_output)
     elif selected_template=='fcitx':
         build_txt_result=buildFcitx(seleted_source,seleted_output)
     elif selected_template=='yong':
         build_txt_result=buildYong(seleted_source,seleted_output)
     else:
-        build_txt_result=buildTxt(seleted_source,selected_order,delimiter,linebreak,build_with_template,seleted_output)
+        build_txt_result=buildTxt(seleted_source,selected_order,delimiter,linebreakDocode(linebreak),build_with_template,seleted_output)
     if build_txt_result == 'SUCCESS':
         result_label.config(text="轉換完成", fg='green')
     elif build_txt_result == 'ERR_SOURCE_FILE_NOT_EXISTS':
         result_label.config(text="找不到所選擇的碼表文件", fg='red')
     elif build_txt_result == 'ERR_NOT_SUPPORT_FORMAT':
         result_label.config(text="不支持的源碼表格式", fg='red')
-    elif build_txt_result == 'ERR_NOT_CJ5_FILE':
-        result_label.config(text="此功能目前僅支持倉頡五代補完計劃的碼表文件", fg='red')
+    # elif build_txt_result == 'ERR_NOT_CJ5_FILE':
+    #     result_label.config(text="此功能目前僅支持倉頡五代補完計劃的碼表文件", fg='red')
     else:
         result_label.config(text="轉換失敗", fg='red')
 
@@ -103,7 +108,7 @@ if __name__ == "__main__":
 
     # 建立主窗口
     window = tk.Tk()
-    window.title('補完計劃碼表轉換工具')
+    window.title('補完計劃碼表轉換工具 v0.1 beta')
     # window.geometry('800x400')
     window.resizable(False, False)
 
@@ -131,7 +136,7 @@ if __name__ == "__main__":
     # Entry 文本輸入框 - 輸出文件
     output_file_entry = tk.Entry(frame, width=65)
     output_file_entry.grid(row=1, column=1, columnspan=3, padx=5, pady=10, sticky='w')
-    output_file_defaule_value = input_file_defaule_value.replace('.txt','_formated.txt').replace('\\', '/')
+    output_file_defaule_value = input_file_defaule_value.replace('.txt','_formatted.txt').replace('\\', '/')
     output_file_entry.insert(0, output_file_defaule_value)
     # button 按鈕 - 輸出文件選擇
     output_file_button = tk.Button(frame, text='選擇', width=10, command=select_output_file)
@@ -290,19 +295,8 @@ if __name__ == "__main__":
     def update_linebreak_value(*args):
         global selected_linebreak
         selected_linebreak = linebreak_value.get()
-        if selected_linebreak=='auto':                # 如果選擇「與系統一致」
-            if platform.system().lower() == 'windows':
-                selected_linebreak = "crlf"
-            elif platform.system().lower() == 'linux':
-                selected_linebreak = "lf"
-            elif platform.system().lower() == 'darwin':
-                # if platform.mac_ver()[0]<10.8:              # 待測試
-                if True:
-                    selected_linebreak = "lf"
-                else:
-                    selected_linebreak = "cr"
-            else:
-                selected_linebreak = "lf"
+        if debug:
+            print('[DEBUG][293]selected_linebreak='+selected_linebreak)
         result_label.config(text="")    # 重新選擇之後清空結果
     linebreak_value.trace_add("write", update_linebreak_value)    # 將 [函數 - 監控(單選欄 - 換行符選項)] 與 [字符串變量 - 換行符] 綁定 
 
