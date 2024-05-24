@@ -5,49 +5,8 @@ import datetime
 import argparse
 import platform
 
-def chooseSource(source=None):                                    # 輸入文件
-    if source is None:                                              # 如果沒有使用--source參數，則交互式提示
-        print("此工具可以將碼表轉換成所需的格式，你可以選擇字和倉頡碼的順序、分隔符以及換行符。")
-        print("\nStep 1 - 選擇需要轉換的文件")
-        print("[1] Cangjie5.txt")
-        print("[2] Cangjie5_TC.txt")
-        print("[3] Cangjie5_HK.txt")
-        print("[4] Cangjie5_SC.txt")
-        print("[5] Cangjie5_special.txt")
-        source_input=input("輸入數字並按Enter (默認為1):")
-        if source_input=='':
-            source='Cangjie5.txt'
-        elif source_input=='1':
-            source='Cangjie5.txt'
-        elif source_input=='2':
-            source='Cangjie5_TC.txt'
-        elif source_input=='3':
-            source='Cangjie5_HK.txt'
-        elif source_input=='4':
-            source='Cangjie5_SC.txt'
-        elif source_input=='5':
-            source='Cangjie5_special.txt'
-        else:
-            print("輸入有誤")
-            exit()
-    return source
-
-def chooseOrder(order=None):                                      # 順序
-    if order is None:                                               # 如果沒有使用--order參數，則交互式提示
-        print("\nStep 2 - 選擇字和倉頡碼的順序")
-        print("[1] 字在前，倉頡碼在後")
-        print("[2] 倉頡碼在前，字在後")
-        order_input=input("輸入數字並按Enter (默認為1):")
-        if order_input=='':
-            order='char'
-        elif order_input=='1':
-            order='char'
-        elif order_input=='2':
-            order='code'
-        else:
-            print("輸入有誤")
-            exit()
-    elif order.lower()=='char':                                             # 如果有使用--order參數，則進行判斷
+def chooseOrder(order):                                      # 判斷order是否合法
+    if order.lower()=='char':
         order='char'
     elif order.lower()=='code':
         order='code'
@@ -56,29 +15,8 @@ def chooseOrder(order=None):                                      # 順序
         exit()
     return order
 
-def chooseDelimiter(delimiter=None):                              # 分隔符
-    # print("--delimiter accessed ["+delimiter+']')
-    if delimiter is None:                                           # 如果沒有使用--delimiter參數，則交互式提示
-        print("\nStep 3 - 選擇字與倉頡碼之間的分隔符")
-        print("[1] Tab")
-        print("[2] Space (一個空格)")
-        print("[3] Spaces (以空格代替Tab對齊)")
-        print("[4] (無)")
-        delimiter_input=input("輸入數字並按Enter (默認為1):")
-        if delimiter_input=='':
-            delimiter='\t'
-        elif delimiter_input=='1':
-            delimiter='\t'
-        elif delimiter_input=='2':
-            delimiter=' '
-        elif delimiter_input=='3':
-            delimiter="spaces"
-        elif delimiter_input=='4':
-            delimiter=''
-        else:
-            print("輸入有誤")
-            exit()
-    elif delimiter.lower()=='tab':                                          # 如果有使用--delimiter參數，則進行判斷
+def chooseDelimiter(delimiter):                              # 判斷delimiter是否合法
+    if delimiter.lower()=='tab':
         delimiter='\t'
     elif delimiter.lower()=='space':
         delimiter=' '
@@ -86,70 +24,43 @@ def chooseDelimiter(delimiter=None):                              # 分隔符
         delimiter="spaces"
     elif delimiter.lower()=='none':
         delimiter=''
-    # elif delimiter.lower()=='':
-    #     delimiter=''
     else:
-        print("--delimiter after ["+delimiter+']')
         print("--delimiter 參數有誤 [tab=製表鍵, space=一個空格, multi=以空格代替Tab對齊, none=無]")
         exit()
     return delimiter
 
-def chooseLineBreak(linebreak=None):                              # 換行符
-    system_version=platform.system().lower()                        # 判斷當前系統
-    # mac_version=float('.'.join(platform.mac_ver().split('.')[:2]))  # macOS版本號
+def chooseLineBreak(linebreak):                              # 判斷linebreak是否合法
+    system_version=platform.system().lower()                            # 判斷當前系統
+    # mac_version=float('.'.join(platform.mac_ver().split('.')[:2]))      # macOS版本號，未實現的功能
     mac_version = 100
-    if linebreak is None:                                           # 命令行沒有使用--linebreak參數，則交互式提示
-        print("\nStep 4 - 選擇輪出文件的換行符")
-        print("[1] \\r\\n")
-        print("[2] \\n")
-        print("[3] \\r")
+    if linebreak.lower()=='auto':                                       # auto 判斷
         if system_version=='windows':
-            linebreak_input=input("輸入數字並按Enter (Windows默認為1):")
+            linebreak="crlf"
         elif system_version=='linux':
-            linebreak_input=input("輸入數字並按Enter (Unix/Linux默認為2):")
+            linebreak="lf"
         elif system_version=='darwin' and mac_version>=10.8:
-            linebreak_input=input("輸入數字並按Enter (macOS(OS X)默認為2):")
+            linebreak="lf"
         elif system_version=='darwin' and mac_version<10.8:
-            linebreak_input=input("輸入數字並按Enter (Mac OS默認為3):")
+            linebreak="cr"
         else:
-            linebreak_input=input("輸入數字並按Enter (默認為1):")
-        if linebreak_input=='' and system_version=='windows':
-            linebreak="\r\n"
-        elif linebreak_input=='' and system_version=='linux':
-            linebreak="\n"
-        elif linebreak_input=='' and system_version=='darwin':
-            linebreak="\r"
-        elif linebreak_input=='':
-            linebreak="\r\n"
-        elif linebreak_input=='1':
-            linebreak="\r\n"
-        elif linebreak_input=='2':
-            linebreak="\n"
-        elif linebreak_input=='3':
-            linebreak="\r"
-        else:
-            print("輸入有誤")
-            exit()
-    elif linebreak=='auto':                                         # GUI選擇[與系統一致]，則執行判斷
-        if system_version=='windows':
-            linebreak="\r\n"
-        elif system_version=='linux':
-            linebreak="\n"
-        elif system_version=='darwin':
-            linebreak="\r"
-        else:
-            linebreak="\r\n"
-    elif linebreak.lower()=='crlf':                                 # 命令行有使用--linebreak參數，則進行判斷
-        linebreak="\r\n"
-    elif linebreak.lower()=='cr':
-        linebreak="\r"
-    elif linebreak.lower()=='lf':
-        linebreak="\n"
+            linebreak="lf"
+    elif linebreak.lower() in ['crlf','cr','lf']:
+        pass
     else:
-        #print('[DEBUG]linebreak='+linebreak)
         print("--linebreak 參數有誤 [crlf, cr, lf, auto]")
-        exit()
+        return('ERR_LINE_BREAK_UNDEFINED')
     return linebreak
+
+def linebreakDocode(linebreak_code):        # lf -> \n
+    if linebreak_code.lower()=='crlf':
+        linebreak_value = '\r\n'
+    elif linebreak_code.lower()=='cr':
+         linebreak_value="\r"
+    elif linebreak_code.lower()=='lf':
+         linebreak_value="\n"
+    else:
+        print('[DEBUG][62]linebreak_code='+linebreak_code)
+    return linebreak_value
 
 def buildTxt(source,order,delimiter,linebreak,build_with_template,output=None):                   # 默認不使用模板
 
@@ -157,6 +68,8 @@ def buildTxt(source,order,delimiter,linebreak,build_with_template,output=None): 
     current_directory = os.path.dirname(os.path.abspath(__file__))    # 獲取文件目錄
     parent_directory = os.path.dirname(current_directory)             # 獲取上級目錄
     source_file = os.path.join(parent_directory,source)
+    # print('[95]parent_directory='+parent_directory)
+    # print('[96]source_file='+source_file)
     if (os.path.exists(source_file)==False):                               # 若source_file不存在
             print ("未找到 "+str(source_file)+"，請檢查文件是否存在")
             return('ERR_SOURCE_FILE_NOT_EXISTS')
@@ -219,8 +132,7 @@ def buildTxt(source,order,delimiter,linebreak,build_with_template,output=None): 
     #input("按Enter退出")
     return('SUCCESS')
 
-def buildYaml(source,template,output):                                               # RIME 模板
-
+def buildYaml(source,linebreak,output):                                     # RIME 模板
     if output:
         if os.path.isabs(output):
             yaml_file = output
@@ -229,14 +141,9 @@ def buildYaml(source,template,output):                                          
     else:
         yaml_file = os.path.join(current_directory,source.replace('.txt','.dict.yaml').lower())
     if (os.path.exists(source)==False):                               # 若source_file不存在
+        print("source="+str(source))
         print ("未找到 "+str(source)+"，請檢查文件是否存在")
         return('ERR_SOURCE_FILE_NOT_EXISTS')
-    if template == 'weasel':
-        linebreak="\r\n"
-    elif template == 'squirrel':
-        linebreak="\r"
-    elif template == 'rime':
-        linebreak="\n"
     order = 'char'
     delimiter = '\t'
     build_with_template = 'yes'
@@ -249,14 +156,16 @@ def buildYaml(source,template,output):                                          
     description_dict['Cangjie5_HK.txt']='傳統漢字優先，偏好香港用字習慣，符合《常用字字形表》的字形將排在前面。'
     description_dict['Cangjie5_SC.txt']='簡化字優先，符合《通用規範漢字表》的字形將排在前面。'
     description_dict['Cangjie5_special.txt']='收字較少的版本，收錄主流系統通常可以顯示的字符。'
+    schema_id = os.path.basename(source).replace('.txt','').lower()
+
     if os.path.basename(source) in supported_file_name_cj3:             # schema_id 如果是三代補完計劃
         schema_id = 'cangjie3'
     if os.path.basename(source) in supported_file_name_cj5:             # description 如果是五代補完計劃
         description = description_dict[os.path.basename(source)]
     else:                                                               # 如果是其他碼表
         description = ''
-    # print('[DEBUG]source='+source)
-    # print('[DEBUG]os.path.basename(source)='+os.path.basename(source))
+    # print('[DEBUG][167]schema_id='+schema_id)
+
     # 開頭
     #region yaml_head
     yaml_head_cj5 ='''# encoding: utf-8
@@ -323,7 +232,7 @@ encoder:
     # 寫入yaml
     with open(yaml_file,'w',encoding='utf8') as yal:
         yal.write(yaml_head)
-    buildTxt(source,order,delimiter,linebreak,build_with_template,yaml_file)
+    buildTxt(source,order,delimiter,linebreakDocode(linebreak),build_with_template,yaml_file)
     return('SUCCESS')
     
 def buildYong(source,output):                                                        # 小小輸入法模板
@@ -339,7 +248,7 @@ def buildYong(source,output):                                                   
     else:
         yong_file = os.path.join(current_directory,source.replace('.txt','_yong.txt'))
 
-    linebreak="\r\n"
+    linebreak='crlf'
     order = 'code'
     delimiter = 'spaces'
     build_with_template = 'yes'
@@ -400,7 +309,7 @@ commit=1 6 0
     # 寫入yong
     with open(yong_file,'w',encoding='utf8') as yog:
         yog.write(yong_head)
-    buildTxt(source,order,delimiter,linebreak,build_with_template,yong_file)
+    buildTxt(source,order,delimiter,linebreakDocode(linebreak),build_with_template,yong_file)
     return('SUCCESS')
 
 def buildFcitx(source,output):                                                       # Fcitx 5 模板
@@ -415,7 +324,7 @@ def buildFcitx(source,output):                                                  
             fcitx_file = os.path.join(current_directory,output)
     else:
         fcitx_file = os.path.join(current_directory,source.replace('.txt','_fcitx.txt'))
-    linebreak="\n"
+    linebreak="lf"
     order = 'code'
     delimiter = ' '
     build_with_template = 'yes'
@@ -453,26 +362,31 @@ def buildFcitx(source,output):                                                  
     # 寫入fcitx
     with open(fcitx_file,'w',encoding='utf8',newline = '\n') as fcx:
         fcx.write(fcitx_head.replace('\r\n','\n'))
-    buildTxt(source,order,delimiter,linebreak,build_with_template,fcitx_file)
+    # print('[DEBUG][365]linebreak='+str(linebreak))
+    buildTxt(source,order,delimiter,linebreakDocode(linebreak),build_with_template,fcitx_file)
     return('SUCCESS')
 
-def buildWithTemplate(template,source,output):                                  # 判斷是否使用模板
+def buildWithTemplate(template,linebreak,source,output):                          # 判斷是否使用模板
     global build_with_template
+    # template = template.lower()
     if template is None:
         build_with_template = 'no'
-    elif template == 'rime':
-        buildYaml(source,template,output)
+    elif template.lower() in ['rime','squirrel']:
+        if linebreak:
+            buildYaml(source,linebreak,output)
+        else:
+            buildYaml(source,'lf',output)       # 如未指定linebreak則默認lf
         build_with_template = 'yes'
-    elif template == 'weasel':
-        buildYaml(source,template,output)
+    elif template.lower() == 'weasel':
+        if linebreak:
+            buildYaml(source,linebreak,output)
+        else:
+            buildYaml(source,'crlf',output)     # 如未指定linebreak則默認crlf
         build_with_template = 'yes'
-    elif template == 'squirrel':
-        buildYaml(source,template,output)
-        build_with_template = 'yes'
-    elif template == 'fcitx':
+    elif template.lower() == 'fcitx':
         buildFcitx(source,output)
         build_with_template = 'yes'
-    elif template == 'yong':
+    elif template.lower() == 'yong':
         buildYong(source,output)
         build_with_template = 'yes'
     else:
@@ -519,10 +433,11 @@ def checkSourceFileFormat(source_file):
 
 def parse_args():
     parse = argparse.ArgumentParser(description='參數')
-    parse.add_argument('-s', '--source', help='需要轉換的源文件，如[Cangjie5.txt]')  # 創建參數
+    parse.add_argument('-s', '--source', help='需要轉換的源文件(衹接受絕對路徑)')  # 創建參數
+    parse.add_argument('-q', '--quick_source', help='以倉五補完計劃的文件作為源文件, 源文件必須位於上一級目錄[norm=Cangjie5.txt, tc=Cangjie5_TC.txt, hk=Cangjie5_HK.txt, sc=Cangjie5_SC.txt, sp=Cangjie5_special.txt]')  # 創建參數
     parse.add_argument('-f', '--filename', help='轉換輸出的文件名稱')
     parse.add_argument('-o', '--order', help='字和倉頡碼的順序[char=字在前, code=倉頡碼在前]')
-    parse.add_argument('-d', '--delimiter', help='分隔符[tab=製表鍵, space=一個空格, multi=以空格代替Tab對齊, none=無]')
+    parse.add_argument('-d', '--delimiter', help='分隔符[tab=製表鍵, space=單個空格, multi=以空格代替Tab對齊, none=(無)]')
     parse.add_argument('-l', '--linebreak', help='換行符[crlf, cr, lf, auto=與系統一致]')
     parse.add_argument('-t', '--template', help='使用模板[rime=ibus-rime, weasel=小狼亳, squirrel=鼠鬚管, fcitx=Fcitx 5, yong=小小輸入法]')
     # parse.add_argument('--release', action='store_true', help='發佈')
@@ -532,6 +447,7 @@ def parse_args():
 if __name__ == "__main__":
     args = parse_args()                         # 處理參數
     source = args.source
+    quick_source = args.quick_source
     order = args.order
     delimiter = args.delimiter
     linebreak = args.linebreak
@@ -541,28 +457,41 @@ if __name__ == "__main__":
     current_directory = os.path.dirname(os.path.abspath(__file__))    # 獲取文件目錄
     parent_directory = os.path.dirname(current_directory)             # 獲取上級目錄
     
-    # if release:
-    #     print("To release")
-    #     buildRelease()
-    #     exit()
-
     build_with_template = 'no'  # 是否使用了模板
 
-    if template:
-        if (order is not None) | (delimiter is not None) | (linebreak is not None):
-            print('--template 參數衹可以與 --source, --filename 參數共用')
+    if source is None:
+        if quick_source is None:
+            print('--source 參數有誤 [需要轉換的源文件]')
             exit()
-        elif source is None:
-            print('--template 參數需要與 --source 參數共用')
+        else:                   # 將quick_source轉換為source
+            quick_source_short = ['norm','tc','hk','sc','sp']
+            quick_source_full = ['Cangjie5.txt','Cangjie5_TC.txt','Cangjie5_HK.txt','Cangjie5_SC.txt','Cangjie5_special.txt']
+            quick_source_dict = {}
+            for i in range(0, len(quick_source_short)):
+                quick_source_dict[quick_source_short[i]] = quick_source_full[i]
+            if quick_source in quick_source_short:
+                source = os.path.join(parent_directory,quick_source_dict[quick_source])
+            else:
+                print('--quick_source 參數有誤, 以倉五補完計劃的文件作為源文件, 源文件必須位於上一級目錄[norm=Cangjie5.txt, tc=Cangjie5_TC.txt, hk=tc=Cangjie5_HK.txt, sc=Cangjie5_SC.txt, sp=Cangjie5_special.txt]')
+    if template is None:
+        if order is None:
+            print('--order 參數有誤 [char=字在前, code=倉頡碼在前]')
+            exit()
+        elif delimiter is None:
+            print('--delimiter 參數有誤 [tab=製表鍵, space=單個空格, multi=以空格代替Tab對齊, none=(無)]')
+            exit()
+        elif linebreak is None:
+            print("--linebreak 參數有誤 [crlf, cr, lf, auto]")
+            exit()
+    if template is not None:
+        if (order is not None) | (delimiter is not None):
+            print('--template 參數不可以與 --order, --delimiter 參數共用')
             exit()
 
-    buildWithTemplate(template,source,output)   # 判斷是否使用模板
+    buildWithTemplate(template,linebreak,source,output)           # 判斷是否使用模板
 
-    if build_with_template == 'no':                     # 不使用模板
-        source=chooseSource(source)
+    if build_with_template == 'no':                       # 不使用模板
         order=chooseOrder(order)
         delimiter=chooseDelimiter(delimiter)
         linebreak=chooseLineBreak(linebreak)
-        buildTxt(source,order,delimiter,linebreak,build_with_template,output)
-
-    
+        buildTxt(source,order,delimiter,linebreakDocode(linebreak),build_with_template,output)
