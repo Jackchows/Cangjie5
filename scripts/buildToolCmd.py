@@ -51,7 +51,7 @@ def chooseLineBreak(linebreak):                              # 判斷linebreak�
         return('ERR_LINE_BREAK_UNDEFINED')
     return linebreak
 
-def linebreakDocode(linebreak_code):        # lf -> \n
+def linebreakDecode(linebreak_code):        # lf -> \n
     if linebreak_code.lower()=='crlf':
         linebreak_value = '\r\n'
     elif linebreak_code.lower()=='cr':
@@ -232,7 +232,7 @@ encoder:
     # 寫入yaml
     with open(yaml_file,'w',encoding='utf8') as yal:
         yal.write(yaml_head)
-    buildTxt(source,order,delimiter,linebreakDocode(linebreak),build_with_template,yaml_file)
+    buildTxt(source,order,delimiter,linebreakDecode(linebreak),build_with_template,yaml_file)
     return('SUCCESS')
     
 def buildYong(source,output):                                                        # 小小輸入法模板
@@ -309,7 +309,7 @@ commit=1 6 0
     # 寫入yong
     with open(yong_file,'w',encoding='utf8') as yog:
         yog.write(yong_head)
-    buildTxt(source,order,delimiter,linebreakDocode(linebreak),build_with_template,yong_file)
+    buildTxt(source,order,delimiter,linebreakDecode(linebreak),build_with_template,yong_file)
     return('SUCCESS')
 
 def buildFcitx(source,output):                                                       # Fcitx 5 模板
@@ -363,7 +363,7 @@ def buildFcitx(source,output):                                                  
     with open(fcitx_file,'w',encoding='utf8',newline = '\n') as fcx:
         fcx.write(fcitx_head.replace('\r\n','\n'))
     # print('[DEBUG][365]linebreak='+str(linebreak))
-    buildTxt(source,order,delimiter,linebreakDocode(linebreak),build_with_template,fcitx_file)
+    buildTxt(source,order,delimiter,linebreakDecode(linebreak),build_with_template,fcitx_file)
     return('SUCCESS')
 
 def buildWithTemplate(template,linebreak,source,output):                          # 判斷是否使用模板
@@ -494,4 +494,4 @@ if __name__ == "__main__":
         order=chooseOrder(order)
         delimiter=chooseDelimiter(delimiter)
         linebreak=chooseLineBreak(linebreak)
-        buildTxt(source,order,delimiter,linebreakDocode(linebreak),build_with_template,output)
+        buildTxt(source,order,delimiter,linebreakDecode(linebreak),build_with_template,output)

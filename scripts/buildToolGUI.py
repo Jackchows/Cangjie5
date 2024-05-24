@@ -10,7 +10,7 @@ from buildToolCmd import buildFcitx # type: ignore
 from buildToolCmd import buildYong # type: ignore
 from buildToolCmd import buildTxt # type: ignore
 from buildToolCmd import checkSourceFileFormat # type: ignore
-from buildToolCmd import linebreakDocode # type: ignore
+from buildToolCmd import linebreakDecode # type: ignore
 
 # 函數 - 選擇輸入文件
 def select_input_file():
@@ -82,7 +82,7 @@ def go_build():
     elif selected_template=='yong':
         build_txt_result=buildYong(seleted_source,seleted_output)
     else:
-        build_txt_result=buildTxt(seleted_source,selected_order,delimiter,linebreakDocode(linebreak),build_with_template,seleted_output)
+        build_txt_result=buildTxt(seleted_source,selected_order,delimiter,linebreakDecode(linebreak),build_with_template,seleted_output)
     if build_txt_result == 'SUCCESS':
         result_label.config(text="轉換完成", fg='green')
     elif build_txt_result == 'ERR_SOURCE_FILE_NOT_EXISTS':
