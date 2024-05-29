@@ -11,7 +11,7 @@ def buildYaml(github, yaml, description, schema_id):
     yaml_file = os.path.join(current_directory,yaml)
     if (os.path.exists(github_file)==False):                               # 若github不存在
         # print ("["+str(github_file.split('\\')[-1])+"] does not exists.")
-        print ("未找到 "+str(github_file)+"，請檢查文件是否存在")
+        print ("[buildYaml.py > buildYaml()]未找到 "+str(github_file)+"，請檢查文件是否存在")
         return
 
     with open(github_file,'r',encoding='utf8') as gib,\

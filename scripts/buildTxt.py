@@ -249,6 +249,8 @@ def buildYaml(source,template,output):                                          
     description_dict['Cangjie5_HK.txt']='傳統漢字優先，偏好香港用字習慣，符合《常用字字形表》的字形將排在前面。'
     description_dict['Cangjie5_SC.txt']='簡化字優先，符合《通用規範漢字表》的字形將排在前面。'
     description_dict['Cangjie5_special.txt']='收字較少的版本，收錄主流系統通常可以顯示的字符。'
+    
+    schema_id = os.path.basename(source).replace('.txt','').lower()
     if os.path.basename(source) in supported_file_name_cj3:             # schema_id 如果是三代補完計劃
         schema_id = 'cangjie3'
     if os.path.basename(source) in supported_file_name_cj5:             # description 如果是五代補完計劃
@@ -327,6 +329,7 @@ encoder:
     return('SUCCESS')
     
 def buildYong(source,output):                                                        # 小小輸入法模板
+    print('[332]source='+source)
     if (os.path.exists(source)==False):                               # 若source_file不存在
         print ("未找到 "+str(source)+"，請檢查文件是否存在")
         return('ERR_SOURCE_FILE_NOT_EXISTS')
@@ -357,12 +360,13 @@ def buildYong(source,output):                                                   
     if os.path.basename(source) in supported_file_name_cj5:                 # description 如果是五代補完計劃
         description = description_dict[os.path.basename(source)]
         name='倉頡五代'
-    if os.path.basename(source) in supported_file_name_cj3:                 # description 如果是三代補完計劃
+    elif os.path.basename(source) in supported_file_name_cj3:                 # description 如果是三代補完計劃
         description = ''
         name='倉頡三代'
     else:                                                               # 如果是其他碼表
         description = ''
         name=schema_id
+
 
     # 開頭
     yong_head_cj5 ='''#-----------------------------------------------------------------

@@ -51,7 +51,7 @@ def chooseLineBreak(linebreak):                              # 判斷linebreak�
         return('ERR_LINE_BREAK_UNDEFINED')
     return linebreak
 
-def linebreakDocode(linebreak_code):        # lf -> \n
+def linebreakDecode(linebreak_code):        # lf -> \n
     if linebreak_code.lower()=='crlf':
         linebreak_value = '\r\n'
     elif linebreak_code.lower()=='cr':
@@ -71,7 +71,7 @@ def buildTxt(source,order,delimiter,linebreak,build_with_template,output=None): 
     # print('[95]parent_directory='+parent_directory)
     # print('[96]source_file='+source_file)
     if (os.path.exists(source_file)==False):                               # 若source_file不存在
-            print ("未找到 "+str(source_file)+"，請檢查文件是否存在")
+            print ("[buikdToolCmd.py > buildTxt()]未找到 "+str(source_file)+"，請檢查文件是否存在")
             return('ERR_SOURCE_FILE_NOT_EXISTS')
     #output_file = current_directory+'\\'+'converter_output_'+time.strftime('%Y-%m-%d_%H-%M-%S',time.localtime(time.time()))+'.txt'
     # if output is None:
@@ -142,7 +142,7 @@ def buildYaml(source,linebreak,output):                                     # RI
         yaml_file = os.path.join(current_directory,source.replace('.txt','.dict.yaml').lower())
     if (os.path.exists(source)==False):                               # 若source_file不存在
         print("source="+str(source))
-        print ("未找到 "+str(source)+"，請檢查文件是否存在")
+        print ("[buikdToolCmd.py > buildYaml()]未找到 "+str(source)+"，請檢查文件是否存在")
         return('ERR_SOURCE_FILE_NOT_EXISTS')
     order = 'char'
     delimiter = '\t'
@@ -232,12 +232,12 @@ encoder:
     # 寫入yaml
     with open(yaml_file,'w',encoding='utf8') as yal:
         yal.write(yaml_head)
-    buildTxt(source,order,delimiter,linebreakDocode(linebreak),build_with_template,yaml_file)
+    buildTxt(source,order,delimiter,linebreakDecode(linebreak),build_with_template,yaml_file)
     return('SUCCESS')
     
 def buildYong(source,output):                                                        # 小小輸入法模板
     if (os.path.exists(source)==False):                               # 若source_file不存在
-        print ("未找到 "+str(source)+"，請檢查文件是否存在")
+        print ("[buikdToolCmd.py > buildYong()]未找到 "+str(source)+"，請檢查文件是否存在")
         return('ERR_SOURCE_FILE_NOT_EXISTS')
 
     if output:
@@ -262,11 +262,12 @@ def buildYong(source,output):                                                   
     description_dict['Cangjie5_SC.txt']='簡化字優先，符合《通用規範漢字表》的字形將排在前面。'
     description_dict['Cangjie5_special.txt']='收字較少的版本，收錄主流系統通常可以顯示的字符。'
     schema_id = os.path.basename(source).replace('.txt','').lower()
+    # print('[buildToolCmd.py > buildYong()]os.path.basename(source)='+os.path.basename(source))
 
     if os.path.basename(source) in supported_file_name_cj5:                 # description 如果是五代補完計劃
         description = description_dict[os.path.basename(source)]
         name='倉頡五代'
-    if os.path.basename(source) in supported_file_name_cj3:                 # description 如果是三代補完計劃
+    elif os.path.basename(source) in supported_file_name_cj3:                 # description 如果是三代補完計劃
         description = ''
         name='倉頡三代'
     else:                                                               # 如果是其他碼表
@@ -304,17 +305,17 @@ commit=1 6 0
         yong_head = yong_head_cj5 + yong_head_2
     else:                                                               # 如果是其他碼表
         description = ''
-        yong_head = yong_head_2
+        yong_head = yong_head_2    
 
     # 寫入yong
     with open(yong_file,'w',encoding='utf8') as yog:
         yog.write(yong_head)
-    buildTxt(source,order,delimiter,linebreakDocode(linebreak),build_with_template,yong_file)
+    buildTxt(source,order,delimiter,linebreakDecode(linebreak),build_with_template,yong_file)
     return('SUCCESS')
 
 def buildFcitx(source,output):                                                       # Fcitx 5 模板
     if (os.path.exists(source)==False):                               # 若source_file不存在
-        print ("未找到 "+str(source)+"，請檢查文件是否存在")
+        print ("[buikdToolCmd.py > buildFcitx()]未找到 "+str(source)+"，請檢查文件是否存在")
         return('ERR_SOURCE_FILE_NOT_EXISTS')
     
     if output:
@@ -363,7 +364,7 @@ def buildFcitx(source,output):                                                  
     with open(fcitx_file,'w',encoding='utf8',newline = '\n') as fcx:
         fcx.write(fcitx_head.replace('\r\n','\n'))
     # print('[DEBUG][365]linebreak='+str(linebreak))
-    buildTxt(source,order,delimiter,linebreakDocode(linebreak),build_with_template,fcitx_file)
+    buildTxt(source,order,delimiter,linebreakDecode(linebreak),build_with_template,fcitx_file)
     return('SUCCESS')
 
 def buildWithTemplate(template,linebreak,source,output):                          # 判斷是否使用模板
@@ -494,4 +495,4 @@ if __name__ == "__main__":
         order=chooseOrder(order)
         delimiter=chooseDelimiter(delimiter)
         linebreak=chooseLineBreak(linebreak)
-        buildTxt(source,order,delimiter,linebreakDocode(linebreak),build_with_template,output)
+        buildTxt(source,order,delimiter,linebreakDecode(linebreak),build_with_template,output)
