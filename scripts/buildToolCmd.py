@@ -31,8 +31,8 @@ def chooseDelimiter(delimiter):                              # 判斷delimiter�
 
 def chooseLineBreak(linebreak):                              # 判斷linebreak是否合法
     system_version=platform.system().lower()                            # 判斷當前系統
-    # mac_version=float('.'.join(platform.mac_ver().split('.')[:2]))      # macOS版本號，未實現的功能
-    mac_version = 100
+    mac_version=float('.'.join(platform.mac_ver()[0].split('.')[:2]))   # macOS版本號
+    # mac_version = 14.5
     if linebreak.lower()=='auto':                                       # auto 判斷
         if system_version=='windows':
             linebreak="crlf"

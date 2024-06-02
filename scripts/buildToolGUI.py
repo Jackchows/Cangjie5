@@ -107,9 +107,12 @@ def count_charset():
     path = {}
     path['source_file'] = seleted_source
     path['sqlite_locate'] = os.path.join(current_directory,'sqlite','cangjie.db')
+    # path['sqlite_locate'] = 'G:/TEMP/cangjie.db'
+    # path['sqlite_locate'] = '/Users/jack/Documents/GitHub/Cangjie5-dev/scripts/sqlite/cangjie.db'
     path['sql_settings']  = os.path.join(current_directory,'sqlite','settings.sql')
     path['sql_cangjie_table'] = os.path.join(current_directory,'sqlite','cangjie_table.sql')
     path['sql_unicode_block'] = os.path.join(current_directory,'sqlite','unicode_block.sql')
+    path['sql_charset_table'] = os.path.join(current_directory,'sqlite','charset_table.sql')
 
     selected_options = []
     # for value in charset_unicode_list:
@@ -126,7 +129,7 @@ def count_charset():
     sqlite_conn, sqlite_cursor = start_database_process(path)
     global character_count
     character_count= mark_seleted_charset(sqlite_conn,sqlite_cursor,selected_options)
-    character_count_label.config(text='過濾後的字符數量: '+str(character_count))
+    character_count_label.config(text='過濾後的字符數量: '+str(character_count), fg='blue')
 
     # message = "Selected: " + ", ".join(selected_options)
     # messagebox.showinfo("Selected Options", message)
@@ -374,7 +377,7 @@ if __name__ == "__main__":
     # tk.Label(frame, text="(勾選需要保留的範圍):").grid(row=7, column=2, pady=4, sticky='w')
     # character_count_label = tk.Label(frame, text='過濾後的字符數量: '+str(character_count))
     character_count_label = tk.Label(frame, text='')
-    character_count_label.grid(row=7, column=3, pady=4, sticky='e')
+    character_count_label.grid(row=7, column=3, pady=4, sticky='w')
     charset_filter_unicode_label = tk.Label(frame, text="Unicode")
     charset_filter_unicode_label.grid(row=8, column=0, pady=4, sticky='e')
     charset_filter_unicode_label.config(state="disable")
@@ -395,21 +398,23 @@ if __name__ == "__main__":
         checkbutton[value] = tk.Checkbutton(frame, text=text, variable=charset_checkbutton_dict[value])
         checkbutton[value].grid(row=8+i//5, column=i%5+1, padx=5, pady=4, sticky='w')
         checkbutton[value].config(state=tk.DISABLED)
-    charset_filter_non_unified_cjk_label = tk.Label(frame, text="(非統一漢字)")
+    # charset_filter_non_unified_cjk_label = tk.Label(frame, text="(非統一漢字) [B]")
+    charset_filter_non_unified_cjk_label = tk.Label(frame, text="")
     charset_filter_non_unified_cjk_label.grid(row=10, column=0, pady=4, sticky='e')
     charset_filter_non_unified_cjk_label.config(state="disable")
     charset_unicode_list = [('charset_ci', '兼容漢字'), ('charset_cis', '兼容漢字增補'), 
                             ('charset_kr', '康熙部首'), ('charset_rs', '部首增補'), 
                             ('charset_s', '筆畫'), ('charset_sp', '符號標點'), 
-                            ('charset_cf', '兼容符號'), ('charset_idc', '表意文字描述字符 (IDC)'),
-                            ('charset_crn', '算籌符號'), ('charset_pua', '私用區 (PUA)')]
+                            ('charset_cf', '兼容符號'), ('charset_idc', '表意文字描述字符'),
+                            ('charset_crn', '算籌符號'), ('charset_pua', '私用區 (PUA+SPUA)'),
+                            ('charset_other', '其他區塊')]
     for i, (value, text) in enumerate(charset_unicode_list):
         charset_checkbutton_dict[value] = tk.IntVar()
         checkbutton[value] = tk.Checkbutton(frame, text=text, variable=charset_checkbutton_dict[value])
         checkbutton[value].grid(row=10+i//5, column=i%5+1, padx=5, pady=4, sticky='w')
         checkbutton[value].config(state=tk.DISABLED)
-    charset_filter_other_label = tk.Label(frame, text="其他")
-    charset_filter_other_label.grid(row=12, column=0, pady=4, sticky='e')
+    charset_filter_other_label = tk.Label(frame, text="其他劃分")
+    charset_filter_other_label.grid(row=13, column=0, pady=4, sticky='e')
     charset_filter_other_label.config(state="disable")
     charset_other_list = [('charset_gb2312', 'GB/T 2312-1980'), 
                           ('charset_gbk', 'GBK'), 
@@ -420,12 +425,11 @@ if __name__ == "__main__":
                           ('charset_hkscs', 'HKSCS-2016'),
                           ('charset_tygfhzb', '通用規範漢字表'),
                           ('charset_yyy', 'YYY 開頭的標點符號'),
-                          ('charset_zx', 'ZX 開頭的標點符號'),
-                          ('charset_other', '不在以上範圍的字符')]
+                          ('charset_zx', 'ZX 開頭的標點符號')]
     for i, (value, text) in enumerate(charset_other_list):
         charset_checkbutton_dict[value] = tk.IntVar()
         checkbutton[value] = tk.Checkbutton(frame, text=text, variable=charset_checkbutton_dict[value])
-        checkbutton[value].grid(row=12+i//5, column=i%5+1, padx=5, pady=4, sticky='w')
+        checkbutton[value].grid(row=13+i//5, column=i%5+1, padx=5, pady=4, sticky='w')
         checkbutton[value].config(state=tk.DISABLED)
     #--------------------轉換按鈕--------------------------------------------------------------------------------
     # button 按鈕 - 轉換
@@ -437,7 +441,7 @@ if __name__ == "__main__":
     #----------------------結果----------------------------------------------------------------------------------
     # Label 文本標籤 - 結果
     result_label = tk.Label(frame, text="")
-    result_label.grid(row=19, column=2, pady=20)
+    result_label.grid(row=19, column=3, pady=20, sticky='w')
     #--------------------項目信息--------------------------------------------------------------------------------
     imformation_label = tk.Label(frame, text="倉頡五代補完計劃", fg="gray")
     imformation_label.grid(row=20, column=0, columnspan=1, pady=0)
