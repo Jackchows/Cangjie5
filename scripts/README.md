@@ -24,9 +24,9 @@ python buildToolGUI.py
 -o order        輸出文件的字和倉頡碼的順序[char=字在前, code=倉頡碼在前]
 -d delimiter    輸出文件的分隔符[tab=製表鍵, space=一個空格, multi=以空格代替Tab對齊, none=無]
 -l linebreak    輸出文件的換行符[crlf, cr, lf, auto=與系統一致]
--t template     使用模板生成包含配置項的碼表文件，此參數衹可以與-s共用
+-t template     使用模板生成包含配置項的碼表文件，此參數不可以與-o, -d共用
                 [rime=ibus-rime, weasel=小狼亳, squirrel=鼠鬚管, fcitx=Fcitx 5, yong=小小輸入法]
--c charset      字符集過濾，可多選，以","分隔，詳見 `python buildToolCmd.py -h`
+-c charset      字符集過濾，可選，多選以","分隔，詳見 `python buildToolCmd.py -h`
                 [u, ua, ub, uc, ud, ue, uf, ug, uh, ui, ci, cis, kr, rs, s, sp, cf, idc, crn, pua, other,
                  gb2312, gbk, big5, hkscs, gui_fan, gb18030_2022_l1, gb18030_2022_l2, gb18030_2022_l3,
                  yyy, zx]
