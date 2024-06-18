@@ -7,11 +7,11 @@ CREATE TABLE IF NOT EXISTS cangjie_table
  "block"           TEXT,
  block_no        INTEGER,
  is_letter       INTEGER,
- seleted         INTEGER,
+ selected         INTEGER,
  unicode_dec     INTEGER,
  "id"             INTEGER);
 CREATE UNIQUE INDEX idx_cangjie_table_id on cangjie_table("id");
 CREATE INDEX idx_cangjie_table_unicode_hex on cangjie_table(unicode_hex);
 CREATE INDEX idx_cangjie_table_block on cangjie_table("block");
 CREATE INDEX idx_cangjie_table_block_id on cangjie_table(block_no);
-CREATE INDEX idx_cangjie_table_seleted on cangjie_table(seleted);
+CREATE INDEX idx_cangjie_table_selected on cangjie_table(selected);
