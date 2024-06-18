@@ -130,6 +130,8 @@ def cmd_write_output_template(sqlite_cursor, output_file, template, order, delim
                 output_head = db_get_template(sqlite_cursor, 'fcitx_head')
         elif template == 'text':
             output_head = ''
+        else:
+            output_head = ''
         output_head = output_head.format(NAME=schema_id, VERSION=version)
         txt.write(output_head)
 
@@ -410,6 +412,9 @@ if __name__ == "__main__":
             path['source_locate'] = source
         else:                                   # 相對路徑
             path['source_locate'] = os.path.join(path['current_directory'],source)
+
+    if output is None:
+        output = path['source_locate'].replace('.txt','_formatted.txt')
 
     if template is None:
         if order is None or order not in ['char','code']:
