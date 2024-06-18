@@ -26,19 +26,19 @@ import textwrap
 import hashlib
 import platform
 import logging
-from newDatabase import db_initialize # type: ignore
-from newDatabase import db_get_setting # type: ignore
-from newDatabase import db_insert_into_cangjie_table # type: ignore
-from newDatabase import db_commit # type: ignore
-from newDatabase import db_config_setting # type: ignore
-from newDatabase import db_truncate_cangjie_table # type: ignore
-from newDatabase import db_initialize_cangjie_table # type: ignore
-from newDatabase import db_mark_selected_charset # type: ignore
-from newDatabase import db_build_final_table # type: ignore
-from newDatabase import db_export_final_table # type: ignore
-from newDatabase import db_get_template # type: ignore
-from newDatabase import db_count_charset # type: ignore
-from newDatabase import db_create_database # type: ignore
+from buildToolDatabase import db_initialize # type: ignore
+from buildToolDatabase import db_get_setting # type: ignore
+from buildToolDatabase import db_insert_into_cangjie_table # type: ignore
+from buildToolDatabase import db_commit # type: ignore
+from buildToolDatabase import db_config_setting # type: ignore
+from buildToolDatabase import db_truncate_cangjie_table # type: ignore
+from buildToolDatabase import db_initialize_cangjie_table # type: ignore
+from buildToolDatabase import db_mark_selected_charset # type: ignore
+from buildToolDatabase import db_build_final_table # type: ignore
+from buildToolDatabase import db_export_final_table # type: ignore
+from buildToolDatabase import db_get_template # type: ignore
+from buildToolDatabase import db_count_charset # type: ignore
+from buildToolDatabase import db_create_database # type: ignore
 
 logging.basicConfig(filename='debug.log', level=logging.DEBUG, format='[%(asctime)s][%(levelname)s][%(filename)s][%(lineno)d] - %(funcName)s() - %(message)s')
 
