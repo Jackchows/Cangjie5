@@ -414,7 +414,7 @@ if __name__ == "__main__":
             path['source_locate'] = os.path.join(path['current_directory'],source)
 
     if output is None:
-        output = path['source_locate'].replace('.txt','_formatted.txt')
+        output = path['source_locate'].replace('.txt','_output.txt')
 
     if template is None:
         if order is None or order not in ['char','code']:
@@ -464,5 +464,5 @@ if __name__ == "__main__":
     output_data = db_export_final_table(sqlite_conn, sqlite_cursor)   # 從數據庫導出碼表
     order, delimiter, linebreak = cmd_write_output_template(sqlite_cursor, output, template, order, delimiter, linebreak, source_basename)  # 寫入模板
     cmd_write_output_txt(output, output_data, order, delimiter, linebreak)  # 寫入正文
-    # E:\程式\GitHub\Cangjie5-dev\scripts> python .\newCmd.py -q norm -t rime -f "Cangjie5_formatted.txt"
+    # E:\程式\GitHub\Cangjie5-dev\scripts> python .\newCmd.py -q norm -t rime -f "Cangjie5_output.txt"
     

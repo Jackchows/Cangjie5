@@ -60,7 +60,7 @@ def gui_select_input_file():
         input_file_entry.delete(0, tk.END)           # 清空輸入文件的值
         input_file_entry.insert(0, path['source_locate'])  # 設置輸入文件的值
         if output_file_selected=='no':               # 如果已經手工選擇了輸出文件就不要更改
-            output_file_defaule_value = input_file_entry.get().replace('.txt','_formatted.txt').replace('\\', '/')
+            output_file_defaule_value = input_file_entry.get().replace('.txt','_output.txt').replace('\\', '/')
             output_file_entry.delete(0, tk.END)
             output_file_entry.insert(0, output_file_defaule_value)      # 設置輸出文件的值
             path['output_locate'] = output_file_defaule_value
@@ -572,7 +572,7 @@ if __name__ == "__main__":
     output_file_label.grid(row=2, column=0, pady=5, sticky='e')
     output_file_entry = tk.Entry(frame, width=75)
     output_file_entry.grid(row=2, column=1, columnspan=4, padx=5, pady=0, sticky='w')
-    output_file_defaule_value = path['source_locate'].replace('.txt','_formatted.txt').replace('\\', '/')
+    output_file_defaule_value = path['source_locate'].replace('.txt','_output.txt').replace('\\', '/')
     output_file_entry.insert(0, output_file_defaule_value)
     path['output_locate'] = output_file_defaule_value
     output_file_button = tk.Button(frame, text='選擇', width=10, command=gui_select_output_file)
