@@ -64,7 +64,17 @@ def gui_select_input_file():
             output_file_entry.delete(0, tk.END)
             output_file_entry.insert(0, output_file_defaule_value)      # 設置輸出文件的值
             path['output_locate'] = output_file_defaule_value
-            print("path['output_locate']="+path['output_locate'])
+            # print("path['output_locate']="+path['output_locate'])
+        gui_enable_charset_filter(path)     # 重新計算字符集
+        selected_options = []
+        last_charset_option =  db_get_setting(sqlite_cursor, 'last_charset_option').split()
+        for value in last_charset_option:
+            value = value.strip(",'][")
+            selected_options.append(value)
+        # print('selected_options='+str(selected_options))
+        character_count_selected= db_mark_selected_charset(sqlite_conn,sqlite_cursor,selected_options)
+        charset_filter_message.config(text='字符數: '+format(int(character_count_total), ',d')+' -> '+format(int(character_count_selected), ',d'))
+
     result_label.config(text="")    # 重新選擇之後清空結果
 
 # 檢查輸入文件是否存在
