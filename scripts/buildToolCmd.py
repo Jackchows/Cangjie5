@@ -60,9 +60,9 @@ def cmd_write_output_template(sqlite_cursor, output_file, template, order, delim
     # order, delimiter, linebreak
     # 順序
     if order is None:
-        if template in ['rime','weasel','squirrel','fcitx']:
+        if template in ['rime','weasel','squirrel']:
             order = 'char'
-        elif template in ['yong']:
+        elif template in ['yong','fcitx']:
             order = 'code'
     # 分隔符
     if delimiter is None:

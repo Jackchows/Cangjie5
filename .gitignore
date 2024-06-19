@@ -2,4 +2,5 @@ scripts/__pycache__/
 build/*.zip
 build/*/*/
 release/
+debug.log
 *複製*
