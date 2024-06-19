@@ -1,6 +1,28 @@
 # -*- coding: utf8 -*-
 # FUNCTION_RELATION
-# gui_select_input_file()   選擇碼表文件
+# gui_select_input_file()              選擇碼表文件
+# gui_check_input_file_exists()        檢查輸入文件是否存在
+# gui_select_output_file()             選擇輸出文件
+# gui_update_template_value()          根據模板更新選項
+# gui_enable_charset_filter()          字符集過濾開關
+#    db_create_database()                  創建數據庫
+#    cmd_read_source_to_database()         將源碼表讀入數據庫
+#    gui_charset_filter_option()           顯示字符集過濾選項
+#        db_config_setting()                   讀取上一次的配置
+#    gui_count_charset_selected()          計算過濾後字符數量
+#        db_mark_selected_charset()            標記已選擇的字符集
+#    gui_select_charset_all()              字符集選項全選
+#    gui_select_charset_none()             字符集選項清空
+#    gui_save_charset_option()             保存字符集選項
+#    gui_show_charset_help_message()       字符集幫助說明
+# gui_go_build_with_db()               轉換
+#    db_build_final_table()                生成碼表
+#    db_export_final_table()               從數據庫取出碼表
+#    cmd_write_output_template()           輸出文件模板
+#    cmd_write_output_txt()                輸出文件正文
+# db_get_setting()                     讀取配置
+# db_config_setting()                  更新配置
+
 import tkinter as tk
 from tkinter import filedialog
 from tkinter import messagebox
