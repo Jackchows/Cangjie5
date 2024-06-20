@@ -7983,7 +7983,6 @@
 趦	gomor
 垥	gomr
 䞠	gomr
-𱗂	gomr
 堬	gomv
 圪	gon
 䞻	gonbs
@@ -10421,7 +10420,6 @@
 啟	hrok
 敌	hrok
 敋	hrok
-𬜐	hromo
 惒	hrp
 㤩	hrp
 䑜	hrptd
@@ -33956,7 +33954,6 @@
 驇	xxgks
 殻	xxgnh
 垁	xxgok
-𱗂	xxgom
 鷽	xxhbh
 笽	xxhbt
 劕	xxhcl
