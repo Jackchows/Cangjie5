@@ -26,11 +26,13 @@
 import tkinter as tk
 from tkinter import filedialog
 from tkinter import messagebox
+from threading import Thread
 import os
 import platform
 import webbrowser
 import textwrap
 import logging
+import time
 from buildToolCmd import cmd_read_source_to_database # type: ignore
 from buildToolCmd import cmd_write_output_template # type: ignore
 from buildToolCmd import cmd_write_output_txt # type: ignore
@@ -40,6 +42,7 @@ from buildToolDatabase import db_get_setting # type: ignore
 from buildToolDatabase import db_build_final_table # type: ignore
 from buildToolDatabase import db_export_final_table # type: ignore
 from buildToolDatabase import db_create_database # type: ignore
+from buildToolDatabase import db_initialize # type: ignore
 
 logging.basicConfig(filename='debug.log', level=logging.DEBUG, format='[%(asctime)s][%(levelname)s][%(filename)s][%(lineno)d] - %(funcName)s() - %(message)s')
 
@@ -65,6 +68,8 @@ def gui_select_input_file():
             output_file_entry.insert(0, output_file_defaule_value)      # 設置輸出文件的值
             path['output_locate'] = output_file_defaule_value
             # print("path['output_locate']="+path['output_locate'])
+        global sqlite_conn, sqlite_cursor
+        result, path, sqlite_conn, sqlite_cursor, character_count_total, count_charset_result = cmd_read_source_to_database(path, sqlite_conn, sqlite_cursor)
         gui_enable_charset_filter(path)     # 重新計算字符集
         selected_options = []
         last_charset_option =  db_get_setting(sqlite_cursor, 'last_charset_option').split()
@@ -265,8 +270,6 @@ def gui_enable_charset_filter(path):
         global sqlite_conn
         global sqlite_cursor
         global count_charset_result
-        if sqlite_conn == '':
-            sqlite_conn, sqlite_cursor = db_create_database(path)                 # 創建數據庫
         result, path, sqlite_conn, sqlite_cursor, character_count_total, count_charset_result = cmd_read_source_to_database(path, sqlite_conn, sqlite_cursor)
         # if result == 'ERR_SOURCE_FILE_NOT_FOUND':
         #     charset_filter_message.config(text='源碼表文件不存在', fg='red')
@@ -476,8 +479,8 @@ def gui_go_build_with_db():
     global linebreak_value
     global path
     source_basename = os.path.basename(path['source_locate'])
-    if sqlite_cursor == '':
-        sqlite_conn, sqlite_cursor = db_create_database(path)                 # 創建數據庫
+    # if sqlite_cursor == '':
+    #     sqlite_conn, sqlite_cursor = db_create_database(path)                 # 創建數據庫
     # print('[404]', sqlite_conn, sqlite_cursor)
     result, path, sqlite_conn, sqlite_cursor, character_count_total, count_charset_result = cmd_read_source_to_database(path, sqlite_conn, sqlite_cursor)  # 導入數據
     if result == 'SUCCESS':
@@ -504,33 +507,16 @@ def gui_go_build_with_db():
         result_label.config(text='源碼表文件讀取失敗', fg='red')
     elif result == 'ERR_SOURCE_FILE_FORMAT_NOT_SUPPORT':
         result_label.config(text='不支持的源碼表文件格式', fg='red')
-    
 
-    # db_build_final_table(sqlite_conn, sqlite_cursor, charset)         # 生成碼表
-    # output_data = db_export_final_table(sqlite_conn, sqlite_cursor)   # 從數據庫導出碼表
-    # order, delimiter, linebreak = cmd_write_output_template(sqlite_cursor, output, template, order, delimiter, linebreak, source_basename)  # 寫入模板
-    # cmd_write_output_txt(output, output_data, order, delimiter, linebreak)  # 寫入正文
-
-    # result, path, sqlite_conn, sqlite_cursor, character_count_total, count_charset_result = cmd_read_source_to_database(path)   # 讀入數據庫
-    # # db_build_final_table(sqlite_conn, sqlite_cursor)
-    # if charset_filter_enable_button_selected.get():
-    #     db_build_final_table(sqlite_conn, sqlite_cursor, '')
-    # else:
-    #     selected_options = ['charset_all']
-    #     # character_count_selected= db_mark_selected_charset(sqlite_conn,sqlite_cursor,selected_options)
-    #     db_build_final_table(sqlite_conn, sqlite_cursor, selected_options)
-    # # gui_count_charset_selected()
-    # output_data = db_export_final_table(sqlite_conn, sqlite_cursor)   # 從數據庫導出碼表
-    # for item in output_data:
-    #     print(item)
-    # output = path['output_locate']
-    # template = template_button_selected.get()
-    # linebreak = linebreak_button_selected.get()
-    # source_basename = os.path.basename(path['source_locate'])
-    # order, delimiter, linebreak = cmd_write_output_template(sqlite_cursor, output, template, order_value, delimiter_value, linebreak, source_basename)    # 寫入模版
-    # # print('len='+len(output_data))
-    # cmd_write_output_txt(output, output_data, order, delimiter, linebreak)  # 寫入正文
-    # print('OK')
+# 創建數據庫
+def gui_create_database(path):
+    print('gui_create_database() start')
+    sqlite_conn, sqlite_cursor = db_create_database(path)
+    path, sqlite_conn, sqlite_cursor = db_initialize(path, sqlite_conn, sqlite_cursor)
+    result, path, sqlite_conn, sqlite_cursor, character_count_total, count_charset_result = cmd_read_source_to_database(path, sqlite_conn, sqlite_cursor)
+    print(result, path, sqlite_conn, sqlite_cursor, character_count_total, count_charset_result)
+    # time.sleep(20)
+    print('gui_create_database() end')
 
 if __name__ == "__main__":
 
@@ -539,8 +525,7 @@ if __name__ == "__main__":
     path = {}
     path['current_directory'] = os.path.dirname(os.path.abspath(__file__))    # 獲取文件目錄
     path['parent_directory'] = os.path.dirname(path['current_directory'])     # 獲取上級目錄
-    sqlite_conn = ''                # 數據庫連接
-    sqlite_cursor = ''              # 數據庫指針
+    sqlite_conn, sqlite_cursor = db_create_database(path)                     # 創建數據庫
     output_file_selected = 'no'     # 是否已手工選擇輸出文件
     charset_count = {}              # 字符集字數tk.Label
     count_charset_result = {}       # 字符集字數dict
@@ -577,6 +562,7 @@ if __name__ == "__main__":
     input_file_button.grid(row=0, column=5, padx=5, pady=0, sticky='w')
     input_file_message = tk.Label(frame, text="")   # 默認提示為空白
     input_file_message.grid(row=1, column=1, columnspan=4, padx=5, pady=0, sticky='w')
+
     # 輸出文件
     output_file_label = tk.Label(frame, text="輸出文件:")
     output_file_label.grid(row=2, column=0, pady=5, sticky='e')
@@ -678,6 +664,14 @@ if __name__ == "__main__":
     def open_link(event):
         webbrowser.open("https://github.com/Jackchows/Cangjie5")
     url_label.bind("<Button-1>", open_link)
-
+    
+    # 新綫程創建數據庫
+    thread_create_database = Thread(target=gui_create_database, args=(path,))
+    thread_create_database.start()
+    
     # 開始循環
+    print('mainloop()')
     window.mainloop()
+
+
+
