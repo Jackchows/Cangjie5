@@ -194,15 +194,18 @@ def cmd_read_source_to_database(path, sqlite_conn, sqlite_cursor):
     # 檢查源碼表文件是否存在
     detect_source_file_format_result = cmd_detect_souece_file_format(path['source_locate'])
     if detect_source_file_format_result[0] == 'ERR_SOURCE_FILE_NOT_FOUND':
-        print('源碼表文件不存在')
+        if __name__ == "__main__":
+            print('源碼表文件不存在')
         result = 'ERR_SOURCE_FILE_NOT_FOUND'
         return(result, '', '', '', '', '')
     elif detect_source_file_format_result[0] == 'ERR_SOURCE_FILE_FAIL_TO_READ':
-        print('源碼表文件讀取失敗')
+        if __name__ == "__main__":
+            print('源碼表文件讀取失敗')
         result = 'ERR_SOURCE_FILE_FAIL_TO_READ'
         return(result, '', '', '', '', '')
     elif detect_source_file_format_result[0] == 'no':
-        print('不支持的源碼表文件格式')
+        if __name__ == "__main__":
+            print('不支持的源碼表文件格式')
         result = 'ERR_SOURCE_FILE_FORMAT_NOT_SUPPORT'
         return(result, '', '', '', '', '')
     elif detect_source_file_format_result[0] == 'yes':
