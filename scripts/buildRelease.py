@@ -2,13 +2,10 @@
 import os
 import re
 import datetime
-import argparse
-import platform
+# import argparse
+# import platform
 import zipfile
-from buildTxt import buildYaml # type: ignore
-from buildTxt import buildYong # type: ignore
-from buildTxt import buildFcitx # type: ignore
-from buildTxt import buildTxt # type: ignore
+import buildToolCmd
 
 def buildRimeRelease():
     # 創建build/rime/*目錄
@@ -142,11 +139,15 @@ recognizer:
     # 創建*.dict.yaml
     rime_dict_file = {}
     for id in schema_id:
+        source = os.path.join(parent_directory, id.capitalize().replace('_tc','_TC').replace('_hk','_HK').replace('_sc','_SC')+'.txt')
         rime_dict_file[id] = os.path.join(build_directory,'rime',sub_directory_name[id],id+'.dict.yaml')
-        source = id.capitalize().replace('_tc','_TC').replace('_hk','_HK').replace('_sc','_SC')+'.txt'
-        template = 'rime'
         output = rime_dict_file[id]
-        buildYaml(source,template,output)
+        template = 'rime'
+        py = os.path.join(current_directory,'buildToolCmd.py')
+        command = ''.join(['python ',py,' -s "',source,'" -t weasel -f "',output,'"'])
+        # print(command)
+        os.system(command)
+
     # 創建*.custom.yaml
     rime_custom_file_context = r'''# Rime schema settings
 # encoding: utf-8
@@ -207,10 +208,14 @@ def buildYongRelease():
     yong_dict_file = {}
     for id in schema_id:
         yong_dict_file[id] = os.path.join(build_directory,'yong',sub_directory_name[id],id+'.txt')
-        source = id.capitalize().replace('_tc','_TC').replace('_hk','_HK').replace('_sc','_SC')+'.txt'
+        source = os.path.join(parent_directory, id.capitalize().replace('_tc','_TC').replace('_hk','_HK').replace('_sc','_SC')+'.txt')
         output = yong_dict_file[id]
         # output = os.path.join(build_directory,'yong',sub_directory_name[id],'cj5-90000.txt')
-        buildYong(source,output)
+        # buildYong(source,output)
+        py = os.path.join(current_directory,'buildToolCmd.py')
+        command = ''.join(['python ',py,' -s "',source,'" -t yong -f "',output,'"'])
+        # print(command)
+        os.system(command)
     # 創建zip
     zip_folder = os.path.join(build_directory,'yong')
     zip_file = os.path.join(release_directory,'YongData_Cangjie5_'+str(datetime.datetime.now().strftime('%Y%m%d'))+'.zip')
@@ -268,9 +273,13 @@ CandidateLayoutHint=Vertical
     fcitx_dict_file = {}
     for id in schema_id:
         fcitx_dict_file[id] = os.path.join(build_directory,'fcitx',sub_directory_name[id],id+'.txt')
-        source = id.capitalize().replace('_tc','_TC').replace('_hk','_HK').replace('_sc','_SC')+'.txt'
+        source = os.path.join(parent_directory, id.capitalize().replace('_tc','_TC').replace('_hk','_HK').replace('_sc','_SC')+'.txt')
         output = fcitx_dict_file[id]
-        buildFcitx(source,output)
+        # buildFcitx(source,output)
+        py = os.path.join(current_directory,'buildToolCmd.py')
+        command = ''.join(['python ',py,' -s "',source,'" -t fcitx -f "',output,'"'])
+        # print(command)
+        os.system(command)
     # 創建zip
     zip_folder = os.path.join(build_directory,'fcitx')
     zip_file = os.path.join(release_directory,'FcitxData_Cangjie5_'+str(datetime.datetime.now().strftime('%Y%m%d'))+'.zip')
@@ -287,20 +296,16 @@ def buildMscjRelease():
     mscj_dict_file = {}
     for id in schema_id:
         mscj_dict_file[id] = os.path.join(build_directory,'mscj',sub_directory_name[id],id+'.txt')
-        source = id.capitalize().replace('_tc','_TC').replace('_hk','_HK').replace('_sc','_SC')+'.txt'
+        source = os.path.join(parent_directory, id.capitalize().replace('_tc','_TC').replace('_hk','_HK').replace('_sc','_SC')+'.txt')
         order = 'code'
         delimiter = '\t'
         linebreak = '\r\n'
         build_with_template = 'no'
         output = mscj_dict_file[id]
-        # output = os.path.join(build_directory,'yong',sub_directory_name[id],'cj5-90000.txt')
-
-        buildTxt(source,order,delimiter,linebreak,build_with_template,output)
-        mscj_symbol_file = os.path.join(build_directory,'mscj','symbol.txt')
-        with open(mscj_dict_file[id],'a',encoding='utf8') as mdf, \
-             open(mscj_symbol_file,'r',encoding='utf8') as msf:
-            for line in msf:
-                mdf.write(line)
+        py = os.path.join(current_directory,'buildToolCmd.py')
+        command = ''.join(['python ',py,' -s "',source,'" -o code -d tab -l crlf -f "',output,'"'])
+        # print(command)
+        os.system(command)
 
     # 創建zip
     # old_lex_num = 0
@@ -320,7 +325,6 @@ def buildMscjRelease():
     if new_lex_num==4:
       zip_file = os.path.join(release_directory,'MSCJData_Cangjie5_'+str(datetime.datetime.now().strftime('%Y%m%d'))+'.zip')
       zip_release(zip_folder,zip_file)
-      print('ok')
     elif new_lex_num<4:
         print('未生成.lex文件 (已有 '+str(new_lex_num)+'/4)')
 

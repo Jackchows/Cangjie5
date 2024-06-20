@@ -1,7 +1,5 @@
 本次更新說明：
-1. 修復了Rime schema引用錯誤的dict的問題
-2. 修改了Rime schema預設的輸入碼顯示格式，如需修改請查閱*.custom.yaml文件
-3. 更正一些錯誤編碼
+1. 修復了Rime schema裡面preedit_format和comment_format的錯誤
 ============================================================
 「倉頡五代補完計劃」：
 https://github.com/Jackchows/Cangjie5
