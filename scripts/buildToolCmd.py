@@ -197,17 +197,23 @@ def cmd_read_source_to_database(path, sqlite_conn, sqlite_cursor):
         if __name__ == "__main__":
             print('源碼表文件不存在')
         result = 'ERR_SOURCE_FILE_NOT_FOUND'
-        return(result, '', '', '', '', '')
+        # 導入基礎數據
+        path, sqlite_conn, sqlite_cursor = db_initialize(path, sqlite_conn, sqlite_cursor)
+        return(result, '', sqlite_conn, sqlite_cursor, '', {})
     elif detect_source_file_format_result[0] == 'ERR_SOURCE_FILE_FAIL_TO_READ':
         if __name__ == "__main__":
             print('源碼表文件讀取失敗')
         result = 'ERR_SOURCE_FILE_FAIL_TO_READ'
-        return(result, '', '', '', '', '')
+        # 導入基礎數據
+        path, sqlite_conn, sqlite_cursor = db_initialize(path, sqlite_conn, sqlite_cursor)
+        return(result, '', sqlite_conn, sqlite_cursor, '', {})
     elif detect_source_file_format_result[0] == 'no':
         if __name__ == "__main__":
             print('不支持的源碼表文件格式')
         result = 'ERR_SOURCE_FILE_FORMAT_NOT_SUPPORT'
-        return(result, '', '', '', '', '')
+        # 導入基礎數據
+        path, sqlite_conn, sqlite_cursor = db_initialize(path, sqlite_conn, sqlite_cursor)
+        return(result, '', sqlite_conn, sqlite_cursor, '', {})
     elif detect_source_file_format_result[0] == 'yes':
         value_pattern = detect_source_file_format_result[1]
         char_first_confirmed = detect_source_file_format_result[2]

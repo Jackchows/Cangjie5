@@ -256,7 +256,8 @@ def gui_save_charset_option(charset_filter_window):
     db_config_setting(sqlite_conn, sqlite_cursor, 'last_charset_option',str(selected_options))
     charset_filter_window.destroy()     # 關閉窗口
     # charset_filter_message.config(text='過濾後的字符數量: '+format(int(character_count_selected), ',d'))
-    charset_filter_message.config(text='字符數: '+format(int(character_count_total), ',d')+' -> '+format(int(character_count_selected), ',d'))
+    if character_count_total != '':
+        charset_filter_message.config(text='字符數: '+format(int(character_count_total), ',d')+' -> '+format(int(character_count_selected), ',d'))
     # global charset_filter_message_status
     # charset_filter_message_status = 'count_selected'
 
@@ -463,7 +464,10 @@ def gui_charset_filter_option():
     for value in last_charset_option:
         value = value.strip(",'][")
         charset_checkbutton_dict[value].set(1)
-    gui_count_charset_selected()
+    if sqlite_cursor == '':
+        pass
+    else:
+        gui_count_charset_selected()
     # 設置焦點
     charset_filter_window.focus_set()
 
@@ -514,7 +518,12 @@ def gui_create_database(path):
     sqlite_conn, sqlite_cursor = db_create_database(path)
     path, sqlite_conn, sqlite_cursor = db_initialize(path, sqlite_conn, sqlite_cursor)
     result, path, sqlite_conn, sqlite_cursor, character_count_total, count_charset_result = cmd_read_source_to_database(path, sqlite_conn, sqlite_cursor)
-    print(result, path, sqlite_conn, sqlite_cursor, character_count_total, count_charset_result)
+    print('result='+result)
+    # count_charset_result = {}
+    print('count_charset_result='+str(count_charset_result))
+    # print(result, path, sqlite_conn, sqlite_cursor, character_count_total, count_charset_result)
+    # print("count_charset_result='"+count_charset_result+"'")
+    # print(type(count_charset_result))
     # time.sleep(20)
     print('gui_create_database() end')
 

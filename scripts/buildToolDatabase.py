@@ -976,8 +976,8 @@ def db_create_database(path):
     logging.debug(locals())
     # 數據庫文件路徑
     # path['sqlite_locate'] = os.path.join(path['current_directory'],'sqlite','cangjie.db')
-    path['sqlite_locate'] = ':memory:'
-    # path['sqlite_locate'] = 'G:/TEMP/cangjie.db'
+    # path['sqlite_locate'] = ':memory:'
+    path['sqlite_locate'] = 'G:/TEMP/cangjie.db'
     sqlite_conn = sqlite3.connect(path['sqlite_locate'])
     sqlite_cursor = sqlite_conn.cursor()
 
