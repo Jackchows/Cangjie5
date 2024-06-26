@@ -59,6 +59,8 @@ def gui_select_input_file():
                                                  initialdir=path['parent_directory'], 
                                                  filetypes=(("Text files", "*.txt"), ("All files", "*.*")))
     # print('input_file_path='+input_file_path)
+    input_file_message.config(text='正在讀取', fg='RoyalBlue')
+    window.update()
     if path['source_locate']:
         input_file_entry.delete(0, tk.END)           # 清空輸入文件的值
         input_file_entry.insert(0, path['source_locate'])  # 設置輸入文件的值
@@ -70,15 +72,23 @@ def gui_select_input_file():
             # print("path['output_locate']="+path['output_locate'])
         global sqlite_conn, sqlite_cursor
         result, path, sqlite_conn, sqlite_cursor, character_count_total, count_charset_result = cmd_read_source_to_database(path, sqlite_conn, sqlite_cursor)
-        gui_enable_charset_filter(path)     # 重新計算字符集
-        selected_options = []
-        last_charset_option =  db_get_setting(sqlite_cursor, 'last_charset_option').split()
-        for value in last_charset_option:
-            value = value.strip(",'][")
-            selected_options.append(value)
-        # print('selected_options='+str(selected_options))
-        character_count_selected= db_mark_selected_charset(sqlite_conn,sqlite_cursor,selected_options)
-        charset_filter_message.config(text='字符數: '+format(int(character_count_total), ',d')+' -> '+format(int(character_count_selected), ',d'))
+        if result == 'SUCCESS':
+            input_file_message.config(text='')
+        elif result == 'ERR_SOURCE_FILE_NOT_FOUND':
+            input_file_message.config(text='文件不存在', fg='red')
+        elif result == 'ERR_SOURCE_FILE_FAIL_TO_READ':
+            input_file_message.config(text='文件讀取失敗', fg='red')
+        elif result == 'ERR_SOURCE_FILE_FORMAT_NOT_SUPPORT':
+            input_file_message.config(text='不支持的文件格式', fg='red')
+        # gui_enable_charset_filter(path)     # 重新計算字符集
+        # selected_options = []
+        # last_charset_option =  db_get_setting(sqlite_cursor, 'last_charset_option').split()
+        # for value in last_charset_option:
+        #     value = value.strip(",'][")
+        #     selected_options.append(value)
+        # # print('selected_options='+str(selected_options))
+        # character_count_selected= db_mark_selected_charset(sqlite_conn,sqlite_cursor,selected_options)
+        # charset_filter_message.config(text='字符數: '+format(int(character_count_total), ',d')+' -> '+format(int(character_count_selected), ',d'))
 
     result_label.config(text="")    # 重新選擇之後清空結果
 
@@ -486,7 +496,6 @@ def gui_go_build_with_db():
     # if sqlite_cursor == '':
     #     sqlite_conn, sqlite_cursor = db_create_database(path)                 # 創建數據庫
     # print('[404]', sqlite_conn, sqlite_cursor)
-    result, path, sqlite_conn, sqlite_cursor, character_count_total, count_charset_result = cmd_read_source_to_database(path, sqlite_conn, sqlite_cursor)  # 導入數據
     if result == 'SUCCESS':
         if charset_filter_enable_button_selected.get():
             db_build_final_table(sqlite_conn, sqlite_cursor, '')                    # 生成碼表
@@ -517,7 +526,16 @@ def gui_create_database(path):
     print('gui_create_database() start')
     sqlite_conn, sqlite_cursor = db_create_database(path)
     path, sqlite_conn, sqlite_cursor = db_initialize(path, sqlite_conn, sqlite_cursor)
+    input_file_message.config(text='正在讀取', fg='RoyalBlue')
     result, path, sqlite_conn, sqlite_cursor, character_count_total, count_charset_result = cmd_read_source_to_database(path, sqlite_conn, sqlite_cursor)
+    if result == 'SUCCESS':
+        input_file_message.config(text='')
+    elif result == 'ERR_SOURCE_FILE_NOT_FOUND':
+        input_file_message.config(text='文件不存在', fg='red')
+    elif result == 'ERR_SOURCE_FILE_FAIL_TO_READ':
+        input_file_message.config(text='文件讀取失敗', fg='red')
+    elif result == 'ERR_SOURCE_FILE_FORMAT_NOT_SUPPORT':
+        input_file_message.config(text='不支持的文件格式', fg='red')
     print('result='+result)
     # count_charset_result = {}
     print('count_charset_result='+str(count_charset_result))
@@ -526,7 +544,6 @@ def gui_create_database(path):
     # print(type(count_charset_result))
     # time.sleep(20)
     print('gui_create_database() end')
-
 if __name__ == "__main__":
 
     debug = True
