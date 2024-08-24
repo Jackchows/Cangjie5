@@ -19093,7 +19093,6 @@
 𥼲	fdmjk
 粳	fdmlk
 𥺼	fdmlm
-𤭰	fdmln
 𥸴	fdmls
 𮇅	fdmmm
 𥸰	fdmmn
@@ -19117,6 +19116,7 @@
 𮇔	fdmtc
 𥺗	fdmtw
 糣	fdmua
+𤭰	fdmvn
 𱰋	fdmvn
 𰫔	fdmwe
 糎	fdmwg
@@ -25618,6 +25618,7 @@
 𨟭	hbnl
 𬩼	hbnl
 𣤙	hbno
+𦧁	hbnoq
 𧰥	hbnot
 𠚟	hbnou
 𥴤	hbnq
@@ -34138,7 +34139,6 @@
 𫂔	hwih
 簂	hwim
 𬏗	hwimo
-𤴛	hwio
 𥭆	hwj
 箇	hwjr
 𭿓	hwjtq
@@ -36288,7 +36288,6 @@
 𥜁	ifsjk
 𥚑	ifsjr
 𬒽	ifskr
-𥙥	ifslm
 𬓝	ifsmc
 祲	ifsme
 𥛀	ifsme
@@ -36307,6 +36306,7 @@
 𱵭	ifsrg	[u]
 𥜉	ifsrq
 𥘹	ifss
+𥙥	ifssm
 𱵔	ifssr
 𥙸	ifsss
 𫸠	ift
@@ -42950,6 +42950,7 @@
 𣠒	jwhjd
 叀	jwi
 𣓧	jwid
+𤴛	jwio
 𠵤	jwir
 車	jwj
 實	jwjc
@@ -52576,7 +52577,6 @@
 𠁌	mfsjl
 𥚑	mfsjr
 𬒽	mfskr
-𥙥	mfslm
 𮰑	mfsm
 𬓝	mfsmc
 祲	mfsme
@@ -52599,6 +52599,7 @@
 𱵭	mfsrg
 𥜉	mfsrq
 𥘹	mfss
+𥙥	mfssm
 𱵔	mfssr
 𥙸	mfsss
 䄍	mfta
@@ -55298,7 +55299,6 @@
 𰆖	mmmu
 辰	mmmv
 𤭎	mmmvn
-𤭑	mmmvn
 𤭓	mmmvn
 𬪿	mmmwg
 𲆮	mmmwu
@@ -55332,6 +55332,7 @@
 𨾖	mmog
 𨿋	mmog
 𦢖	mmogb
+𪇿	mmogf
 𢀫	mmogn
 𧭭	mmogr
 𰁚	mmoi
@@ -57253,6 +57254,7 @@
 𥑗	mrmvm
 𰦧	mrmvm
 砙	mrmvn
+𤭑	mrmvn
 𤭻	mrmvn
 磦	mrmwf
 䃌	mrmwg
@@ -103203,6 +103205,7 @@
 糥	xfdmb
 𰪯	xfdmg	[u]
 𥸯	xfdms
+𱰋	xfdmv
 𥻛	xfdmw
 𥸲	xfdn
 𭓓	xfdng
@@ -107565,7 +107568,7 @@
 𰙛	xmmmn
 𨑃	xmmmo
 𥔴	xmmmr
-𤭑	xmmmv
+𤭓	xmmmv
 𱥂	xmmmy
 厅	xmmn
 䣆	xmmnl
