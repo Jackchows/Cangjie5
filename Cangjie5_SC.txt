@@ -59979,7 +59979,6 @@
 𣣂	mrno
 𣣄	mrno
 𣤲	mrno
-𮀌	mrno
 𮵉	mrno
 𥕨	mrnoi
 硁	mrnom
@@ -60458,6 +60457,7 @@
 碌	mrvne
 𦧫	mrvno
 𡂤	mrvo
+𮀌	mrvo
 𱳸	mrvoj
 𭆃	mrvp
 𥕘	mrvvd
