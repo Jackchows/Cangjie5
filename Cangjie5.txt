@@ -99272,6 +99272,7 @@
 紌	vfiku
 𦄢	vfilb
 縛	vfili
+𮈩	vfili
 絒	vfill
 𦁶	vfilo
 䌅	vfilr
