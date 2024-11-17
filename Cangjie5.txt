@@ -29910,6 +29910,7 @@
 𢆾	hihvi
 䰦	hihwj
 𩴍	hihxe
+𩳱	hihxl
 箋	hii
 𢨡	hii
 𫞿	hiid	[u]
@@ -29987,7 +29988,6 @@
 𮔃	hilbi
 𩲴	hilbk
 𫂞	hile
-𩳱	hilhx
 𧒎	hilii
 𧐏	hilii
 𩴌	hilit
