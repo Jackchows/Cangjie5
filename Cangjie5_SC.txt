@@ -15882,7 +15882,6 @@
 𣳹	ekmd
 㴎	ekmf
 𭰶	ekmg
-𣴰	ekmj
 渏	ekmr
 𠭑	ekmr
 洿	ekms
@@ -15902,6 +15901,7 @@
 𭲛	ekou
 滯	ekpb
 𲍼	ekpym
+𣴰	ekq
 渐	ekql
 𱦈	ekqn
 𮳗	ekqn
