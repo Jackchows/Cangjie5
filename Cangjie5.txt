@@ -55294,6 +55294,7 @@
 𭹘	mgbfd
 𰢂	mgbfd
 琱	mgbgr
+𭹠	mgbhg
 𤤌	mgbhn
 现	mgbhu
 瑫	mgbhx
@@ -55306,7 +55307,7 @@
 珇	mgbm
 𤦚	mgbmc
 瑗	mgbme
-𭹠	mgbmg
+𭹠	mgbmg	[u]
 𭹝	mgbmi
 𲯬	mgbmi
 𤧏	mgbmm
