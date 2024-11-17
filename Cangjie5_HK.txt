@@ -49895,6 +49895,7 @@
 𧐚	liitf
 蝷	liitu
 蛖	liiuh
+𧊎	liiv
 𲿒	liivb	[u]
 螂	liivl
 𧔊	liiwg
@@ -50769,7 +50770,6 @@
 䖦	liuu
 𧍘	liuvi
 𧑵	liuwi
-𧊎	liv
 𧌵	livbn
 𳀄	livdk
 袯	live
