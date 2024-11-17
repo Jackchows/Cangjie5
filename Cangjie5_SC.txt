@@ -15050,12 +15050,10 @@
 𲩿	ecro
 涗	ecru
 涚	ecru
-𱥻	ecsc
 𲪀	ecsc
 𣴞	ecsg
 汾	ecsh
 𣹁	ecsh
-𱥻	ecsi
 湓	ecst
 𰝵	ecte
 𤁫	ecuc
@@ -17858,11 +17856,13 @@
 𣼉	esgn
 𣱼	esh
 𭲫	eshb
+𱥻	eshc
 𥞹	eshd
 㲽	eshh
 𣴀	eshh
 㲽	eshi
 𣷋	eshi
+𱥻	eshi
 𬇳	eshl
 涩	eshm
 澀	eshm
