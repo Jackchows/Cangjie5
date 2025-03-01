@@ -41059,7 +41059,6 @@
 𰹓	jjirm
 轗	jjirp
 䡎	jjis
-𡩝	jjis
 䡢	jjisb
 䡪	jjism
 軶	jjisn
@@ -41628,6 +41627,7 @@
 宏	jki
 者	jkia
 𤞮	jkik
+𡩝	jkis
 𡪐	jkji
 𡪐	jkjk
 𱻭	jkjka
@@ -94304,7 +94304,6 @@
 𢑞	vcmnb
 𧱈	vcmso
 㜋	vcmt
-𡣣	vcmu
 媨	vcmw
 娣	vcnh
 𨝉	vcnl
@@ -95141,6 +95140,7 @@
 𦁅	vflsh
 𱹵	vflsp
 𥾴	vflu
+𡣣	vflu
 𪈜	vflvf
 紬	vflw
 𦂈	vflwb
@@ -105975,7 +105975,6 @@
 𨎕	xjjih
 𨏖	xjjii
 𠦽	xjjip
-𡩝	xjjis
 𨎣	xjjjc
 𨏿	xjjjj
 𰹩	xjjjm
@@ -113206,6 +113205,7 @@
 𮉂	xvflg
 繍	xvfll
 𧑿	xvflm
+𡣣	xvflu
 𦅏	xvfmb
 綇	xvfmc
 𰫹	xvfmd
