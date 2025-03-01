@@ -8952,10 +8952,10 @@ FA1E	羽	smsmm	smsim
 296BE	𩚾	lpomv	(刪除)	𩚾：lpoiv
 296C1	𩛁	hlomv	(刪除)	𩛁：hloiv
 296D2	𩛒	omomv	ovoiv	另有𩛒：omoiv
-296D5	𩛕	ouomv	ouoiv	
+296D5	𩛕	ouomv	ouoiv
 296E2	𩛢	okomv	(刪除)	𩛢：okoiv
-296F0	𩛰	ieomv	ieoiv	
-296FB	𩛻	seoiv	seov	
+296F0	𩛰	ieomv	ieoiv
+296FB	𩛻	seoiv	seov
 296FB	𩛻	seomv	(刪除)	𩛻：seov
 29714	𩜔	heomv	(刪除)	𩜔：heoiv
 29715	𩜕	nsomv	(刪除)	𩜕：nsoiv
@@ -8979,18 +8979,18 @@ FA1E	羽	smsmm	smsim
 2978C	𩞌	doomv	(刪除)	𩞌：dooiv
 2978E	𩞎	tmomv	(刪除)	𩞎：tmoiv
 29790	𩞐	hoomv	(刪除)	𩞐：hooiv
-29795	𩞕	dkomv	dkoiv	
-297A0	𩞠	vgomv	vgoiv	
+29795	𩞕	dkomv	dkoiv
+297A0	𩞠	vgomv	vgoiv
 297A3	𩞣	rbomv	(刪除)	𩞣：rboiv
 297A4	𩞤	ykomv	(刪除)	𩞤：ykoiv
 297B9	𩞹	akomv	(刪除)	𩞹：akoiv
 297D7	𩟗	elomv	(刪除)	𩟗：eloiv
 297DA	𩟚	geomv	(刪除)	𩟚：geoiv
 297F7	𩟷	vgomv	(刪除)	𩟷：vgoiv
-297F8	𩟸	jroiv	jjmmv	
+297F8	𩟸	jroiv	jjmmv
 297F8	𩟸	jromv	(刪除)	𩟸：jjmmv
 29A76	𩩶	bbomv	(刪除)	𩩶：bboiv
-29B8D	𩮍	shomv	shoiv	
+29B8D	𩮍	shomv	shoiv
 2CC8F	𬲏	jiomv	(刪除)	𬲏：jioiv
 ==2024.08.24==
 24B51	𤭑	mmmvn	mrmvn
@@ -9005,5 +9005,15 @@ FA1E	羽	smsmm	smsim
 ==2024.10.20==
 31E4	㇤	(新增)	nv
 31E5	㇥	(新增)	vn
-==2024.11.17==
-23D30	𣴰	ekmj	ekq	
+==2025.03.01==
+2FB9	⾹	had	hda
+233F0	𣏰	chd	cshd
+21554	𡕔	nshe	nhse
+2A70C	𪜌	nsa	nhsa
+23D30	𣴰	ekmj	ekq
+20075	𠁵	lllc	llqc
+20D81	𠶁	rllc	rlqc
+242AA	𤊪	fllc	flqc
+28D63	𨵣	lcan	lqmcn
+2B96A	𫥪	yullc	(刪除)	𫥪：yulqc
+3144F	𱑏	lcq	lqmcq
