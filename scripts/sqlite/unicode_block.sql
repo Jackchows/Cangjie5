@@ -24,7 +24,7 @@ INSERT INTO "unicode_block" ("name", "name_abbr", "start_hex", "end_hex", "start
 	('CJK Compatibility Ideographs Supplement', 'CIS', '0x2f800', '0x2fa1f', 194560, 195103, 12),
 	('Kangxi Radicals', 'KR', '0x2f00', '0x2fdf', 12032, 12255, 13),
 	('CJK Radicals Supplement', 'RS', '0x2e80', '0x2eff', 11904, 12031, 14),
-	('CJK Strokes', 'S', '0x31c0', '0x31e3', 12736, 12771, 15),
+	('CJK Strokes', 'S', '0x31c0', '0x31e5', 12736, 12773, 15),
 	('CJK Symbols and Punctuation', 'SP', '0x3000', '0x303f', 12288, 12351, 16),
 	('CJK Compatibility Forms', 'CF', '0xfe30', '0xfe4f', 65072, 65103, 17),
 	('Bopomofo', 'B', '0x3100', '0x312f', 12544, 12591, 18),
