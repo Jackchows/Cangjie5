@@ -390,6 +390,34 @@ commit=1 6 0
 ');
 -- #endregion
 
+-- #region yong_head_cj5_special
+INSERT INTO templates VALUES ('yong_head_cj5_special',
+'#-----------------------------------------------------------------
+# 倉頡五代補完計劃：
+# https://github.com/Jackchows/Cangjie5
+# 使用前務必閱讀：
+# https://github.com/Jackchows/Cangjie5/blob/master/README.md 及
+# https://github.com/Jackchows/Cangjie5/blob/master/change_summary.md
+#
+# 相關項目：倉頡三代補完計畫
+# https://github.com/Arthurmcarthur/Cangjie3-Plus
+#
+# 收字較少的版本，收錄主流系統通常可以顯示的字符。
+#-----------------------------------------------------------------
+encode=UTF-8
+name=倉頡五代
+key=abcdefghijklmnopqrstuvwxyz
+len=6
+wildcard=*
+commit=1 6 0
+#dicts=mb/cj5-ftzk.txt
+#dicts=mb/cj5-jtzk.txt
+#assist=mb/assist/pinyin.txt
+
+[DATA]
+');
+-- #endregion
+
 -- #region yong_head_other
 INSERT INTO templates VALUES ('yong_head_other',
 'encode=UTF-8
