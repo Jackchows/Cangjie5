@@ -313,7 +313,7 @@ def gui_show_charset_help_message(event):
     root_width = window.winfo_width()
     root_height = window.winfo_height()
     # 設置提示窗口的大小
-    charset_message_window.geometry("560x380")
+    # charset_message_window.geometry("560x380")
     # 設置提示窗口的位置在正中間
     charset_message_window.update_idletasks()  # 更新窗口信息
     new_window_width = charset_message_window.winfo_width()
@@ -343,7 +343,7 @@ def gui_show_charset_help_message(event):
     message_label.pack(padx=10, pady=10)
     # 關閉按鈕
     close_button = tk.Button(charset_message_window,  text="關閉", width=10, command=charset_message_window.destroy)
-    close_button.pack(pady=0)
+    close_button.pack(pady=10)
     # 設置焦點
     charset_message_window.focus_set()
 
