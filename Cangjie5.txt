@@ -61846,8 +61846,8 @@
 饏	nkoiv
 𩝕	nkoiv
 𢌣	nkoos
-愗	nkp
 憨	nkp
+愗	nkp
 㤵	nkp
 𢞀	nkp
 𥎲	nkpl
@@ -108289,7 +108289,7 @@
 𨜉	xnknl
 𩀁	xnkog
 𩝕	xnkoi
-憨	xnkp
+愗	xnkp
 𫛼	xnkpy
 𮋊	xnksm
 𩡵	xnksq

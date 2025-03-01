@@ -19050,8 +19050,8 @@
 䱯	nknwf
 䨁	nkog
 饏	nkoiv
-愗	nkp
 憨	nkp
+愗	nkp
 㤵	nkp
 鹜	nkpym
 𢌥	nkrhg
@@ -32844,7 +32844,7 @@
 㷺	xnkf
 鳵	xnkha
 㢬	xnki
-憨	xnkp
+愗	xnkp
 弔	xnl
 隲	xnlfh
 陜	xnlko
