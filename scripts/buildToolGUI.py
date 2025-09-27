@@ -379,7 +379,8 @@ def gui_charset_filter_option():
                         ('charset_ub', '擴展區 B'), ('charset_uc', '擴展區 C'), 
                         ('charset_ud', '擴展區 D'), ('charset_ue', '擴展區 E'), 
                         ('charset_uf', '擴展區 F'), ('charset_ug', '擴展區 G'),
-                        ('charset_uh', '擴展區 H'), ('charset_ui', '擴展區 I')]
+                        ('charset_uh', '擴展區 H'), ('charset_ui', '擴展區 I'),
+                        ('charset_uj', '擴展區 J')]
     # for i in range(len(charset_unicode_list)):
     for i, (value, text) in enumerate(charset_cjk_list):
         charset_checkbutton_dict[value] = tk.IntVar()

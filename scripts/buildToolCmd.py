@@ -348,7 +348,7 @@ def parse_args():                           # parse_args
                                         可多選，以","分隔
                                         u=  CJK 基本區,  ua= CJK 擴展A區, ub= CJK 擴展B區, uc= CJK 擴展C區, ud= CJK 擴展D區,
                                         ue= CJK 擴展E區, uf= CJK 擴展F區, ug= CJK 擴展G區, uh= CJK 擴展H區, ui= CJK 擴展I區,
-                                        ci= 兼容漢字, cis= 兼容漢字增補, kr= 康熙部首, rs= 部首增補, s= 筆畫,
+                                        uj= CJK 擴展J區, ci= 兼容漢字, cis= 兼容漢字增補, kr= 康熙部首, rs= 部首增補, s= 筆畫,
                                         sp= 符號標點, cf= 兼容符號, idc= 表意文字描述字符, crn= 算籌符號, pua= 私用區 (PUA+SPUA),
                                         other= Unicode 中的其他區塊,
                                         gb2312= GB/T 2312-1980, gbk= GBK, big5= Big5, hkscs= HKSCS-2016, gui_fan= 通用規範漢字表,
@@ -439,7 +439,7 @@ if __name__ == "__main__":
         charset = ['all']           # 默認全選
     else:
         charset = charset.split(',')
-        charset_support_list = ['u','ua','ub','uc','ud','ue','uf','ug','uh','ui',
+        charset_support_list = ['u','ua','ub','uc','ud','ue','uf','ug','uh','ui','uj',
                                 'ci','cis','kr','rs','s','sp','cf','idc','crn','pua','other',
                                 'gb2312','gbk','big5','hkscs','gui_fan','yyy','zx',
                                 'gb18030_2022_l1','gb18030_2022_l2','gb18030_2022_l3']

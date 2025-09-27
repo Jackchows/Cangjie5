@@ -328,6 +328,13 @@ def db_mark_selected_charset(sqlite_conn,sqlite_cursor,selected_options):
                 this_time = time.time() #
                 # print(item+'\ttime'+': '+str(this_time-last_time)) #
                 last_time = this_time #
+            elif item == 'charset_uj':
+                last_time = time.time() #
+                sqlite_cursor.execute("UPDATE cangjie_table SET selected = 1 where block = 'UJ' and selected is null;")
+                sqlite_conn.commit()
+                this_time = time.time() #
+                # print(item+'\ttime'+': '+str(this_time-last_time)) #
+                last_time = this_time #
             elif item == 'charset_ci':
                 last_time = time.time() #
                 sqlite_cursor.execute("UPDATE cangjie_table SET selected = 1 where block = 'CI' and selected is null;")
@@ -403,7 +410,7 @@ def db_mark_selected_charset(sqlite_conn,sqlite_cursor,selected_options):
                 sqlite_cursor.execute("UPDATE cangjie_table \
                                         SET selected = 1 \
                                         WHERE (block IS NULL OR \
-                                            block NOT IN ('U','UA','UB','UC','UD','UE','UF','UG','UH','UI', \
+                                            block NOT IN ('U','UA','UB','UC','UD','UE','UF','UG','UH','UI','UJ', \
                                                             'CI','CIS','KR','RS','S','SP','CF','IDC','CRN', \
                                                             'PUA','PUAA','PUAB')) \
                                         AND selected IS NULL;")
@@ -760,7 +767,7 @@ def db_count_charset(sqlite_conn, sqlite_cursor):
             SELECT 'OTHER',COUNT(1) 
               FROM (SELECT distinct unicode_hex,block FROM cangjie_table)
              WHERE (block IS null OR
-                    block NOT IN ('U','UA','UB','UC','UD','UE','UF','UG','UH','UI',
+                    block NOT IN ('U','UA','UB','UC','UD','UE','UF','UG','UH','UI','UJ',
                                   'CI','CIS','KR','RS','S','SP','CF','IDC','CRN',
                                   'PUA','PUAA','PUAB'))
             UNION ALL
@@ -801,7 +808,7 @@ def db_count_charset(sqlite_conn, sqlite_cursor):
              WHERE c.unicode_hex = t.unicode_hex
                AND t.gb18030 = '1'
                AND (t.gb18030_byte in ('1','2') OR
-                    c.block IN ('U','UA','UB','UC','UD','UE','UF','UG','UH','UI','KR'))
+                    c.block IN ('U','UA','UB','UC','UD','UE','UF','UG','UH','UI','UJ','KR'))
             UNION ALL
             SELECT 'YYY',COUNT(DISTINCT c.unicode_hex) FROM cangjie_table c
              WHERE c.code_value like 'yyy%'
