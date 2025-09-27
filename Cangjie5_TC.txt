@@ -4873,6 +4873,7 @@
 𰰔	bmav
 𠕔	bmb
 𣍟	bmb
+𫜾	bmb
 臑	bmbb
 𦠌	bmbb
 䐓	bmbc
@@ -9106,6 +9107,7 @@
 鉶	cmtn
 鐝	cmto
 𠃽	cmu
+𬺧	cmu
 鐕	cmua
 𳇧	cmuc
 𮢩	cmue
@@ -32675,6 +32677,7 @@
 𮱺	hoopd
 衔	hoopn
 𬡀	hoorn
+𬺭	hoorn
 𮕣	hoorn
 筰	hoos
 𢓓	hoos
@@ -44439,6 +44442,7 @@
 𠄊	json
 𡨉	jsop
 愂	jsp
+𫜿	jsp
 𩡪	jsqf
 𱚏	jsqf
 𫴎	jsrj
@@ -46512,6 +46516,7 @@
 𭸱	khwlf
 玀	khwlg
 獨	khwli
+𬺪	khwli
 𤢟	khwlj
 猡	khwln
 𭸰	khwlp
@@ -54058,6 +54063,7 @@
 霽	mbyx
 𬰊	mbyyr
 㕋	mc
+𬺢	mc
 晋	mca
 𣅆	mca
 𣉩	mca
@@ -56038,6 +56044,7 @@
 𲁋	mgmmu
 𤩾	mgmmw
 玎	mgmn
+𫜻	mgmn
 𤧮	mgmnd
 𪳈	mgmnd
 𭹚	mgmng
@@ -62163,6 +62170,7 @@
 亅	n
 𢎗	n
 𣄽	na
+𬺨	na
 𮯟	nabu
 𰷐	nabuc
 𡕳	nabue
@@ -81537,6 +81545,7 @@
 𠾦	rlyp
 𫬍	rlyv
 叿	rm
+𬺣	rm
 咟	rma
 𧿭	rma
 𮛤	rmaa
@@ -87716,6 +87725,7 @@
 𲹨	sjo
 𲹷	sjoah
 𦡜	sjobo
+𫜽	sjod
 𦕗	sjof
 𩁊	sjog
 𬚟	sjog
@@ -98043,6 +98053,7 @@
 𦽣	uudfo
 𱦄	uue
 𡾕	uueah
+𫜼	uueee
 𡭧	uuf
 𱫼	uuf
 粜	uufd
@@ -98245,6 +98256,7 @@
 𡸟	uvvw
 峀	uw
 𡶚	uw
+𫜺	uw
 𰢵	uw
 𡿅	uwbc
 𱱆	uwbew
@@ -98379,6 +98391,7 @@
 𲞔	uyrb
 崞	uyrd
 𡷮	uyre
+𬺫	uyre
 𡹞	uyrf
 𡹡	uyrf
 𡿣	uyri
@@ -100724,6 +100737,7 @@
 𩴆	vihui
 𩴪	vihui
 媙	vihv
+𬺬	vihvo
 𲛒	vii
 㜗	viih
 𰒨	viii
@@ -105964,6 +105978,7 @@
 𫜜	xcmsb
 𨧧	xcmso
 𨦹	xcmtl
+𬺧	xcmu
 𨥛	xcmvm
 𳅯	xcmvs
 𨫊	xcmwd
@@ -109572,7 +109587,7 @@
 𫿘	xhook
 彾	xhoom
 𢓅	xhooo
-𮕣	xhoor
+𬺭	xhoor
 𢓓	xhoos
 𢔫	xhoou
 怣	xhop
@@ -110973,6 +110988,7 @@
 宧	xjsll
 𡩠	xjsme
 𪧆	xjso
+𫜿	xjsp
 𱚏	xjsqf
 卋	xjt
 㫩	xjta
@@ -111228,7 +111244,7 @@
 𤢪	xkhvv
 𤞧	xkhwd
 𤣡	xkhwi
-𰡨	xkhwl
+𬺪	xkhwl
 𤶴	xkhxh
 𡘹	xkhxu
 𡘹	xkhxv
@@ -112010,6 +112026,7 @@
 𰙠	xmbyl
 𩆶	xmbyr
 𫁮	xmbyt
+𬺢	xmc
 𣅆	xmca
 𡉊	xmcg
 𪆲	xmcha
@@ -112210,7 +112227,7 @@
 𭹥	xmgmh
 𤥇	xmgmi
 𲁋	xmgmm
-𪳈	xmgmn
+𫜻	xmgmn
 𤥨	xmgms
 𦥍	xmgmu
 珁	xmgmv
@@ -112968,6 +112985,7 @@
 𠩆	xmymp
 㒫	xmymu
 亅	xn
+𬺨	xna
 𰻹	xnanl
 𬊟	xnapf
 弝	xnau
@@ -115584,6 +115602,7 @@
 𠱋	xrlw
 𲔜	xrlwu
 𲔜	xrlwv	[u]
+𬺣	xrm
 𧿭	xrma
 𨀏	xrmam
 𨇡	xrman
@@ -118289,6 +118308,7 @@
 崪	xuyoj
 𫶢	xuypt
 嵪	xuyrb
+𬺫	xuyre
 𡹡	xuyrf
 𡺣	xuyrn
 𱜋	xuyru
@@ -119138,7 +119158,7 @@
 𰮲	xxbll
 𱼏	xxblm
 囗	xxbm
-𦚹	xxbmb
+𫜾	xxbmb
 𱑲	xxbme
 𭁿	xxbmf
 𰃧	xxbmg	[u]
@@ -121693,7 +121713,7 @@
 𡶏	xxuuu
 𭖞	xxuvi
 𰎲	xxuvm
-𰢵	xxuw
+𫜺	xxuw
 𡹍	xxuwj
 㞶	xxuyk
 𲞔	xxuyr
@@ -122159,6 +122179,7 @@
 𡴼	xxxus
 𡽵	xxxut
 岀	xxxuu
+𰢵	xxxuw
 𭖟	xxxuy
 𮣩	xxxvf
 𰌒	xxxvh
@@ -122198,6 +122219,7 @@
 𤎼	xxxyu
 𧘯	xxxyv
 𭫪	xxxyw
+𬺩	xxya
 𨓤	xxyah
 𩐗	xxyan
 𲅧	xxyat
@@ -122219,6 +122241,7 @@
 𭵐	xxycf
 𭎭	xxycg
 𪁂	xxych
+𬺤	xxyci
 𫰁	xxyck
 𠠟	xxycl
 𮟮	xxycn
@@ -122431,6 +122454,7 @@
 𰻂	xyaf
 𳏔	xyaha
 𠧫	xyahe
+𬺥	xyaj
 𢂦	xyalb
 𩐵	xyamb
 𬽊	xyand
@@ -123101,7 +123125,7 @@
 𮘂	xyrre
 𠅷	xyrrj
 𲗶	xyrrp
-𮞬	xyrrr
+𬺦	xyrrr
 𨕬	xyrru
 譔	xyrrv
 𧥟	xyrs
@@ -123443,6 +123467,7 @@
 卜	y
 𣅀	ya
 𨑨	ya
+𬺩	ya
 𨗏	yaaa
 𳅃	yaaa
 𩐯	yaab
@@ -123505,6 +123530,7 @@
 𩑈	yaitc
 𨙐	yaiv
 卓	yaj
+𬺥	yaj
 𮟕	yaja
 䪬	yajbd
 𳊰	yajcm
@@ -124060,6 +124086,7 @@
 𩖓	ychwj
 戯	yci
 𨑪	yci
+𬺤	yci
 兖	ycihu
 衮	ycihv
 𡰐	yciku
@@ -128151,6 +128178,7 @@
 㖜	yrrp
 𲗶	yrrp
 𬩨	yrrr
+𬺦	yrrr
 𮞬	yrrr
 𰴰	yrrr
 譟	yrrrd

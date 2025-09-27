@@ -38,7 +38,7 @@
 码表。**传统汉字优先，偏好香港用字习惯**，符合《常用字字形表》的字形将排在前面。<br />
 - **[Cangjie5_SC.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_SC.txt)**<br />
 码表。**简化字优先**，符合《通用规范汉字表》的字形将排在前面。<br />
-**※以上四份码表收录字符相同**，包括：中日韩统一表意文字基本区至扩展I区、[兼容汉字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%9B%B8%E5%AE%B9%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97)区中视作统一汉字的十二个字符，以及官方码表中收录的符号。<br />
+**※以上四份码表收录字符相同**，包括：中日韩统一表意文字基本区至扩展J区、[兼容汉字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%97%A5%E9%9F%93%E7%9B%B8%E5%AE%B9%E8%A1%A8%E6%84%8F%E6%96%87%E5%AD%97)区中视作统一汉字的十二个字符，以及官方码表中收录的符号。<br />
 另外收录兼容汉字、部首、笔画以及其他一些形似汉字的符号。为避免与常规汉字混淆，**此部分字符编码以「z」开头**（兼容汉字「zc」，部首「zr」，笔画「zs」，表意文字描述字符「zi」，算筹符号「zn」，其他符号「zf」）。
 - **[Cangjie5_supplement.txt](https://github.com/Jackchows/Cangjie5/blob/master/Cangjie5_supplement.txt)**<br />
 码表。收录兼容汉字、部首、笔画以及其他一些形似汉字的符号。此表按原始编码收录，编码不以「z」开头。<br />
