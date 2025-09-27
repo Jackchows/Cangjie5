@@ -4553,6 +4553,7 @@
 𦟘	bjmc
 腙	bjmf
 腟	bjmg
+𦜸	bjmh
 𦝻	bjmm
 腚	bjmo
 𮙡	bjmso
@@ -5042,7 +5043,6 @@
 冨	bmrw
 𪓘	bmrxu
 𲋵	bmsf
-𦜸	bmsh
 𤔌	bmsm
 𦐎	bmsmm
 豚	bmso
