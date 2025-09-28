@@ -88,7 +88,7 @@
    |[𠝹](https://zi.tools/zi/%F0%A0%9D%B9)、[𡁻](https://zi.tools/zi/%F0%A1%81%BB)|✓|✓|HKSCS字|
    |[𫫇](https://zi.tools/zi/%F0%AB%AB%87)、[𩾌](https://zi.tools/zi/%F0%A9%BE%8C)|✓|✓|通用規範漢字表字|
    |[鿿](https://zi.tools/zi/%E9%BF%BF)、[𫬷](https://zi.tools/zi/%F0%AB%AC%B7)|✗|✓|新版本Unicode增收的基本區和擴展A區字，2016年之後HKSCS增收的字|
-   |[𪠽](https://zi.tools/zi/%F0%AA%A0%BD)、[𰻞](https://zi.tools/zi/%F0%B0%BB%9E)|✗|✓|擴展B區至I區的其他字|
+   |[𪠽](https://zi.tools/zi/%F0%AA%A0%BD)、[𰻞](https://zi.tools/zi/%F0%B0%BB%9E)|✗|✓|擴展B區至J區的其他字|
 
 ## 反饋
 
