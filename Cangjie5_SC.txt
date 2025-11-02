@@ -185,7 +185,6 @@
 昷	abt
 𧂓	abtip
 𬁨	abtk
-𦎨	abtq
 𭦗	abts
 𪓲	abtu
 𲤠	abtv
@@ -214,6 +213,7 @@
 𭥨	ache
 𣋥	achh
 昖	aci
+𢧫	aci
 暡	acim
 𭧗	acjdi
 𧖙	aclmi
@@ -796,6 +796,7 @@
 𭥏	ak
 𭥯	akb
 𬡿	akbuu
+𣉜	akce
 暸	akcf
 𣉜	akde
 𭥱	akdi
@@ -960,7 +961,6 @@
 毾	amhqu
 𬁚	amhxo
 戥	ami
-𢧫	ami
 㬐	amia
 晊	amig
 𲤾	amihs
@@ -2193,6 +2193,7 @@
 𢁍	auikf
 𲞪	auikf
 𥋜	aujce
+𥋜	aujfe
 𱘻	auk	[u]
 𢻌	auke
 𢽼	aukkk
@@ -2238,12 +2239,14 @@
 𣆪	aurn
 巼	aurp
 𫥴	aush
+𥊟	aushp
 𥊟	ausip
 𫶻	ausit
 𬚢	ausj
 𫶻	ausmt
 𬀱	ausu
 𲞫	autlt
+𦎨	autq
 𭿰	autwd
 岊	auu
 昢	auu
@@ -2261,7 +2264,7 @@
 𧬉	auur
 𲒠	auuu
 𱢰	auwf
-𮚯	auybc
+𮚯	auycc
 㪞	auye
 𢻷	auye
 𫶼	auyjl
@@ -12330,7 +12333,6 @@
 𫇒	dkhx
 𮲬	dki
 𣙆	dkid
-𬂮	dkid
 𣖁	dkit
 𭬃	dkiy
 𭫠	dkja
@@ -14658,6 +14660,7 @@
 𰆶	eal
 泹	eam
 𣵀	eam
+𣺯	eamc
 𣶪	eamg
 𪷑	eamg
 湯	eamh
@@ -14668,7 +14671,6 @@
 𦧥	eamjr
 淏	eamk
 𭲮	eamk
-𣺯	eamm
 湜	eamo
 𮳐	eamv
 𣍒	eamvg
@@ -16489,6 +16491,7 @@
 𱨏	ekcb	[u]
 𭲜	ekcc
 𣸷	ekce
+𣻑	ekce
 潦	ekcf
 𣿳	ekcf
 𤃖	ekcf
@@ -26139,6 +26142,7 @@
 𭽓	hahti
 皃	hahu
 篃	hahu
+𠪃	hahu
 𤿀	hahuc
 𳌂	hahuc
 𤾚	hahud
@@ -45091,7 +45095,6 @@
 𤊽	kcaf
 𤋯	kcaf
 閷	kcano
-𱤅	kcaph	[u]
 𦚉	kcb
 𰤶	kcbt
 眘	kcbu
@@ -45101,7 +45104,6 @@
 𪥆	kce
 𰛖	kce
 㶫	kcf
-𭪬	kcfmu
 𪀣	kchaf
 殺	kchne
 𩳙	kchui
@@ -45113,7 +45115,6 @@
 𰅳	kcj
 𱱳	kcjg
 𡚏	kckcv
-𭪎	kckr
 𠡊	kcks
 剎	kcln
 刹	kcln
@@ -45133,8 +45134,6 @@
 𣤥	kcno
 𤺰	kcno
 𨾮	kcog
-𭣱	kcok
-𭫇	kcoos
 𤵏	kcp
 瘹	kcpi
 瘹	kcpm
@@ -45147,7 +45146,6 @@
 𢌾	kct
 𤺧	kcwa
 瘅	kcwj
-𭪍	kcymy
 东	kd
 杀	kd
 㚓	kd
@@ -48777,6 +48775,7 @@
 𪩸	lbjto
 央	lbk
 𢁖	lbk
+𢄌	lbkce
 𢄷	lbkcf
 𢄌	lbkde
 𭘛	lbkf
@@ -50004,6 +50003,7 @@
 䘬	lik
 蛕	likb
 𧎙	likbl
+𧏫	likce	[u]
 蟟	likcf
 𫊷	likd
 𬟽	likd
@@ -51088,6 +51088,7 @@
 𳂔	lkbuc
 𰴎	lkbuu
 𧝭	lkcc
+𧜁	lkce
 𧝜	lkcf
 𫋾	lkcs
 𬡕	lkd
@@ -51104,7 +51105,6 @@
 𣭂	lkhqu
 𪚻	lkhxu
 𧘹	lki
-𬡕	lkid
 𮝈	lkjwj
 䘠	lkk
 𮖆	lkkb
@@ -63379,6 +63379,7 @@
 𬵒	nfjwj
 𬵃	nfk
 鮪	nfkb
+𩻈	nfkce
 𩺚	nfkcf
 𩻻	nfkcf
 𬋘	nfkcf
@@ -74612,6 +74613,7 @@
 㤢	pkb
 𭝣	pkbl
 𢢰	pkbu
+𢟌	pkce	[u]
 憭	pkcf
 𢞷	pkcv
 𢘹	pkd
@@ -80141,7 +80143,6 @@
 吖	rcl
 𪡯	rclis
 𠺓	rcln
-𭈗	rcln
 䫟	rcmbc
 嗛	rcmc	[u]
 噂	rcmi
@@ -81346,7 +81347,9 @@
 睯	rkbu
 𫬣	rkbuh
 𠰵	rkc
+𠺽	rkce	[u]
 嘹	rkcf
+𭈗	rkcn	[u]
 𫪖	rkcs
 𠺄	rkcv
 𰇎	rkd
@@ -104789,6 +104792,7 @@
 𭥤	xabr
 𣇜	xabuc
 㒻	xabuu
+𢧫	xaci
 𩔰	xacmb
 𲤕	xacms
 𬀹	xacnh
@@ -104914,7 +104918,6 @@
 𫞂	xamgi
 𪄚	xamha
 𪰝	xamhn
-𢧫	xami
 旰	xamj
 𭥹	xamjr
 𣅐	xamk
@@ -106486,7 +106489,6 @@
 𡏴	xdkg
 鷘	xdkha
 𲦴	xdkhr
-𬂮	xdkid
 㮁	xdkkb
 𬃈	xdkkk
 𲓉	xdkks
@@ -107238,6 +107240,7 @@
 㲼	xek
 𱥲	xekb
 𮢗	xekc
+𣻑	xekce
 𣿳	xekcf
 𣑱	xekd
 𰛍	xeke
@@ -115372,7 +115375,6 @@
 𩿦	xrcha
 𫪫	xrckb
 𲖻	xrckl
-𭈗	xrcln
 𱔥	xrcmk	[u]
 𱓸	xrcmn
 𭉃	xrcmt
@@ -119813,6 +119815,7 @@
 𩡖	xxhab
 𪽻	xxhad
 𤽄	xxhaf
+𠪃	xxhah
 𳋻	xxhak
 𩑻	xxham
 𮷭	xxhan
@@ -125521,7 +125524,6 @@
 𦣉	ykhxe
 迏	yki
 斏	ykiav
-𬨥	ykid
 𨗑	ykig
 𲣳	ykiku
 𣁠	ykilb
