@@ -521,7 +521,6 @@
 𠭲	ahoe
 𲤢	ahoe
 暀	ahog
-𣇭	ahog
 𣈧	ahog
 𰖿	ahog
 𲤨	ahoi
@@ -530,6 +529,7 @@
 𫾻	ahok
 𲥄	ahok
 𣊗	ahol
+𣇭	ahom
 𣆯	ahon
 暰	ahoo
 晷	ahor
@@ -104862,7 +104862,6 @@
 𬪌	xahnl
 𬁊	xahod
 𲤢	xahoe
-𣇭	xahog
 𥏬	xahok
 𱢩	xahor
 𣅒	xahp
