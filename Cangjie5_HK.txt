@@ -65120,6 +65120,7 @@
 陭	nlkmr
 𧨧	nlkmr
 陓	nlkms
+𡽃	nlkmu
 䧅	nlkn
 𨸒	nlkn
 𫕇	nlkng
