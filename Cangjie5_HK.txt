@@ -44650,7 +44650,6 @@
 𡧨	juu
 𫴚	juuon
 𡫾	juuu
-𡠃	juv
 𪽣	juw
 𱢽	juybg
 𠓎	juydk
@@ -44764,6 +44763,7 @@
 鞌	jvtj
 𬟛	jvtla
 𱙳	jvtpb
+𡠃	jvv
 𰌳	jvv
 𡥜	jvvd
 𭔐	jvvd
