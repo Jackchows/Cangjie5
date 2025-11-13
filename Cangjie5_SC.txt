@@ -5371,7 +5371,8 @@
 𬥻	bombk
 㒷	bomc
 𦛼	bomc
-𪱡	bomf
+𪱡	bomd
+𪱡	bomf	[U]
 𲥛	bomg
 脍	bomi
 𮲪	bomj
