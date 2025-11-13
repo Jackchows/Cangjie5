@@ -28088,9 +28088,10 @@
 𰩁	hdtgs
 𥡘	hdthb
 𥣑	hdthg
-𥟌	hdthn
+𥟌	hdthn	[U]
 𥟪	hdthu
 𮩦	hdthu
+𥟌	hdthu
 𥤆	hdtif
 𥠏	hdtih
 𲦵	hdtjd
