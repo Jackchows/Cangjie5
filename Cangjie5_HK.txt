@@ -78004,6 +78004,7 @@
 摟	qllv
 撌	qlmc
 𢫼	qlmi
+𫽣	qlmi
 𣩂	qlmnp
 挑	qlmo
 𰔋	qlmo
@@ -78021,7 +78022,6 @@
 𧣯	qlnbg
 𧣯	qlnbq
 㩌	qlnc
-𫽣	qlni
 𭡂	qlni
 𫽧	qlno
 䭁	qloiv
