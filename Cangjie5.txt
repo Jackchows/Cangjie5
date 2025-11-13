@@ -131069,6 +131069,7 @@
 穀	zcgdh
 穀	zcgdh
 隸	zcgfl
+隷	zcgfl
 𡓤	zcgho
 城	zcgih
 報	zcgjr
@@ -131197,6 +131198,7 @@
 朗	zcivb
 剆	zcivl
 郎	zcivn
+郞	zcivn
 庳	zciwl
 恵	zciwp
 廙	zciwt
