@@ -11689,6 +11689,7 @@
 櫛	dhhl
 𬂪	dhhl
 𱣊	dhhl
+𣛬	dhhl
 𣏆	dhhn
 𣛗	dhhr
 㭛	dhhv
@@ -11736,7 +11737,6 @@
 橮	dhlc
 𧎆	dhlii
 栦	dhll
-𣛬	dhll
 𣞯	dhlm
 枛	dhlo
 𣔙	dhlo
@@ -106404,7 +106404,6 @@
 𣕊	xdhke
 𣐧	xdhks
 橮	xdhlc
-𣛬	xdhll
 𣔙	xdhlo
 𣠓	xdhmf
 𪲉	xdhmr
