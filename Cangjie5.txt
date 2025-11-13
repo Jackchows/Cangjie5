@@ -21227,6 +21227,7 @@
 𤏳	flmc
 烛	flmi
 𧈨	flmi
+𭵲	flmi
 烑	flmo
 𮳱	flmo
 𰞃	flmp
@@ -22257,7 +22258,6 @@
 𫦉	fvln
 𩔗	fvmbc
 𲋀	fvmbo
-𭵲	fvmi
 𩱙	fvmrb
 𰢦	fvmvn
 𤊒	fvne
