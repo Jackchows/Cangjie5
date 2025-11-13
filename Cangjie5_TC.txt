@@ -16831,7 +16831,6 @@
 汳	eme
 𣷌	emeb
 𣷉	emem
-𣶬	emem
 𱨊	emeu	[u]
 㳅	emf
 濔	emfb
@@ -17141,6 +17140,7 @@
 𣵂	ene
 𣾎	enef
 洆	enem
+𣶬	enem
 𱨊	eneu
 沵	enf
 𤏄	enf
