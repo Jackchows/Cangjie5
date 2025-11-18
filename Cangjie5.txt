@@ -15475,6 +15475,7 @@
 𭱥	egbr
 潱	egbt
 涜	egbu
+𤄴	egcc
 淩	egce
 𱧰	egcf
 淕	egcg
