@@ -23952,7 +23952,6 @@
 𮌳	gkb
 𩪋	gkbbb
 𭎺	gkbl
-𮌳	gkbl
 𲓍	gkbms
 盩	gkbt
 𥂢	gkbt
@@ -30698,6 +30697,7 @@
 𥫯	hl
 𣊅	hla
 𣊆	hla
+𰕲	hla
 兎	hlai
 𪖺	hlaiu
 𪖭	hlami
@@ -30813,6 +30813,7 @@
 簣	hlmc
 𣃐	hlmcs
 𪗁	hlmhm
+𪖩	hlmht
 䖝	hlmi
 𲾘	hlmi
 𪖣	hlmig
@@ -38777,6 +38778,7 @@
 𭈝	ilr
 𢉫	ilsl
 归	ilsm
+帰	ilsmb
 𰄇	ilsp	[u]
 庙	ilw
 𢈔	ilwk
@@ -46471,7 +46473,7 @@
 獕	khuog
 瘜	khup
 瘪	khup
-𤝵	khuqm
+𤝵	khuqm	[U]
 𲯙	khurk
 𤝒	khuu
 𤠦	khuuk
@@ -74804,7 +74806,6 @@
 𭟙	pmbg
 愞	pmbk
 𲟹	pmbl
-𢡍	pmbl	[U]
 恆	pmbm
 𢗶	pmbm
 𰒅	pmbm	[u]
@@ -76066,7 +76067,6 @@
 𪂹	qahaf
 𪃣	qahaf
 𱈻	qahaf
-𢮚	qahk	[u]
 𢯤	qahl
 𭡧	qahl
 𭡦	qahm
@@ -77333,7 +77333,6 @@
 𫾚	qidr
 攠	qidy
 𰛣	qie
-𢬭	qiei	[U]
 热	qif
 焘	qif
 㧠	qif
@@ -104163,7 +104162,7 @@
 𦊆	wlylm
 詈	wlymr
 𦋾	wlypm
-𦌻	wlyrc	[u]
+𦌻	wlyrc
 罸	wlyri
 罰	wlyrn
 𦋤	wlysd
@@ -127886,7 +127885,7 @@
 𲁶	yrmri
 謌	yrmrr
 䛠	yrmrt
-𧦠	yrmru	[U]
+𧦠	yrmru
 諨	yrmrw
 𮞐	yrms
 諞	yrmsb
