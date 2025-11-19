@@ -23024,10 +23024,11 @@
 𱕞	gehyr	[u]
 𮰚	gei
 墚	geid
-𥀽	geifp
+𥀽	geifp	[u]
 𡏜	geih
 𥀻	geihf
 𪔯	geihf
+𥀽	geihp
 𪔩	geihr
 𤠼	geik
 𬺝	geikp
@@ -38287,6 +38288,7 @@
 𰐀	ihov
 㡯	ihp
 𢘱	ihp
+慼	ihp
 廏	ihpe
 𪪗	ihpl
 底	ihpm
@@ -49753,6 +49755,7 @@
 𧍶	lihoq
 𧏓	lihow
 虴	lihp
+𧞰	lihp
 𧍎	lihpa
 蝍	lihpl
 蚳	lihpm
@@ -74413,6 +74416,7 @@
 𱞧	pihm	[u]
 𠘷	pihnn
 𰑛	pihp
+𭟍	pihp	[u]
 恈	pihq
 𢜩	pihr
 𪫤	pihu
@@ -77362,6 +77366,7 @@
 𢳋	qihj
 掋	qihm
 𢬮	qihm
+𢷾	qihp
 𱟵	qihq
 㨔	qihr
 抁	qihu
@@ -81021,6 +81026,7 @@
 𱔀	rihn
 𭊙	riho
 𠿑	rihp
+𡂔	rihp
 哞	rihq
 喊	rihr
 吮	rihu
