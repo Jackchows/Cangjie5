@@ -122350,7 +122350,6 @@
 𨖹	xxymg
 𪆛	xxymh
 𮞛	xxyml
-𮞏	xxymm
 𰻤	xxymn
 𰙭	xxymo
 𢗓	xxymp
@@ -124833,6 +124832,7 @@
 𨖷	yhlq
 𨔄	yhmb
 𨖺	yhmb
+𮞏	yhmb
 頻	yhmbc
 顏	yhmbc
 顪	yhmbc
@@ -126063,7 +126063,6 @@
 𪴶	ymmam
 𧥛	ymmb
 𨕆	ymmb
-𮞏	ymmb
 𱍩	ymmbb
 顫	ymmbc
 頉	ymmbc
