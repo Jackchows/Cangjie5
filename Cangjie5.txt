@@ -71328,7 +71328,7 @@
 贷	opbo
 钡	opbo
 铡	opbon
-𫔉	opbop
+𫔉	opbov
 𮸂	opbq
 钼	opbu
 貨	opbuc
