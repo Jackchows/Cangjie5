@@ -2995,6 +2995,7 @@
 𮪱	bbvvw
 𤳞	bbw
 髁	bbwd
+𩩙	bbwhj
 𦣅	bbwi
 𫤼	bbwi
 𩪐	bbwim
@@ -3005,7 +3006,7 @@
 䯠	bbwot
 𪪹	bbwt
 𩪖	bbwtj
-𩩙	bbwvj
+𩩙	bbwvj	[U]
 𩨓	bby
 𩪢	bbyao
 𮪲	bbyav
