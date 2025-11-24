@@ -15673,6 +15673,7 @@
 𣲋	ehe
 𣳛	ehe
 𣴗	eheb
+𭰧	eheb
 𬉐	ehec
 涤	ehed
 𭳣	ehed
@@ -17380,7 +17381,7 @@
 𣳬	eoju
 㳊	eok
 𪵳	eok
-𭰧	eokb
+𭰧	eokb	[u]
 𣺨	eokc
 瀿	eokf
 潅	eokg
