@@ -95194,6 +95194,7 @@
 𬳛	tufvk
 𳋷	tugog
 𫗺	tugsk
+𬳕	tuh	[u]
 𪀝	tuhaf
 𪈆	tuhaf
 𭐱	tuhe
@@ -95259,12 +95260,12 @@
 𦸏	tuog
 𬳖	tuohl
 𩠟	tuol
-𬳕	tuoln
 𨡡	tuom
 𩠴	tuoma
 𳋵	tuomb
 𩠠	tuomi
 𩠓	tuon
+𬳕	tuonn
 𮓉	tuotf
 𢦉	tup
 𪬐	tup
