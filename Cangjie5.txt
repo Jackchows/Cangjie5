@@ -1177,6 +1177,7 @@
 闌	andwf
 閖	ane
 𨵝	anea
+𨷇	aneat
 𮤥	aneba
 𨳦	anee
 䦤	aneee
@@ -2994,6 +2995,7 @@
 𮪱	bbvvw
 𤳞	bbw
 髁	bbwd
+𩩙	bbwhj
 𦣅	bbwi
 𫤼	bbwi
 𩪐	bbwim
@@ -3004,7 +3006,7 @@
 䯠	bbwot
 𪪹	bbwt
 𩪖	bbwtj
-𩩙	bbwvj
+𩩙	bbwvj	[U]
 𩨓	bby
 𩪢	bbyao
 𮪲	bbyav
@@ -7520,8 +7522,8 @@
 𣎚	bwgf
 𦢓	bwgg
 䐃	bwhd
+𦜉	bwhj
 𲺙	bwhy
-𦜉	bwij
 膕	bwim
 𣎫	bwji
 𫆣	bwjr
@@ -8881,8 +8883,8 @@
 𠔈	cl
 鏤	clav
 𮡥	clb
+𨨂	clb
 鉠	clbk
-𨨂	clbq
 𳆇	clbr
 鈂	clbu
 𮡸	cleg
@@ -15673,6 +15675,7 @@
 𣲋	ehe
 𣳛	ehe
 𣴗	eheb
+𭰧	eheb
 𬉐	ehec
 涤	ehed
 𭳣	ehed
@@ -17380,7 +17383,7 @@
 𣳬	eoju
 㳊	eok
 𪵳	eok
-𭰧	eokb
+𭰧	eokb	[u]
 𣺨	eokc
 瀿	eokf
 潅	eokg
@@ -71326,7 +71329,7 @@
 贷	opbo
 钡	opbo
 铡	opbon
-𫔉	opbop
+𫔉	opbov
 𮸂	opbq
 钼	opbu
 貨	opbuc
@@ -95191,6 +95194,7 @@
 𬳛	tufvk
 𳋷	tugog
 𫗺	tugsk
+𬳕	tuh	[u]
 𪀝	tuhaf
 𪈆	tuhaf
 𭐱	tuhe
@@ -95256,12 +95260,12 @@
 𦸏	tuog
 𬳖	tuohl
 𩠟	tuol
-𬳕	tuoln
 𨡡	tuom
 𩠴	tuoma
 𳋵	tuomb
 𩠠	tuomi
 𩠓	tuon
+𬳕	tuonn
 𮓉	tuotf
 𢦉	tup
 𪬐	tup
@@ -122349,7 +122353,6 @@
 𨖹	xxymg
 𪆛	xxymh
 𮞛	xxyml
-𮞏	xxymm
 𰻤	xxymn
 𰙭	xxymo
 𢗓	xxymp
@@ -124832,6 +124835,7 @@
 𨖷	yhlq
 𨔄	yhmb
 𨖺	yhmb
+𮞏	yhmb
 頻	yhmbc
 顏	yhmbc
 顪	yhmbc
@@ -126062,7 +126066,6 @@
 𪴶	ymmam
 𧥛	ymmb
 𨕆	ymmb
-𮞏	ymmb
 𱍩	ymmbb
 顫	ymmbc
 頉	ymmbc
