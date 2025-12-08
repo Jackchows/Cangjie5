@@ -77,6 +77,20 @@ python buildToolCmd.py -q norm -t weasel
 > 模塊，不可獨立運行
 * **buildJson.py**<br />
 > 無需輸入參數，一次性將所有碼表轉換成JSON文件
+轉換結果如下
+```json
+{
+  "a": [
+    "日",
+    "曰"
+  ],
+  "aa": [
+    "昌",
+    "昍"
+  ],
+
+  ...
+```
 * ~~**buildYaml.py**~~<br />
 > 廢棄
 * ~~**buildTxt.py**~~<br />
