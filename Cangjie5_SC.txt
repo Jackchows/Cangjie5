@@ -42707,7 +42707,7 @@
 輞	jjbtv
 𡩖	jjbu
 𨏹	jjbue
-𥉏	jjcbu
+𥉏	jjcbu	[J]
 軣	jjcc
 𡬅	jjcc
 䡆	jjci
@@ -43114,6 +43114,7 @@
 輹	jjoae
 軜	jjob
 𣎍	jjob
+𥉏	jjobu
 榦	jjod
 𥀐	jjode
 軵	jjodi
