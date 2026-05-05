@@ -12496,6 +12496,7 @@
 𣛻	dlld
 𣛫	dllf
 𣚙	dlli
+𬃦	dllj
 杊	dlll
 㭊	dlll
 𪳱	dlll
@@ -12507,7 +12508,7 @@
 㭊	dlln
 𠠅	dlln
 槵	dllp
-𬃦	dllq
+𬃦	dllq	[u]
 樓	dllv
 頼	dlmbc
 樻	dlmc
@@ -12535,11 +12536,12 @@
 𣛻	dlnd
 𣚙	dlni
 𣗧	dlnib
+𬃦	dlnj
 𣙶	dlnm
 欶	dlno
 𬃮	dlno
 𳏠	dlnof
-𬃦	dlnq
+𬃦	dlnq	[u]
 𤴚	dlnyo
 𪲥	dloii
 敕	dlok
