@@ -2087,6 +2087,7 @@
 𬁙	atjm
 𭦲	atkr
 暪	atlb
+𣈰	atlb
 曂	atlc
 曣	atlf
 暎	atlk
@@ -2138,7 +2139,6 @@
 𬁜	atwn
 𣋏	atwv
 𲤲	atxc
-𣈰	atyb
 𭧩	atyj
 𬴙	atyrb
 𣇷	atys
