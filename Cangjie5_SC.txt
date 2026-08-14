@@ -12164,6 +12164,7 @@
 椌	djcm
 𣑒	djcn
 𣒔	djcn
+𬄔	djcp
 榕	djcr
 榨	djcs
 𲦘	djcs
@@ -14393,7 +14394,6 @@
 𣚪	dycm
 𲦗	dycn
 檖	dyco
-𬄔	dycp
 𣖞	dycr
 𭬍	dycr
 𬄓	dycv
