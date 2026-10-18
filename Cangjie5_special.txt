@@ -17302,7 +17302,6 @@
 䳐	mohaf
 秶	mohd
 鴈	mohf
-䝈	mohmu
 豛	mohne
 豵	mohoo
 甤	mohqm
@@ -17333,6 +17332,7 @@
 厱	momo
 㕉	momr
 豩	momso
+䝈	momsu
 豜	momt
 瓷	momvn
 乲	mon
@@ -21763,7 +21763,6 @@
 欫	ovno
 㑰	ovno
 㒩	ovoi
-㤀	ovp
 㥋	ovp
 侞	ovr
 卸	ovsl
@@ -26311,6 +26310,7 @@
 䎔	smibi
 屋	smig
 䎉	smihi
+䎉	smihm
 䎒	smii
 䎍	smijb
 翇	smike
@@ -30654,6 +30654,7 @@
 婾	vomv
 㛗	voog
 㛋	vop
+㤀	vop
 姩	voq
 媬	vord
 嬆	vorm
@@ -33044,7 +33045,6 @@
 㒴	xouu
 䣃	xovnl
 欫	xovno
-㥋	xovp
 㑄	xowyi
 仒	xoy
 𠍇	xoyed
@@ -33835,6 +33835,7 @@
 㚺	xvnsd
 亾	xvo
 姙	xvomg
+㤀	xvop
 𢳉	xvrq
 㗠	xvrrp
 娩	xvshu
