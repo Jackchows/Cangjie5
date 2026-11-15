@@ -7951,6 +7951,7 @@
 𡗄	cchhn
 𫥣	cchhn	[u]
 𠔮	cchni	[u]
+𬥯	cchoo
 𤬓	cchvo
 𪕼	cchxv
 鈆	cci
@@ -7981,7 +7982,6 @@
 歉	ccno
 𳇒	ccomg
 𪞍	ccomr	[u]
-𬥯	ccooo
 𨬂	ccop
 鋊	ccor
 鉛	ccr
