@@ -18878,7 +18878,6 @@
 瀛	eykv
 𣺒	eykv
 沛	eylb
-𣴯	eylb
 瀢	eylc
 洂	eylc
 𣿱	eylf
@@ -18897,6 +18896,7 @@
 𰛈	eym
 𭲾	eyma
 𰜀	eymb
+𣴯	eymb
 渋	eymc
 𱦟	eymc
 𰛧	eymf
@@ -107790,13 +107790,13 @@
 𣿔	xeykq
 𤅗	xeykr
 𣺒	xeykv
-𣴯	xeylb
 洂	xeylc
 渉	xeylh
 𱨟	xeyll
 𭆨	xeylm
 𬉋	xeylo
 𰛈	xeym
+𣴯	xeymb
 𱦟	xeymc
 𣾥	xeymh
 𱪛	xeymi
