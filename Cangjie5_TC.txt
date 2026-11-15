@@ -17204,6 +17204,7 @@
 𣲌	enj
 澉	enjk
 汛	enk
+𣿥	enka
 涏	enkg
 涎	enkm
 湕	enkq
@@ -17269,7 +17270,6 @@
 汣	eno
 㳄	eno
 𰛐	eno
-𣿥	enoa
 湑	enob
 𣻬	enod
 潑	enoe
