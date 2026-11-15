@@ -40313,6 +40313,7 @@
 𰏴	itj
 鿮	itjb	[Ou]
 𰏼	itjb
+𢌎	itjd
 𢧯	itjp
 𭙫	itjv
 𢈒	itk
@@ -40342,7 +40343,6 @@
 庠	itq
 𭙭	itqm
 𭚎	itqq
-𢌎	itrd
 𬔠	itsm
 庹	itso
 庰	itt
