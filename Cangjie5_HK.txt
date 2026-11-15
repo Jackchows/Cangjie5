@@ -43666,6 +43666,7 @@
 𡩦	jmam
 𡪏	jmam
 𡩂	jmbc
+𫳜	jmbc
 𡨈	jmbm
 𫴤	jmbm
 𡨴	jmbn
@@ -43863,7 +43864,6 @@
 𭔌	jmua
 寶	jmuc
 𡫿	jmuc
-𫳜	jmuc
 𫴫	jmuc
 寇	jmue
 𭔆	jmue
