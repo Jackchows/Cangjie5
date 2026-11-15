@@ -89800,6 +89800,7 @@
 𦱙	tbng
 剪	tbnh
 𠞽	tbnh
+𬝡	tbnhs
 蒬	tbni
 𠨊	tbniy
 茕	tbnj
@@ -89810,7 +89811,6 @@
 𣣐	tbno
 𦲋	tbnq
 𦽇	tbnq
-𬝡	tbnsh
 𬜶	tbnu
 𧛯	tbnv
 𱽎	tbo
