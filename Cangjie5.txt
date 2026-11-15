@@ -2964,6 +2964,7 @@
 𥄃	bbu
 𭁷	bbuc
 𱼉	bbuc
+𭶰	bbuc
 𦣒	bbue
 𩰣	bbue
 𪺒	bbue
@@ -2986,7 +2987,6 @@
 覓	bbuu
 䏹	bbuu
 𩨸	bbuu
-𭶰	bbuv
 脮	bbv
 𩨚	bbv
 𠭟	bbve
