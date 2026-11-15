@@ -77255,6 +77255,7 @@
 揤	qhsl
 𢯢	qhsl
 搧	qhsm
+𢲒	qhsm
 㧖	qhsn
 𢭖	qhsn
 𢬉	qhsp
@@ -77269,7 +77270,6 @@
 𢲙	qhsv
 𢹞	qhsv
 掐	qhsx
-𢲒	qhsy
 𢵞	qhsy
 𢸿	qhsy
 抍	qht
