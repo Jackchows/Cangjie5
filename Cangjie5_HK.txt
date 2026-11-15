@@ -84679,6 +84679,7 @@
 𥀩	rudhe
 导	rudi
 𡬣	rudi
+𬩴	rue
 𠔛	ruec
 𠶑	rufd
 𫪨	rufmu
@@ -84734,7 +84735,6 @@
 𨞍	runl
 𨛗	runl
 𫑡	runl
-𬩴	runl
 𰻠	runl
 㰝	runo
 𠼩	ruob
