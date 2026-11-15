@@ -98559,6 +98559,7 @@
 𪦫	vanr
 𲛬	vanr
 𡢸	vant
+𡤡	vant
 𫱠	vanv
 孄	vanw
 𡣽	vanx
@@ -101989,7 +101990,6 @@
 𠃉	vn
 𫰆	vn
 婏	vnai
-𡤡	vnat
 娩	vnau
 𡜆	vnau
 媍	vnbc
