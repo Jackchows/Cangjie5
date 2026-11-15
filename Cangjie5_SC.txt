@@ -31033,7 +31033,6 @@
 𡙇	hmdk
 𦑗	hmdk
 𲡘	hmdl	[u]
-𥷒	hmdm
 𰭦	hmdm
 𣦨	hmdoo
 𰢯	hmdwf
@@ -31082,6 +31081,7 @@
 𥷅	hmhf
 𣱎	hmhgu
 𥭕	hmhl
+𥷒	hmhm
 斵	hmhml
 斲	hmhml
 𣂠	hmhml
