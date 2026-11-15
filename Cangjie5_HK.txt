@@ -94705,6 +94705,7 @@
 蓶	trog
 𦏮	trog
 𳈼	trog
+𬙽	troii
 𱽳	troin
 𮐽	troir
 敬	trok
@@ -94712,7 +94713,6 @@
 𫄿	troku
 𬙽	troml
 荶	tron
-𬙽	troni
 𱽶	tror
 𮒏	tros
 𮓄	troyb
