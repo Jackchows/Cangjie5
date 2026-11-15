@@ -23657,8 +23657,8 @@
 𬓺	gihd
 𱑬	gihdn
 𤳗	gihdw
+𤳛	gihdw
 墄	gihf
-𤳛	gihfw
 𡍓	gihi
 𡍓	gihm
 𣫐	gihne
@@ -108445,7 +108445,7 @@
 𤍽	xgif
 堼	xgig
 𩿟	xgiha
-𤳛	xgihf
+𤳛	xgihd
 𧎅	xgihn
 𤙏	xgihq
 𡋡	xgihv
