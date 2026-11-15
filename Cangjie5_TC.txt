@@ -53800,7 +53800,6 @@
 雹	mbpru
 雹	mbpsu
 𩄓	mbptd
-𩆏	mbptd
 𩆽	mbptn
 𩅫	mbpto
 𩂄	mbpu
@@ -53959,6 +53958,7 @@
 𳉯	mbtmj
 䨢	mbtmv
 𢙂	mbtp
+𩆏	mbtpd
 𩄤	mbtqb
 𩄝	mbtqm
 䨍	mbtt
@@ -112098,7 +112098,6 @@
 𩃢	xmboo
 㥑	xmbp
 𩄠	xmbpb
-𩆏	xmbpt
 鸸	xmbpy
 𳉅	xmbre
 𳉸	xmbrr
