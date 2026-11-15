@@ -1377,6 +1377,7 @@
 𳇾	anlau
 𮤋	anlbk
 𲈳	anlcq
+𳈉	anlcq
 𱢠	anld
 𬮑	anlga
 𨶬	anlgm
@@ -1392,7 +1393,6 @@
 𨵈	anlmy
 𨵖	anlp
 𨷨	anlpc
-𳈉	anlqq
 𳈀	anlsh
 𫔞	anlw
 𨴁	anlwl
