@@ -20135,7 +20135,6 @@
 𲒧	fdsh
 籾	fdshh
 籾	fdshi
-𬖪	fdshj
 𥹙	fdshr
 䊊	fdshu
 糮	fdsit
@@ -20162,6 +20161,7 @@
 𫃌	fdstv
 𥺷	fdsuu
 𲷘	fdswb
+𬖪	fdsyj
 𥸭	fdt
 𰪧	fdt
 𥺮	fdta
