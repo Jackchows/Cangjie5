@@ -54648,7 +54648,6 @@
 𱵕	mfiua	[u]
 𫀙	mfiuk
 𥜢	mfivr
-𮂧	mfixf
 𥛪	mfixi
 𥛞	mfixp
 平	mfj
@@ -55259,6 +55258,7 @@
 𥜸	mfywl
 䄠	mfywm
 䄢	mfyx
+𮂧	mfyxf
 王	mg
 壬	mg
 圧	mg
