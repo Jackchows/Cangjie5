@@ -3514,6 +3514,7 @@
 𧷶	bctgr
 贜	bctis
 䝸	bctje
+𮚛	bctlg
 𧹀	bctlx
 𧵊	bctm
 𳂣	bctma	[u]
@@ -3523,7 +3524,6 @@
 購	bcttb
 𧶩	bcttt
 𧶥	bcttt
-𮚛	bctvg
 贎	bctwb
 賺	bctxc
 𰷖	bctxf
