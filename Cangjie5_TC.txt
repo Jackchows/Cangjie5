@@ -74773,6 +74773,7 @@
 怏	plbk
 𢝈	plbt
 忱	plbu
+𲠞	plcq
 㥆	ple
 𪬡	plec
 悭	pleg
@@ -74813,7 +74814,6 @@
 懻	plpc
 𢘶	plq
 𱞠	plqc
-𲠞	plqq
 𫺒	plsa
 𰑥	plsb
 悯	plsk
