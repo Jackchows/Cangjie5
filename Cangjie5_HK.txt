@@ -75707,6 +75707,7 @@
 𰒑	ptxf
 𱍦	ptybs
 𢤦	ptyg
+𫻟	ptyp
 𬔛	ptyt
 慌	ptyu
 𭞰	ptyu
@@ -76049,7 +76050,6 @@
 𢟰	pyto
 𢢝	pyto
 憶	pytp
-𫻟	pytp
 𭟞	pytp
 㥉	pytr
 𠣭	pytr
@@ -114768,7 +114768,6 @@
 𫹮	xpysm
 𭝅	xpytj
 𢢝	xpyto
-𫻟	xpytp
 𠣭	xpytr
 匄	xpyv
 𠣖	xpyvi
