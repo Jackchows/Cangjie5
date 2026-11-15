@@ -30714,8 +30714,8 @@
 𮈛	hkvif
 𱹬	hkvif
 𮵵	hkw
-𮮝	hkwgd
 䵡	hkwgf
+𮮝	hkwgf
 𢿭	hkyaj
 㪐	hkye
 𣥚	hkylm
