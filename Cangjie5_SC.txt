@@ -95364,7 +95364,7 @@
 𦼙	tvao
 𦼡	tvbb
 𱾼	tvbb
-𬎲	tvbbt
+𬎲	tvbbm
 𮑘	tvbe
 𬢏	tvbhu
 𦷵	tvbs
