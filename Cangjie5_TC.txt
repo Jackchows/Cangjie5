@@ -32577,6 +32577,7 @@
 𭛨	hommo
 𢓲	hommr
 𢔚	homms
+𨑛	homms
 𢓆	hommu
 㣔	homn
 䈩	homn
@@ -32614,7 +32615,6 @@
 𰟼	homvi
 徑	homvm
 㼻	homvn
-𨑛	homvs
 徱	homwf
 𢕯	homwj
 𢖎	homwr
