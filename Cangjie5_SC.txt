@@ -45948,7 +45948,6 @@
 𲮭	khjyj
 𭸡	khkaf
 𤢉	khkbk
-𤢻	khkbp
 𲭲	khkc
 獠	khkcf
 𤢙	khkcf
@@ -45975,6 +45974,7 @@
 𨛊	khknl
 狹	khkoo
 𤠹	khkpb
+𤢻	khkpp
 𰡔	khkql
 𤠬	khkrb
 𤢃	khkrb
