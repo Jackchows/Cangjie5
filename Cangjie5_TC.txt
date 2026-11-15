@@ -98669,7 +98669,6 @@
 𫰾	vc
 㫁	vchml
 𱡮	vchml
-𡟆	vcht
 妐	vci
 𡟸	vcim
 𢑓	vck
@@ -98689,6 +98688,7 @@
 娧	vcru
 妢	vcsh
 𭒄	vcsp
+𡟆	vcst
 𫱧	vcuh
 𢇃	vcvic
 𡡑	vcwa
