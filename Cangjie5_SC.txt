@@ -87733,7 +87733,6 @@
 𦗂	sjmbp
 𦕩	sjmcw
 𨠧	sjmcw
-𲅉	sjmdm
 𦕷	sjme
 𬚨	sjmfb
 𤩹	sjmg
@@ -87741,6 +87740,7 @@
 𱯻	sjmgi
 𮶑	sjmgi
 𦘊	sjmhm
+𲅉	sjmhm
 𪨛	sjmig
 𬚘	sjmig
 𦗪	sjmjk
