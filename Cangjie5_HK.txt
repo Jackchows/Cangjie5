@@ -97330,6 +97330,7 @@
 㠣	umhm
 𰎻	umhm
 𡵂	umhn
+𱛞	umhn
 𠁿	umi
 𭖅	umi
 𡺽	umia
@@ -97381,7 +97382,6 @@
 𡴵	umn
 𫵲	umn
 嵿	umnc
-𱛞	umni
 𫶝	umnk
 峛	umnn
 峢	umnn
