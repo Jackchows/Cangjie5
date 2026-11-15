@@ -36002,7 +36002,6 @@
 𬛿	hxvmn
 鼠	hxvyv
 𰯹	hxwd
-𦦷	hxwib
 𥝅	hxwkb
 𧔱	hxwki
 𧕧	hxwki
@@ -36011,6 +36010,7 @@
 𦦊	hxwks
 𥝇	hxwlb
 𦦔	hxwlb
+𦦷	hxwlb
 與	hxyc
 𫟋	hxyc
 敮	hxye
