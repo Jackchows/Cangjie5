@@ -36474,7 +36474,6 @@
 虒	hypn
 箎	hypn
 𥱿	hypn
-𥳠	hypn
 𥴧	hypo
 𰲚	hypo
 舭	hypp
@@ -36704,6 +36703,7 @@
 𬜙	hyymm
 𦪍	hyymt
 𲶙	hyyn
+𥳠	hyyn
 𦪏	hyynb
 籧	hyyo
 𰰓	hyyog
