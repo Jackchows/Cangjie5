@@ -15147,7 +15147,6 @@
 𣡉	edhbk
 波	edhe
 涁	edhh
-𦈳	edhju
 淅	edhl
 𣯸	edhqu
 对	edi
@@ -15209,6 +15208,7 @@
 𣼊	edoe
 𪅍	edof
 𪆵	edof
+𦈳	edoju
 𱦲	edok
 淶	edoo
 𰝣	edor
