@@ -37963,7 +37963,7 @@
 祺	iftmc
 禖	iftmd
 𥙶	iftmj
-𥛵	iftmq
+𥛵	iftmj
 𥚮	iftmv
 𰨙	iftob
 𥜈	iftpd
@@ -55086,7 +55086,7 @@
 祺	mftmc
 禖	mftmd
 𥙶	mftmj
-𥛵	mftmq
+𥛵	mftmj
 𥚮	mftmv
 𰨙	mftob	[u]
 𥜈	mftpd
