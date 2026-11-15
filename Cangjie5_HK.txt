@@ -23160,9 +23160,9 @@
 𭇸	ger
 𰈺	ger
 𰉶	ger
-𪔤	gercb
 𪔘	gerhp
 𪔪	gersj
+𪔤	gervb
 𨆊	geryo
 㲈	geshr
 𪔓	geshr
