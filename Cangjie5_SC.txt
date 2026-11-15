@@ -32243,7 +32243,6 @@
 𡘿	hohhv
 𱝯	hohhv
 𢕍	hohhw
-𤬑	hohio
 𬎣	hohio
 𭛦	hohio
 𭛜	hohj
@@ -32309,6 +32308,7 @@
 彽	hohvi
 𢓋	hohvl
 㼌	hohvo
+𤬑	hohvo
 𢔌	hohwj
 𭶲	hohwj
 𦥝	hohx
