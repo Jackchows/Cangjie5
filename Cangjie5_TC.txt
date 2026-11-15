@@ -55775,7 +55775,6 @@
 𬍥	mgijb
 㺷	mgijc
 球	mgije
-𮍠	mgije
 㺴	mgik
 𤣅	mgik
 𬌳	mgik
@@ -55785,6 +55784,7 @@
 𱯦	mgikd
 𦥀	mgike
 𤤒	mgike
+𮍠	mgike
 𱯆	mgikh
 𤤒	mgikk
 𱯎	mgikm
@@ -112288,7 +112288,6 @@
 𫨠	xmgib
 臹	xmgih
 𤧨	xmgii
-𮍠	xmgij
 𤣅	xmgik
 𤥟	xmgil
 𲻈	xmgis
