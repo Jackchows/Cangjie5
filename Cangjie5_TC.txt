@@ -6759,7 +6759,6 @@
 𰴑	bumkr
 𱲦	bumku
 𥇑	bumlb
-𥉢	bumlg
 𥄊	bumll
 眄	bumls
 𥅭	bumma
@@ -6785,6 +6784,7 @@
 𥉅	bumrb
 𥆖	bumrt
 𥇼	bumrt
+𥉢	bumsg
 𥆋	bumso
 𧡄	bumso
 𬥅	bumso
