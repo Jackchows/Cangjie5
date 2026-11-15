@@ -29946,6 +29946,7 @@
 𩳱	hihxl
 箋	hii
 𢨡	hii
+𬕨	hiib
 𫞿	hiid	[u]
 𫂈	hiie
 𥳮	hiif
@@ -30100,7 +30101,6 @@
 𩴝	hinot
 𩴃	hinsp
 𬵙	hinwf
-𬕨	hiob
 𮔏	hiod
 魋	hiog
 𨿍	hiog
