@@ -93744,7 +93744,6 @@
 𲽽	tntpd
 𲽱	tntyv
 𦺲	tnuc
-𦴻	tnue
 𲽪	tnuf
 葾	tnup
 葂	tnus
@@ -95295,6 +95294,7 @@
 𬎫	tumvn
 䒐	tunau
 菡	tune
+𦴻	tune
 𠒤	tunf
 𬜨	tuni
 𩠘	tuniy
