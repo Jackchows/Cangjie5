@@ -62887,7 +62887,6 @@
 𡏹	neg
 䲯	nehaf
 𣬻	nehqu
-𱎃	nehs
 𰆵	nej
 𰩕	nejcs
 𫏵	nejwj
@@ -62918,6 +62917,7 @@
 巹	nemsu
 𢑨	nenme
 𲠏	nenmp
+𱎃	nens
 𲠏	nensp	[u]
 𰇮	neomr
 㤂	nep
